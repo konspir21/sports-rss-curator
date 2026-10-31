@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TEST A — Gazzetta 3 articles</title>
+    <link>https://konspir21.github.io/sports-rss-curator/</link>
+    <description>Temporary RSS compatibility test. Not a live feed.</description>
+    <item>
+      <title>Λιλ - Λανς 1-0: Ο «αιεθαλής» Ζιρού έκρινε το ντέρμπι του βορρα</title>
+      <link>https://www.gazzetta.gr/football/ligue-1/2582214/lil-lans-1-0-o-aiethalis-ziroy-ekrine-ntermpi-toy-borra</link>
+      <guid isPermaLink="false">5e2cd41de321de4163606184</guid>
+      <pubDate>Sat, 31 Oct 2026 10:50:14 +0000</pubDate>
+      <description>RSS compatibility test. Λιλ - Λανς 1-0: Ο «αιεθαλής» Ζιρού έκρινε το ντέρμπι του βορρα</description>
+    </item>
+    <item>
+      <title>Βιγιαρεάλ - Εσπανιόλ 0-1: Αντίδραση από τους Καταλανούς</title>
+      <link>https://www.gazzetta.gr/football/la-liga/2582213/bigiareal-espaniol-0-1-bigiareal-espaniol-0-1-epistrofi-stis-nikes-gia</link>
+      <guid isPermaLink="false">9c220b06b8b7e1e263bede8c</guid>
+      <pubDate>Sat, 31 Oct 2026 10:50:14 +0000</pubDate>
+      <description>RSS compatibility test. Βιγιαρεάλ - Εσπανιόλ 0-1: Αντίδραση από τους Καταλανούς</description>
+    </item>
+    <item>
+      <title>Έλβερσμπεργκ - Μάιντζ 4-1: Επιβλητική νίκη με τεσσάρα για τη νεοφώτιστη</title>
+      <link>https://www.gazzetta.gr/football/bundesliga/2582206/elbersmpergk-maintz-3-0-epiblitiki-niki-me-tessara-gia-ti-neofotisti</link>
+      <guid isPermaLink="false">a9c7a1b6a63ed5543a192ea5</guid>
+      <pubDate>Sat, 31 Oct 2026 10:50:14 +0000</pubDate>
+      <description>RSS compatibility test. Έλβερσμπεργκ - Μάιντζ 4-1: Επιβλητική νίκη με τεσσάρα για τη νεοφώτιστη</description>
+    </item>
+  </channel>
+</rss>
