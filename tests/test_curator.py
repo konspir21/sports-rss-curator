@@ -25,3 +25,4 @@ class TestCurator(unittest.TestCase):
         self.assertGreater(score(i),score(j))
 
 if __name__=='__main__':unittest.main()
+

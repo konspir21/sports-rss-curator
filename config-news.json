@@ -1,0 +1,27 @@
+{
+  "timezone": "Europe/Athens",
+  "target_per_day": null,
+  "hard_cap_per_day": null,
+  "lookback_hours": 36,
+  "display_days": 3,
+  "min_score": 0,
+  "profile": "news",
+  "feed_title": "News Highlights — Personal Curator",
+  "sources": [
+    {
+      "name": "Law & Order",
+      "url": "https://lawandorder.gr/feed/gn",
+      "weight": 1.0
+    },
+    {
+      "name": "Skai.gr: Ροή Ειδήσεων",
+      "url": "https://www.skai.gr/feed.xml",
+      "weight": 1.0
+    },
+    {
+      "name": "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+      "url": "https://www.naftemporiki.gr/feed/",
+      "weight": 1.0
+    }
+  ]
+}

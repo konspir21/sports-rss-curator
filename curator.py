@@ -10,6 +10,7 @@ import re
 import sys
 import unicodedata
 import urllib.request
+import argparse
 from urllib.parse import urljoin, urlsplit
 from html.parser import HTMLParser
 from concurrent.futures import ThreadPoolExecutor
@@ -115,6 +116,8 @@ def enrich_images(records):
 
 
 def admission_limit(day, now, tz, bootstrap):
+    if CONFIG.get('target_per_day') is None:
+        return float('inf') if day <= now.astimezone(tz).date() else 0
     cap = CONFIG['hard_cap_per_day']
     target = min(cap, CONFIG['target_per_day'])
     local = now.astimezone(tz)
@@ -141,7 +144,7 @@ def parse_feed(content, name, weight):
         published = date_parse(field(elem, {'pubDate','published','updated','date'}))
         summary = field(elem, {'description','summary','content'})
         if title and link and link.startswith(('https://','http://')) and published:
-            out.append({'title':title,'link':link,'date':published,'summary':re.sub('<[^>]*>',' ',summary)[:350], 'sources':[name], 'weight':weight, 'image':feed_image(elem, link)})
+            out.append({'title':title,'link':link,'date':published,'summary':re.sub('<[^>]*>',' ',summary)[:350], 'sources':[name], 'weight':weight, 'image':feed_image(elem, link), 'categories':[c.text or c.get('term', '') for c in elem if c.tag.split('}')[-1] == 'category']})
     return out
 
 
@@ -150,7 +153,55 @@ def fetch(source):
     with urllib.request.urlopen(req, timeout=18) as r: return parse_feed(r.read(4_000_000),source['name'],source['weight'])
 
 
+def general_score(item):
+    profile = CONFIG.get('profile')
+    title = normalize(item['title'])
+    value = 2 * item['weight'] + min(4, len(set(item['sources'])) - 1) * 3.5
+    important = {
+        'news': ['σεισμ', 'πυρκαγ', 'εκλογ', 'κυβερνη', 'νομοσχεδ', 'οικονομ', 'πολεμ', 'απεργ', 'δικασ', 'επιτοκι', 'φορολ'],
+        'apple': ['security', 'ασφαλει', 'vulnerab', 'ευπαθει', 'releases', 'διαθεσιμ', 'ανακοιν', 'launch', 'update', 'ενημερωσ'],
+    }
+    value += sum(1.2 for term in important.get(profile, []) if normalize(term) in title)
+    # Transparent low-signal selection; does not claim to fact-check publishers.
+    low = ['ζωδια', 'horoscope', 'κουιζ', 'quiz', 'δεν θα πιστευ', 'θα παθετε', 'σοκαρει', 'betting', 'στοιχηματικ']
+    value -= sum(5 for term in low if normalize(term) in title)
+    if profile == 'apple' and any(term in title for term in ['deal', 'discount', 'εκπτωση', 'προσφορα']):
+        value -= 1.5
+    return round(value, 3)
+
+
+def is_independent(item):
+    text = normalize(item['title'] + ' ' + ' '.join(item.get('categories', [])))
+    return any(re.search(r'\b' + re.escape(normalize(term)) + r'\b', text) for term in ['review', 'reviews', 'hands on', 'how to', 'guide', 'οδηγοσ', 'δοκιμη', 'συγκριση', 'comparison'])
+
+
+def apple_signature(title):
+    text = normalize(title)
+    products = {p for p in ['iphone', 'ipad', 'macbook', 'imac', 'macos', 'ios', 'ipados', 'watchos', 'tvos', 'visionos', 'airpods', 'homepod'] if re.search(r'\b' + p + r'\b', text)}
+    if 'apple watch' in text:
+        products.add('apple watch')
+    # Models such as Pro/Air must not collapse into the base model.
+    variants = {v for v in ['pro', 'max', 'air', 'mini', 'ultra'] if re.search(r'\b' + v + r'\b', text)}
+    numbers = set(re.findall(r'\d+(?:\.\d+)*', title))
+    action = None
+    for kind, terms in [
+        ('security', ['security', 'vulnerability', 'ευπαθει', 'κενο ασφαλει']),
+        ('beta', ['beta', 'μπετα']),
+        ('rumor', ['rumor', 'rumour', 'leak', 'φημ', 'διαρρο']),
+        ('release', ['releases', 'released', 'available', 'launch', 'announces', 'arrives in stores', 'διαθεσιμ', 'κυκλοφορ', 'ανακοιν', 'ενημερωσ', 'update']),
+    ]:
+        if any(term in text for term in terms):
+            action = kind
+            break
+    # Only merge translations when concrete product/version/action anchors agree.
+    if not products or not numbers or action is None:
+        return None
+    return (tuple(sorted(products)), tuple(sorted(variants)), tuple(sorted(numbers)), action)
+
+
 def score(item):
+    if CONFIG.get('profile', 'sports') != 'sports':
+        return general_score(item)
     title = normalize(item['title'])
     total = item['weight'] * 2
     total += min(4, len(item['sources']) - 1) * 3.5
@@ -160,22 +211,99 @@ def score(item):
     return round(total, 3)
 
 
+def is_opinion(item):
+    """Conservative metadata/title hints; do not merge identified commentary."""
+    path = urlsplit(item['link']).path.lower()
+    sections = ('blog', 'blogs', 'opinion', 'opinions', 'columns', 'apopseis', 'gnomes', 'arthrografia', 'analysis')
+    if any(part in sections for part in path.split('/')):
+        return True
+    categories = normalize(' '.join(item.get('categories', [])))
+    if any(normalize(term) in categories for term in ('απόψεις', 'γνώμη', 'αρθρογραφία', 'ανάλυση', 'blogs', 'opinion', 'editorial')):
+        return True
+    title = normalize(item['title'])
+    return any(title.startswith(normalize(term) + ' ') for term in ('Γνώμη', 'Άποψη', 'Ανάλυση', 'Opinion', 'Editorial'))
+
+
+def representative_rank(item):
+    if CONFIG.get('profile', 'sports') != 'sports':
+        return (bool(item.get('image')), item['weight'], len(item.get('summary', '')))
+    host = urlsplit(item['link']).hostname or ''
+    alternative = host in ('gazzetta.gr', 'www.gazzetta.gr', 'sport-fm.gr', 'www.sport-fm.gr')
+    return (bool(alternative and item.get('image')), item['weight'], bool(item.get('image')))
+
+
+def translated_tokens(title):
+    """Small bilingual vocabulary for conservative Apple headline comparison."""
+    mappings = {
+        'release': ('release', 'κυκλοφορ', 'διαθεσιμ', 'ανακοιν', 'available', 'launch', 'arrives'),
+        'acquire': ('acquir', 'buys', 'εξαγορ'),
+        'display': ('display', 'screen', 'οθον'),
+        'crack': ('crack', 'ρωγμ', 'ραγισ'),
+        'issue': ('issue', 'problem', 'προβλημ'),
+        'confirm': ('confirm', 'παραδεχ', 'επιβεβαι'),
+        'security': ('security', 'ασφαλει'),
+        'update': ('update', 'ενημερωσ'),
+        'touch': ('touch', 'αφη'),
+    }
+    stops = {'apple', 'the', 'a', 'an', 'in', 'on', 'to', 'for', 'with', 'and', 'of', 'its', 'new', 'more', 'this', 'these', 'from', 'το', 'τησ', 'την', 'του', 'τα', 'με', 'και', 'στο', 'στην', 'για', 'νεο', 'νεα', 'η', 'ο', 'οι', 'που'}
+    tokens = set()
+    for token in normalize(title).split():
+        if token in stops:
+            continue
+        canonical = next((name for name, roots in mappings.items() if any(token.startswith(root) for root in roots)), token)
+        tokens.add(canonical)
+    return tokens
+
+
+def translated_match(a, b):
+    ta, tb = translated_tokens(a['title']), translated_tokens(b['title'])
+    anchors = ta & tb
+    products = {'iphone', 'ipad', 'ios', 'ipados', 'macos', 'macbook', 'homepod', 'airpods', 'watchos'}
+    events = {'acquire', 'crack', 'security', 'release'}
+    # Require an event, a concrete product/name, and substantial title overlap.
+    named = {t for t in anchors if t.isascii() and t.isalpha() and len(t) >= 4 and t not in {'apple', 'display', 'issue', 'confirm', 'release', 'security', 'update', 'acquire', 'crack', 'coming', 'week', 'next'}}
+    return bool(anchors & events) and bool(anchors & products or named) and len(anchors) >= 4 and len(anchors) / max(1, len(ta | tb)) >= .5
+
+
+def same_story(a, b):
+    if a['link'] == b['link']:
+        return True
+    if abs((a['date'] - b['date']).total_seconds()) > 36 * 3600:
+        return False
+    if is_opinion(a) or is_opinion(b):
+        return False
+    # Independent reviews/tutorials are distinct work, not duplicate news.
+    if CONFIG.get('profile') == 'apple' and (is_independent(a) or is_independent(b)):
+        return False
+    if CONFIG.get('profile') == 'apple':
+        sig_a, sig_b = apple_signature(a['title']), apple_signature(b['title'])
+        if sig_a and sig_b:
+            return sig_a == sig_b
+    ta, tb = title_tokens(a['title']), title_tokens(b['title'])
+    # Conflicting numeric details often indicate different events or versions.
+    na, nb = set(re.findall(r'\d+', a['title'])), set(re.findall(r'\d+', b['title']))
+    if na and nb and na != nb:
+        return False
+    if CONFIG.get('profile') == 'apple' and translated_match(a, b):
+        return True
+    overlap = len(ta & tb)
+    jacc = overlap / max(1, len(ta | tb))
+    ratio = difflib.SequenceMatcher(None, normalize(a['title']), normalize(b['title'])).ratio()
+    return (jacc >= .58 and overlap >= 3) or ratio >= .78
+
+
 def cluster(items):
-    groups=[]
-    for item in sorted(items,key=lambda x:x['date'],reverse=True):
-        tok = title_tokens(item['title'])
-        match=None
-        for g in groups:
-            if abs((item['date']-g['date']).total_seconds()) > 60*60*36: continue
-            old = title_tokens(g['title'])
-            jacc = len(tok & old) / max(1,len(tok | old))
-            ratio = difflib.SequenceMatcher(None,normalize(item['title']),normalize(g['title'])).ratio()
-            if (jacc >= .58 and len(tok & old)>=3) or ratio>=.78:
-                match=g;break
-        if match:
-            if item['sources'][0] not in match['sources']: match['sources'].append(item['sources'][0])
-            if item['weight']>match['weight']: match.update({k:item.get(k, '') for k in ['title','link','weight','summary','image']})
-        else: groups.append(item.copy())
+    groups = []
+    for item in sorted(items, key=lambda x: x['date'], reverse=True):
+        match = next((g for g in groups if same_story(item, g)), None)
+        if match is None:
+            groups.append({**item, 'sources': list(item['sources'])})
+            continue
+        # Count corroboration once per publisher, regardless of feed count.
+        sources = list(dict.fromkeys(match['sources'] + item['sources']))
+        if not is_opinion(item) and representative_rank(item) > representative_rank(match):
+            match.update({k: item.get(k, '') for k in ['title', 'link', 'weight', 'summary', 'image', 'date', 'categories']})
+        match['sources'] = sources
     return groups
 
 
@@ -211,7 +339,9 @@ def run(now=None, source_items=None):
     now=now or dt.datetime.now(UTC)
     tz=ZoneInfo(CONFIG['timezone'])
     try: state=json.loads(STATE_PATH.read_text(encoding='utf-8'))
-    except (FileNotFoundError,json.JSONDecodeError): state={'selected':[]}
+    except FileNotFoundError: state={'selected':[]}
+    except json.JSONDecodeError as exc:
+        raise RuntimeError(f'Invalid state file {STATE_PATH}; leaving feed and state untouched') from exc
     previous=[]
     for p in state['selected']:
         try: p['date']=dt.datetime.fromisoformat(p['date']); previous.append(p)
@@ -232,9 +362,10 @@ def run(now=None, source_items=None):
     for g in groups:
         # Stable ID follows canonical article URL; clustering picks one representative publisher link.
         g['id']=hashlib.sha256(g['link'].encode('utf-8')).hexdigest()[:24]
-        if g['id'] not in existing_ids and len(cluster([g] + previous)) == len(previous) + 1:
+        if g['id'] not in existing_ids and not any(same_story(g, old) for old in previous):
             new.append(g)
             existing_ids.add(g['id'])
+    new = [g for g in new if score(g) >= CONFIG.get('min_score', float('-inf'))]
     new.sort(key=lambda x:(score(x),x['date']),reverse=True)
     per_day=defaultdict(int)
     for p in previous: per_day[p['date'].astimezone(tz).date()]+=1
@@ -267,7 +398,19 @@ def run(now=None, source_items=None):
     print(f'Accepted {len(selected)} new, total display {len(combined)}. Source fetches successful {ok}.')
     return combined
 
-if __name__=='__main__':run()
+def activate_profile(name):
+    global CONFIG, STATE_PATH, OUTPUT
+    CONFIG = json.loads((ROOT / ('config.json' if name == 'sports' else f'config-{name}.json')).read_text(encoding='utf-8'))
+    STATE_PATH = ROOT / ('state.json' if name == 'sports' else f'state-{name}.json')
+    OUTPUT = ROOT / 'docs' / ('feed.xml' if name == 'sports' else f'{name}.xml')
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--profile', choices=['sports', 'news', 'apple'], default='sports')
+    activate_profile(parser.parse_args().profile)
+    run()
+
 
 
 

@@ -1,0 +1,42 @@
+{
+  "timezone": "Europe/Athens",
+  "target_per_day": null,
+  "hard_cap_per_day": null,
+  "lookback_hours": 36,
+  "display_days": 3,
+  "min_score": 0,
+  "profile": "apple",
+  "feed_title": "Apple Highlights — Personal Curator",
+  "sources": [
+    {
+      "name": "Macworld - News, Tips & Reviews from the Apple Experts",
+      "url": "https://www.macworld.com/en-us/feed",
+      "weight": 1.0
+    },
+    {
+      "name": "Apple News",
+      "url": "https://www.insomnia.gr/rss/3-apple-news.xml/",
+      "weight": 1.0
+    },
+    {
+      "name": "iPhone Hellas",
+      "url": "https://www.iphonehellas.gr/feed/",
+      "weight": 1.0
+    },
+    {
+      "name": "MacRumors: Mac News and Rumors - All Stories",
+      "url": "https://feeds.macrumors.com/MacRumors-All",
+      "weight": 1.0
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/feed/",
+      "weight": 1.0
+    },
+    {
+      "name": "Cult of Mac",
+      "url": "https://www.cultofmac.com/feed",
+      "weight": 1.0
+    }
+  ]
+}
