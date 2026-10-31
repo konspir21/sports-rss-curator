@@ -1,0 +1,40 @@
+
+name: Curate sports headlines
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 8,12,16,20 * * *'
+      timezone: 'Europe/Athens'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sports-rss-curator
+  cancel-in-progress: false
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build curated RSS
+        run: python curator.py
+
+      - name: Save RSS and state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/feed.xml state.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update curated sports RSS'
+            git push
+          fi
