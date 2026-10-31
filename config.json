@@ -1,0 +1,13 @@
+{
+  "feed_title": "Sports Highlights — Personal Curator",
+  "timezone": "Europe/Athens",
+  "target_per_day": 40,
+  "hard_cap_per_day": 50,
+  "lookback_hours": 36,
+  "display_days": 3,
+  "sources": [
+    {"name":"Athletiko", "url":"https://www.athletiko.gr/feed", "weight":1.0},
+    {"name":"Gazzetta Football", "url":"https://www.gazzetta.gr/football/rss", "weight":1.1},
+    {"name":"Sport-FM Football", "url":"https://www.sport-fm.gr/list/1.feed", "weight":1.0}
+  ]
+}
