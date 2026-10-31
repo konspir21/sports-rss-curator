@@ -3,6 +3,14 @@ name: Curate sports headlines
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - curator.py
+      - run_all.py
+      - config*.json
+      - tests/**
+      - .github/workflows/curate.yml
   schedule:
     - cron: '17 8,12,16,20 * * *'
       timezone: 'Europe/Athens'
