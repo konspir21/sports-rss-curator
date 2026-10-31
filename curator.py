@@ -180,17 +180,31 @@ def cluster(items):
 
 
 def xml_output(records, now):
-    from xml.sax.saxutils import escape, quoteattr
-    def e(x): return escape(str(x or ''))
-    parts=['<?xml version="1.0" encoding="UTF-8"?>','<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>',f'<title>{e(CONFIG["feed_title"])}</title>', '<link>https://github.com/</link>', '<description>Selected sports headlines from independent RSS sources. Original publishers retain their content.</description>', '<language>el</language>',f'<lastBuildDate>{email.utils.format_datetime(now)}</lastBuildDate>']
-    for r in sorted(records,key=lambda x:date_parse(x.get('selected_at')) or x['date'],reverse=True):
-        body = 'Πηγές: ' + ', '.join(r['sources']) + '. ' + r['summary']
-        if r.get('image'):
-            body = '<p><img src=' + quoteattr(r['image']) + ' alt="" /></p><p>' + html.escape(body) + '</p>'
-        parts.extend(['<item>',f'<title>{e(r["title"])}</title>',f'<link>{e(r["link"])}</link>',f'<guid isPermaLink="false">{e(r["id"])}</guid>',f'<pubDate>{email.utils.format_datetime(date_parse(r.get("selected_at")) or r["date"])}</pubDate>', f'<dc:date>{e(r["date"].isoformat())}</dc:date>',f'<description>{e(body)}</description>',*([f'<media:content url={quoteattr(r["image"])} medium="image" />', f'<media:thumbnail url={quoteattr(r["image"])} />'] if r.get('image') else []), '</item>'])
-    parts.append('</channel></rss>')
+    # Plain RSS 2.0: one publication date, canonical links and unchanged GUIDs.
+    rss = ET.Element('rss', version='2.0')
+    channel = ET.SubElement(rss, 'channel')
+    for tag, value in [
+        ('title', CONFIG['feed_title']),
+        ('link', 'https://konspir21.github.io/sports-rss-curator/'),
+        ('description', 'Selected sports headlines. Original publishers retain their content.'),
+        ('language', 'el'),
+        ('lastBuildDate', email.utils.format_datetime(now)),
+    ]:
+        ET.SubElement(channel, tag).text = value
+    for record in sorted(records, key=lambda r: date_parse(r.get('selected_at')) or r['date'], reverse=True):
+        item = ET.SubElement(channel, 'item')
+        ET.SubElement(item, 'title').text = record['title']
+        ET.SubElement(item, 'link').text = record['link']
+        ET.SubElement(item, 'guid', isPermaLink='false').text = record['id']
+        published = date_parse(record.get('selected_at')) or record['date']
+        ET.SubElement(item, 'pubDate').text = email.utils.format_datetime(published)
+        body = '<p>' + html.escape('Πηγές: ' + ', '.join(record['sources']) + '. ' + record['summary']) + '</p>'
+        if record.get('image'):
+            body = '<p><img src="' + html.escape(record['image'], quote=True) + '" alt="" /></p>' + body
+        ET.SubElement(item, 'description').text = body
     OUTPUT.parent.mkdir(exist_ok=True)
-    OUTPUT.write_text('\n'.join(parts),encoding='utf-8')
+    ET.indent(rss)
+    ET.ElementTree(rss).write(OUTPUT, encoding='utf-8', xml_declaration=True)
 
 
 def run(now=None, source_items=None):
@@ -254,6 +268,7 @@ def run(now=None, source_items=None):
     return combined
 
 if __name__=='__main__':run()
+
 
 
 
