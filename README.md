@@ -2,7 +2,7 @@
 
 A small, free, **non-AI** RSS curator built for Athletiko, Gazzetta Football, and Sport-FM Football.
 
-## What the first version does
+## Version 0.2
 
 - Downloads the three original RSS feeds (source URLs taken from an Unread Cloud OPML export).
 - Keeps articles published within the previous 36 hours; no historical flood.
@@ -10,7 +10,7 @@ A small, free, **non-AI** RSS curator built for Athletiko, Gazzetta Football, an
 - Scores articles using explicit Greek/English keywords for important sports news, downranking low-signal items.
 - Includes football and major stories from other sports present in the sources.
 - Publishes the original article URL, headline, publisher names, and a short source-provided description. No unauthorized full-text republishing.
-- Limits newly admitted stories to **12 per scheduled execution**, max **50 per publication day**; the practical target is **30–50/day**, not a guaranteed count.
+- Targets **40 per publication day** in Athens time, with a hard ceiling of **50**. The first v0.2 run fills available days up to the target; subsequent runs pace today’s admissions (10 in the morning, about 14 at noon, 28 at 16:17, 40 at 20:17). Delayed runs catch up. No fixed 12-item execution limit. Counts depend on dated, distinct articles actually available in the source feeds.
 - Remembers already selected entries in `state.json`; exposes up to three days of selected articles.
 - Preserves the RSS XML and state if all sources fail.
 
@@ -35,10 +35,10 @@ At **08:17, 12:17, 16:17, 20:17 Europe/Athens**, automatically accounting for da
 ## Adjust selection
 
 - `config.json` → `sources`: change weights or add feeds (only public RSS URLs).
-- `target_per_day`: planning target, not hard selection constraint.
+- `target_per_day`: operational daily admission target (default 40).
 - `hard_cap_per_day`: maximum admissions on one local date.
 - `curator.py` → `HIGH`, `LOW`, `OTHER_SPORT`: classification signals.
-- New entries are capped at 12 per run to avoid publishing dozens all at once. If needed, change the `len(selected)>=12` condition.
+- Initial v0.2 catch-up applies once, including existing installations. It does not delete history or change existing GUIDs. A first batch can include two publication dates; it is not a promise of 30–50 immediately or a measured daily rate.
 - `state.json`: persistent selection history, updated by GitHub Actions. **Do not delete if you want stable read/unread behavior**.
 
 ## Test locally
@@ -56,3 +56,12 @@ Requires Python 3.12+, standard library only. Running `curator.py` requires exte
 - GitHub Pages requires a publicly accessible feed; assume repository content is public too.
 - Public GitHub repositories get standard GitHub Actions minutes free under current GitHub billing rules, subject to policy changes.
 - Avoid adding credentials to config files or commits.
+
+
+## Images and Unread verification
+
+v0.2 reads Media RSS, image enclosures, and images in feed HTML. Missing images fall back to the original article’s Open Graph/Twitter image metadata, with bounded requests and six workers. Existing selected records are enriched in place, keeping their links, GUIDs, dates, and state. Images are emitted as `media:content`, `media:thumbnail`, and an HTML image in the RSS description. Failed image lookups leave readable articles intact and retry later. Publisher image URLs are used directly.
+
+Keep Unread’s **Webpage Text** setting: it continues extracting full text using the original article URL. RSS image metadata can help thumbnails/feed text, but cannot force Unread’s independent webpage extractor to retain an image. No `content:encoded` full-text field is added. Refresh the subscription, check a newly admitted article’s thumbnail and Webpage Text, then temporarily inspect Feed Text to distinguish RSS image delivery from webpage extraction. Existing cached articles may not refresh in place. Do not delete/re-add the subscription or reset state to test this. Actual Unread rendering must be confirmed in the app.
+
+Run `python -m unittest discover -s tests -v` before deploying. The Actions schedule, concurrency group and state commit flow remain unchanged.
