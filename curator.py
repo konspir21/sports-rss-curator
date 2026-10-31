@@ -319,12 +319,12 @@ def xml_output(records, now):
         ('lastBuildDate', email.utils.format_datetime(now)),
     ]:
         ET.SubElement(channel, tag).text = value
-    for record in sorted(records, key=lambda r: date_parse(r.get('selected_at')) or r['date'], reverse=True):
+    for record in sorted(records, key=lambda r: r['date'], reverse=True):
         item = ET.SubElement(channel, 'item')
         ET.SubElement(item, 'title').text = record['title']
         ET.SubElement(item, 'link').text = record['link']
         ET.SubElement(item, 'guid', isPermaLink='false').text = record['id']
-        published = date_parse(record.get('selected_at')) or record['date']
+        published = record['date']
         ET.SubElement(item, 'pubDate').text = email.utils.format_datetime(published)
         body = '<p>' + html.escape('Πηγές: ' + ', '.join(record['sources']) + '. ' + record['summary']) + '</p>'
         if record.get('image'):
