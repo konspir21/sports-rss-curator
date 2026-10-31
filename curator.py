@@ -146,7 +146,7 @@ def parse_feed(content, name, weight):
 
 
 def fetch(source):
-    req = urllib.request.Request(source['url'],headers={'User-Agent':'SportsRSSCurator/1.0 (personal RSS aggregator; Python urllib)', 'Accept':'application/rss+xml,application/atom+xml,application/xml,text/xml,*/*'})
+    req = urllib.request.Request(source['url'],headers={'User-Agent':'SportsRSSCurator/0.2 (personal RSS reader)', 'Accept':'application/rss+xml,application/atom+xml,application/xml,text/xml,*/*'})
     with urllib.request.urlopen(req, timeout=18) as r: return parse_feed(r.read(4_000_000),source['name'],source['weight'])
 
 
@@ -247,4 +247,5 @@ def run(now=None, source_items=None):
     return combined
 
 if __name__=='__main__':run()
+
 
