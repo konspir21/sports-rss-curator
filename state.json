@@ -1,6 +1,94 @@
 {
   "selected": [
     {
+      "title": "ΠΑΟΚ: Νίκη δια πυρός και σιδήρου και τώρα το ντέρμπι με τον Ολυμπιακό",
+      "link": "https://www.gazzetta.gr/football/superleague/2582724/paok-niki-dia-pyros-kai-sidiroy-kai-tora-ntermpi-me-ton-olympiako",
+      "date": "2026-11-01T20:10:08+00:00",
+      "summary": "Οι εύθραυστες ισορροπίες, η επιμονή στο 4-4-2, ο Μοναστηρλής το ανακάτεμα της τράπουλας από τον Λίσι και ο χαρακτήρας που έβγαλε ο ΠΑΟΚ πριν από το ντέρμπι στο Φάληρο",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/7147907rafa.jpg?itok=Tzu7NNPE",
+      "categories": [
+        "Superleague",
+        "ΠΑΟΚ",
+        "Ποδόσφαιρο"
+      ],
+      "id": "d4681e78e2399152c7090945",
+      "selected_at": "2026-11-01T20:40:22.058293+00:00"
+    },
+    {
+      "title": "Live: Το grand prix της Formula 1 στο Μεξικό",
+      "link": "https://www.athletiko.gr/live-to-grand-prix-tis-formula-1-sto-mexiko-112751",
+      "date": "2026-11-01T19:45:00+00:00",
+      "summary": "    \n\n\n  window.renderSportWidgetFeed('sport-widget-feed', {\n    eventId: 'c9e016bd-2c13-4341-a8a4-f03f58495c90',\n  });\n ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/27/f1l-live1.jpg",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "3f58b49983c743e3aa9dea14",
+      "selected_at": "2026-11-01T20:40:22.058293+00:00"
+    },
+    {
+      "title": "Κοντοές: «Κάλλιστα θα μπορούσαμε να κερδίσουμε τον ΠΑΟΚ, ο Αστέρας είναι μεγάλη ομάδα»",
+      "link": "https://www.gazzetta.gr/football/superleague/2582710/kontoes-kallista-tha-mporoysame-na-kerdisoyme-ton-paok-p-asteras-einai",
+      "date": "2026-11-01T19:36:55+00:00",
+      "summary": "Οι δηλώσεις του υπηρεσιακού τεχνικού του Αστέρα AKTOR, Γιάννη Κοντοέ, στην κάμερα της NOVA μετά την ήττα από τον ΠΑΟΚ στην Τούμπα.",
+      "sources": [
+        "Gazzetta Football",
+        "Athletiko"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/kontoes.jpg?itok=SW1k8UBA",
+      "categories": [
+        "Superleague",
+        "Αστέρας Τρίπολης",
+        "ΠΑΟΚ",
+        "Ποδόσφαιρο"
+      ],
+      "id": "50d33bf572530dfde70e9985",
+      "selected_at": "2026-11-01T20:40:22.058293+00:00"
+    },
+    {
+      "title": "Ο Παναθηναϊκός «έσπασε» το σερί της ΑΕΚ και της στέρησε το απόλυτο ρεκόρ",
+      "link": "https://www.athletiko.gr/o-panathinaikos-espase-to-seri-tis-aek-kai-tis-sterise-to-apolyto-rekor-112891",
+      "date": "2026-11-01T19:33:00+00:00",
+      "summary": "    Η ΑΕΚ «λύγισε» από τον Παναθηναϊκό στο ΟΑΚΑ, στο μεγάλο ντέρμπι της 9ης αγωνιστικής της Stoiximan Super League, όπου το σύνολο του Τζέικομπ Νίστρουπ ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/45/7147955.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "d7f4de3c9164ba654138a6d3",
+      "selected_at": "2026-11-01T20:40:22.058293+00:00"
+    },
+    {
+      "title": "ΑΕΚ: Ήττα μετά από ένα χρόνο για την ομάδα του Νίκολιτς, στα 31 ματς πρωταθλήματος σταμάτησε το σερί",
+      "link": "https://www.gazzetta.gr/football/superleague/2582707/aek-itta-meta-apo-ena-hrono-gia-tin-omada-toy-nikolits-sta-31-mats",
+      "date": "2026-11-01T19:26:55+00:00",
+      "summary": "Η ΑΕΚ ηττήθηκε μετά από ένα έτος στο ντέρμπι με τον Παναθηναϊκό στο ΟΑΚΑ και δεν κατάφερε να σπάσει το ιστορικό αήττητο σερί των 31 αγώνων πρωταθλήματος.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/aekfc.jpg?itok=HVmFKyFG",
+      "categories": [
+        "Superleague",
+        "ΑΕΚ",
+        "Ποδόσφαιρο"
+      ],
+      "id": "09d27f8665c1cc34f0a91fa3",
+      "selected_at": "2026-11-01T20:40:22.058293+00:00"
+    },
+    {
       "title": "Χορταστική ισοπαλία στο ντέρμπι κορυφής μεταξύ Αιγάλεω και Δόξα Βύρωνα - Όλα τα αποτελέσματα της Γ' Εθνικής",
       "link": "http://www.sport-fm.gr/article/5158099",
       "date": "2026-11-01T15:52:00+00:00",
