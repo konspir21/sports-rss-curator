@@ -153,20 +153,6 @@ def fetch(source):
     with urllib.request.urlopen(req, timeout=18) as r: return parse_feed(r.read(4_000_000),source['name'],source['weight'])
 
 
-def is_promotional(item):
-    title = normalize(item['title'])
-    categories = normalize(' '.join(item.get('categories', [])))
-    if any(term in categories for term in ('sponsored', 'χορηγουμεν', 'advertorial')):
-        return True
-    betting = ('γκανιοτα', 'στοιχηματικ', 'betting offer', 'betting bonus', 'bet boost')
-    if any(term in title for term in betting):
-        return True
-    # Purchase pitches, not ordinary reports about a product's price or lifespan.
-    lifetime = any(term in title for term in ('for life', 'lifetime license', 'lifetime subscription', 'ισοβια αδεια', 'ισοβια συνδρομη'))
-    price_pitch = any(term in title for term in ('just', 'only', 'sale', 'deal', 'save', 'off', 'cost', 'μολισ', 'μονο', 'προσφορα'))
-    money = bool(re.search(r'[$€£]\s*\d', item['title']))
-    return lifetime and (money or price_pitch)
-
 
 def general_score(item):
     profile = CONFIG.get('profile')
@@ -334,7 +320,7 @@ def xml_output(records, now):
         ('lastBuildDate', email.utils.format_datetime(now)),
     ]:
         ET.SubElement(channel, tag).text = value
-    for record in sorted((r for r in records if not is_promotional(r)), key=lambda r: r['date'], reverse=True):
+    for record in sorted(records, key=lambda r: r['date'], reverse=True):
         item = ET.SubElement(channel, 'item')
         ET.SubElement(item, 'title').text = record['title']
         ET.SubElement(item, 'link').text = record['link']
@@ -371,7 +357,7 @@ def run(now=None, source_items=None):
             except Exception as exc: print(f'WARN {src["name"]}: {exc}',file=sys.stderr)
     if not ok: raise RuntimeError('No sources available; leaving existing feed untouched')
     min_date=now-dt.timedelta(hours=CONFIG['lookback_hours'])
-    groups=cluster([x for x in incoming if min_date <= x['date'] <= now+dt.timedelta(minutes=5) and not is_promotional(x)])
+    groups=cluster([x for x in incoming if min_date <= x['date'] <= now+dt.timedelta(minutes=5)])
     existing_ids={p['id'] for p in previous}
     new=[]
     for g in groups:
@@ -383,8 +369,7 @@ def run(now=None, source_items=None):
     new = [g for g in new if score(g) >= CONFIG.get('min_score', float('-inf'))]
     new.sort(key=lambda x:(score(x),x['date']),reverse=True)
     per_day=defaultdict(int)
-    for p in previous:
-        if not is_promotional(p): per_day[p['date'].astimezone(tz).date()]+=1
+    for p in previous: per_day[p['date'].astimezone(tz).date()]+=1
     bootstrap = not state.get('v02_initialized', False)
     selected=[]
     for g in new:
@@ -411,7 +396,7 @@ def run(now=None, source_items=None):
     state['curated_dates_v1'] = True
     state['selected']=[{**p,'date':p['date'].isoformat()} for p in combined]
     STATE_PATH.write_text(json.dumps(state,ensure_ascii=False,indent=2),encoding='utf-8')
-    print(f'Accepted {len(selected)} new, total display {sum(not is_promotional(p) for p in combined)}. Source fetches successful {ok}.')
+    print(f'Accepted {len(selected)} new, total display {len(combined)}. Source fetches successful {ok}.')
     return combined
 
 def activate_profile(name):
