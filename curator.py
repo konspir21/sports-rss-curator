@@ -350,11 +350,18 @@ def run(now=None, source_items=None):
     incoming=[]; ok=0
     if source_items is not None: incoming=source_items;ok=1
     else:
-        for src in CONFIG['sources']:
-            try:
-                entries=fetch(src);incoming.extend(entries);ok+=1
-                print(f'{src["name"]}: {len(entries)} entries')
-            except Exception as exc: print(f'WARN {src["name"]}: {exc}',file=sys.stderr)
+        # Fetch concurrently, but consume in configuration order so clustering
+        # and representative selection remain deterministic.
+        with ThreadPoolExecutor(max_workers=6) as pool:
+            pending = [(src, pool.submit(fetch, src)) for src in CONFIG['sources']]
+            for src, future in pending:
+                try:
+                    entries = future.result()
+                    incoming.extend(entries)
+                    ok += 1
+                    print(f'{src["name"]}: {len(entries)} entries')
+                except Exception as exc:
+                    print(f'WARN {src["name"]}: {exc}', file=sys.stderr)
     if not ok: raise RuntimeError('No sources available; leaving existing feed untouched')
     min_date=now-dt.timedelta(hours=CONFIG['lookback_hours'])
     groups=cluster([x for x in incoming if min_date <= x['date'] <= now+dt.timedelta(minutes=5)])

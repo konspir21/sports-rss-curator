@@ -30,7 +30,7 @@ If your default branch or repository name is different, adjust the Pages setting
 
 ## Schedule
 
-At **08:17, 12:17, 16:17, 20:17 Europe/Athens**, automatically accounting for daylight saving time. GitHub does not guarantee exact execution times. On public repositories GitHub may disable schedules after 60 days without activity.
+Every ten minutes, at **:07, :17, :27, :37, :47 and :57**, throughout the day. GitHub does not guarantee exact execution times. On public repositories GitHub may disable schedules after 60 days without activity.
 
 ## Adjust selection
 
@@ -60,8 +60,10 @@ Requires Python 3.12+, standard library only. Running `curator.py` requires exte
 
 ## Images and Unread verification
 
-v0.2 reads Media RSS, image enclosures, and images in feed HTML. Missing images fall back to the original article’s Open Graph/Twitter image metadata, with bounded requests and six workers. Existing selected records are enriched in place, keeping their links, GUIDs, dates, and state. Images are emitted as `media:content`, `media:thumbnail`, and an HTML image in the RSS description. Failed image lookups leave readable articles intact and retry later. Publisher image URLs are used directly.
+v0.2 reads Media RSS, image enclosures, and images in feed HTML. Missing images fall back to the original article’s Open Graph/Twitter image metadata, with bounded requests and six workers. Existing selected records are enriched in place, keeping their links, GUIDs, dates, and state. Images are emitted once as an HTML image in the RSS description. Failed image lookups leave readable articles intact and retry later. Publisher image URLs are used directly.
 
 Keep Unread’s **Webpage Text** setting: it continues extracting full text using the original article URL. RSS image metadata can help thumbnails/feed text, but cannot force Unread’s independent webpage extractor to retain an image. No `content:encoded` full-text field is added. Refresh the subscription, check a newly admitted article’s thumbnail and Webpage Text, then temporarily inspect Feed Text to distinguish RSS image delivery from webpage extraction. Existing cached articles may not refresh in place. Do not delete/re-add the subscription or reset state to test this. Actual Unread rendering must be confirmed in the app.
 
-Run `python -m unittest discover -s tests -v` before deploying. The Actions schedule, concurrency group and state commit flow remain unchanged.
+Run `python -m unittest discover -s tests -v` before deploying. The concurrency group and state commit flow are retained. Profiles run in separate processes concurrently, and each profile fetches up to six sources concurrently. Source results are consumed in configuration order to preserve deterministic selection. A failed source does not block healthy sources; all-source failure preserves the existing feed and state.
+
+The ten-minute schedule is a request to GitHub, not a delivery guarantee. GitHub may delay or drop scheduled runs; publisher RSS update times, Pages caching and Unread polling add independent delays. No external scheduling service or account is required. Profile durations are logged in Actions.

@@ -12,7 +12,7 @@ on:
       - tests/**
       - .github/workflows/curate.yml
   schedule:
-    - cron: '17,47 * * * *'
+    - cron: '7,17,27,37,47,57 * * * *'
       timezone: 'Europe/Athens'
 
 permissions:
