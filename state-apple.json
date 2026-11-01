@@ -1,6 +1,77 @@
 {
   "selected": [
     {
+      "title": "Apple's HomeView Ships With Six-Month-Old Software",
+      "link": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
+      "date": "2026-11-01T15:37:07+00:00",
+      "summary": " It is well known that Apple's new  HomeView  smart home hub was  significantly delayed , and there is now yet another piece of evidence: the device will initially ship with six-month-old HomeView software version 26.5, according to  AppleDB . When setting up the HomeView, users will be prompted to update to HomeView software version 27.2. The devi",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+      "categories": [
+        "HomeView",
+        "No Linkback"
+      ],
+      "id": "41903db4dd6390d8ae919164",
+      "selected_at": "2026-11-01T15:37:38.823213+00:00"
+    },
+    {
+      "title": "Three New iPads Rumored to Launch in First Half of 2027",
+      "link": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "date": "2026-11-01T15:27:23+00:00",
+      "summary": "After announcing a  new iPad mini with an OLED display  earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models in the first half of 2027, according to the latest word from  Bloomberg 's Mark Gurman.\n \n\n \n \n \nIn his   Power On  newsletter today , Gurman said the next iPad Air will also feature an OLED display,",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
+      "categories": [
+        "iPad (low cost)",
+        "iPad Air",
+        "iPad Pro",
+        "Mark Gurman"
+      ],
+      "id": "cd4debb1f1517636bae7360f",
+      "selected_at": "2026-11-01T15:37:38.823213+00:00"
+    },
+    {
+      "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
+      "link": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
+      "date": "2026-11-01T12:49:54+00:00",
+      "summary": "    The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and  $17.50  a pop, and nearly  $100 off  the new  Apple Watch Ultra 4 .  \n\n\n\n Moving over to the Mac, the latest M6 Mac mini is $150 off, the  M5 MacBook Air  has re",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ee2fb44819982147a531a166",
+      "selected_at": "2026-11-01T15:37:38.823213+00:00"
+    },
+    {
+      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
+      "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
+      "date": "2026-11-01T11:34:49+00:00",
+      "summary": " Apple has published a  support document  describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes t",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
+      "categories": [
+        "Apple Watch",
+        "Apple Watch SE",
+        "Apple Watch Ultra",
+        "No Linkback"
+      ],
+      "id": "18e253d31107b6a4fd023e65",
+      "selected_at": "2026-11-01T15:37:38.823213+00:00"
+    },
+    {
       "title": "One ad blocker protects 9 devices for life for just $15",
       "link": "https://www.macworld.com/article/3272646/one-ad-blocker-protects-9-devices-for-life-for-just-15.html",
       "date": "2026-11-01T08:00:00+00:00",
