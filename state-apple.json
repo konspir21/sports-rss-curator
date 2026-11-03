@@ -1,6 +1,56 @@
 {
   "selected": [
     {
+      "title": "New Apple products coming in 2027: What’s next?",
+      "link": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "date": "2026-11-03T10:18:12+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n What new products will Apple launch in 2027? Rumors point to a redesigned iPhone to mark its 20th anniversary, an OLED iPad Air, and potentially Apple’s first smart glasses. Updated Macs, more affordable iPhones and new AI-focused accessories could also be on the way. \n\n\n\n The first launches could arrive in",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-87669900-1793701384-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc, Apple TV, Apple Watch, iOS, iPad, iPhone, Mac, MacBook, MacOS",
+        "Apple Inc, Apple TV, Apple Watch, iOS, iPad, iPhone, Mac, MacBook, MacOS"
+      ],
+      "id": "2e7553985090c4e937312f4f",
+      "selected_at": "2026-11-03T11:14:55.251140+00:00"
+    },
+    {
+      "title": "Apple Released the iPhone X Nine Years Ago Today",
+      "link": "https://www.macrumors.com/2026/11/03/apple-released-iphone-x-nine-years-ago-today/",
+      "date": "2026-11-03T08:58:51+00:00",
+      "summary": " Apple's iPhone X went on sale nine years ago today, November 3, 2017. The 10th-anniversary iPhone was the first with an all-screen OLED display and no Home button, and its gesture navigation and Face ID authentication shaped the flagship iPhone models that followed it.\n \n\n \nAnnounced on  September 12, 2017 , the iPhone X used its TrueDepth camera ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/04/iphone-x-front-back-feature-1.jpg",
+      "categories": [
+        "No Linkback"
+      ],
+      "id": "498703b9441deca37a5da1e7",
+      "selected_at": "2026-11-03T11:14:55.251140+00:00"
+    },
+    {
+      "title": "Swap doom-scrolling for a $90 memory training app you keep for life",
+      "link": "https://www.macworld.com/article/3273578/swap-doom-scrolling-for-a-90-memory-training-app-you-keep-for-life.html",
+      "date": "2026-11-03T08:00:00+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  memoryOS is  a memory training app  for iPhone and Android, and a lifetime Student Plan subscription is on sale for $89.97 (reg. $198). \n\n\n\n Ten minutes of scrolling on your iPhone usually leaves you with nothing you remember an hour later. If you’d rather spend that time on something that sticks, ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3273578-0-84095600-1793692840-sale_329276_article_image.jpg?quality=50&strip=all",
+      "categories": [
+        "Professional Software",
+        "Professional Software"
+      ],
+      "id": "c8359d6b02a547e54ec5f6ed",
+      "selected_at": "2026-11-03T11:14:55.251140+00:00"
+    },
+    {
       "title": "SCOTUS sets hearing date for Apple’s appeal in Epic Games case",
       "link": "https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case/",
       "date": "2026-11-03T03:00:42+00:00",
@@ -1648,60 +1698,6 @@
       ],
       "id": "7286b92539abed9a5f660a52",
       "selected_at": "2026-10-31T17:22:39.964504+00:00"
-    },
-    {
-      "title": "This PDF editor lasts for life, and it’s on sale for $79.99",
-      "link": "https://www.macworld.com/article/3272602/this-pdf-editor-lasts-for-life-and-its-on-sale-for-79-99.html",
-      "date": "2026-10-31T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:   PDF Expert  edits, signs, and converts PDFs on your Mac, and it’s only $79.99 for life (reg. $139.99). \n\n\n\n Macs have a few basic tools to open PDFs, but you can’t do much more than look at them. If you want to fix typos or make bigger edits, you’ll need an app like  PDF Expert . Right now, a life",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3272602-0-72814100-1793433669-PDF-Expert-1.jpg?quality=50&strip=all",
-      "categories": [
-        "PDF Editors",
-        "PDF Editors"
-      ],
-      "id": "4e757d4ba34c6e7fabfb4d27",
-      "selected_at": "2026-10-31T12:09:21.451639+00:00"
-    },
-    {
-      "title": "'Pluribus' Season 2 Reportedly Starts Production Today",
-      "link": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today/",
-      "date": "2026-10-31T06:41:45+00:00",
-      "summary": " Filming for the second season of  Apple TV 's \"Pluribus\" is expected to start today in Albuquerque, New Mexico, according to a report from   Production List  . The  acclaimed sci-fi drama  stars Rhea Seehorn and was created by Vince Gilligan. Its first season debuted on November 7, 2025, with a second season already commissioned. Apple has yet to ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg",
-      "categories": [
-        "No Linkback",
-        "Apple TV Shows"
-      ],
-      "id": "641a57718ee3e91718563067",
-      "selected_at": "2026-10-31T12:09:21.451639+00:00"
-    },
-    {
-      "title": "iPhone 18 Pro Sales Surge in China, Offsetting Decline in U.S. and Japan",
-      "link": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china/",
-      "date": "2026-10-31T05:55:35+00:00",
-      "summary": "China is doing much of the heavy lifting for Apple's  iPhone 18 Pro  launch, with a 29% sales increase helping offset declines in the U.S. and Japan, according to  Counterpoint Research .\n \n\n \n \n \nCombined global sales of the &zwnj;iPhone 18 Pro&zwnj; and &zwnj;iPhone 18 Pro&zwnj; Max rose 3.1% during their first three weeks of availability compare",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
-      "categories": [
-        "iPhone 18 Pro",
-        "China",
-        "Counterpoint",
-        "Japan",
-        "United States"
-      ],
-      "id": "30bfea0c5d6b7be7841a4218",
-      "selected_at": "2026-10-31T12:09:21.451639+00:00"
     }
   ],
   "v02_initialized": true,
