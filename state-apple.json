@@ -1,6 +1,86 @@
 {
   "selected": [
     {
+      "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
+      "link": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
+      "date": "2026-11-04T02:43:07+00:00",
+      "summary": "    Included in today’s  macOS 27.3 beta 1  is a great-looking screensaver featuring an animated version of the  new MacBook Pro with PROLED XDR Display  wallpaper. Watch it below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "aa456c7305bbc8ebba9ac69d",
+      "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
+      "title": "‘Stick’ season 2 premieres on Apple TV",
+      "link": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
+      "date": "2026-11-04T02:01:01+00:00",
+      "summary": "    Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), among others. Watch the trailer below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "519eec4a7e2a389ea51e2681",
+      "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
+      "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
+      "link": "https://www.macrumors.com/2026/11/03/apple-music-selfie-sing/",
+      "date": "2026-11-04T00:05:45+00:00",
+      "summary": "iOS 27.3 adds a new \"Selfie Sing\" feature in  Apple Music  that lets users record themselves while singing a song.\n \n\n \n \n \nThere's a dedicated Selfie Sing playlist and a selfie camera view that shows lyrics on the screen while also recording a video. Apple has a description of the feature:\n \n There are some songs everyone knows by heart, the ones ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/ios-27-3-selfie-sing.jpg",
+      "categories": [
+        "Apple Music"
+      ],
+      "id": "9a26b88e7d2fc40aa318abd1",
+      "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
+      "title": "Follow today’s midterm election results with the Apple News Live Activity",
+      "link": "https://9to5mac.com/2026/11/03/follow-todays-midterm-election-results-with-the-apple-news-live-activity/",
+      "date": "2026-11-04T00:01:02+00:00",
+      "summary": "    With votes now being counted in the US midterm elections, the Apple News app offers a convenient way to follow the results in real time. Here’s how it works. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/midterms-live-activity.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "603dde315c4b46f9ceaeaeb0",
+      "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
+      "title": "Eney from MacPaw is an AI assistant with deep Apple integrations",
+      "link": "https://9to5mac.com/2026/11/03/eney-from-macpaw-ai-assistant-deep-apple-integrations/",
+      "date": "2026-11-03T23:45:00+00:00",
+      "summary": "    MacPaw, the makers of CleanMyMac and Setapp, have  an AI assistant called Eney  that’s designed for Apple users. Eney is available across Mac and iPhone and is built to integrate with core Apple services like Mail, Calendar, and Reminders, plus a lot more. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Banners-AI-Assistant-Dark.png?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "777f0180c2d40685e7994df3",
+      "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
       "title": "macOS 27.3 adds native Markdown rendering to Quick Look",
       "link": "https://9to5mac.com/2026/11/03/macos-27-3-adds-native-markdown-rendering-to-quick-look/",
       "date": "2026-11-03T23:11:22+00:00",
