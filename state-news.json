@@ -1,6 +1,832 @@
 {
   "selected": [
     {
+      "title": "Το μεσημέρι στη Βουλή η ονομαστική ψηφοφορία άρθρων του ν/σ για την ενίσχυση εποπτείας απαιτήσεων από δάνεια",
+      "link": "https://www.skai.gr/news/politics/vouli-to-mesimeri-i-onomastiki-psifoforia-arthron-tou-ns-gia-tin-enisxysi-epopteias-apaiti",
+      "date": "2026-11-04T23:48:45+00:00",
+      "summary": "Διακόπηκε λίγο πριν τα μεσάνυχτα της Τετάρτης η πρώτη ημέρα συζήτησης στην Ολομέλεια του σχεδίου νόμου του υπουργείου Εθνικής Οικονομίας και Οικονομικών",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/vouli.png?itok=iZ3pDXaz",
+      "categories": [
+        "Πολιτική"
+      ],
+      "id": "e35f15eee3b3492590147201",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Επιβεβαίωσε η Βόρεια Κορέα την εκτόξευση πυραύλου κρουζ μεγάλης εμβέλειας στα ανοικτά των ανατολικών ακτών της",
+      "link": "https://www.skai.gr/news/world/voreia-korea-dokimi-systimatos-antiaeroporikis-amynas-kai-ektokseysi-pyraylou-krouz-megali",
+      "date": "2026-11-04T23:31:59+00:00",
+      "summary": "Επιβεβαιώθηκε η ανακοίνωση του νοτιοκορεατικού υπουργείου Άμυνας περί εκτόξευσης πυραύλων από την περιοχή Σοντόκ της Βόρειας Κορέας προς Ανατολική Θάλασσα",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/north_korea.jpg?itok=epog9-Lv",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "e3b45e7873e8b965203e57c8",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ελλάδα στον ΟΗΕ: «Παράνομο, άκυρο και ανίσχυρο» το τουρκολιβυκό μνημόνιο – Καμία έννομη συνέπεια από την επικύρωσή του",
+      "link": "https://www.skai.gr/news/politics/ellada-ston-oie-paranomo-akyro-kai-anisxyro-to-tourkolivyko-mnimonio-1",
+      "date": "2026-11-04T23:21:18+00:00",
+      "summary": "Την πλήρη απόρριψη του τουρκολιβυκού μνημονίου του 2019 επαναλαμβάνει η Ελλάδα με επίσημη επιστολή της προς τον Γενικό Γραμματέα των Ηνωμένων Εθνών",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/feedelio/oie-ape.jpg?itok=zVz0EJrM",
+      "categories": [
+        "Πολιτική"
+      ],
+      "id": "601f7e4cc5244348b241a4f2",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Σοκ στη Γερμανία: Νεκρός σε δωμάτιο ξενοδοχείου στο Βερολίνο ο Υπουργός Οικονομίας της Βαυαρίας Χούμπερτ Αϊβάνγκερ",
+      "link": "https://www.skai.gr/news/world/apeviose-o-ypourgos-oikonomias-tis-vayarias-xoumpert-aivangker",
+      "date": "2026-11-04T22:53:48+00:00",
+      "summary": "Ο Χούμπερτ Αϊβάνγκερ βρέθηκε νεκρός σε δωμάτιο ξενοδοχείου στο Βερολίνο, όπου βρισκόταν προκειμένου να παραστεί στα εγκαίνια γραφείων του κόμματός του",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/hubert-aiwanger-ap.png?itok=4i8rOWYJ",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "e654991dd5d0d532d058b473",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Wall Street: Κλείσιμο με σημαντική άνοδο",
+      "link": "https://www.skai.gr/news/finance/wall-street-kleisimo-me-simantiki-anodo-5",
+      "date": "2026-11-04T22:32:34+00:00",
+      "summary": "Με σημαντικά κέρδη έκλεισε η  Wall Street  στον απόηχο της σαρωτικής επικράτησης των Δημοκρατικών στις  εκλογές  που αλλάζει τον συσχετισμό δυνάμεων στο Κογκρέσο",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-04/ap26090561562232-wall-street.jpg?itok=VAppmbKh",
+      "categories": [
+        "Οικονομία"
+      ],
+      "id": "19e042a6c980e8018c98465b",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Έπος Ναν και Λεσόρ, βασιλικό διπλό του Παναθηναϊκού στη Μαδρίτη",
+      "link": "https://www.skai.gr/news/sports/epos-nan-kai-lesor-vasiliko-diplo-tou-panathinaikou-sti-madriti",
+      "date": "2026-11-04T22:14:20+00:00",
+      "summary": "Με τον συγκλονιστικό Ναν και τον καθοριστικό Λεσόρ, οι πράσινοι, πέρασαν μέσω... παράτασης από την έδρα της Ρεάλ (112-115) και της έσπασαν το σερί",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/pao.png?itok=8ANCd3x0",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "8f2c4251f13d2c3fd574c1cd",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ο Ναν εκτέλεσε τη Ρεάλ και ο Παναθηναϊκός πήρε τεράστιο διπλό στη Μαδρίτη",
+      "link": "https://www.naftemporiki.gr/sports/2184736/o-nan-ektelese-ti-real-kai-o-panathinaikos-pire-terastio-diplo-sti-madriti/?utm_source=rss&utm_medium=rss&utm_campaign=o-nan-ektelese-ti-real-kai-o-panathinaikos-pire-terastio-diplo-sti-madriti",
+      "date": "2026-11-04T22:10:03+00:00",
+      "summary": " Ο Παναθηναϊκός πανηγύρισε μια σπουδαία εκτός έδρας νίκη απέναντι στη Ρεάλ Μαδρίτης, επικρατώντας με 115-112 στην παράταση, σε ένα παιχνίδι που κράτησε αμείωτο το ενδιαφέρον για 45 λεπτά. \nΟ Κέντρικ&#8230; \n  Ο Ναν εκτέλεσε τη Ρεάλ και ο Παναθηναϊκός πήρε τεράστιο διπλό στη Μαδρίτη  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/5426258.jpg",
+      "categories": [
+        "Αθλητικά",
+        "ΕΥΡΩΛΙΓΚΑ",
+        "ΜΠΑΣΚΕΤ",
+        "ΠΑΝΑΘΗΝΑΙΚΟΣ",
+        "ΡΕΑΛ ΜΑΔΡΙΤΗΣ"
+      ],
+      "id": "796742c4d50dbe619bafe2b6",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Wall Street: Εκρηκτικό ράλι μετά τη νίκη των Δημοκρατικών – Άλμα 3% για τον Dow Jones",
+      "link": "https://www.naftemporiki.gr/finance/markets/2184732/wall-street-ekriktiko-rali-meta-ti-niki-ton-dimokratikon-alma-3-gia-ton-dow-jones/?utm_source=rss&utm_medium=rss&utm_campaign=wall-street-ekriktiko-rali-meta-ti-niki-ton-dimokratikon-alma-3-gia-ton-dow-jones",
+      "date": "2026-11-04T22:02:43+00:00",
+      "summary": " Εκρηκτική άνοδο κατέγραψαν και οι τρεις βασικοί χρηματιστηριακοί δείκτες της Wall Street στη σημερινή συνεδρίαση, καθώς η αποφασιστική νίκη των Δημοκρατικών στις ενδιάμεσες εκλογές των ΗΠΑ και η αποδοχή του&#8230; \n  Wall Street: Εκρηκτικό ράλι μετά τη νίκη των Δημοκρατικών – Άλμα 3% για τον Dow Jones  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/07/wall_street_ipa.jpg",
+      "categories": [
+        "Αγορές",
+        "WALL STREET"
+      ],
+      "id": "a1bae0061d115cf778bd3795",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Τα ψηφιακά αμερικανικά μετοχικά προϊόντα έρχονται και κάποιοι πρέπει να ανησυχούν",
+      "link": "https://www.skai.gr/news/finance/ta-psifiaka-amerikanika-metoxika-proionta-erxontai-kai-kapoioi-prepei-na-anisyxoun",
+      "date": "2026-11-04T22:01:07+00:00",
+      "summary": "Οι επιχειρήσεις και οι επενδυτές πρέπει να έχουν επίγνωση των κινδύνων που συνεπάγεται η μεταφορά χρηματοπιστωτικών συναλλαγών στον χώρο του blockchain",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/tockens_ap.jpg?itok=RfOjJg4U",
+      "categories": [
+        "Οικονομία"
+      ],
+      "id": "316686619489736b9482d930",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Champions League: Στη 29η θέση η ΑΕΚ, μόλις έναν βαθμό πίσω από την προνομιούχα 24η θέση",
+      "link": "https://www.skai.gr/news/sports/champions-league-sti-30i-thesi-i-aek",
+      "date": "2026-11-04T22:00:24+00:00",
+      "summary": "Μετά από τέσσερα ματς στη League Phase, το καλό για την Ένωση είναι πως εννέα πόντοι ίσως αποδειχθούν αρκετοί για την πρόκριση στην ενδιάμεση φάση",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/aek_ap.jpg?itok=l9wC1scj",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "ae5636c5e2b99ea6b64d39b8",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Για την αίθουσα χορού, οι πρώτες δηλώσεις του Τραμπ, την επομένη της ήττας",
+      "link": "https://www.naftemporiki.gr/kosmos/2184731/gia-tin-aithoysa-choroy-oi-protes-diloseis-toy-tramp-tin-epomeni-tis-ittas/?utm_source=rss&utm_medium=rss&utm_campaign=gia-tin-aithoysa-choroy-oi-protes-diloseis-toy-tramp-tin-epomeni-tis-ittas",
+      "date": "2026-11-04T21:55:45+00:00",
+      "summary": " «Θα είναι η ωραιότερη του κόσμου, νομίζω», δήλωσε σήμερα ο Ντόναλντ Τραμπ που στην πρώτη του εμφάνιση αμέσως μετά τις ενδιάμεσες εκλογές, κάλεσε τον Τύπο, για να εκθειάσει το εργοτάξιο&#8230; \n  Για την αίθουσα χορού, οι πρώτες δηλώσεις του Τραμπ, την επομένη της ήττας  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/USA-TRUMP.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ"
+      ],
+      "id": "9ece29d2b862f0c1fbc443e5",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Γαύδος: Εγκλωβισμένοι μετανάστες για δεύτερο 24ωρο σε απόκρημνη περιοχή",
+      "link": "https://www.naftemporiki.gr/society/2184729/gaydos-egklovismenoi-metanastes-gia-deytero-24oro-se-apokrimni-periochi/?utm_source=rss&utm_medium=rss&utm_campaign=gaydos-egklovismenoi-metanastes-gia-deytero-24oro-se-apokrimni-periochi",
+      "date": "2026-11-04T21:37:36+00:00",
+      "summary": " Για δεύτερο εικοσιετετράωρο δεκάδες πρόσφυγες και μετανάστες παραμένουν εγκλωβισμένοι σε απόκρημνη περιοχή της Γαύδου. Σύμφωνα με πληροφορίες της ΕΡΤ Χανίων, οι άνθρωποι εντοπίστηκαν χτες το απόγευμα, όταν κάποιοι από αυτούς&#8230; \n  Γαύδος: Εγκλωβισμένοι μετανάστες για δεύτερο 24ωρο σε απόκρημνη περιοχή  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2025/07/channel.jpg",
+      "categories": [
+        "Κοινωνία",
+        "ΜΕΤΑΝΑΣΤΕΥΤΙΚΟ"
+      ],
+      "id": "12a7de06b8a5f98d3112ef51",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ο Δημοκρατικός Χακίμ Τζέφρις θέτει υποψηφιότητα για πρόεδρος της Βουλής των Αντιπροσώπων",
+      "link": "https://www.naftemporiki.gr/kosmos/2184725/o-dimokratikos-chakim-tzefris-thetei-ypopsifiotita-gia-proedros-tis-voylis-ton-antiprosopon/?utm_source=rss&utm_medium=rss&utm_campaign=o-dimokratikos-chakim-tzefris-thetei-ypopsifiotita-gia-proedros-tis-voylis-ton-antiprosopon",
+      "date": "2026-11-04T21:30:58+00:00",
+      "summary": " Ο Δημοκρατικός βουλευτής Χακίμ Τζέφρις, ο οποίος κατέχει σήμερα τη θέση του επικεφαλής της μειοψηφίας στη Βουλή των Αντιπροσώπων των ΗΠΑ, ανακοίνωσε επισήμως την υποψηφιότητά του για την προεδρία του&#8230; \n  Ο Δημοκρατικός Χακίμ Τζέφρις θέτει υποψηφιότητα για πρόεδρος της Βουλής των Αντιπροσώπων  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/hakeem.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΔΗΜΟΚΡΑΤΙΚΟΙ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΚΟΓΚΡΕΣΟ"
+      ],
+      "id": "a60dd4b2c81d88b8e283b771",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Leaders of the Greek Εconomy – Θ. Αδαμόπουλος: «Η τεχνολογία δεν καταργεί την ανάγκη για καλή ηγεσία. Την κάνει ακόμη μεγαλύτερη»",
+      "link": "https://www.naftemporiki.gr/finance/economy/2184722/leaders-of-the-greek-economy-th-adamopoylos-i-technologia-den-katargei-tin-anagki-gia-kali-igesia-tin-kanei-akomi-megalyteri/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-of-the-greek-economy-th-adamopoylos-i-technologia-den-katargei-tin-anagki-gia-kali-igesia-tin-kanei-akomi-megalyteri",
+      "date": "2026-11-04T21:22:30+00:00",
+      "summary": " «O εκρηκτικός συνδυασμός της γεω-οικονομικής αναταραχής και της αλματώδους ανάπτυξης της τεχνητής νοημοσύνης αλλάζει δραματικά μια δεδομένη συνθήκη στη ζωή των ανθρώπων: μέχρι πρόσφατα, ο άνθρωπος κυνηγούσε τον χρόνο. Τώρα,&#8230; \n  Leaders of the Greek Εconomy &#8211; Θ. Αδαμόπουλος: «Η τεχνολογία δεν καταργεί την ανάγκη για καλή ηγεσία. Την κάν",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/adamopoulos2-e1793829726576.jpg",
+      "categories": [
+        "Οικονομία",
+        "LEADERS OF THE GREEK ECONOMY"
+      ],
+      "id": "a73dc57560d51beb0952194c",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Κομισιόν: Καμπανάκι για τη στάση της Βόρειας Μακεδονίας απέναντι στη Συμφωνία των Πρεσπών",
+      "link": "https://www.naftemporiki.gr/kosmos/2184723/komision-kampanaki-gia-ti-stasi-tis-voreias-makedonias-apenanti-sti-symfonia-ton-prespon/?utm_source=rss&utm_medium=rss&utm_campaign=komision-kampanaki-gia-ti-stasi-tis-voreias-makedonias-apenanti-sti-symfonia-ton-prespon",
+      "date": "2026-11-04T21:19:09+00:00",
+      "summary": " Προβληματισμό για τη στάση της πολιτικής ηγεσίας της Βόρειας Μακεδονίας απέναντι στη Συμφωνία των Πρεσπών εκφράζει η Ευρωπαϊκή Επιτροπή, στην ετήσια έκθεση αξιολόγησης της ευρωπαϊκής πορείας της χώρας, που δημοσιοποιήθηκε&#8230; \n  Κομισιόν: Καμπανάκι για τη στάση της Βόρειας Μακεδονίας απέναντι στη Συμφωνία των Πρεσπών  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2022/08/1898069.jpeg",
+      "categories": [
+        "Κόσμος",
+        "ΒΟΡΕΙΑ ΜΑΚΕΔΟΝΙΑ",
+        "ΕΥΡΩΠΑΙΚΗ ΕΠΙΤΡΟΠΗ",
+        "ΣΥΜΦΩΝΙΑ ΤΩΝ ΠΡΕΣΠΩΝ"
+      ],
+      "id": "867a671a9ad7ebb55198bbd5",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Τρελαίνει κόσμο ο Δουβίκας: Τρία γκολ κόντρα στη Λανς, πάει να βγει πρώτος σκόρερ στο Champions League",
+      "link": "https://www.skai.gr/news/sports/trelainei-kosmo-o-douvikas-paei-na-vgei-protos-skorer-sto-champions-league",
+      "date": "2026-11-04T21:12:38+00:00",
+      "summary": "Μα τι κάνει ο Έλληνας φορ; Σε τέσσερα ματς στον κορυφαίο θεσμό έχει έξι γκολ (και μία ασίστ) κι αν συνεχίσει έτσι θα βγει πρώτος σκόρερ",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/como_ap.jpg?itok=x-Cf5M51",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "df8eab00542fb27e29afbfdd",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Νετανιάχου: «Υπάρχουν σοβαρές υποψίες» για ξένη παρέμβαση στις εκλογές του Ισραήλ",
+      "link": "https://www.skai.gr/news/world/netaniaxou-yparxoun-sovares-ypopsies-gia-kseni-paremvasi-stis-ekloges-tou-israil",
+      "date": "2026-11-04T20:59:18+00:00",
+      "summary": "Παράλληλα κατήγγειλε τα στελέχη της αντιπολίτευσης που εμφανίζονται πρόθυμα να συνεργαστούν με αραβικά κόμματα για να σχηματίσουν κυβερνητικό συνασπισμό",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων",
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/x_netanyahu.jpg?itok=avVl893v",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "17aed44b888afd378950048f",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Προπονητής ΤΣΣΚΑ Σόφιας: «O Παναθηναϊκός βρίσκεται σε πολύ ψηλό επίπεδο»",
+      "link": "https://www.skai.gr/news/sports/proponitis-tsska-sofias-o-panathinaikos-vrisketai-se-poly-psilo-epipedo",
+      "date": "2026-11-04T20:46:36+00:00",
+      "summary": "Ο προπονητής της βουλγαρικής ομάδας Μάρκους Γκίσντολ εξήρε την ποιότητα του Παναθηναϊκού, ενώ αναφέρθηκε και στον Ρικ Φαν Ντρόνγκελεν",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_diskol.jpg?itok=IRL6h3bx",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "d24ea23370035fdc950d6d3d",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Χρηματιστήρια: Το μπλε κύμα απογειώνει τον Dow Jones, βυθίζει το πετρέλαιο και τις μετοχές της αμυντικής βιομηχανίας",
+      "link": "https://www.naftemporiki.gr/finance/markets/2184718/chrimatistiria-to-mple-kyma-apogeionei-ton-dow-jones-vythizei-to-petrelaio-kai-tis-metoches-tis-amyntikis-viomichanias/?utm_source=rss&utm_medium=rss&utm_campaign=chrimatistiria-to-mple-kyma-apogeionei-ton-dow-jones-vythizei-to-petrelaio-kai-tis-metoches-tis-amyntikis-viomichanias",
+      "date": "2026-11-04T20:46:16+00:00",
+      "summary": " Η Wall Street πανηγυρίζει, το πετρέλαιο καταρρέει και οι αγορές ομολόγων ανακτούν το χαμένο έδαφος. Μέσα σε λίγες ώρες, η σαρωτική επικράτηση των Δημοκρατικών στις αμερικανικές ενδιάμεσες εκλογές άλλαξε θεαματικά&#8230; \n  Χρηματιστήρια: Το μπλε κύμα απογειώνει τον Dow Jones, βυθίζει το πετρέλαιο και τις μετοχές της αμυντικής βιομηχανίας  -  Η ΝΑΥ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/06/chrimatistiria.jpg",
+      "categories": [
+        "Αγορές",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ",
+        "ΟΜΟΛΟΓΑ",
+        "ΠΕΤΡΕΛΑΙΟ",
+        "ΠΟΛΕΜΟΣ ΣΤΗ ΜΕΣΗ ΑΝΑΤΟΛΗ",
+        "ΧΡΗΜΑΤΙΣΤΗΡΙΑ",
+        "ΧΡΥΣΟΣ"
+      ],
+      "id": "7cb3b0b299930a562be07fd1",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Champions League: Όχι έτσι... Η ΑΕΚ προηγήθηκε δύο φορές, αλλά η Ρεάλ «άρπαξε» τη νίκη στο 92'",
+      "link": "https://www.skai.gr/news/sports/champions-league-oxi-etsi-i-real-arpakse-ti-niki-sto-92-apo-tin-aek",
+      "date": "2026-11-04T20:42:59+00:00",
+      "summary": "Η Ένωση προηγήθηκε δύο φορές, αλλά τελικά δεν κατάφερε να πάρει ούτε τον βαθμό της ισοπαλίας κόντρα στη «Βασίλισσα», γνωρίζοντας την ήττα με 3-2 στη Νέα Φιλαδέλφεια",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/aek_real_eurokinissi.jpg?itok=IL-XPP6x",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "da71deb4dae59cba58beabb3",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "«Έγραψαν Ιστορία»: Οι πρωταγωνιστές των ενδιάμεσων εκλογών που γκρέμισαν στερεότυπα",
+      "link": "https://www.naftemporiki.gr/kosmos/2184594/egrapsan-istoria-oi-protagonistes-ton-endiameson-eklogon-poy-gkremisan-stereotypa/?utm_source=rss&utm_medium=rss&utm_campaign=egrapsan-istoria-oi-protagonistes-ton-endiameson-eklogon-poy-gkremisan-stereotypa",
+      "date": "2026-11-04T20:40:18+00:00",
+      "summary": " Οι Αμερικανοί έλαβαν την απόφασή τους. Γερουσία και Βουλή των Αντιπροσώπων πέρασαν στον έλεγχο των Δημοκρατικών στέλνοντας μήνυμα στον πρόεδρο Ντόναλντ Τραμπ για αλλαγή πολιτικής. Συγχρόνως το μήνυμα ενάντια στις&#8230; \n  «Έγραψαν Ιστορία»: Οι πρωταγωνιστές των ενδιάμεσων εκλογών που γκρέμισαν στερεότυπα  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/abdull.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΑΜΠΝΤΟΥΛ ΕΛ ΣΑΓΙΕΝΤ",
+        "ΓΕΡΟΥΣΙΑ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΗΠΑ",
+        "ΚΟΓΚΡΕΣΟ",
+        "ΜΙΣΙΓΚΑΝ",
+        "ΤΕΞΑΣ",
+        "ΤΖΕΙΜΣ ΤΑΛΑΡΙΚΟ"
+      ],
+      "id": "d6baef678edf3fc97bfdb303",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Βόρεια Μακεδονία: Αιχμές της ΕE για μη χρήση της συνταγματικής ονομασίας",
+      "link": "https://www.skai.gr/news/world/voreia-makedonia-aixmes-ee-gia-mi-xrisi-tis-syntagmatikis-onomasias",
+      "date": "2026-11-04T20:35:27+00:00",
+      "summary": "Αιχμές για τη στάση κυβερνητικών στελεχών της Βόρειας Μακεδονίας απέναντι στη Συμφωνία των Πρεσπών διατυπώνει η Ευρωπαϊκή Επιτροπή",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-05/northmacedoniaflag_ape_0.jpg?itok=jStyvvDH",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "0ddb568ef1e08d33da7ba325",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Καταρρέει το σχέδιο του Τραμπ για αναδιαμόρφωση της Fed, μετά την επικράτηση των Δημοκρατικών",
+      "link": "https://www.skai.gr/news/world/fed-ta-apotelesmata-ton-eklogon-mplokaroun-tis-allages-pou-thelei-o-tramp",
+      "date": "2026-11-04T20:33:06+00:00",
+      "summary": "Μια Γερουσία υπό τον έλεγχο των Δημοκρατικών θα μπλοκάρει πιθανότατα κάθε αντικαταστάτη που θεωρεί ότι δεν διαθέτει επαρκή ανεξαρτησία από τη διακυβέρνηση",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap_fed_sima.jpg?itok=EB4Me9DB",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "dc2911078679c60b82d9574b",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Έμιλι Μέιτλις στον ΣΚΑΪ: «Η εκλογική ήττα του Τραμπ μπορεί να φέρει ξανά στο προσκήνιο το σκάνδαλο Έπσταϊν»",
+      "link": "https://www.skai.gr/news/world/meitlis-ston-skai-i-itta-tramp-isos-ksanaferei-sto-proskinio-to-skandalo-epstain",
+      "date": "2026-11-04T20:26:33+00:00",
+      "summary": "«Χρήσιμος ηλίθιος του Νετανιάχου ο Τραμπ», η σκληρή αποτίμηση της δημοσιογράφου για την απόφαση του προέδρου να οδηγήσει τις ΗΠΑ σε πόλεμο με το Ιράν",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/meitlis_youtube.png?itok=IOboJQj9",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "abda75cbae7d979e28d5cff6",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Σοκ για τον Ίλον Μασκ: Απώλειες $120 δισ. μετά τη νίκη των Δημοκρατικών στο Τέξας",
+      "link": "https://www.skai.gr/news/business/sok-gia-ton-ilon-mask-apoleies-120-dis-meta-ti-niki-ton-dimokratikon-sto-teksas",
+      "date": "2026-11-04T20:16:14+00:00",
+      "summary": "Η σαρωτική νίκη του κόμματος σε εθνικό επίπεδο προσθέτει ένα επιπλέον επίπεδο ρίσκου, καθώς ο Μασκ αποτελεί εξέχοντα δωρητή των Ρεπουμπλικανών",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap_musk.jpg?itok=OtipJKx4",
+      "categories": [
+        "BUSINESS"
+      ],
+      "id": "a9e2c9c34884d62840647bd8",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ουίλιαμ και Χάρι: O λόγος που «επανενώνονται» παρά την προσωπική τους ρήξη",
+      "link": "https://www.skai.gr/news/world/ouiliam-kai-xari-o-logos-pou-epanenonontai-para-tin-riksi-tous",
+      "date": "2026-11-04T20:11:04+00:00",
+      "summary": "Η τελευταία κοινή εμφάνιση των γιων του βασιλιά Καρόλου ήταν η αποκάλυψη αγάλματος προς τιμήν της αείμνηστης μητέρας τους στο παλάτι του Κένσινγκτον",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2023-01/william-harry_ap.jpg?itok=3pA16D9o",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "063dbc2b49599f0803840583",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Οι Δημοκρατικοί ετοιμάζονται για «πόλεμο» με τον Τραμπ - Η βαριά ατζέντα μετά τη σαρωτική νίκη στο Κογκρέσο",
+      "link": "https://www.skai.gr/news/world/oi-dimokratikoi-etoimazontai-gia-polemo-me-ton-tramp-i-varia-atzenta-meta-ti-sarotiki-niki",
+      "date": "2026-11-04T20:05:10+00:00",
+      "summary": "Σχεδιάζουν φορολογικές ανατροπές, αυστηρότερους κανόνες για την AI και παρεμβάσεις στον πόλεμο στο Ιράν - Τα όρια του προεδρικού βέτο και η μάχη για τον προϋπολογισμό",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/capitol_ap.jpg?itok=Z0C7m0Pe",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "4fa219a319b7be3be8f9423f",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Πώς οι Δημοκρατικοί διεύρυναν τον εκλογικό τους χάρτη και κέρδισαν την αγροτική Αμερική",
+      "link": "https://www.naftemporiki.gr/kosmos/2184711/pos-oi-dimokratikoi-dieyrynan-ton-eklogiko-toys-charti-kai-kerdisan-tin-agrotiki-ameriki/?utm_source=rss&utm_medium=rss&utm_campaign=pos-oi-dimokratikoi-dieyrynan-ton-eklogiko-toys-charti-kai-kerdisan-tin-agrotiki-ameriki",
+      "date": "2026-11-04T20:00:56+00:00",
+      "summary": " Μια εκδήλωση συγκέντρωσης πόρων του Δημοκρατικού Κόμματος στην κομητεία Γουόρεν της Αϊόβα, τον Οκτώβριο του 2025, είχε τόσο μεγάλη προσέλευση, που ο τοπικός πρόεδρος του κόμματος, Τζιμ Κάλμπερτ, αναγκάστηκε να&#8230; \n  Πώς οι Δημοκρατικοί διεύρυναν τον εκλογικό τους χάρτη και κέρδισαν την αγροτική Αμερική  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/ipa_dimokratikoi_agrotiki_ameriki.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΔΗΜΟΚΡΑΤΙΚΟΙ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΗΠΑ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ",
+        "ΡΕΠΟΥΜΠΛΙΚΑΝΟΙ"
+      ],
+      "id": "5eef2f55b8ffeef2e2536f19",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ο Μπομπ ο ποιητής συνάντησε τον Μπομπ τον ιερέα: Ο Πάπας Λέων υποδέχθηκε τον Μπομπ Ντίλαν στο Βατικανό",
+      "link": "https://www.skai.gr/news/world/istoriki-synantisi-sto-vatikano-o-papas-leon-ypodexthike-ton-mpomp-ntilan",
+      "date": "2026-11-04T19:58:59+00:00",
+      "summary": "Η συνάντηση πραγματοποιήθηκε με τη μεσολάβηση του αιδεσιμότατου Αντόνιο Σπάνταρο, ο οποίος μίλησε για μια συνάντηση με μια «πραγματική αίσθηση ιστορικότητας»",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap_papas_dylan.jpg?itok=OV6_-bao",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "227e6c0b661611b03dc040d8",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ενδιάμεσες εκλογές ΗΠΑ: Οι Δημοκρατικοί τώρα θα πρέπει να αποδείξουν ότι μπορούν…",
+      "link": "https://www.naftemporiki.gr/kosmos/2184481/endiameses-ipa-oi-dimokratikoi-tora-tha-prepei-na-apodeixoyn-oti-mporoyn/?utm_source=rss&utm_medium=rss&utm_campaign=endiameses-ipa-oi-dimokratikoi-tora-tha-prepei-na-apodeixoyn-oti-mporoyn",
+      "date": "2026-11-04T19:56:21+00:00",
+      "summary": " Η επικράτηση των Δημοκρατικών στις ενδιάμεσες εκλογές στις ΗΠΑ συνιστά ένα από τα πιο ηχηρά μηνύματα αποδοκιμασίας προς εν ενεργεία πρόεδρο στη σύγχρονη πολιτική ιστορία της χώρας. \nΟ Ντόναλντ Τραμπ&#8230; \n  Ενδιάμεσες εκλογές ΗΠΑ: Οι Δημοκρατικοί τώρα θα πρέπει να αποδείξουν ότι μπορούν&#8230;  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/capitol-1.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΔΗΜΟΚΡΑΤΙΚΟΙ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΗΠΑ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ",
+        "ΡΕΠΟΥΜΠΛΙΚΑΝΟΙ"
+      ],
+      "id": "c6a53c45e470d74f2b93b945",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ο Ρίτερ διαδέχεται την Κοβέσι στην ηγεσία της Ευρωπαϊκής Εισαγγελίας",
+      "link": "https://www.skai.gr/news/world/o-riter-diadexetai-tin-kovesi-stin-igesia-tis-eyropaikis-eisaggelias",
+      "date": "2026-11-04T19:55:28+00:00",
+      "summary": "Ο Γερμανός Αντρές Ρίτερ ανέλαβε την ηγεσία της Ευρωπαϊκής Εισαγγελίας (EPPO), διαδεχόμενος τη Λάουρα Κοβέσι. Η θητεία του ξεκινά με χιλιάδες υποθέσεις οικονομικής απάτης υπό διερεύνηση.",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/feedelio/556633f7738c620ea5d5c07dfaccf7fb-79821671-302.jpg?itok=bHXxdMDq",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "87633eef68e98d526562ae9f",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Ισραήλ: Ο Άιζενκοτ υπόσχεται στενότερη συνεργασία με τον Τραμπ για τη σταθερότητα στη Μέση Ανατολή",
+      "link": "https://www.naftemporiki.gr/society/2184712/israil-o-aizenkot-yposchetai-stenoteri-synergasia-me-ton-tramp-gia-ti-statherotita-sti-mesi-anatoli/?utm_source=rss&utm_medium=rss&utm_campaign=israil-o-aizenkot-yposchetai-stenoteri-synergasia-me-ton-tramp-gia-ti-statherotita-sti-mesi-anatoli",
+      "date": "2026-11-04T19:52:33+00:00",
+      "summary": " Ο επικεφαλής του αντιπολιτευόμενου συνασπισμού στο Ισραήλ, Γκάντι Άιζενκοτ, δεσμεύτηκε την Τετάρτη ότι, εφόσον αναλάβει την πρωθυπουργία, θα επιδιώξει την ενίσχυση των σχέσεων της χώρας με τις Ηνωμένες Πολιτείες, τονίζοντας&#8230; \n  Ισραήλ: Ο Άιζενκοτ υπόσχεται στενότερη συνεργασία με τον Τραμπ για τη σταθερότητα στη Μέση Ανατολή  -  Η ΝΑΥΤΕΜΠΟΡΙ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/10/aizenkot_trampnetaniaxou_israil.jpg",
+      "categories": [
+        "Κοινωνία",
+        "ΓΚΑΝΤΙ ΑΙΖΕΝΚΟΤ",
+        "ΙΣΡΑΗΛ"
+      ],
+      "id": "75fb889689d00df657cf3b39",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Κρις Βαν Χόλεν στον ΣΚΑΪ: «Διεφθαρμένη η κυβέρνηση Τραμπ - Ξεκινάμε αμέσως έρευνες»",
+      "link": "https://www.skai.gr/news/world/kris-van-xolen-sto-skai-dieftharmeni-i-kyvernisi-i-tramp-ksekiname-ereyna",
+      "date": "2026-11-04T19:50:48+00:00",
+      "summary": "«Έχουμε δει τον ίδιο και την οικογένειά του να βγάζουν χρήματα με κάθε τρόπο - Και τα δύο κόμματα ανησυχούν με την πιθανότητα να δοθούν τα F-35 στην Τουρκία»",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/vanhollen_ap.jpg?itok=CqhvvROp",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "c6b3cd59671d0d73d9e38715",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Επιδημία χολέρας στο Κονγκό: 1.800 νεκροί από την αρχή του έτους",
+      "link": "https://www.skai.gr/news/health/epidimia-xoleras-sto-kongko-1800-nekroi-apo-tin-arxi-tou-etous",
+      "date": "2026-11-04T19:43:26+00:00",
+      "summary": "Πέραν του Έμπολα «η ΛΔ Κονγκό βιώνει επίσης τη χειρότερη επιδημία χολέρας των τελευταίων δεκαετιών, με περισσότερα από 60.000 κρούσματα» αναφέρει ο ΠΟΥ",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap_xolera_nigiria.jpg?itok=rUO07bvO",
+      "categories": [
+        "Υγεία"
+      ],
+      "id": "6321cc4779d29831f50bd83b",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Μητσοτάκης για Μασκ: Δεν μπορείς να εξαγοράσεις μια εκλογική αναμέτρηση, όσο πλούσιος κι αν είσαι (Βίντεο)",
+      "link": "https://www.naftemporiki.gr/politics/2184696/mitsotakis-gia-mask-den-mporeis-na-exagoraseis-mia-eklogiki-anametrisi-oso-ploysios-ki-an-eisai-vinteo/?utm_source=rss&utm_medium=rss&utm_campaign=mitsotakis-gia-mask-den-mporeis-na-exagoraseis-mia-eklogiki-anametrisi-oso-ploysios-ki-an-eisai-vinteo",
+      "date": "2026-11-04T19:42:40+00:00",
+      "summary": " Στο αποτέλεσμα των ενδιάμεσων εκλογών στις ΗΠΑ και συγκεκριμένα στην εμπλοκή του Έλον Μασκ μέσω χρηματοδότησης των Ρεπουμπλικάνων αναφέρθηκε ο πρωθυπουργός Κυριάκος Μητσοτάκης, σε συζήτηση με τον φωτογράφο Platon, στο&#8230; \n  Μητσοτάκης για Μασκ: Δεν μπορείς να εξαγοράσεις μια εκλογική αναμέτρηση, όσο πλούσιος κι αν είσαι (Βίντεο)  -  Η ΝΑΥΤΕΜΠΟ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/mitsotakis_mask_eksagora.jpg",
+      "categories": [
+        "Πολιτική",
+        "ΔΗΜΟΚΡΑΤΙΚΟΙ",
+        "ΕΛΟΝ ΜΑΣΚ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΚΥΡΙΑΚΟΣ ΜΗΤΣΟΤΑΚΗΣ",
+        "ΡΕΠΟΥΜΠΛΙΚΑΝΟΙ",
+        "ΤΕΞΑΣ"
+      ],
+      "id": "b607fb6c4ffc147d13425730",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Αντ. Ταγιάνι: «Δεν ήμασταν ποτέ τραμπιστές, ούτε η Μελόνι ήταν ποτέ Maga»",
+      "link": "https://www.naftemporiki.gr/kosmos/2184700/ant-tagiani-den-imastan-pote-trampistes-oyte-i-meloni-itan-pote-maga/?utm_source=rss&utm_medium=rss&utm_campaign=ant-tagiani-den-imastan-pote-trampistes-oyte-i-meloni-itan-pote-maga",
+      "date": "2026-11-04T19:39:38+00:00",
+      "summary": " «Είμαστε σύμμαχοι, οι οποίοι μιλούν έχοντας πάντα το κεφάλι ψηλά. Όταν συμφωνούμε το λέμε, όπως και όταν διαφωνούμε. Εκφράσαμε την αντίθεσή μας στο θέμα της Γροιλανδίας, του πολέμου στο Ιράν&#8230; \n  Αντ. Ταγιάνι: «Δεν ήμασταν ποτέ τραμπιστές, ούτε η Μελόνι ήταν ποτέ Maga»  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/02/tagiani_symboulio_eirinis.jpg",
+      "categories": [
+        "Κόσμος",
+        "MAGA",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΙΤΑΛΙΑ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ",
+        "ΤΖΟΡΤΖΙΑ ΜΕΛΟΝΙ"
+      ],
+      "id": "0990d2d68a60cb36cb6e5846",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Η ΑΕΚ τρόμαξε την μεγάλη Ρεάλ αλλά λύγισε στις καθυστερήσεις",
+      "link": "https://www.naftemporiki.gr/sports/2184702/i-aek-tromaxe-ti-megali-real-alla-lygise-stis-kathysteriseis/?utm_source=rss&utm_medium=rss&utm_campaign=i-aek-tromaxe-ti-megali-real-alla-lygise-stis-kathysteriseis",
+      "date": "2026-11-04T19:39:27+00:00",
+      "summary": " Η ΑΕΚ έφτασε πολύ κοντά σε μια σπουδαία νίκη απέναντι στη Ρεάλ Μαδρίτης, αλλά έφυγε από το γήπεδο με άδεια χέρια. \nΗ Ένωση κοίταξε στα μάτια τη «βασίλισσα», προηγήθηκε δύο&#8230; \n  Η ΑΕΚ τρόμαξε την μεγάλη Ρεάλ αλλά λύγισε στις καθυστερήσεις  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/5425881.jpg",
+      "categories": [
+        "Αθλητικά",
+        "CHAMPIONS LEAGUE",
+        "ΑΕΚ",
+        "ΠΟΔΟΣΦΑΙΡΟ",
+        "ΡΕΑΛ ΜΑΔΡΙΤΗΣ"
+      ],
+      "id": "bcd19ce07c98c5575d0fb493",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Βενιζέλος στον ΣΚΑΪ: «Νέα αφετηρία για τη Δύση τα αποτελέσματα των ενδιάμεσων εκλογών στις ΗΠΑ»",
+      "link": "https://www.skai.gr/news/politics/venizelos-ston-skai-nea-afetiria-ta-apotelesmata-ton-endiameson-eklogon-ipa",
+      "date": "2026-11-04T19:31:50+00:00",
+      "summary": "Ο Ευάγγελος Βενιζέλος αναλύει τις επιπτώσεις των ενδιάμεσων εκλογών στις ΗΠΑ, τον τραμπισμό και τις προκλήσεις για την ελληνική εξωτερική πολιτική",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/venizelos-euro.jpg?itok=z7YR3A8n",
+      "categories": [
+        "Πολιτική"
+      ],
+      "id": "1da9313eaba55e1f061cb524",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Θεοδωρικάκος: Με την καινοτομία στηρίζουμε την εθνική μας ταυτότητα, τις αξίες και την γλώσσα μας",
+      "link": "https://www.skai.gr/news/culture/theodorikakos-me-tin-kainotomia-stirizoume-tin-ethniki-mas-taytotita",
+      "date": "2026-11-04T19:29:34+00:00",
+      "summary": "«Η έρευνα, η καινοτομία και οι νέες τεχνολογίες είναι βασικοί πυλώνες για μια πιο παραγωγική και πιο ανταγωνιστική οικονομία», τόνισε",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ypanaptyksis_theodorikakos.jpeg?itok=EsJNwfj2",
+      "categories": [
+        "Πολιτισμός"
+      ],
+      "id": "69b9bf1d3d28e62c8c21e550",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Βαθμολογία UEFA: Κρατά γερά τη 10η θέση η Ελλάδα",
+      "link": "https://www.skai.gr/news/sports/vathmologia-uefa-krata-gera-ti-10i-thesi-i-ellada",
+      "date": "2026-11-04T19:23:53+00:00",
+      "summary": "Ο Ολυμπιακός πρόσθεσε ακόμη 200 βαθμούς στην Ελλάδα μετά το 0-0 με τη Ρεν, αυξάνοντας την απόσταση από Τσεχία και Πολωνία στη μάχη για τη 10η θέση της βαθμολογίας της UEFA",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/uefa.jpg?itok=4Cm7G_jy",
+      "categories": [
+        "Αθλητικά"
+      ],
+      "id": "5864527291e244dd81477c79",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Nίκη Κεραμέως: Φρένο στις απολύσεις από αλγόριθμους – Επιδότηση 90% για 1.000 θέσεις τηλεργασίας",
+      "link": "https://www.naftemporiki.gr/finance/economy/2184672/niki-kerameos-freno-stis-apolyseis-apo-algorithmoys-epidotisi-90-gia-1-000-theseis-tilergasias/?utm_source=rss&utm_medium=rss&utm_campaign=niki-kerameos-freno-stis-apolyseis-apo-algorithmoys-epidotisi-90-gia-1-000-theseis-tilergasias",
+      "date": "2026-11-04T19:19:04+00:00",
+      "summary": " Κανόνες στη χρήση της τεχνητής νοημοσύνης στην αγορά εργασίας, με υποχρεωτική ανθρώπινη εποπτεία σε κρίσιμες αποφάσεις, όπως οι απολύσεις, φέρνει νέο νομοσχέδιο του υπουργείου Εργασίας, όπως ανακοίνωσε η υπουργός Νίκη&#8230; \n  Nίκη Κεραμέως: Φρένο στις απολύσεις από αλγόριθμους – Επιδότηση 90% για 1.000 θέσεις τηλεργασίας  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/KERAMEWS.jpeg",
+      "categories": [
+        "Οικονομία",
+        "LEADERS OF THE GREEK ECONOMY",
+        "ΝΙΚΗ ΚΕΡΑΜΕΩΣ"
+      ],
+      "id": "018974c42aec84f0a566776e",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Κατερίνη: Θύμα τηλεφωνικής απάτης 76χρονη - Έκλεψαν 10.000 ευρώ και ίσης αξίας κοσμήματα",
+      "link": "https://www.skai.gr/news/greece/katerini-thyma-tilefonikis-apatis-76xroni-eklepsan-10000-eyro-kai-kosmimata",
+      "date": "2026-11-04T19:17:23+00:00",
+      "summary": "38χρονος και συνεργός του τηλεφώνησε στην παθούσα προσποιούμενος τον αστυνομικό και της ζήτησε να συγκεντρώσει τα χρήματα και κοσμήματα που έχει στο σπίτι",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-09/shutterstock-tilefono-apati.jpg?itok=6tOKX9pX",
+      "categories": [
+        "Ελλάδα"
+      ],
+      "id": "712f81bcbd4e83345af362bb",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Μερτς για ενδιάμεσες εκλογές στις ΗΠΑ: Εδώ και δύο χρόνια ο Τραμπ κυβερνά χωρίς να συμβουλεύεται το Κογκρέσο, γιατί να αλλάξει τώρα;",
+      "link": "https://www.naftemporiki.gr/kosmos/2184691/merts-gia-endiameses-ekloges-stis-ipa-edo-kai-dyo-chronia-o-tramp-kyverna-choris-na-symvoyleyetai-to-kogkreso-giati-na-allaxei-tora/?utm_source=rss&utm_medium=rss&utm_campaign=merts-gia-endiameses-ekloges-stis-ipa-edo-kai-dyo-chronia-o-tramp-kyverna-choris-na-symvoyleyetai-to-kogkreso-giati-na-allaxei-tora",
+      "date": "2026-11-04T19:15:33+00:00",
+      "summary": " Ο Γερμανός καγκελάριος Φρίντριχ Μερτς δήλωσε σήμερα πως θεωρεί ότι ο αμερικανός πρόεδρος Ντόναλντ Τραμπ θα παρακάμψει το Κογκρέσο των ΗΠΑ καταφεύγοντας σε εκτελεστικά διατάγματα, μετά τη σαρωτική νίκη των&#8230; \n  Μερτς για ενδιάμεσες εκλογές στις ΗΠΑ: Εδώ και δύο χρόνια ο Τραμπ κυβερνά χωρίς να συμβουλεύεται το Κογκρέσο, γιατί να αλλάξει τώρα;  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/merts_tramp_kogkreso.jpg",
+      "categories": [
+        "Κόσμος",
+        "ΓΕΡΜΑΝΙΑ",
+        "ΔΗΜΟΚΡΑΤΙΚΟΙ",
+        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ",
+        "ΚΟΓΚΡΕΣΟ",
+        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ",
+        "ΦΡΙΝΤΡΙΧ ΜΕΡΤΣ"
+      ],
+      "id": "44b9569fa276addf57f802a2",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Jumbo: Αύξηση πωλήσεων 6,7% στο 10μηνο, άλμα 13% τον Οκτώβριο - Απέδωσε η στρατηγική συγκράτησης των τιμών",
+      "link": "https://www.skai.gr/news/business/jumbo-ayksisi-poliseon-67-sto-10mino-alma-13-ton-oktovrio",
+      "date": "2026-11-04T19:15:23+00:00",
+      "summary": "Συνεχίζεται η επέκταση του δικτύου καταστημάτων – Στα 295,6 εκατ. ευρώ οι συνολικές διανομές προς τους μετόχους το 2026",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-10/shutterstock_jumbo.jpg?itok=n6lga60v",
+      "categories": [
+        "BUSINESS"
+      ],
+      "id": "d8e97b83df6bb8660fc04f64",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Κραυγές από το 1920: Επιστολή-κόλαφος των κατοίκων της Πουλαντζάκης για τη Γενοκτονία στον Πόντο",
+      "link": "https://www.naftemporiki.gr/society/2184687/krayges-apo-to-1920-epistoli-kolafos-ton-katoikon-tis-poylantzakis-gia-ti-genoktonia-ston-ponto/?utm_source=rss&utm_medium=rss&utm_campaign=krayges-apo-to-1920-epistoli-kolafos-ton-katoikon-tis-poylantzakis-gia-ti-genoktonia-ston-ponto",
+      "date": "2026-11-04T19:04:31+00:00",
+      "summary": " Μια συγκλονιστική μαρτυρία, με ημερομηνία 5 Μαρτίου 1920, άφησαν πίσω τους κάτοικοι της Πουλαντζάκης (Πουλαντζάκ’) στα παράλια του Εύξεινου Πόντου και μόλις 15 χιλιόμετρα δυτικά της Κερασούντας. Το ιστορικό ντοκουμέντο&#8230; \n  Κραυγές από το 1920: Επιστολή-κόλαφος των κατοίκων της Πουλαντζάκης για τη Γενοκτονία στον Πόντο  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/bulancak_poulantzaki.jpg",
+      "categories": [
+        "Κοινωνία",
+        "PONTOS NEWS",
+        "ΠΟΝΤΟΣ"
+      ],
+      "id": "dbb0ebf7fa91586f82f37664",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Leaders of the Greek Economy 2026 – Μητροπολίτης Γαβριήλ: Η τεχνητή νοημοσύνη μπορεί να μας δείξει τι είναι εφικτό, όχι όμως τι είναι δίκαιο",
+      "link": "https://www.naftemporiki.gr/finance/economy/2184681/leaders-of-the-greek-economy-2026-mitropolitis-gavriil-i-texniti-nohmosyni-mporei-na-mas-deixei-ti-einai-efikto-oxi-omos-ti-einai-dikaio/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-of-the-greek-economy-2026-mitropolitis-gavriil-i-texniti-nohmosyni-mporei-na-mas-deixei-ti-einai-efikto-oxi-omos-ti-einai-dikaio",
+      "date": "2026-11-04T18:58:51+00:00",
+      "summary": " Για την ηθική διάσταση της ηγεσίας, την ευθύνη των αποφάσεων και τα όρια της τεχνολογίας μίλησε ο Μητροπολίτης Νέας Ιωνίας, Φιλαδελφείας, Ηρακλείου και Χαλκηδόνος κ. Γαβριήλ, στην εκδήλωση Leaders of&#8230; \n  Leaders of the Greek Economy 2026 – Μητροπολίτης Γαβριήλ: Η τεχνητή νοημοσύνη μπορεί να μας δείξει τι είναι εφικτό, όχι όμως τι είναι δίκαι",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/mitropolitis_gabrihl-e1793818726365.jpg",
+      "categories": [
+        "Οικονομία",
+        "LEADERS OF THE GREEK ECONOMY",
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ",
+        "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
+        "ΨΗΦΙΑΚΟΣ ΜΕΤΑΣΧΗΜΑΤΙΣΜΟΣ"
+      ],
+      "id": "115f5697c51150d7e480e88e",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
+      "title": "Leaders of the Greek Εconomy: Ράνια Αικατερινάρη (ΣΕΒ): ΑΙ, κλιματική αλλαγή και γεωπολιτικές εντάσεις αλλάζουν τους κανόνες του ανταγωνισμού",
+      "link": "https://www.naftemporiki.gr/finance/economy/2184675/leaders-of-the-greek-economy-rania-aikaterinari-sev-ai-klimatiki-allagi-kai-geopolitikes-entaseis-allazoyn-toys-kanones-toy-antagonismoy/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-of-the-greek-economy-rania-aikaterinari-sev-ai-klimatiki-allagi-kai-geopolitikes-entaseis-allazoyn-toys-kanones-toy-antagonismoy",
+      "date": "2026-11-04T18:54:06+00:00",
+      "summary": " Tην ανάγκη για ισχυρές διοικητικές ομάδες, επενδύσεις στις νέες τεχνολογίες και έγκαιρη προετοιμασία της διαδοχής στις ελληνικές επιχειρήσεις τόνισε η η Ράνια Αικατερινάρη, πρόεδρος της Εκτελεστικής Επιτροπής και Αντιπρόεδρος του&#8230; \n  Leaders of the Greek Εconomy: Ράνια Αικατερινάρη (ΣΕΒ): ΑΙ, κλιματική αλλαγή και γεωπολιτικές εντάσεις αλλάζο",
+      "sources": [
+        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
+      ],
+      "weight": 1.0,
+      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/aikaterinari_rania.jpg",
+      "categories": [
+        "Οικονομία",
+        "LEADERS OF THE GREEK ECONOMY",
+        "ΣΕΒ"
+      ],
+      "id": "f37e617889c57b44c0619007",
+      "selected_at": "2026-11-04T23:57:05.188372+00:00"
+    },
+    {
       "title": "Στη Μαδρίτη ο Ζελένσκι: Συναντήσεις με Σάντσεθ και άλλους ηγέτες στο πλαίσιο της Ιβηρο-αμερικανικής Συνόδου",
       "link": "https://www.skai.gr/news/world/zelenski-synantiseis-me-santseth-kai-allous-igetes-sto-plaisio-tis-iviro-amerikanikis-syno",
       "date": "2026-11-04T18:42:40+00:00",
@@ -9559,747 +10385,6 @@
       "categories": [],
       "id": "3f21faa7d57b84f62354e29f",
       "selected_at": "2026-11-02T04:30:28.296448+00:00"
-    },
-    {
-      "title": "Η τραγική στιγμή συντριβής μικρού αεροπλάνου σε κατοικημένη περιοχή του Παλμ Μπιτς",
-      "link": "https://www.naftemporiki.gr/kosmos/2183011/i-tragiki-stigmi-syntrivis-mikroy-aeroplanoy-se-katoikimeni-periochi-toy-palm-mpits/?utm_source=rss&utm_medium=rss&utm_campaign=i-tragiki-stigmi-syntrivis-mikroy-aeroplanoy-se-katoikimeni-periochi-toy-palm-mpits",
-      "date": "2026-11-01T22:14:46+00:00",
-      "summary": " Εννέα άνθρωποι σκοτώθηκαν σήμερα κατά τη συντριβή ενός μικρού αεροπλάνου στη Φλόριντα, στις νοτιοανατολικές Ηνωμένες Πολιτείες, ανακοίνωσε ο Αμερικανός υπουργός Μεταφορών Σον Ντάφι, στην πλατφόρμα X. \nΤο αεροπλάνο συνετρίβη σε&#8230; \n  Η τραγική στιγμή συντριβής μικρού αεροπλάνου σε κατοικημένη περιοχή του Παλμ Μπιτς  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/aeroplano.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΑΕΡΟΠΛΑΝΑ",
-        "ΑΕΡΟΠΟΡΙΚΑ ΔΥΣΤΥΧΗΜΑΤΑ",
-        "ΗΠΑ"
-      ],
-      "id": "bb8871f3143ec75b98dd78ae",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Μάικλ Μαν: Όπλο « εκπυρσοκρότησε ενώ βρισκόταν στη θήκη του» – Ελαφρά τραυματίας ο σκηνοθέτης",
-      "link": "https://www.naftemporiki.gr/kosmos/2183009/maikl-man-oplo-ekpyrsokrotise-eno-vriskotan-sti-thiki-toy-elafra-traymatias-o-skinothetis/?utm_source=rss&utm_medium=rss&utm_campaign=maikl-man-oplo-ekpyrsokrotise-eno-vriskotan-sti-thiki-toy-elafra-traymatias-o-skinothetis",
-      "date": "2026-11-01T22:02:34+00:00",
-      "summary": " «Ένα όπλο εκπυρσοκρότησε κατά λάθος ενώ βρισκόταν στη θήκη του, προκαλώντας ένα επιφανειακό τραύμα. Έλαβε τις πρώτες βοήθειες και αναμένεται να πάρει εξιτήριο» από το νοσοκομείο, δήλωσε σήμερα η εκπρόσωπός&#8230; \n  Μάικλ Μαν: Όπλο « εκπυρσοκρότησε ενώ βρισκόταν στη θήκη του» &#8211; Ελαφρά τραυματίας ο σκηνοθέτης  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/Michael-Mann-e1793570525939.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΗΠΑ"
-      ],
-      "id": "10df50447451d1e5549eed28",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Τα προεκλογικά τεχνάσματα του Τραμπ δεν μπορούν να κρύψουν το οικονομικό κόστος των δασμών",
-      "link": "https://www.skai.gr/news/world/ta-proeklogika-texnasmata-tou-tramp-den-mporoun-na-krypsoun-to-oikonomiko-kostos-ton-dasmo",
-      "date": "2026-11-01T22:01:07+00:00",
-      "summary": "Η Kate Andrews είναι αρθρογράφος της Washington Post - Οι ψηφοφόροι θα έχουν πολλά να πουν όταν προσέλθουν στις κάλπες την Τρίτη",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26304039384685.jpg?itok=RFIH_Y49",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "225a29d6eab780a2347cd5f0",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Όποιος πρόλαβε… σύνταξη είδε – «’Ωρα μηδέν» για τις συντάξεις στην Ευρώπη",
-      "link": "https://www.naftemporiki.gr/finance/world/2183007/opoios-prolave-syntaxi-eide-ora-miden-gia-tis-syntaxeis-stin-eyropi/?utm_source=rss&utm_medium=rss&utm_campaign=opoios-prolave-syntaxi-eide-ora-miden-gia-tis-syntaxeis-stin-eyropi",
-      "date": "2026-11-01T21:45:51+00:00",
-      "summary": " Το συνταξιοδοτικό σύστημα στην Ευρώπη, βρίσκεται σε μια ιστορική και εξαιρετικά κρίσιμη καμπή. Η παραδοσιακή αρχιτεκτονική της κοινωνικής ασφάλισης κλονίζεται συθέμελα, εγκλωβισμένη ανάμεσα στις συμπληγάδες των εξαντλημένων δημόσιων οικονομικών και&#8230; \n  Όποιος πρόλαβε&#8230; σύνταξη είδε &#8211; «&#8217;Ωρα μηδέν» για τις συντάξεις στην Ευρώπ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2023/01/anthrwpoi.jpeg",
-      "categories": [
-        "Διεθνή",
-        "ΕΥΡΩΠΗ",
-        "ΣΥΝΤΑΞΕΙΣ"
-      ],
-      "id": "f296334d6cc9a8bfaa443a86",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Ιράν: Εξερράγησαν 2 τάνκερ, όταν έπεσαν σε νάρκες",
-      "link": "https://www.naftemporiki.gr/kosmos/2183006/iran-exerragisan-2-tanker-otan-epesan-se-narkes/?utm_source=rss&utm_medium=rss&utm_campaign=iran-exerragisan-2-tanker-otan-epesan-se-narkes",
-      "date": "2026-11-01T21:23:23+00:00",
-      "summary": " Δύο πετρελαιοφόρα εξερράγησαν αφότου έπεσαν σε νάρκες, ενώ έπλεαν μέσω μιας «μη εγκεκριμένης διαδρομής» στα Στενά του Ορμούζ, όπως ανακοίνωσαν σήμερα οι ναυτικές δυνάμεις των Φρουρών της Ισλαμικής Επανάστασης του&#8230; \n  Ιράν: Εξερράγησαν 2 τάνκερ, όταν έπεσαν σε νάρκες  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/10/iran_paranomes_diadromes_ormouz.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΕΠΙΘΕΣΗ ΗΠΑ - ΙΣΡΑΗΛ ΣΤΟ ΙΡΑΝ",
-        "ΙΡΑΝ",
-        "ΣΤΕΝΑ ΟΡΜΟΥΖ",
-        "ΤΑΝΚΕΡ"
-      ],
-      "id": "ca7dd51a4c88c164e209c94e",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Συγχαρητήρια Φον ντερ Λάιεν στην Ιλιάνα Γιότοβα για τη νίκη της στις προεδρικές εκλογές της Βουλγαρίας",
-      "link": "https://www.skai.gr/news/world/sygxaritiria-fon-nter-laien-stin-iliana-giotova-gia-ti-niki-tis-stis-proedrikes-ekloges-ti",
-      "date": "2026-11-01T21:22:23+00:00",
-      "summary": "«Από την ασφάλεια και την άμυνα μέχρι την ανταγωνιστικότητα και την ενεργειακή μας ανεξαρτησία, προσβλέπω στη συνέχιση της συνεργασίας μας», έγραψε η φον ντερ Λάιεν σε ανάρτησή της στο X",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-09/ursula_von_der_leyen_ap.jpg?itok=HIwmvZCq",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "6c4364c4d70205e3a1206cf0",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Εθνικό Αστεροσκοπείο Αθηνών: Περισσότερα από 140 χιλιοστά βροχής καταγράφηκαν στη Θάσο",
-      "link": "https://www.skai.gr/news/greece/simantikes-vroxoptoseis-sti-thaso-perissotera-apo-140-xiliosta-vroxis",
-      "date": "2026-11-01T21:05:07+00:00",
-      "summary": "Ειδικότερα, έως τις 17:40 το μεγαλύτερο ύψος αθροιστικού υετού καταγράφηκε στον Λιμένα Θάσου (144 χιλιοστά), ενώ περισσότερα από 125 χιλιοστά στη Μεγίστη Λαύρα του Αγίου Όρους",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_thasos_vroxes.jpg?itok=GLba2Cm2",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "dc5443d49e1733236388b57c",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Πολιτικός σεισμός στο Μίσιγκαν: Δημοκρατική βουλευτής στηρίζει τον Ρεπουμπλικάνο υποψήφιο δύο μέρες πριν τις κάλπες",
-      "link": "https://www.skai.gr/news/world/misigkan-dimokratiki-vouleytis-stirizei-ton-repoumplikano-ypopsifio-dyo-meres-prin-tis-kal",
-      "date": "2026-11-01T20:55:34+00:00",
-      "summary": "Η Στίβενς, μέλος της Βουλής των Αντιπροσώπων, και ο Ελ Σαγιέντ, ο οποίος την κέρδισε οριακά στις προκριματικές εκλογές των Δημοκρατικών για τη Γερουσία, διαφωνούν εδώ και μέρες για την αμερικανικη πολιτική σε σχέση με το Ισραήλ",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26305624303454.jpg?itok=UZ9sUCYT",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "df34179cb204ab7077ba4d41",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Θεσσαλονίκη:  38 προσαγωγές, μεταξύ των οποίων και ανήλικοι, όταν εθνικιστικές ομάδες επιχείρησαν να «σπάσουν» αντιφασιστική συγκέντρωση",
-      "link": "https://www.naftemporiki.gr/society/2183005/thessaloniki-38-prosagoges-metaxy-ton-opoion-kai-anilikoi-otan-ethnikistikes-omades-epicheirisan-na-spasoyn-antifasistiki-sygkentrosi/?utm_source=rss&utm_medium=rss&utm_campaign=thessaloniki-38-prosagoges-metaxy-ton-opoion-kai-anilikoi-otan-ethnikistikes-omades-epicheirisan-na-spasoyn-antifasistiki-sygkentrosi",
-      "date": "2026-11-01T20:54:25+00:00",
-      "summary": " Σε 38 προσαγωγές, μεταξύ των οποίων και αρκετών ανηλίκων, προχώρησε η Ελληνική Αστυνομία, με αφορμή αντιφασιστική συγκέντρωση στην Πλατεία Ελευθερίας στην Ηλιούπολη, στη Θεσσαλονίκη, που είχε προγραμματιστεί για σήμερα στις&#8230; \n  Θεσσαλονίκη:  38 προσαγωγές, μεταξύ των οποίων και ανήλικοι, όταν εθνικιστικές ομάδες επιχείρησαν να «σπάσουν» αντι",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2025/10/ELAS_peripoliko.jpg",
-      "categories": [
-        "Κοινωνία",
-        "ΑΣΤΥΝΟΜΙΚΟ ΔΕΛΤΙΟ",
-        "ΘΕΣΣΑΛΟΝΙΚΗ"
-      ],
-      "id": "5b94ec06d32e05fcbfd80e0c",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Νέο Ηράκλειο: Ομάδα 40–50 ατόμων επιτέθηκε σε αστυνομικές δυνάμεις στη διάρκεια πορείας",
-      "link": "https://lawandorder.gr/neo-irakleio-omada-40-50-atomon-epitethike-se-astynomikes-dynameis-sti-diarkeia-poreias/",
-      "date": "2026-11-01T20:48:17+00:00",
-      "summary": "Στο Νέο Ηράκλειο Αττικής, ομάδα περίπου 40–50 ατόμων επιτέθηκε σε αστυνομικές δυνάμεις το απόγευμα της...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/11/neo-irakleio-1-11.jpg",
-      "categories": [],
-      "id": "d4ba3120da79092d9f6cb2e0",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Ιράν: Εκρήξεις σε δύο τάνκερ μετά από πρόσκρουση σε νάρκες στο Στενό του Ορμούζ",
-      "link": "https://www.skai.gr/news/world/iran-ekrikseis-se-dyo-tanker-meta-apo-proskrousi-se-narkes-sto-steno-tou-ormouz",
-      "date": "2026-11-01T20:39:16+00:00",
-      "summary": "Τα δύο τάνκερ  προσέκρουσαν σε νάρκες ενώ ακολουθούσαν «μη εγκεκριμένη διαδρομή», σύμφωνα με τους Φρουρούς της Επανάστασης του Ιράν",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/hormuz-ap.jpg?itok=jeIJeHv5",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "c0031d9c66dd0162a0d76e0d",
-      "selected_at": "2026-11-01T23:55:04.617881+00:00"
-    },
-    {
-      "title": "Θεσσαλονική: Προσαγωγές 38 ατόμων εθνικιστικών ομάδων - Αποτράπηκαν επεισόδια στην αντιφασιστική πορεία",
-      "link": "https://www.skai.gr/news/greece/thessaloniki-prosagoges-atomon-ethnikistikon-omadon-apotropi-epeisodion-stin-antifasistiki",
-      "date": "2026-11-01T20:35:07+00:00",
-      "summary": "Συγκεκριμένα, σήμερα στις 6 το απόγευμα είχε προγραμματιστεί αντιφασιστική συγκέντρωση στην Πλατεία Ελευθερίας στην Ηλιούπολη, στην οποία επιχείρησαν να πάνε",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-07/eurokinissi-astynomia-peripoliko.jpg?itok=54dYlznc",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "6c12d99f926b3b50681e9bd5",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Κακοκαιρία: Ξεπέρασε τα 140 χιλιοστά η βροχόπτωση στη Θάσο",
-      "link": "https://lawandorder.gr/kakokairia-xeperase-ta-140-chiliosta-i-vrochoptosi-sti-thaso/",
-      "date": "2026-11-01T20:32:45+00:00",
-      "summary": "Κακοκαιρία με ισχυρές βροχές και καταιγίδες επικρατεί σήμερα κυρίως στην Κεντρική και Ανατολική Μακεδονία, στα...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/01/kakokairia-keravnos-31-1.jpg",
-      "categories": [],
-      "id": "f56014696567b628f94685b2",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Νέο Ηράκλειο: Eπεισόδια στη συγκέντρωση για τα 13 χρόνια από την επίθεση στα γραφεία της Χρυσής Αυγής",
-      "link": "https://www.naftemporiki.gr/society/2182996/neo-irakleio-epeisodia-sti-sygkentrosi-gia-ta-13-chronia-apo-tin-epithesi-sta-grafeia-tis-chrysis-aygis/?utm_source=rss&utm_medium=rss&utm_campaign=neo-irakleio-epeisodia-sti-sygkentrosi-gia-ta-13-chronia-apo-tin-epithesi-sta-grafeia-tis-chrysis-aygis",
-      "date": "2026-11-01T20:29:04+00:00",
-      "summary": " Επίθεση από ομάδα περίπου 40-50 ατόμων σε αστυνομικές δυνάμεις σημειώθηκε το απόγευμα, κατά τη διάρκεια συγκέντρωσης και πορείας στο Νέο Ηράκλειο Αττικής, για τη συμπλήρωση 13 ετών από την ένοπλη&#8230; \n  Νέο Ηράκλειο: Eπεισόδια στη συγκέντρωση για τα 13 χρόνια από την επίθεση στα γραφεία της Χρυσής Αυγής  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/neo-irakleio.jpg",
-      "categories": [
-        "Κοινωνία",
-        "ΑΣΤΥΝΟΜΙΚΟ ΔΕΛΤΙΟ",
-        "ΕΛΛΗΝΙΚΗ ΑΣΤΥΝΟΜΙΑ",
-        "ΧΡΥΣΗ ΑΥΓΗ"
-      ],
-      "id": "e88e66d7ce290d0a0cb3c20e",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Τζόκερ 1η Νοεμβρίου 2026: Οι τυχεροί αριθμοί για το 1 εκατ. ευρώ",
-      "link": "https://www.naftemporiki.gr/society/2182998/tzoker-1i-noemvrioy-2026-oi-tycheroi-arithmoi-gia-to-1-ekat-eyro/?utm_source=rss&utm_medium=rss&utm_campaign=tzoker-1i-noemvrioy-2026-oi-tycheroi-arithmoi-gia-to-1-ekat-eyro",
-      "date": "2026-11-01T20:21:12+00:00",
-      "summary": " Ολοκληρώθηκε η κλήρωση του Τζόκερ την Κυριακή 1 Νοεμβρίου 2026, με την πρώτη κατηγορία να προσφέρει 1.000.000 ευρώ. \nΟι τυχεροί αριθμοί είναι: \n11, 20, 27, 34, 43 \nΑριθμός Τζόκερ: 19&#8230; \n  Τζόκερ 1η Νοεμβρίου 2026: Οι τυχεροί αριθμοί για το 1 εκατ. ευρώ  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2024/01/Tzoker.jpeg",
-      "categories": [
-        "Κοινωνία",
-        "ΤΖΟΚΕΡ"
-      ],
-      "id": "9c2141a6b9eeaceb96de17b5",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Νέο Ηράκλειο: Επίθεση 40-50 ατόμων σε αστυνομικές δυνάμεις κατά τη διάρκεια της αντιφασιστικής πορείας",
-      "link": "https://www.skai.gr/news/greece/neo-irakleio-epithesi-se-astynomikous-stin-antifasistiki-poreia-anakoinose-i-elas",
-      "date": "2026-11-01T20:20:08+00:00",
-      "summary": "Όπως ανακοινώθηκε από την ΕΛ.ΑΣ., οι επιτιθέμενοι προκάλεσαν φθορές σε υπηρεσιακό εξοπλισμό, ενώ οι αστυνομικές δυνάμεις έκαναν χρήση μέσων απώθησης",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_poreia_neo_irakleio.jpg?itok=qrZ6utEQ",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "1d76254e8634f901614352dd",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Νίστρουπ: «Έτοιμοι να δώσουμε χαρές στον κόσμο – Σπουδαία ομάδα η ΑΕΚ»",
-      "link": "https://www.skai.gr/news/sports/nistroup-etoimoi-na-dosoume-xares-ston-kosmo-spoudaia-omada-i-aek",
-      "date": "2026-11-01T20:14:58+00:00",
-      "summary": "Στα στοιχεία που είχε ο Παναθηναϊκός για να φτάσει στη νίκη επί της ΑΕΚ αναφέρθηκε ο Τζέικομπ Νίστρουπ, ενώ εκθείασε και τους «κιτρινόμαυρους»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_neestrup_0.jpg?itok=aWtv62cf",
-      "categories": [
-        "Αθλητικά"
-      ],
-      "id": "f47536a9b11c05a05e1762b5",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Φλόριντα: Ιδιωτικό τζετ συνετρίβη σε οικισμό με τροχοβίλες - Αναφορές για πολλούς νεκρούς",
-      "link": "https://www.skai.gr/news/world/florinta-idiotiko-tzet-synetrivi-se-oikismo-me-troxoviles-anafores-gia-pollous-nekrous",
-      "date": "2026-11-01T20:13:15+00:00",
-      "summary": "Σύμφωνα με τις Αρχές, υπάρχουν «πολλοί νεκροί», χωρίς ωστόσο να έχει διευκρινιστεί ακόμη πόσοι άνθρωποι επέβαιναν στο ναυλωμένο αεροσκάφος ή εάν υπάρχουν νεκροί ή τραυματίες στο έδαφος",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/screenshot_2026-11-01_221119.png?itok=3Zu3OP3r",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "9c89f19c77e8f654f804af49",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Κλήρωση Τζόκερ: Αυτοί είναι οι αριθμοί που κερδίζουν 1.000.000 ευρώ",
-      "link": "https://lawandorder.gr/klirosi-tzoker-aftoi-einai-oi-arithmoi-pou-kerdizoun-1-000-000-evro/",
-      "date": "2026-11-01T20:11:21+00:00",
-      "summary": "Το βράδυ της Κυριακής (1/11/2026) διεξήχθη η κλήρωση 3139 του Τζόκερ, που μοιράζει τουλάχιστον 1.000.000...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/03/tzoker-24-3-2026.jpg",
-      "categories": [],
-      "id": "870f6f2be6adac1d31da965e",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "ΗΠΑ: Ομοσπονδιακή δικαστής απορρίπτει την προσφυγή της κυβέρνησης Τραμπ για τις εκλογές στην Αλάσκα",
-      "link": "https://www.skai.gr/news/world/ipa-aporrifthike-prosfygi-tis-kyvernisis-tramp-gia-tis-ekloges-stin-alaska",
-      "date": "2026-11-01T20:10:08+00:00",
-      "summary": "Η απόφαση της δικαστού Σάρον Γκλίσον είναι το τελευταίο πλήγμα στην προσπάθεια του Τραμπ να ενισχύσει τον ρόλο της ομοσπονδιακής κυβέρνησης στις εκλογές",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/donald_trump_ap_2.jpg?itok=cDXjLe3w",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "084bbacbe872ac88c76a26b9",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Νίκολιτς: «Ο πρώτος που φταίει είμαι εγώ - Ο Παναθηναϊκός ήθελε περισσότερο τη νίκη»",
-      "link": "https://www.skai.gr/news/sports/nikolits-o-protos-pou-ftaiei-eimai-ego-o-panathinaikos-ithele-perissotero-ti-niki",
-      "date": "2026-11-01T20:09:28+00:00",
-      "summary": "Τα όσα ανέφερε ο Μάρκο Νίκολιτς μετά την ήττα της ΑΕΚ με σκορ 2-0 από τον Παναθηναϊκό για την 9η αγωνιστικής της Stoiximan Super League",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_nikolic.jpg?itok=2QoYiYBL",
-      "categories": [
-        "Αθλητικά"
-      ],
-      "id": "5294b16d7cef80da3dc2ddc0",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Οδηγός επιβίωσης στην περίπτωση κρίσης:  Όλα τα απαραίτητα εφόδια που δεν πάει το μυαλό μας",
-      "link": "https://www.naftemporiki.gr/society/2182986/odigos-epiviosis-stin-periptosi-krisis-ola-ta-aparaitita-efodia-poy-den-paei-to-myalo-mas/?utm_source=rss&utm_medium=rss&utm_campaign=odigos-epiviosis-stin-periptosi-krisis-ola-ta-aparaitita-efodia-poy-den-paei-to-myalo-mas",
-      "date": "2026-11-01T20:05:13+00:00",
-      "summary": " Πόσο θωρακισμένοι είστε απέναντι σε μια αναπάντεχη κρίση; Όταν ανακύπτει η ανάγκη για δημιουργία αποθεμάτων, ο νους των περισσότερων στρέφεται αυτόματα στις προφανείς επιλογές, όπως  φαρμακείο, αποθέματα νερού, και βασικά&#8230; \n  Οδηγός επιβίωσης στην περίπτωση κρίσης:  Όλα τα απαραίτητα εφόδια που δεν πάει το μυαλό μας  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/emergency.jpg",
-      "categories": [
-        "Κοινωνία"
-      ],
-      "id": "ff1595fb37994fc4e7103386",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Έγκλημα στη Μάνη: Την Τρίτη απολογείται ο 53χρονος που σκότωσε τον αδερφό του",
-      "link": "https://lawandorder.gr/egklima-sti-mani-tin-triti-apologeitai-o-53chronos-pou-skotose-ton-aderfo-tou/",
-      "date": "2026-11-01T20:00:09+00:00",
-      "summary": "Ενώπιον της ανακρίτριας Γυθείου αναμένεται να βρεθεί την Τρίτη (3/11), για να απολογηθεί, ο 53χρονος...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/09/volos-aithousa-dikastiriou.jpg",
-      "categories": [],
-      "id": "a34197d1f6ba661edcddf98b",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Κρήτη: Διασώθηκαν συνολικά πάνω από 100 μετανάστες στην Ιεράπετρα",
-      "link": "https://www.skai.gr/news/greece/kriti-diasothikan-synolika-pano-apo-100-metanastes-stin-ierapetra",
-      "date": "2026-11-01T20:00:07+00:00",
-      "summary": "Στη μία περίπτωση, περίπου 68 αλλοδαποί που επέβαιναν σε λέμβο περισυνελέγησαν από παραπλέον πλοίο μεταφοράς εμπορευματοκιβωτίων, σημαίας Μάλτας",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-07/eurokinissi_limeniko.jpg?itok=Dzhc_504",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "b3ebd1e1e056a68973815ac9",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "ΔΕΗ: Νέα προσφορά στα 13 λεπτά η κιλοβατώρα για το «μπλε» τιμολόγιο - Μικρή αύξηση στα 16,9 λεπτά για το «πράσινο»",
-      "link": "https://www.skai.gr/news/finance/dei-sta-13-lepta-i-kilovatora-sto-stathero-mple-timologio-mikri-ayksisi-sta-169-lepta-gia",
-      "date": "2026-11-01T19:51:34+00:00",
-      "summary": "Νέα προσφορά για σταθερό («μπλε») τιμολόγιο στα 13 λεπτά ανά κιλοβατώρα και απορρόφηση του μεγαλύτερου μέρους των αυξήσεων στα «πράσινα» ανακοίνωσε απόψε η ΔΕΗ για τον Νοέμβριο",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-01/ape-timologia.jpg?itok=9B3PzdAs",
-      "categories": [
-        "Οικονομία"
-      ],
-      "id": "52f24face86571be72983d37",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Στο «φως» οι αποκαλυπτικοί διάλογοι του επικεφαλής της ΜΚΟ με τη σύντροφό του – «Έχουμε φάει τόσες χιλιάδες μέσα σε λίγες μέρες»",
-      "link": "https://lawandorder.gr/sto-fos-oi-apokalyptikoi-dialogoi-tou-epikefalis-tis-mko-me-ti-syntrofo-tou-echoume-faei-toses-chiliades-mesa-se-liges-meres/",
-      "date": "2026-11-01T19:42:00+00:00",
-      "summary": "Στο «φως» της δημοσιότητας έρχονται νέα στοιχεία για την υπόθεση της ΜΚΟ «Παιδική Χαρά» και...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/11/firinidis-1-11-1.jpg",
-      "categories": [],
-      "id": "addcbb7e22f8884c09704299",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Μυτιλήνη: Δύο συλλήψεις για πυροβολισμό με όπλο και τραυματισμό 39χρονου",
-      "link": "https://www.skai.gr/news/greece/mytilini-dyo-syllipseis-gia-pyrovolismo-me-oplo-kai-traymatismo-39xronou",
-      "date": "2026-11-01T19:40:08+00:00",
-      "summary": "Στο πλαίσιο των ερευνών για την υπόθεση αυτή, βρέθηκαν και κατασχέθηκαν έξη αεροβόλα όπλα και μεταλλικά σφαιρίδια, τα οποία κατείχε 37χρονος",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-02/shutterstock_astynomia_2.jpg?itok=U-XpBOEa",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "3599c8d8d142e7198a413286",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "ΗΠΑ: Δικαστήριο απέρριψε την προσφυγή Τραμπ για τους δύο Σάλιβαν στην Αλάσκα",
-      "link": "https://www.naftemporiki.gr/kosmos/2182987/ipa-dikastirio-aperripse-tin-prosfygi-tramp-gia-toys-dyo-salivan-stin-alaska/?utm_source=rss&utm_medium=rss&utm_campaign=ipa-dikastirio-aperripse-tin-prosfygi-tramp-gia-toys-dyo-salivan-stin-alaska",
-      "date": "2026-11-01T19:39:06+00:00",
-      "summary": " Ομοσπονδιακό δικαστήριο απέρριψε την Κυριακή την προσφυγή της κυβέρνησης Τραμπ για τις εκλογές στην Αλάσκα, σε μια αναμέτρηση που μπορεί να αποδειχθεί καθοριστική για τον έλεγχο της Γερουσίας. \nΗ κυβέρνηση&#8230; \n  ΗΠΑ: Δικαστήριο απέρριψε την προσφυγή Τραμπ για τους δύο Σάλιβαν στην Αλάσκα  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/10/ipa_endiameses_saliban_alaska_tramp.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΑΛΑΣΚΑ",
-        "ΕΝΔΙΑΜΕΣΕΣ ΕΚΛΟΓΕΣ ΗΠΑ 2018",
-        "ΝΤΟΝΑΛΝΤ ΤΡΑΜΠ"
-      ],
-      "id": "88ae84428ffb669236b2e27e",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Ο Παναθηναϊκός έστειλε μήνυμα τίτλου, 2-0 την ΑΕΚ και επιστροφή στην κορυφή (highlights)",
-      "link": "https://www.naftemporiki.gr/sports/2182983/o-panathinaikos-esteile-minyma-titloy-2-0-tin-aek-kai-epistrofi-stin-koryfi/?utm_source=rss&utm_medium=rss&utm_campaign=o-panathinaikos-esteile-minyma-titloy-2-0-tin-aek-kai-epistrofi-stin-koryfi",
-      "date": "2026-11-01T19:37:20+00:00",
-      "summary": " Ο Παναθηναϊκός ήταν ο απόλυτος κυρίαρχος στο ντέρμπι με την ΑΕΚ και πήρε μια νίκη με ξεχωριστή σημασία. Οι «πράσινοι» επικράτησαν 2-0 στο ΟΑΚΑ, με τον Ανδρέα Τεττέη να ανοίγει&#8230; \n  Ο Παναθηναϊκός έστειλε μήνυμα τίτλου, 2-0 την ΑΕΚ και επιστροφή στην κορυφή (highlights)  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/5420045.jpg",
-      "categories": [
-        "Αθλητικά",
-        "ΑΕΚ",
-        "ΠΑΝΑΘΗΝΑΙΚΟΣ",
-        "ΠΟΔΟΣΦΑΙΡΟ",
-        "ΣΟΥΠΕΡ ΛΙΓΚΑ"
-      ],
-      "id": "fb3a2477e8ac3f329a7c63da",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Ουκρανία: Η Ρωσία αρνήθηκε πρόταση του Κιέβου για παράταση της εκεχειρίας στο Ολέσκι",
-      "link": "https://www.skai.gr/news/world/oukrania-i-rosia-arnithike-protasi-tou-kievou-gia-paratasi-tis-ekexeirias-sto-oleski",
-      "date": "2026-11-01T19:35:07+00:00",
-      "summary": "Το υπουργείο Εξωτερικών έκανε «μία πρόταση για παράταση αυτής της εκεχειρίας. Οι Ρώσοι δεν θέλουν», δήλωσε υψηλόβαθμος αξιωματούχος στο Γαλλικό Πρακτορείο",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap_oukrania_dnipro.jpg?itok=YJhufHMT",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "69b73876c6fc73777187125e",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "ΔΕΗ: Στα 13 λεπτά το σταθερό myHome Online – Πώς διαμορφώνεται το πράσινο τιμολόγιο Νοεμβρίου",
-      "link": "https://www.naftemporiki.gr/business/2182985/dei-sta-13-lepta-to-stathero-myhome-online-pos-diamorfonetai-to-prasino-timologio-noemvrioy/?utm_source=rss&utm_medium=rss&utm_campaign=dei-sta-13-lepta-to-stathero-myhome-online-pos-diamorfonetai-to-prasino-timologio-noemvrioy",
-      "date": "2026-11-01T19:31:02+00:00",
-      "summary": " Στα 0,130 ευρώ ανά κιλοβατώρα διαμορφώνεται η νέα προσφορά για το σταθερό μπλε πρόγραμμα ΔΕΗ myHome Online, ενώ η τιμή του πράσινου οικιακού τιμολογίου Γ1/Γ1Ν αυξάνεται τον Νοέμβριο στα 0,169&#8230; \n  ΔΕΗ: Στα 13 λεπτά το σταθερό myHome Online – Πώς διαμορφώνεται το πράσινο τιμολόγιο Νοεμβρίου  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/05/shutterstock_2714969669.jpg",
-      "categories": [
-        "Επιχειρήσεις",
-        "ΔΕΗ",
-        "ΛΟΓΑΡΙΑΣΜΟΙ ΡΕΥΜΑΤΟΣ"
-      ],
-      "id": "616b6b8a4f177df5aa54dfe4",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Δήλωση τίτλου από Παναθηναϊκό: Με σούπερ Αντίνο και 10 παίκτες πήρε 2-0 το ντέρμπι με την ΑΕΚ - Δείτε τα γκολ",
-      "link": "https://www.skai.gr/news/sports/dilosi-titlou-apo-panathinaiko-me-souper-antino-kai-10-paiktes-kerdise-2-0-tin-aek",
-      "date": "2026-11-01T19:25:25+00:00",
-      "summary": "Με έναν σχεδόν αψεγάδιαστο Αντίνο και ένα εκπληκτικό πρώτο ημίχρονο, ο Παναθηναϊκός έκανε μια τεράστια νίκη στο ΟΑΚΑ, επικρατώντας 2-0 της ΑΕΚ",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_pao_aek.jpg?itok=WB_TeOBm",
-      "categories": [
-        "Αθλητικά"
-      ],
-      "id": "b873d2385c90699d63223ae3",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Μαυριτανία: Το πολεμικό ναυτικό διέσωσε περισσότερους από 130 μετανάστες που κατευθύνονταν στα Κανάρια Νησιά",
-      "link": "https://www.skai.gr/news/world/mayritania-diasothikan-pano-apo-130-metanastes-pou-kateythynontan-sta-kanaria-nisia",
-      "date": "2026-11-01T19:25:08+00:00",
-      "summary": "Εδώ και χρόνια, χιλιάδες Αφρικανοί, στην πλειονότητά τους νέοι, επιχειρούν τον επικίνδυνο διάπλου του Ατλαντικού Ωκεανού με υπερφορτωμένα πλοιάρια",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-04/ap_metanastes.jpg?itok=SaWlKmFH",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "8628eeb95a7ab7efa8dca29d",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Ιεράπετρα: Επιχείρηση εντοπισμού και διάσωσης 68 μεταναστών από το Λιμενικό",
-      "link": "https://lawandorder.gr/ierapetra-epicheirisi-entopismou-kai-diasosis-68-metanaston-apo-to-limeniko/",
-      "date": "2026-11-01T19:24:32+00:00",
-      "summary": "Στη θαλάσσια περιοχή νοτιοανατολικά της Ιεράπετρας, σε απόσταση περίπου 22 ναυτικών μιλίων, εντοπίστηκαν το απόγευμα...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2025/09/limeniko-skafos-vrady-21-9-2025.jpg",
-      "categories": [],
-      "id": "0f2715e1e7e16dddf0a650d7",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Μήπως η φούσκα της τεχνολογίας έσκασε ήδη; Τι θυμίζει ανατριχιαστικά πολύ το 2000",
-      "link": "https://www.naftemporiki.gr/finance/markets/2182933/mipos-i-foyska-tis-technologias-eskase-idi-ti-thymizei-anatrichiastika-poly-to-2000/?utm_source=rss&utm_medium=rss&utm_campaign=mipos-i-foyska-tis-technologias-eskase-idi-ti-thymizei-anatrichiastika-poly-to-2000",
-      "date": "2026-11-01T19:24:17+00:00",
-      "summary": " Μια τεχνολογία μπορεί να αλλάξει τον κόσμο και ταυτόχρονα να απογοητεύσει τους επενδυτές που πλήρωσαν υπερβολικά ακριβά για να συμμετάσχουν στην επανάστασή της. Το διαδίκτυο το απέδειξε μετά το 2000.&#8230; \n  Μήπως η φούσκα της τεχνολογίας έσκασε ήδη; Τι θυμίζει ανατριχιαστικά πολύ το 2000  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2024/07/drop.jpg",
-      "categories": [
-        "Αγορές",
-        "ΤΕΧΝΗΤΗ ΝΟΗΜΟΣΥΝΗ",
-        "ΦΟΥΣΚΑ",
-        "ΧΡΗΜΑΤΙΣΤΗΡΙΑ"
-      ],
-      "id": "d5318045250b9e043e30407b",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Απάτη με ΜΚΟ: Στοιχήματα και στημένοι αγώνες - Οι αποκαλυπτικοί διάλογοι του 37χρονου",
-      "link": "https://www.skai.gr/news/greece/apati-me-mko-stoiximata-kai-stimenoi-agones-oi-apokalyptikoi-dialogoi-tou-37xronou",
-      "date": "2026-11-01T19:22:56+00:00",
-      "summary": "Αποκαλυπτικοί είναι οι διάλογοι, στους οποίους καταγράφονται συνομιλίες για χειραγώγηση ποδοσφαιρικών αναμετρήσεων, παρεμβάσεις σε ορισμούς διαιτητών και καταβολή χρημάτων με σκοπό τον επηρεασμό αγώνων",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/mko_apati_4.png?itok=pAtqaOqn",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "22d0502cb24bff92143ad27f",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Ρωσία: «Όχι» στην παράταση της «εκεχειρίας της  Μελάνια Τραμπ»",
-      "link": "https://www.naftemporiki.gr/kosmos/2182979/rosia-ochi-stin-paratasi-tis-ekecheirias-tis-melania-tramp/?utm_source=rss&utm_medium=rss&utm_campaign=rosia-ochi-stin-paratasi-tis-ekecheirias-tis-melania-tramp",
-      "date": "2026-11-01T19:15:45+00:00",
-      "summary": " Αρνήθηκε η Ρωσία να παρατείνει την εκεχειρία, η οποία λήγει σήμερα το βράδυ γύρω από το Ολέσκι, πόλη της νότιας Ουκρανίας που τελεί υπό την κατοχή του ρωσικού στρατού, σύμφωνα&#8230; \n  Ρωσία: «Όχι» στην παράταση της «εκεχειρίας της  Μελάνια Τραμπ»  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/10/CRISIS-OLESHKY.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΜΕΛΑΝΙΑ ΤΡΑΜΠ",
-        "ΟΥΚΡΑΝΙΑ",
-        "ΠΟΛΕΜΟΣ ΣΤΗΝ ΟΥΚΡΑΝΙΑ",
-        "ΡΩΣΙΑ"
-      ],
-      "id": "0486c88e4e8fbef8bd47b31d",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Σάμος: Η κακοκαιρία μετέτρεψε τους δρόμους σε ποτάμια – Δείτε βίντεο",
-      "link": "https://lawandorder.gr/samos-i-kakokairia-metetrepse-tous-dromous-se-potamia-deite-vinteo/",
-      "date": "2026-11-01T19:11:27+00:00",
-      "summary": "Στη Σάμο, η κακοκαιρία μετέτρεψε δρόμους σε ποτάμια το βράδυ της Κυριακής (1/11). Όπως αναφέρει...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2026/11/samos-kakokairia-1-11.jpg",
-      "categories": [],
-      "id": "f2e01640cec710631502f71b",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Τηλεφωνική επικοινωνία Τραμπ - Νετανιάχου για το επόμενο βήμα στον πόλεμο με το Ιράν",
-      "link": "https://www.skai.gr/news/world/tramp-netaniaxou-tilefoniki-epikoinonia-gia-to-epomeno-vima-ston-polemo-me-to-iran",
-      "date": "2026-11-01T19:10:07+00:00",
-      "summary": "Αμερικανικές και ισραηλινές πηγές του Axios ανέφεραν ότι ο Νετανιάχου πιέζει τον Τραμπ να πλήξει το Ιράν αμέσως μετά τις ενδιάμεσες εκλογές της Τρίτης",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-09/trump_netanyahu_ap_0.jpg?itok=08OuVUnh",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "fb42431b8d25a1d013a3c112",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Λυτρώθηκε ο ΠΑΟΚ: Με υπογραφή Μύθου και σωτήρα Μοναστηρλή, 2-1 τον Αστέρα AKTOR",
-      "link": "https://www.skai.gr/news/sports/lytrothike-o-paok-me-ypografi-mythou-kai-sotira-monastirli-2-1-ton-astera-aktor",
-      "date": "2026-11-01T19:05:21+00:00",
-      "summary": "Ο ψυχωμένος Αστέρας έβγαλε το… λάδι του ΠΑΟΚ, αλλά ο Μύθου με γκολ στο 87’ έδωσε τη λύση στον «δικέφαλο του Βορρά»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/eurokinissi_paok_asteras.jpg?itok=gs24rr_K",
-      "categories": [
-        "Αθλητικά"
-      ],
-      "id": "9a3a9f14c2fca3d22ab54792",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Θρίλερ στην Τούμπα με δύο αποβολές και νικητήριο γκολ στο 87΄",
-      "link": "https://www.naftemporiki.gr/sports/2182977/thriler-stin-toympa-me-dyo-apovoles-kai-nikitirio-gkol-sto-87%ce%84/?utm_source=rss&utm_medium=rss&utm_campaign=thriler-stin-toympa-me-dyo-apovoles-kai-nikitirio-gkol-sto-87%25ce%2584",
-      "date": "2026-11-01T19:03:36+00:00",
-      "summary": " Ο ΠΑΟΚ χρειάστηκε να φτάσει μέχρι τα τελευταία λεπτά για να κάμψει την αντίσταση του Αστέρα Τρίπολης. \nΟ Δικέφαλος επικράτησε με 2-1 στην Τούμπα, για την 9η αγωνιστική της Super&#8230; \n  Θρίλερ στην Τούμπα με δύο αποβολές και νικητήριο γκολ στο 87΄  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/5419521.jpg",
-      "categories": [
-        "Αθλητικά",
-        "ΑΣΤΕΡΑΣ ΤΡΙΠΟΛΗΣ",
-        "ΠΑΟΚ",
-        "ΠΟΔΟΣΦΑΙΡΟ",
-        "ΣΟΥΠΕΡ ΛΙΓΚΑ"
-      ],
-      "id": "2e5822b04b2fedc0a809b2e7",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Θεσσαλονίκη: Συνελήφθη 37χρονος που διέρρηξε κατάστημα υγειονομικού ενδιαφέροντος στον Εύοσμο",
-      "link": "https://www.skai.gr/news/greece/thessaloniki-synelifthi-37xronos-pou-dierrikse-katastima-ygeionomikou-endiaferontos",
-      "date": "2026-11-01T18:55:07+00:00",
-      "summary": "Σε βάρος του σχηματίσθηκε δικογραφία για διακεκριμένες περιπτώσεις κλοπών από αστυνομικούς του Τμήματος Δίωξης και Εξιχνίασης Εγκλημάτων Κορδελιού - Ευόσμου",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-02/shutterstock_syllipsi_0.jpg?itok=wHiLzsMx",
-      "categories": [
-        "Ελλάδα"
-      ],
-      "id": "84abc3e8ecb75044c402c961",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Θεσσαλονίκη: Συνελήφθη 47χρονη που έκλεψε μεγάλο χρηματικό ποσό από 55χρονη",
-      "link": "https://lawandorder.gr/thessaloniki-synelifthi-47chroni-pou-eklepse-megalo-chrimatiko-poso-apo-55chroni/",
-      "date": "2026-11-01T18:54:14+00:00",
-      "summary": "Στην Πολίχνη Θεσσαλονίκης, αστυνομικοί του Τμήματος Πρόληψης και Καταστολής Εγκληματικότητας συνέλαβαν χθες το μεσημέρι μια...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2025/12/peripoliko-7-12-25.jpg",
-      "categories": [],
-      "id": "b86e50597dfbdd9f949b7d0e",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Βουλγαρία: Η Ιλιάνα Γιότοβα κερδίζει στις προεδρικές εκλογές, σύμφωνα με τα exit polls",
-      "link": "https://www.skai.gr/news/world/voulgaria-i-iliana-giotova-kerdizei-stis-proedrikes-ekloges-symfona-me-ta-exit-polls",
-      "date": "2026-11-01T18:47:49+00:00",
-      "summary": "Με ποσοστό μεταξύ 50,7% και 52,5% σύμφωνα με τις δημοσκοπήσεις αυτές, η Γιότοβα προηγείται σημαντικά έναντι του αντιπάλου της, Αντρέι Γκιούροφ",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/ap_yotova_voulgaria.jpg?itok=8vXWLIJH",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "25a5dc266576d40f0e3da515",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
-    },
-    {
-      "title": "Βουλγαρία: Η Ιλιάνα Γιότοβα, υποστηρίκτρια της Μόσχα, κερδίζει στις προεδρικές εκλογές",
-      "link": "https://www.naftemporiki.gr/kosmos/2182974/voylgaria-i-iliana-giotova-ypostiriktria-tis-moscha-kerdizei-stis-proedrikes-ekloges/?utm_source=rss&utm_medium=rss&utm_campaign=voylgaria-i-iliana-giotova-ypostiriktria-tis-moscha-kerdizei-stis-proedrikes-ekloges",
-      "date": "2026-11-01T18:47:21+00:00",
-      "summary": " Η απερχόμενη πρόεδρος Ιλιάνα Γιότοβα, η οποία υποστηρίζει τον διάλογο με τη Μόσχα για τον τερματισμό του πολέμου στην Ουκρανία, κέρδισε σήμερα στις προεδρικές εκλογές στη Βουλγαρία, σύμφωνα με δημοσκοπήσεις&#8230; \n  Βουλγαρία: Η Ιλιάνα Γιότοβα, υποστηρίκτρια της Μόσχα, κερδίζει στις προεδρικές εκλογές  -  Η ΝΑΥΤΕΜΠΟΡΙΚΗ  ",
-      "sources": [
-        "Η ΝΑΥΤΕΜΠΟΡΙΚΗ"
-      ],
-      "weight": 1.0,
-      "image": "https://www.naftemporiki.gr/wp-content/uploads/2026/11/BULGARIA-ELECTION-PRESIDENT.jpg",
-      "categories": [
-        "Κόσμος",
-        "ΒΟΥΛΓΑΡΙΑ"
-      ],
-      "id": "d9543c026fd427372746d1e7",
-      "selected_at": "2026-11-01T20:40:22.033931+00:00"
     }
   ],
   "v02_initialized": true,

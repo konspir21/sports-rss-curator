@@ -1,6 +1,259 @@
 {
   "selected": [
     {
+      "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
+      "link": "https://9to5mac.com/2026/11/04/daily-november-4-2026/",
+      "date": "2026-11-04T23:25:26+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "9630b0a73f542634b0f93abf",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
+      "link": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv/",
+      "date": "2026-11-04T23:20:15+00:00",
+      "summary": "A Reddit user was able to get Nintendo's \"Animal Crossing: New Horizons\" and \"Super Mario Odyssey\" to  run natively on the Apple TV 4K , continuing a string of ports made possible with the use of AI (via   Engadget  ).\n \n\n \n \n \n TVPort , Reddit user FloatingFalafel's open-source project, is a fork of the nxnative toolkit used to recompile Switch an",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg",
+      "categories": [
+        "Apple TV"
+      ],
+      "id": "98e19a2733dac3cd500bd17b",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
+      "link": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
+      "date": "2026-11-04T22:40:45+00:00",
+      "summary": "    With one official announcement and one report, two new Apple TV projects have been revealed this week. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "0b6b95fb2abf2c97fc468725",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "How 'Resident Evil' Director Zach Cregger Uses His iPhone to Make Movies",
+      "link": "https://www.macrumors.com/2026/11/04/zach-cregger-iphone-resident-evil/",
+      "date": "2026-11-04T22:11:00+00:00",
+      "summary": "Apple marketing chief Greg Joswiak today shared an  Apple TV  video that offers a look at how \"Resident Evil\" director Zach Cregger uses an iPhone during filmmaking.\n \n\n \n \n \nCregger said he uses his iPhone and  the Cadrage app  to plan out filming sequences ahead of time. He decides what shots to take, what lenses to use for each shot, and what's ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/resident-evil-apple-tv.jpg",
+      "categories": [
+        "Apple TV"
+      ],
+      "id": "f4aedbe7e10bf0eeaba6236f",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "HomePod Mini 2's Amount of RAM Confirmed",
+      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
+      "date": "2026-11-04T21:50:54+00:00",
+      "summary": "  MacRumors  has confirmed that the  HomePod mini 2  is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but Apple does not list this information in its tech specs for the HomePod mini 2, so it is worth documenting. Related Roundup:  HomePod mini 2   Buye",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "categories": [
+        "HomePod mini",
+        "No Linkback"
+      ],
+      "id": "cdc9ec3d6f750ebbc0340c73",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple is Putting Employees on an AI Budget",
+      "link": "https://www.macrumors.com/2026/11/04/apple-reducing-employee-ai-spending/",
+      "date": "2026-11-04T21:46:18+00:00",
+      "summary": "Apple is curtailing employee AI use to cut costs, reports   Bloomberg  . In October, Apple limited some engineers to &#36;200 per day for AI spending, down from &#36;300.\n \n\n \n \n \nMore cuts could be coming, with daily allowances for some engineers dropping to &#36;100. Many groups outside engineering already have a &#36;100 daily limit, but some te",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "2a36f05c6b007916cf442245",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple TV's '12 Days of Snoopy' Special Arrives November 13",
+      "link": "https://www.macrumors.com/2026/11/04/apple-12-days-of-snoopy/",
+      "date": "2026-11-04T21:20:28+00:00",
+      "summary": "Apple today shared a trailer for  a new Snoopy special  that's airing on Friday, November 13. \"Snoopy Presents: 12 Days of Snoopy\" features Snoopy working to get off Santa's naughty list ahead of Christmas.\n \n\n \n  In the latest special of the acclaimed \"Snoopy Presents\" banner, the Peanuts kids are on their best behavior — but Snoopy has landed on ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/apple-tv-snoopy.jpg",
+      "categories": [
+        "Apple TV"
+      ],
+      "id": "626d000e5fbc40fca457587b",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple Releases Xcode 27.3 Beta With Three New Features",
+      "link": "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features/",
+      "date": "2026-11-04T21:11:43+00:00",
+      "summary": " Apple on Tuesday released the  first Xcode 27.3 beta  with three new features:  GitHub Copilot support  within the built-in coding assistant, the ability for developers to  test Siri AI integration in their apps , and additional APIs for developers to  optimize their apps  for the upcoming MacBook Pro models with touchscreens. Tag:  Xcode   This a",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg",
+      "categories": [
+        "No Linkback",
+        "Xcode"
+      ],
+      "id": "53e8bb3f1c214cffd2079de9",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple Photos keeps getting better, here’s what’s new in iOS 27",
+      "link": "https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27/",
+      "date": "2026-11-04T20:47:18+00:00",
+      "summary": "    iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like  Messages ,  Notes ,  Wallet , and  more . Here’s everything new for Apple’s Photos app in iOS 27. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "2a598cf0dc6e73cc1ea89842",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Apple disables Siri AI waitlist in iOS 27, with one exception",
+      "link": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
+      "date": "2026-11-04T20:28:23+00:00",
+      "summary": "    When Siri AI launched in iOS 27 earlier this fall, Apple  used a waitlist  to gate access. But a newly updated  support document  says the waitlist is no longer being used, except in “high demand” times. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "7965b54e2de1345ae5101d34",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Report: Apple reduces employees’ AI token allowances as Ternus moves to cut costs",
+      "link": "https://9to5mac.com/2026/11/04/report-apple-reduces-employees-ai-token-allowances-as-ternus-moves-to-cut-costs/",
+      "date": "2026-11-04T20:21:29+00:00",
+      "summary": "      Bloomberg   reports that Apple has begun reducing employees’ daily AI spending limits, with some engineers seeing their allowances cut from $300 to $200, and further reductions planned across multiple teams. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/john-ternus-imac-launch.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "137bbf58931dbe9009ff31e1",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Next year’s iPhone Pro redesign gets new update from leaker",
+      "link": "https://9to5mac.com/2026/11/04/next-years-iphone-pro-redesign-gets-new-update-from-leaker/",
+      "date": "2026-11-04T19:52:50+00:00",
+      "summary": "    Apple  reportedly  has a big redesign coming to next year’s iPhone Pro models, timed for the iPhone’s 20th anniversary. The latest leak about the design reveals that the dream of a cutout-free display may remain a dream for now. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "aaba87455c13c674c5dfeb79",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "This 160W Ugreen charger is smarter than I expected [Review]",
+      "link": "https://www.cultofmac.com/reviews/ugreen-nexode-pro-160w-review",
+      "date": "2026-11-04T19:22:32+00:00",
+      "summary": "   \n Ugreen’s Nexode Pro 160W combines a retractable USB-C cable and a useful display, though its weight makes it sag slightly in a wall outlet. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/ugreen-nexode-pro-160w.jpeg",
+      "categories": [
+        "Reviews",
+        "Top Stories",
+        "chargers",
+        "iPad accessories",
+        "iPhone accessories",
+        "Mac accessories",
+        "Ugreen"
+      ],
+      "id": "efd5cf8e4ad2ba44ccb2793b",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "Meet the 20 first-place apps from RevenueCat’s Shipaton 2026",
+      "link": "https://9to5mac.com/2026/11/04/meet-the-20-first-place-apps-from-revenuecats-shipaton-2026/",
+      "date": "2026-11-04T18:52:45+00:00",
+      "summary": "    A cozy habit tracker, a smarter snippet library, and a rooster that wants you out of bed: this year’s Shipaton winners offer plenty of new apps to explore. \n\n\n\n RevenueCat’s annual app-building competition drew 3,985 project submissions in 2026, according to its winner announcement. Across the 20 first-place categories, developers tackled every",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/revenuecat-shipaton-2026.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "4bcc8c1fa52ae296fc32eae1",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
+      "title": "iOS 27.3 upgrades Apple Music in two ways, here’s what’s new",
+      "link": "https://9to5mac.com/2026/11/04/ios-27-3-upgrades-apple-music-in-two-ways-heres-whats-new/",
+      "date": "2026-11-04T18:46:02+00:00",
+      "summary": "    Apple Music is getting two upgrades in iOS 27.3, which just  debuted in beta  this week. Here’s what’s new. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ec6a123307d4d740e7c2c778",
+      "selected_at": "2026-11-04T23:57:05.212300+00:00"
+    },
+    {
       "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
       "link": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
       "date": "2026-11-04T18:43:01+00:00",
