@@ -1,6 +1,512 @@
 {
   "selected": [
     {
+      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island",
+      "link": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
+      "date": "2026-11-04T18:43:01+00:00",
+      "summary": "The  new MacBook Pro models with touch-enabled OLED displays  feature the Dynamic Island instead of a notch, and it includes support for Live Activities. Fortunately, other Apple silicon Macs will not entirely miss out, as the macOS 27.3 update enables Live Activities for apps like Apple Music, Clock, and Voice Memos in the macOS menu bar.\n \n\n \n \n ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/macOS-27-3-Live-Activities-Timer.jpg",
+      "categories": [
+        "macOS Golden Gate",
+        "Dynamic Island",
+        "Live Activities"
+      ],
+      "id": "270469669e0f5f186fddf85b",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "macOS 27.3 Includes an Important Security Fix",
+      "link": "https://www.macrumors.com/2026/11/04/macos-27-3-important-security-fix/",
+      "date": "2026-11-04T17:41:01+00:00",
+      "summary": "The first  macOS 27.3 developer beta  includes an important security fix that prevents command-line tools from accepting  eMudhra's compromised web certificates . Specifically, the update removes the affected certificates from the /etc/ssl/cert.pem file.\n \n\n \n \n \nmacOS 27.3 is not expected to be released to the public until December, but a  macOS 2",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg",
+      "categories": [
+        "macOS Golden Gate",
+        "macOS Security"
+      ],
+      "id": "bc909a2ea985cd316327d505",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Today in Apple history: Apple sets up shop inside CompUSA stores",
+      "link": "https://www.cultofmac.com/apple-history/apple-mini-stores-in-compusa",
+      "date": "2026-11-04T17:20:17+00:00",
+      "summary": "   \n On November 4, 1997, Apple unveiled a deal to add a mini \"store within a store\" in CompUSA outlets. It was a dry run for today's Apple stores. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/CompUSA-Apple-deal.jpg",
+      "categories": [
+        "Apple history",
+        "Top Stories",
+        "Apple business deals",
+        "Apple business strategies",
+        "Apple Stores",
+        "Steve Jobs",
+        "TIAH: 1990s",
+        "TIAH: Steve Jobs",
+        "Today in Apple history",
+        "Top stories"
+      ],
+      "id": "2464bf6c33e41d1292b240ee",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Security Bite: The record $6.3B Binance heist started with a fake Homebrew install on Mac",
+      "link": "https://9to5mac.com/2026/11/04/security-bite-the-record-6-3b-binance-heist-started-with-a-fake-homebrew-install-on-mac/",
+      "date": "2026-11-04T17:18:56+00:00",
+      "summary": "     9to5Mac Security Bite is exclusively brought to you by    Mosyle, the only Apple Unified Platform .   Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Genera",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500",
+      "categories": [
+        "News"
+      ],
+      "id": "a6e79d51e004ccc25d8d488e",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Massive Sale Hits Apple Watch Ultra 3 With Record Low $250 Discounts",
+      "link": "https://www.macrumors.com/2026/11/04/apple-watch-ultra-3-250-discounts/",
+      "date": "2026-11-04T17:00:20+00:00",
+      "summary": "Best Buy today has a  big collection  of Apple Watch Ultra 3 models for   &#36;549.00  , down from &#36;799.00. This is a massive &#36;250 discount on the previous-generation device, and it represents a new all-time low price on these models.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/11/apple-watch-ultra-3-black-friday-green.jpeg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "4c0bafb63ea03676ec09f07f",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Apple TV Reportedly Planning 'Silo' Spinoff",
+      "link": "https://www.macrumors.com/2026/11/04/apple-tv-reportedly-planning-silo-spinoff/",
+      "date": "2026-11-04T16:57:01+00:00",
+      "summary": " Apple TV is developing a \"Silo\" spinoff tied to Hugh Howey's  upcoming  Silo book trilogy, according to  Apple TV  commentator and podcaster  Sigmund Judge . He said pre-production will begin later this year, with the books expected next summer.  Hiring  has apparently begun and some sets remain standing after season four wrapped in March. The rep",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/04/Apple-TV-Silo.jpg",
+      "categories": [
+        "Apple TV",
+        "No Linkback",
+        "Apple TV Shows"
+      ],
+      "id": "0f2bc078f046bf08d9454c14",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Best AirPlay speakers for iPhones and Apple Music",
+      "link": "https://www.macworld.com/article/668858/best-airplay-speakers.html",
+      "date": "2026-11-04T16:52:14+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s  HomePod and HomePod mini  are obvious choices for Apple users, but there are plenty of alternatives that work with your iPhone, iPad, Mac and Apple TV. Whether you want a compact kitchen speaker, a multi-room setup or a stereo system for music and TV, you could find features and value that better s",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/668858-0-94271400-1793811629-Best-AirPlay-Speakers-for-iPhone.jpg?quality=50&strip=all",
+      "categories": [
+        "Accessories, Audio, Home Audio, iPhone, Smart Speakers, Speakers",
+        "Accessories, Audio, Home Audio, iPhone, Smart Speakers, Speakers"
+      ],
+      "id": "7510dd56910a637e85bd11b1",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "The MacBook Neo just got its biggest price drop ever",
+      "link": "https://www.macworld.com/article/3276941/the-macbook-neo-just-got-its-biggest-price-drop-ever.html",
+      "date": "2026-11-04T16:40:55+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple MacBook Neo  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276941-0-63306600-1793810466-IMG_1480.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "4564918d60146b6b1ba77798",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit",
+      "link": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
+      "date": "2026-11-04T16:33:02+00:00",
+      "summary": "    Apple has a MacBook Neo 2 planned for early 2027,  per Mark Gurman , and a new report  from  Digitimes   indicates the company is expecting it to be a massive hit. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "95e2ea9f0ac71d1dd028444f",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Is It Worth Buying a Titanium Apple Watch?",
+      "link": "https://www.macrumors.com/guide/is-it-worth-buying-a-titanium-apple-watch/",
+      "date": "2026-11-04T16:32:00+00:00",
+      "summary": "The Apple Watch Series 12's titanium option offers a premium metallic finish and sapphire crystal, sitting between the more affordable aluminum model and the higher-priced ceramic version. Is it worth choosing?\n \n\n \n \n \nThe titanium Apple Watch starts at &#36;699, compared to &#36;399 for aluminum. Available in  Natural and Radiant Gold  with a pol",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/09/series-12-titanium.jpg",
+      "categories": [
+        "Apple Watch",
+        "Buyer's Guide"
+      ],
+      "id": "9264fdd30467f2170f91f84e",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Deals: HomeView discount, Apple Watch Ultra 4 $100 off, Ultra 3 $250 off, MacBook Neo, more",
+      "link": "https://9to5mac.com/2026/11/04/deals-homeview-apple-watch-ultra-macbook-neo/",
+      "date": "2026-11-04T16:29:56+00:00",
+      "summary": "    The  Apple HomeView pre-order discount  is back and the deal  AirPods Pro 3 at $50 off  is still flying, but we are also tracking return all-time lows on  Apple Watch Ultra 4 at nearly $100 off  and today we spotted a series of major clearance deals on Apple  Watch Ultra 3 at  $250 off  . We also have a rare discount on the most affordable  Sil",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-HomeView-Apple-Watch-Ultra-MacBook-Neo.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "95553acbfc0c34ec612a7652",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’",
+      "link": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
+      "date": "2026-11-04T15:55:23+00:00",
+      "summary": "    iOS 27.3 adds  lots of new iPhone features , and it also makes a change to how public iCloud links work with the aim of preventing harmful content from being shared. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c882ef4319d1bb38d9c92372",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Apple Music Selfie Sing turns your iPhone into a karaoke booth",
+      "link": "https://www.cultofmac.com/news/apple-music-selfie-sing-karaoke-video-ios-27-3",
+      "date": "2026-11-04T15:45:16+00:00",
+      "summary": "   \n Apple Music Selfie Sing in the iOS 27.3 beta helps you record fun karaoke videos with the iPhone front camera. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Apple-Music-Selfie-Sing_01.jpg.webp",
+      "categories": [
+        "News",
+        "Apple Music",
+        "iOS 27"
+      ],
+      "id": "cb2e2cb5c8cbee7a872a2ff7",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Score a lifetime license to PDF Expert for Mac",
+      "link": "https://www.cultofmac.com/deals/pdf-expert-pdf-editor-for-mac",
+      "date": "2026-11-04T15:32:43+00:00",
+      "summary": "   \n PDF Expert will streamline your PDF editing and management. Get a lifetime subscription to this PDF editor for Mac at a deep discount. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2023/11/CoM-PDF-Expert-1-e1783250651193.jpeg",
+      "categories": [
+        "Deals",
+        "Cult of Mac Deals",
+        "Mac apps",
+        "PDF editors",
+        "PDF Expert",
+        "Readdle"
+      ],
+      "id": "97ecfb5bb5485ddb7c3a6768",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Does HomePod Mini 2 Have Improved Sound? Here's What Reviews Say",
+      "link": "https://www.macrumors.com/2026/11/04/homepod-mini-2-sound-quality/",
+      "date": "2026-11-04T15:13:42+00:00",
+      "summary": "Apple's press release for the  HomePod mini 2  last month touted \"rich sound\" and \"advanced computational audio,\" but it did not explicitly mention if the second-generation model has better sound compared to the original. A few early reviews of the speaker, however, said that audio quality has in fact improved.\n \n\n \n \n \nApple's tech specs pages for",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Four-HomePod-Mini-2-Surround-Sound.jpg",
+      "categories": [
+        "HomePod mini"
+      ],
+      "id": "d95cdbcf8e01a96611dab0bb",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "macOS 27.3 Makes Markdown Files Easier to Read",
+      "link": "https://www.macrumors.com/2026/11/04/macos-27-3-makes-markdown-files-easier-to-read/",
+      "date": "2026-11-04T14:39:43+00:00",
+      "summary": "macOS 27.3 adds native Markdown rendering to Quick Look, allowing users to preview .md files with their formatting applied.\n \n\n \n \n \nIn the  first beta  of macOS 27.3, Quick Look displays styled headings, bold text, lists, and links when previewing Markdown documents. Selecting a file in Finder and pressing the Space bar brings up a readable previe",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/quick-look-markdown-macos.jpg",
+      "categories": [
+        "macOS Golden Gate",
+        "Siri AI"
+      ],
+      "id": "ef91573248c377ae61716a17",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Best Apple Watch 2026: Series 12 vs Ultra 4 vs SE 3",
+      "link": "https://www.macworld.com/article/671574/best-apple-watch.html",
+      "date": "2026-11-04T14:21:18+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Choosing the right Apple Watch depends on your budget, lifestyle and which features matter most to you. As of September 2026, Apple’s lineup consists of the  Apple Watch Series 12, Apple Watch Ultra 4  and Apple Watch SE 3, although the various combinations of case size, material, color and band can make ch",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/671574-0-05132300-1793802670-Which-Apple-Watch.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Watch",
+        "Apple Watch"
+      ],
+      "id": "8297d7d51c0e4c0ff3bdbc70",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "HomeView Pre-Order Returns to $289.99 on Amazon",
+      "link": "https://www.macrumors.com/2026/11/04/homeview-pre-order-returns/",
+      "date": "2026-11-04T13:44:05+00:00",
+      "summary": "Amazon's &#36;9 pre-order discount on the HomeView has returned for the Space Gray color, allowing you to get the home hub for   &#36;289.99  , down from &#36;299.00.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site run",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "571815c4d79ac1217a0aecd3",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "More ads coming to Reddit, platform will evaluate how users respond",
+      "link": "https://9to5mac.com/2026/11/04/more-ads-coming-to-reddit-platform-will-evaluate-how-users-respond/",
+      "date": "2026-11-04T13:36:31+00:00",
+      "summary": "    You can expect to see more ads in the  Reddit  app as the platform begins placing them in search results. The company says that it will be evaluating how users respond to the development …  \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/More-ads-coming-to-Reddit-platform-will-evaluate-how-users-respond.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "0917e82078bd243a0ab90060",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Apple May Phase Out Non-Touch High-End MacBook Pros",
+      "link": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
+      "date": "2026-11-04T13:35:32+00:00",
+      "summary": "Apple will likely consolidate its high-end  MacBook Pro  lineup around touchscreen models, according to  Bloomberg 's  Mark Gurman .\n \n\n \n \n \nWriting in his latest  \"Power On\" newsletter , Gurman questioned whether Apple would keep updating its high-end &zwnj;MacBook Pro&zwnj; models without touchscreens. The company has retained the mini-LED M5 Pr",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/10/14-inch-MacBook-Pro-Keyboard.jpg",
+      "categories": [
+        "MacBook Pro",
+        "Bloomberg",
+        "Mark Gurman"
+      ],
+      "id": "efb8ff22000d748c66627fa4",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "link": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "date": "2026-11-04T12:55:36+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. The latest update, iOS 27.2, arrived on October 26, bringing further Siri AI improvements and new app features. More additions are still to come. \n\n\n\n iOS 27 mainly focuses on three key areas: Siri AI, a rebuil",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/2986799-0-73411800-1793796943-ios-27-.jpg?quality=50&strip=all",
+      "categories": [
+        "iOS",
+        "iOS"
+      ],
+      "id": "999a1c3ae5ca82398045fbe9",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Apple's Insider Trading Policy Now Covers Prediction Markets",
+      "link": "https://www.macrumors.com/2026/11/04/apple-bans-confidential-info-prediction-markets/",
+      "date": "2026-11-04T12:45:42+00:00",
+      "summary": "Apple has added an explicit ban on using confidential information to bet on prediction markets to its insider trading policy, according to a filing with the U.S. Securities and Exchange Commission.\n \n\n \n \n \nThe policy was filed on Tuesday as an exhibit to Apple's  annual report on Form 10-K , which is also available on Apple's  Investor Relations w",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/03/Apple-Park-PR-Handout.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "7ecf2357bd6c476f223294b4",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
+      "link": "https://9to5mac.com/2026/11/04/apple-still-charging-300-of-costs-on-iphone-storage-upgrades-says-wsj/",
+      "date": "2026-11-04T12:45:23+00:00",
+      "summary": "    Opting for more RAM or storage when buying Apple devices has always been an expensive business, with the company famously charging huge markups. \n\n\n\n  Apple  said in its  most recent earnings report  that even after the price increases, its margins are being squeezed by higher component costs. But an analysis suggests that the company is still ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-still-making-300-profit-on-iPhone-storage-upgrades-says-WSJ.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "22b9f8e374586a62c11e055d",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Google Maps Updated to Fully Support iPhone Duo Displays",
+      "link": "https://www.macrumors.com/2026/11/04/latest-google-maps-update-iphone-duo-support/",
+      "date": "2026-11-04T12:24:12+00:00",
+      "summary": " Google Maps  has been updated with improved support for the iPhone Duo's displays, so that the app now fills the foldable iPhone's inner and outer screens rather than leaving unused space along the edge.\n \n\n \n \n \nThe change comes with version 26.44.4, which is available on the  App Store . Google doesn't mention Duo-specific changes in its release",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/google-maps-iphone-duo.jpeg",
+      "categories": [
+        "iPhone Duo",
+        "Google",
+        "Google Maps"
+      ],
+      "id": "9566ee77b8d144223aca9526",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "How to get access to Sonos AI features, as company aims to avoid another app disaster",
+      "link": "https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster/",
+      "date": "2026-11-04T12:04:22+00:00",
+      "summary": "    When  Sonos  tried a major app update two years ago, things did not go well. Much-loved features disappeared, older speakers experienced connection problems, and accessibility features were broken. That debacle saw the company’s CEO fired. \n\n\n\n The company is taking a much more cautious approach as it moves into the  AI  era with a Sonos 27voic",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Hey-Sonos-coming-in-controlled-beta-as-company-aims-to-avoid-another-app-disaster.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ad04401bcfb9dfe65b65550b",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Everyone is struggling (except Apple)",
+      "link": "https://www.macworld.com/article/3276170/everyone-is-struggling-except-apple.html",
+      "date": "2026-11-04T12:00:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Last week, the  Wall Street Journal ran a piece  describing how memory and flash chip manufacturers were finally “getting their revenge” on Apple. The demand spike from AI-driven data centers has made it so Apple can no longer negotiate extremely low prices. \n\n\n\n Provocative language aside, it’s worth no",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276170-0-67255300-1793793627-apple-silicon-logo.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc",
+        "Apple Inc"
+      ],
+      "id": "7cf393690203b0dfc571c0ec",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "macOS 27 Golden Gate: What’s new, what’s in the beta & what’s next",
+      "link": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "date": "2026-11-04T11:43:59+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n macOS 27 Golden Gate arrived on September 14, introducing an all-new Siri AI assistant, major updates to Safari, Photos, Messages, Mail and Calendar, and expanded child-safety features. Design refinements and performance improvements round out the release. \n\n\n\n Named after California’s iconic Golden Gate, t",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3139330-0-83229700-1793793020-macos-golden-gate-image-playground-freeform-notes-weather.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "5d8ac094c15f9bfda2ec6dba",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "iPhone Duo review: The best and worst iPhone in ages",
+      "link": "https://www.macworld.com/article/3272761/iphone-duo-review.html",
+      "date": "2026-11-04T11:30:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n  At a glance  Expert's Rating   \n  \n  Pros \n \n Duo-optimized apps change how you use your iPhone \n\n\n\n The nano-texture display is great \n\n\n\n No real compromise on performance \n \n \n\n\n\n  Cons \n \n Unoptimized apps are worse than on previous iPhones \n\n\n\n Battery life varies widely based on inner/outer display",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3272761-0-15009900-1793791818-duo-hello.jpg?quality=50&strip=all",
+      "categories": [
+        "iPhone, Mobile, Smartphones",
+        "iPhone, Mobile, Smartphones"
+      ],
+      "id": "77359b9e516df06c9614dfdc",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
+      "title": "Best MacBook Neo accessories: Chargers, hubs, stands and more",
+      "link": "https://www.macworld.com/article/3081011/best-macbook-neo-accessories-chargers-hubs-stands-and-more.html",
+      "date": "2026-11-04T10:15:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n The  MacBook Neo , Apple’s entry-level laptop officially announced in early March 2026, is a sensation, bringing the Mac to a whole new market with its low price but surprisingly powerful specs and features. For just $699 you get the full Mac experience in a premium aluminum 13-inch laptop with FaceTime ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3081011-0-36663600-1793794728-MacBook-Neo-Plus.jpg?quality=50&strip=all",
+      "categories": [
+        "Accessories, Laptop Accessories, MacBook",
+        "Accessories, Laptop Accessories, MacBook"
+      ],
+      "id": "ac5deb6992a2ef9f04601050",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
+    },
+    {
       "title": "With iOS 27.3, the Siri AI floodgates are about to open",
       "link": "https://www.macworld.com/article/3276244/with-ios-27-3-the-siri-ai-floodgates-are-about-to-open.html",
       "date": "2026-11-04T09:45:00+00:00",
@@ -16,6 +522,23 @@
       ],
       "id": "470857b6fe532ad28c93b99a",
       "selected_at": "2026-11-04T11:19:23.970658+00:00"
+    },
+    {
+      "title": "Best laptop power banks for Apple MacBook 2026",
+      "link": "https://www.macworld.com/article/2395511/best-laptop-power-banks-for-apple-macbook.html",
+      "date": "2026-11-04T09:05:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Many of us are quite used to carrying around a handy power bank to top up our iPhone batteries during a long day away from a power socket, but these pocketable battery packs are usually not powerful enough to keep an unplugged and energy-hungry MacBook going all day. \n\n\n\n We’ve rounded up the best portab",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/2395511-0-06427100-1793807533-Power-Banks-for-Apple-MacBook.jpg?quality=50&strip=all",
+      "categories": [
+        "Accessories, Computer Accessories, Laptop Accessories, Mac, Power",
+        "Accessories, Computer Accessories, Laptop Accessories, Mac, Power"
+      ],
+      "id": "66ad532e95251b7bb2edc812",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
     },
     {
       "title": "Own Office for Mac outright for $100 and skip the Microsoft 365 bill",
@@ -65,6 +588,23 @@
       ],
       "id": "519eec4a7e2a389ea51e2681",
       "selected_at": "2026-11-04T03:20:26.418948+00:00"
+    },
+    {
+      "title": "Apple Watch Series 12 & Ultra 4 guide: Price, features, battery life and updates",
+      "link": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
+      "date": "2026-11-04T01:30:27+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n In September 2026 Apple unveiled the  Apple Watch Series 12  and  Apple Watch Ultra 4 , with both models focusing much more heavily on health monitoring, Apple Intelligence and battery efficiency than on physical redesigns. Series 12 remains Apple’s mainstream premium smartwatch, while Ultra 4 continues ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3177024-0-10708000-1793799944-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Watch",
+        "Apple Watch"
+      ],
+      "id": "30cfbe9279153f8930d2985c",
+      "selected_at": "2026-11-04T18:44:12.993444+00:00"
     },
     {
       "title": "Apple Music's New Selfie Sing Feature Lets You Record Karaoke Videos",
@@ -2541,166 +3081,6 @@
       ],
       "id": "ea48ce08f328ed2e796a9875",
       "selected_at": "2026-11-02T04:30:28.276180+00:00"
-    },
-    {
-      "title": "Nearly Every M5 MacBook Air Now $200 Off on Amazon",
-      "link": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
-      "date": "2026-11-01T17:33:43+00:00",
-      "summary": "Amazon is taking &#36;200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we've ever seen on the computer. Prices now start at   &#36;1,099.99   for the 512GB 13-inch model and   &#36;1,299.99   for the 512GB 15-inch model.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendor",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/06/m5-macbook-air-prime-day.jpeg",
-      "categories": [
-        "Deals",
-        "Featured"
-      ],
-      "id": "41c5b88af2dc05cf69ad548c",
-      "selected_at": "2026-11-01T20:40:22.058288+00:00"
-    },
-    {
-      "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk",
-      "link": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
-      "date": "2026-11-01T16:29:42+00:00",
-      "summary": "    If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official  $129 folio with kickstand  is expensive, flimsy, and gets in the way of the outer display. MagSafe wallets that turn into kickstands are too tall for the back of the phone, and there aren’t many g",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "aad51d61db5b15636a580664",
-      "selected_at": "2026-11-01T20:40:22.058288+00:00"
-    },
-    {
-      "title": "This 140W power station might be the ultimate charger for Apple users [Video]",
-      "link": "https://9to5mac.com/2026/11/01/this-140w-power-station-might-be-the-ultimate-charger-for-apple-users-video/",
-      "date": "2026-11-01T16:16:29+00:00",
-      "summary": "    I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of a certain port that I need, or slow wireless charging, I have yet to find one that truly checks every box for me. But over the last month, I have ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "9a8202fad0fc1bbfd37d3abf",
-      "selected_at": "2026-11-01T16:22:10.187052+00:00"
-    },
-    {
-      "title": "Today in Apple history: Time crowns iPhone ‘invention of the year’",
-      "link": "https://www.cultofmac.com/apple-history/iphone-time-invention-of-the-year-2007",
-      "date": "2026-11-01T16:10:28+00:00",
-      "summary": "   \n On November 1, 2007, six months after Steve Jobs showed off the original iPhone, \"Time\" magazine crowned it \"invention of the year.\" \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/Time-magazine-names-iPhone-2007-invention-of-the-year.jpg",
-      "categories": [
-        "Apple history",
-        "Top Stories",
-        "iPhone",
-        "TIAH: 2000s",
-        "TIAH: iPhone",
-        "Time magazine",
-        "Today in Apple history"
-      ],
-      "id": "309376a6a4861fa4f8656d17",
-      "selected_at": "2026-11-01T16:22:10.187052+00:00"
-    },
-    {
-      "title": "Apple's HomeView Ships With Six-Month-Old Software",
-      "link": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software/",
-      "date": "2026-11-01T15:37:07+00:00",
-      "summary": " It is well known that Apple's new  HomeView  smart home hub was  significantly delayed , and there is now yet another piece of evidence: the device will initially ship with six-month-old HomeView software version 26.5, according to  AppleDB . When setting up the HomeView, users will be prompted to update to HomeView software version 27.2. The devi",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-      "categories": [
-        "HomeView",
-        "No Linkback"
-      ],
-      "id": "41903db4dd6390d8ae919164",
-      "selected_at": "2026-11-01T15:37:38.823213+00:00"
-    },
-    {
-      "title": "Three New iPads Rumored to Launch in First Half of 2027",
-      "link": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-      "date": "2026-11-01T15:27:23+00:00",
-      "summary": "After announcing a  new iPad mini with an OLED display  earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models in the first half of 2027, according to the latest word from  Bloomberg 's Mark Gurman.\n \n\n \n \n \nIn his   Power On  newsletter today , Gurman said the next iPad Air will also feature an OLED display,",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
-      "categories": [
-        "iPad (low cost)",
-        "iPad Air",
-        "iPad Pro",
-        "Mark Gurman"
-      ],
-      "id": "cd4debb1f1517636bae7360f",
-      "selected_at": "2026-11-01T15:37:38.823213+00:00"
-    },
-    {
-      "title": "Get FastestVPN on 10 devices, just $25 for life [Ends soon]",
-      "link": "https://www.cultofmac.com/deals/fastestvpn-lifetime-license",
-      "date": "2026-11-01T14:51:41+00:00",
-      "summary": "   \n Keep your personal data private with a FastestVPN lifetime license, on sale now. Supports iOS, macOS, Windows, Android, smart TVs and more. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2023/07/COM-FastestVPN-Lifetime-Subscription-10-Devices.jpeg",
-      "categories": [
-        "Deals",
-        "Cult of Mac Deals",
-        "VPNs"
-      ],
-      "id": "2297d6a70b6df721b851a254",
-      "selected_at": "2026-11-01T15:50:18.688025+00:00"
-    },
-    {
-      "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
-      "link": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods/",
-      "date": "2026-11-01T12:49:54+00:00",
-      "summary": "    The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and  $17.50  a pop, and nearly  $100 off  the new  Apple Watch Ultra 4 .  \n\n\n\n Moving over to the Mac, the latest M6 Mac mini is $150 off, the  M5 MacBook Air  has re",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ee2fb44819982147a531a166",
-      "selected_at": "2026-11-01T15:37:38.823213+00:00"
-    },
-    {
-      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch",
-      "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
-      "date": "2026-11-01T11:34:49+00:00",
-      "summary": " Apple has published a  support document  describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only on the Always On display when your wrist is down,\" says Apple. \"When you activate the display by tapping it or raising your wrist, the time changes t",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg",
-      "categories": [
-        "Apple Watch",
-        "Apple Watch SE",
-        "Apple Watch Ultra",
-        "No Linkback"
-      ],
-      "id": "18e253d31107b6a4fd023e65",
-      "selected_at": "2026-11-01T15:37:38.823213+00:00"
     }
   ],
   "v02_initialized": true,
