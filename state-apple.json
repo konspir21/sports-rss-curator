@@ -1,6 +1,261 @@
 {
   "selected": [
     {
+      "title": "HomeView anti-spoofing gives face fakers just three strikes",
+      "link": "https://www.cultofmac.com/news/homeview-anti-spoofing-three-strike-lockout",
+      "date": "2026-11-05T13:17:40+00:00",
+      "summary": "   \n HomeView anti-spoofing reportedly locks a profile after three fake-face attempts, hopefully preventing siblings from spying on each other. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Apple-HomeView.jpg.webp",
+      "categories": [
+        "News",
+        "HomeView"
+      ],
+      "id": "72a696bf99239cd8f7dbcdbd",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Nintendo Switch games running natively on Apple TV using Claude Code port",
+      "link": "https://9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port/",
+      "date": "2026-11-05T13:07:49+00:00",
+      "summary": "    A Redditor has just released an open-source project allowing Switch and Switch 2 games to run natively on  Apple TV .  \n\n\n\n So far, both  Super Mario Odyssey  and  Animal Crossing: New Horizons  are running, with work ongoing on  The Legend of Zelda: Tears of the Kingdom  … \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nintendo-Switch-games-running-natively-on-Apple-TV-using-Claude-Code-port-.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "a064ebcb8f9d74bcc189481e",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Siri AI Waitlist Now Limited to Times of 'High Demand,' Says Apple",
+      "link": "https://www.macrumors.com/2026/11/05/siri-ai-waitlist-limited-times-high-demand-apple/",
+      "date": "2026-11-05T12:54:10+00:00",
+      "summary": " Apple has largely stopped making users join a waitlist to access its Siri AI assistant. According to an updated  Apple support document , Siri AI \"will begin to download automatically\" once users opt in, but the waitlist is now reserved \"during time of high demand,\" and wait times can vary. \n \n\n \nThe document  previously said  that enabling the as",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "categories": [
+        "Siri",
+        "Siri AI"
+      ],
+      "id": "5eb939c9b990e5edb625bacb",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "HomeView will support third-party AI chatbots, suggests code",
+      "link": "https://9to5mac.com/2026/11/05/homeview-will-support-third-party-ai-chatbots-suggests-code/",
+      "date": "2026-11-05T12:35:39+00:00",
+      "summary": "    Code discovered in  the iOS 27.3 beta  suggests that  HomeView  is set to gain support for third-party AI chatbots like ChatGPT and Claude. \n\n\n\n A leaker spotted the first clue to this a few days ago, and in an updated post says that this feature “is happening” … \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/HomeView-will-support-third-party-AI-chatbots-suggests-code.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b9c28e0469c8c95d6dd27bfb",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "See Apple's Touchscreen MacBook Pro in Action",
+      "link": "https://www.macrumors.com/2026/11/05/see-apples-touchscreen-macbook-pro-in-action/",
+      "date": "2026-11-05T12:31:30+00:00",
+      "summary": "Apple enlisted British musician Labrinth to create a new song during an overnight livestream, demonstrating the new touchscreen  MacBook Pro  and Logic Pro at Apple Tower Theatre in downtown Los Angeles.\n \n\n \n    \n \nThe session, titled \"Labrinth Live on Mac,\" is now available to watch as a replay lasting almost four hours. It started on November 4 ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/hW_UqeAgGFCh9-v4-kI3ZV4sbI4=/1920x/article-new/2026/11/labrinth-macbook-pro-touchscreen.jpg",
+      "categories": [
+        "MacBook Pro"
+      ],
+      "id": "c4f6a278e6fd9c23898ab2ab",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
+      "link": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
+      "date": "2026-11-05T12:28:45+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s first foldable iPhone, the iPhone Duo, went on sale on October 23, but getting hold of one could prove difficult. Preorders opened on October 16 and delivery estimates slipped rapidly, with  Macworld’s U.S. tracking  showing waits stretching to January 25, 2027 within around half an hour. Apple i",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/2629813-0-00209500-1793881869-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all",
+      "categories": [
+        "iPhone",
+        "iPhone"
+      ],
+      "id": "194b4c5b61af58f6de8fed6a",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "MacBook Neo Shipments Expected to Double in 2027",
+      "link": "https://www.macrumors.com/2026/11/05/macbook-neo-shipments-expected-to-double-in-2027/",
+      "date": "2026-11-05T12:21:40+00:00",
+      "summary": "Apple wants suppliers to make 16 million MacBook Neo laptops in 2027, or double the amount expected for this year, according to supply chain sources (via   DigiTimes  ).\n \n\n \n \n \nApple released its first MacBook Neo in March 2026, featuring an A18 Pro chip with 8GB of RAM, and coming in Silver, Blush, Citrus, and Indigo colors. The laptop originall",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/08/macbook-neo-pink.jpeg",
+      "categories": [
+        "MacBook Neo",
+        "DigiTimes"
+      ],
+      "id": "3528223bf4e2027aef5a1c6f",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Resident Evil director Zach Cregger explains why the iPhone is vital to his work",
+      "link": "https://9to5mac.com/2026/11/05/resident-evil-director-zach-cregger-explains-why-the-iphone-is-vital-to-his-work/",
+      "date": "2026-11-05T12:07:57+00:00",
+      "summary": "    There have been a number of high-profile movies technically  shot on iPhone , but in most cases they are using the same professional cinematography kit they would use with other cameras, including lenses costing tens of thousands of dollars. \n\n\n\n Resident Evil director Zach Cregger uses his own iPhone in a rather different way, taking an approa",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "adadef1139d3c269614fd160",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "HomeView Code Suggests Future Support for AI Chatbot Apps, Anti-Spoofing Protection",
+      "link": "https://www.macrumors.com/2026/11/05/homeview-code-suggests-support-ai-chatbot-apps/",
+      "date": "2026-11-05T11:43:52+00:00",
+      "summary": "Code discovered in the iOS 27.3 beta suggests Apple is laying the groundwork for chatbot apps on its upcoming HomeView smart home hub, according to the code investigator known as  pdfu .\n \n\n \n \n \nThe software HomeView uses to display apps from a connected iPhone or iPad is said to have gained a \" Conversational Apps \" category in the latest beta. T",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
+      "categories": [
+        "HomeView",
+        "pdfu"
+      ],
+      "id": "5dbe6fbff301c5f6e4f7cdf5",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "These Finder tips will make you a Mac pro",
+      "link": "https://www.macworld.com/article/3217949/finder-for-advanced-users-ten-professional-tips-for-apples-all-rounder.html",
+      "date": "2026-11-05T11:30:00+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n The Finder in macOS is where you spend the most time when using your Mac. It is the most important tool for managing files and folders; it’s the basis for installing and launching apps; it’s where you can manage iPhones and iPads; and a lot more. It’s the foundation for the macOS interface and for using you",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3217949-0-13636300-1793878225-finder-icon-winking-on-imac.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "1f4b7c8fcf1e1107d0efef92",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Got an iPhone Duo on Launch Day? Tomorrow Could Be Your Last Chance to Return It",
+      "link": "https://www.macrumors.com/2026/11/05/iphone-duo-launch-day-nov-6-last-chance-return/",
+      "date": "2026-11-05T10:32:51+00:00",
+      "summary": "If you bought an iPhone Duo on launch day and are having second thoughts about keeping Apple's first foldable iPhone, tomorrow could be your last chance to return it for a refund.\n \n\n \n \n \nApple officially launched the iPhone Duo on Friday, October 23, so the standard 14-day return window for customers who purchased and received the device that day",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-colors.jpg",
+      "categories": [
+        "iPhone Duo"
+      ],
+      "id": "9027054047b9a425cdb26ade",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "You don’t need a $3,000 MacBook to get Live Activities in your menu bar",
+      "link": "https://www.macworld.com/article/3277220/you-dont-need-a-3000-macbook-to-get-live-activities-in-your-menu-bar.html",
+      "date": "2026-11-05T10:30:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n One of the big selling points of the new  MacBook Pro with PROLED  is its inclusion of a Dynamic Island. The camera is just a tiny bit lower and surrounded by display, so instead of a notch, you get an island that’s smaller but just as capable as the iPhone’s. When you run apps with Live Activities on th",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3277220-0-94758200-1793874622-live-activities-macos-273.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "695a175db9ae9e9491dfd49e",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Apple Launching Five New Products Tomorrow",
+      "link": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/",
+      "date": "2026-11-05T08:59:09+00:00",
+      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that  opened last week , including its first touchscreen MacBook Pro models.\n \n \n \nThe following new products will be available from tomorrow:\n \n\n \n   iPad mini with OLED display and A20 Pro chip  \n \n  iMac with M6 chip  \n \n  14-inch MacBook Pro with M6 chip  \n \n  14",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "fbac97838dc5067de7dda093",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "No Java, no subscription: this Mac database app is $129.97",
+      "link": "https://www.macworld.com/article/3276157/no-java-no-subscription-this-mac-database-app-is-129-97.html",
+      "date": "2026-11-05T08:00:00+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  Query MySQL, PostgreSQL, SQL Server, and Oracle from one native Mac app with a  lifetime SQLPro Studio subscription  for $129.97 (reg. $219.99). \n\n\n\n Most database tools that work with more than one engine run on Java instead of natively on macOS. If you want a faster native app for all of your dat",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276157-0-81185600-1793865670-SQLPro-Studio.jpg?quality=50&strip=all",
+      "categories": [
+        "Professional Software",
+        "Professional Software"
+      ],
+      "id": "971062a5dd145296e98c0a1a",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
+      "title": "Apple tightens the purse strings on employee AI use",
+      "link": "https://www.cultofmac.com/news/apple-tightens-the-purse-strings-on-employee-ai-use",
+      "date": "2026-11-05T06:26:48+00:00",
+      "summary": "   \n Apple cut some engineers’ daily AI budgets from $300 to $200 in October and is weighing deeper cuts even as it expands its use of AI at work. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2024/09/Apple-Store-Atlanta-3.jpg",
+      "categories": [
+        "News",
+        "ChatGPT",
+        "Claude"
+      ],
+      "id": "44cac6adbfdebecc37cedbba",
+      "selected_at": "2026-11-05T13:43:23.985940+00:00"
+    },
+    {
       "title": "Watch Apple’s new touchscreen MacBook Pro in action with Labrinth’s livestream",
       "link": "https://www.macworld.com/article/3277274/watch-apples-new-touchscreen-macbook-pro-in-action-with-labrinths-livestream.html",
       "date": "2026-11-05T03:01:09+00:00",
@@ -3217,173 +3472,6 @@
       ],
       "id": "8f3fdedde46c2aa8c7b6a776",
       "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "HomeView security camera mode spotted in Apple’s software",
-      "link": "https://www.cultofmac.com/news/homeview-security-camera-mode",
-      "date": "2026-11-02T13:40:05+00:00",
-      "summary": "   \n Code discovered in HomeView Software 27.2 hints at Apple's new smart screen including a security camera mode, an unannounced feature.  \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/HomeView-1.jpg.webp",
-      "categories": [
-        "News",
-        "HomeView",
-        "security cameras"
-      ],
-      "id": "4fc66ec280c75d85875888ac",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "Always-on Apple Watch display showing the wrong time? Here’s the fix",
-      "link": "https://9to5mac.com/2026/11/02/always-on-apple-watch-display-showing-the-wrong-time-heres-the-fix/",
-      "date": "2026-11-02T13:36:16+00:00",
-      "summary": "    A succession of bugs over the years have seen daylight saving time changes cause problems for  Apple Watches , and the problem has occurred again this year. \n\n\n\n Some users are finding that while the primary time has automatically updated for daylight saving, the always-on display has not …  \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Ceramic-Apple-Watch-Series-12.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "5b7a62f489c1905f3cbcb0e5",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "Apple is now offering iPhone Duo replacements after widespread hinge issues",
-      "link": "https://www.macworld.com/article/3269038/iphone-duo-hinge-issue-whats-wrong-with-apples-folding-phone-and-how-to-fix-it.html",
-      "date": "2026-11-02T13:21:49+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Amid all the excitement and crowds,  iPhone Duo  launch weekend didn’t go quite as well as Apple hoped. Some fans lucky enough to get their hands on a Duo on  day one  didn’t have the greatest experience with the new phone, as reports of inner screens cracking began popping up almost immediately. Here’s ",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3269038-0-69322700-1793625724-Apple-iPhone-Duo-MacWorld-20.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone, Mobile, Smartphones",
-        "iPhone, Mobile, Smartphones"
-      ],
-      "id": "dcbd869bb8ac05581cb1e3ea",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "iPhone Duo: Latest Buyer Wait Times",
-      "link": "https://www.macrumors.com/2026/11/02/iphone-duo-latest-buyer-wait-times/",
-      "date": "2026-11-02T12:32:29+00:00",
-      "summary": "iPhone Duo order wait times averaged 89 days despite falling by a week, according to  UBS Investment Bank  data as of October 30. (Via   Investing.com  .) \n \n\n \n \n \nThe USB Evidence Lab tracker covers iPhone availability across more than 30 markets, and puts the iPhone Duo buyer wait time at nearly three months, even after the slight improvement.\n ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature2.jpg",
-      "categories": [
-        "iPhone Duo"
-      ],
-      "id": "9077c3ba738e0ae5d63678fc",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "AI apps with hidden sexual and violent deepfake features made it into the App Store",
-      "link": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
-      "date": "2026-11-02T12:31:49+00:00",
-      "summary": "    Hundreds of  AI  apps with hidden sexual and violent deepfake features made it into Apple’s  App Store  after passing app review. The same apps were also available in the Google Play Store. \n\n\n\n An investigation discovered more than 400 apps, apparently created by a single Chinese organization. The apps allow users to upload photos and then gen",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/AI-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-App-Store.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "1ce4d0c58c2bf09652dcfdb8",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "This iPhone Duo Screen Setting Is Proving Hard to Change",
-      "link": "https://www.macrumors.com/2026/11/02/iphone-duo-missing-display-zoom-option/",
-      "date": "2026-11-02T11:54:39+00:00",
-      "summary": "Some iPhone Duo owners have discovered that Apple's first foldable is missing a pretty important appearance setting that you can adjust during the initial setup process, but not afterwards.\n \n\n \n   Display Zoom setting on iPhone 18 Pro (left) vs. iPhone Duo  \n \nWhen you first set up an iPhone Duo (or indeed any iPhone), an option screen called Appe",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/display-zoom-comparison-iphone-duo-iphone-18-pro.jpeg",
-      "categories": [
-        "iPhone Duo"
-      ],
-      "id": "3660d9ff44e111b1cbe21783",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "Not every Apple product is ‘exciting,’ it turns out",
-      "link": "https://www.macworld.com/article/3269734/not-every-apple-product-is-exciting-it-turns-out.html",
-      "date": "2026-11-02T10:30:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Well, in the long list of Apple product launches, last week’s announcements were certainly some of them. Marketing supremo Greg Joswiak didn’t set the bar especially high when he predicted  “an exciting week,”  but even that comparatively tepid assessment turned out to be wildly optimistic. \n\n\n\n The 8th-gen",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3269734-0-65762800-1793615462-apple-touch-macbook-pro-proled.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Inc",
-        "Apple Inc"
-      ],
-      "id": "8596860b43db8bf83b634587",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "Apple HomeView Could Double as a Security Camera",
-      "link": "https://www.macrumors.com/2026/11/02/apple-homeview-could-work-security-camera/",
-      "date": "2026-11-02T09:57:03+00:00",
-      "summary": "Apple's upcoming HomeView smart home hub could also work as a HomeKit Secure Video camera, according to settings strings discovered in the device's software by code sleuth  pdfu .\n \n\n \n \n \nThe strings were found in HomeView Software 27.2 and feature four camera modes, including Off, Detect Activity, Stream, and \"Stream & Allow Recording,\" along wit",
-      "sources": [
-        "9to5Mac",
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
-      "categories": [
-        "HomeView",
-        "pdfu"
-      ],
-      "id": "d841f8e97a68ef8cee843e8a",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "Apple Launching Five New Products This Friday",
-      "link": "https://www.macrumors.com/2026/11/02/apple-launching-five-new-products-this-friday/",
-      "date": "2026-11-02T09:22:23+00:00",
-      "summary": "Apple is releasing five new products this Friday, November 6, following pre-orders that  opened last week , including its first touchscreen MacBook Pro models.\n \n \n \nThe following new products will be available from Friday:\n \n\n \n   iPad mini with OLED display and A20 Pro chip  \n \n  iMac with M6 chip  \n \n  14-inch MacBook Pro with M6 chip  \n \n  14-i",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "categories": [
-        "Featured"
-      ],
-      "id": "4e456de694e49e8b389c9576",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "Run this $30 lifetime DVD ripper on your Mac through Parallels",
-      "link": "https://www.macworld.com/article/3272909/run-this-30-lifetime-dvd-ripper-on-your-mac-through-parallels.html",
-      "date": "2026-11-02T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  DVDneXtCOPY  turns DVDs into digital video files , and a lifetime subscription is on sale for $29.99 (reg. $59.99). \n\n\n\n A shelf of DVDs doesn’t do much once none of your devices can play them. If you want those movies on your iPhone or iPad instead, try a  DVDneXtCOPY DVD Ripper lifetime subscript",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3272909-0-89475900-1793606412-sale_328449_article_image.jpg?quality=50&strip=all",
-      "categories": [
-        "Personal Software",
-        "Personal Software"
-      ],
-      "id": "720d99a7c5365c5b7513ad2b",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
     }
   ],
   "v02_initialized": true,
