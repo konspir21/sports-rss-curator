@@ -1,6 +1,104 @@
 {
   "selected": [
     {
+      "title": "Watch Apple’s new touchscreen MacBook Pro in action with Labrinth’s livestream",
+      "link": "https://www.macworld.com/article/3277274/watch-apples-new-touchscreen-macbook-pro-in-action-with-labrinths-livestream.html",
+      "date": "2026-11-05T03:01:09+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n If you pre-ordered a new MacBook Pro, you’re probably counting down the hours until it arrives. While you wait, you can get a look at it in action during a unique livestream from the Downtown LA Apple Store \n\n\n\n At 11 pm ET, British singer, songwriter, composer, and record producer Labrinth will compose a s",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3277274-0-50631700-1793847681-MacBook-Pro-touch-piano.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "63a67572e6955a31696155c4",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
+      "title": "Livestream: Watch Labrinth create a song from scratch tonight using Apple’s new MacBook Pro",
+      "link": "https://9to5mac.com/2026/11/04/livestream-watch-labrinth-create-a-song-from-scratch-tonight-using-apples-new-macbook-pro/",
+      "date": "2026-11-05T02:00:00+00:00",
+      "summary": "    To promote the  new MacBook Pro with PROLED XDR Display , Apple is hosting a livestream in which singer-songwriter Labrinth will create a song from scratch overnight at the company’s Tower Theatre store in Downtown Los Angeles. Watch the livestream below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labirinth.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "798da40fa0a93159b793a4d4",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
+      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
+      "link": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
+      "date": "2026-11-05T00:21:48+00:00",
+      "summary": "Apple today  released a new update  for  Safari Technology Preview , the experimental browser that was  first introduced  in March 2016. Apple designed &zwnj;Safari Technology Preview&zwnj; to allow users to test features that are planned for future release versions of the Safari browser.\n \n\n \n \n \n&zwnj;Safari Technology Preview&zwnj; 256 includes ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
+      "categories": [
+        "Blurb",
+        "Safari Technology Preview"
+      ],
+      "id": "962b371844622c321f0f7808",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
+      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
+      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
+      "date": "2026-11-05T00:17:49+00:00",
+      "summary": "    Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c20f680bd89bf202d35f5b91",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
+      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
+      "link": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
+      "date": "2026-11-05T00:11:27+00:00",
+      "summary": "Apple today added a new  subscription retention feature  for developers, allowing them to show retention messages when a subscriber goes to cancel.\n \n\n \n \n \nApple says retention messages will appear in the subscription cancellation flow and can include text, images, or a special offer. Retention messages can be added in  App Store  Connect for auto",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg",
+      "categories": [
+        "App Store"
+      ],
+      "id": "baf3f77f76544b1bf637074b",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
+      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
+      "link": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
+      "date": "2026-11-04T23:59:10+00:00",
+      "summary": "    According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "0fe0ff4986169d63ffe56d48",
+      "selected_at": "2026-11-05T05:50:51.456534+00:00"
+    },
+    {
       "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
       "link": "https://9to5mac.com/2026/11/04/daily-november-4-2026/",
       "date": "2026-11-04T23:25:26+00:00",
@@ -3286,54 +3384,6 @@
       ],
       "id": "720d99a7c5365c5b7513ad2b",
       "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide",
-      "link": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
-      "date": "2026-11-02T05:01:57+00:00",
-      "summary": "    In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market. \n\n\n\n While Apple did drastically increase its prices earlier this year as a result of the ongoing",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "08994c3f9ac2a499d04b2436",
-      "selected_at": "2026-11-02T12:49:35.031437+00:00"
-    },
-    {
-      "title": "Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go",
-      "link": "https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on/",
-      "date": "2026-11-02T03:32:37+00:00",
-      "summary": "    Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a  45W wall charger  that supports up to 60W with AVS, as well as a  100W car charger  with two cables. \n\n\n\n I’ll largely be touching on the  45W charger  here, as that’s the one I’ve been utilizing the most. \n\n\n\n ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04217-2048x1024.jpg.jpeg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "040bb9818e6464dabe3fddf5",
-      "selected_at": "2026-11-02T04:30:28.276180+00:00"
-    },
-    {
-      "title": "Three new iPad models are reportedly launching early next year, here’s what’s coming",
-      "link": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
-      "date": "2026-11-02T02:12:39+00:00",
-      "summary": "    After debuting the refreshed  iPad mini with OLED  this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new  iPad Air , a new  base iPad , and a new  iPad Pro , according to  Bloomberg’s Mark Gurman . \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ea48ce08f328ed2e796a9875",
-      "selected_at": "2026-11-02T04:30:28.276180+00:00"
     }
   ],
   "v02_initialized": true,
