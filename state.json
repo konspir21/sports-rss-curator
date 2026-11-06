@@ -2120,38 +2120,6 @@
       ],
       "id": "ba59e9f6e305abbaa08bf705",
       "selected_at": "2026-11-03T11:14:55.261397+00:00"
-    },
-    {
-      "title": "Aθλητικές μεταδόσεις σήμερα: Το ΠΑΟΚ - Ρόμα, το Gazz Floor, οι Galacticos, το Magazino και οι μάχες του Champions League",
-      "link": "https://www.gazzetta.gr/football/champions-league/2583145/athlitikes-metadoseis-simera-paok-roma-gazz-floor-oi-galacticos",
-      "date": "2026-11-03T06:40:54+00:00",
-      "summary": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με τις εκπομπές του Gazzetta, το ΠΑΟΚ-Ρόμα για το EuroCup και τις αναμετρήσεις του Champions League.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/paok.jpg?itok=5l4GQ6B8",
-      "categories": [
-        "Champions League",
-        "Ποδόσφαιρο",
-        "Μπάσκετ"
-      ],
-      "id": "104a9d5856312e628f441a03",
-      "selected_at": "2026-11-03T11:14:55.261397+00:00"
-    },
-    {
-      "title": "Τέλος ο Ρούνιαϊτς από την Ουντινέζε",
-      "link": "http://www.sport-fm.gr/article/5158440",
-      "date": "2026-11-03T02:20:00+00:00",
-      "summary": "Η Ουντινέζε ανακοίνωσε τη Δευτέρα το τέλος της συνεργασίας της με τον Κόστα Ρούνιαϊτς μετά από δύο χρόνια στον πάγκο.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/03/runjaic_042224.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "211cb89590b70ce96c853fd9",
-      "selected_at": "2026-11-03T03:27:09.886611+00:00"
     }
   ],
   "v02_initialized": true,
