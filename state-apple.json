@@ -1,6 +1,155 @@
 {
   "selected": [
     {
+      "title": "Report: iPad shipments drop 27.5% as global tablet market plunges in Q3",
+      "link": "https://9to5mac.com/2026/11/05/report-ipad-shipments-drop-27-5-as-global-tablet-market-plunges-in-q3/",
+      "date": "2026-11-06T00:56:11+00:00",
+      "summary": "    Despite global iPad shipments dropping 27.5% year-over-year in the third calendar quarter, Apple maintained its lead in the tablet market, according to a new report released today. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ipad-pro-ipados-26-5-lock-screen.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "faa96ac8f82e71f956f6c186",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
+      "link": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries/",
+      "date": "2026-11-06T00:36:46+00:00",
+      "summary": "    Starting this year, Apple has exclusive streaming rights for Formula 1 racing in the United States, which sees every race stream  on Apple TV . Both Apple and the league have proudly reported a very positive response in terms of viewership and subscriber acquisition, although they do not publish exact viewing figures. \n\n\n\n On the latest earning",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/f1-apple-tv-4k-multiview.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "4cf69c8ad0f59efe7bb402c1",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera",
+      "link": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
+      "date": "2026-11-06T00:22:52+00:00",
+      "summary": "Apple is sending email surveys to some  iPhone Duo  buyers to get feedback on display size, crease, under-display camera, and other features.\n \n\n \n \n \nThe first question asks why the buyer chose the &zwnj;iPhone Duo&zwnj; now, with answers like \"I wanted to try Apple's first foldable,\" \"It was an impulse purchase,\" and \"I expect smartphone prices t",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
+      "categories": [
+        "iPhone Duo"
+      ],
+      "id": "b07a86ca22064800309c472b",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Apple's First Touchscreen Mac is Now Arriving to Customers",
+      "link": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
+      "date": "2026-11-05T23:12:36+00:00",
+      "summary": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen  MacBook Pro ,  OLED   iPad mini , M6 &zwnj;MacBook Pro&zwnj;, or M6  iMac  are now starting to receive their devices.\n \n\n \n \n \nPeople will soon be sharing photos and first impressions of the new products on the  MacRumors  forums, Reddit",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg",
+      "categories": [
+        "Featured",
+        "iMac",
+        "iPad mini",
+        "MacBook Pro",
+        "Touchscreen Mac"
+      ],
+      "id": "7bdcc06a50ae23cf6f81baad",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has",
+      "link": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
+      "date": "2026-11-05T22:47:28+00:00",
+      "summary": "  MacRumors  has confirmed that the A18 chip in Apple's new  HomeView  smart home hub is paired with 8GB of RAM. This is not very surprising given the A18 chip also has 8GB of RAM in all iPhone 16 models and the MacBook Neo, but Apple does not list this information in the HomeView's tech specs, so it is worth documenting. Related Roundup:  Apple Ho",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+      "categories": [
+        "HomeView",
+        "No Linkback"
+      ],
+      "id": "7f91128aba84733ab37eae56",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
+      "link": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
+      "date": "2026-11-05T22:47:18+00:00",
+      "summary": "Anthropic today added Personal Finance to Claude, allowing users to connect their bank and card accounts for analysis.\n \n\n \n \n \nClaude has read-only access to accounts, and there is no option for it to move, manage, or invest money. Anthropic says Claude gives answers in everyday language and can explain unfamiliar financial terms.\n \n\n \nThe feature",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/claude-personal-finance.jpg",
+      "categories": [
+        "Anthropic"
+      ],
+      "id": "3b581c7811e229dbff7bb83c",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "Report: Apple captured half of global smartphone revenue in Q3",
+      "link": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
+      "date": "2026-11-05T22:22:49+00:00",
+      "summary": "    According to a new report from  Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "6810ee5281b7fd2f1eca2de8",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
+      "link": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
+      "date": "2026-11-05T21:48:20+00:00",
+      "summary": "    MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ad8e8a2da88276ce524243b7",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
+      "link": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
+      "date": "2026-11-05T21:31:08+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ad0407ecc9497a3e47fb3604",
+      "selected_at": "2026-11-06T01:17:10.608243+00:00"
+    },
+    {
       "title": "Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams",
       "link": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
       "date": "2026-11-05T20:47:44+00:00",
@@ -3327,263 +3476,6 @@
       ],
       "id": "a1a45880b1a1ba2964a13464",
       "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple stock drops nearly 3% after hours following Q4 2026 results",
-      "link": "https://9to5mac.com/2026/11/02/apple-stock-drops-nearly-3-after-hours-following-q4-2026-results/",
-      "date": "2026-11-03T01:07:40+00:00",
-      "summary": "    Apple shares fell as much as 4.43% in after-hours trading on Monday during the company’s fiscal Q4 2026 earnings call, before recovering some of those losses later in the evening. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "93d7344be3d7cf0ea7f28e2f",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Don’t worry, touchscreen MacBook Pro doesn’t mean iPad will go away",
-      "link": "https://www.cultofmac.com/news/touchscreen-macbook-ipad-merger-separate",
-      "date": "2026-11-03T00:55:54+00:00",
-      "summary": "   \n Find out from Apple's CEO why the company won't merge Mac and iPad, or write a single OS to run on all its various computers.  \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/MacBook-Pro-touchscreen-iPad_01.jpg.webp",
-      "categories": [
-        "News",
-        "iOS",
-        "iPad",
-        "iPadOS",
-        "iPhone",
-        "John Ternus",
-        "MacBook",
-        "MacBook Pro",
-        "macOS"
-      ],
-      "id": "71d71f57d3ede4bc38c4b835",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple Requiring Developers to Disclose Location Sharing and Dating Features in Apps",
-      "link": "https://www.macrumors.com/2026/11/02/apple-developer-dating-app-requirement/",
-      "date": "2026-11-03T00:43:57+00:00",
-      "summary": "Starting November 16, Apple  will require developers  to disclose whether their apps include real-world location sharing or dating features so age ratings can be assigned appropriately.\n \n\n \n \n \nApple says the Dating and Relationships disclosure is required for apps that allow dating or relationship connections, regardless of whether that's with a ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg",
-      "categories": [
-        "Apple Developer Program"
-      ],
-      "id": "4e86c1d679a5d6087252ec59",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple's Q4 2026 Earnings Call Takeaways",
-      "link": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways/",
-      "date": "2026-11-03T00:26:58+00:00",
-      "summary": "Apple  held its earnings call  for the fourth fiscal quarter of 2026 today, and it was Apple CEO John Ternus' first earnings call in his new role. He had Apple CFO Kevan Parekh on hand, and he brought in Chief Operating Officer Sabih Khan.\n \n\n \n \n \nThe trio covered  iPhone Duo  sales,  Siri  AI, and increasing memory costs, among other topics.\n \n\n ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg",
-      "categories": [
-        "Earnings"
-      ],
-      "id": "046c880e9de071ffa7c98471",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple Dodges Question on More Price Hikes as Memory Costs Climb",
-      "link": "https://www.macrumors.com/2026/11/02/apple-memory-costs-increase-december/",
-      "date": "2026-11-03T00:02:11+00:00",
-      "summary": "Apple expects memory costs to continue to increase in the December quarter and beyond, CEO John Ternus said during  today's earnings call . Ternus, COO Sabih Khan, and CFO Kevan Parekh all commented on Apple's struggle with memory.\n \n\n \n \n \n\"What we're seeing with memory pricing right now is unprecedented,\" said Ternus. He said Apple saw higher mem",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/m6-macbook-pro-blue.jpg",
-      "categories": [
-        "Apple",
-        "Rumors",
-        "Mac",
-        "iOS",
-        "iPhone",
-        "iPad"
-      ],
-      "id": "d1209733914bf68382c5cff1",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple forecasts its biggest revenue quarter ever despite supply constraints",
-      "link": "https://9to5mac.com/2026/11/02/apple-forecasts-its-biggest-revenue-quarter-ever-despite-supply-constraints/",
-      "date": "2026-11-02T23:38:32+00:00",
-      "summary": "    During today’s earnings call following its fiscal Q4 2026 report, Apple said it expects its December quarter “to be the best quarter for revenue in the history of the company.” Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&w=1500",
-      "categories": [
-        "News"
-      ],
-      "id": "2f0bbf87c61543022d4e6d80",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple says memory costs and Siri AI will weigh on holiday quarter profit margins",
-      "link": "https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins/",
-      "date": "2026-11-02T23:08:58+00:00",
-      "summary": "    Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "97ffd5a90f4c0c9fd9908817",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad",
-      "link": "https://9to5mac.com/2026/11/02/daily-november-2-2026/",
-      "date": "2026-11-02T22:40:40+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "cd044f2d27c0582f8c906ccf",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple posts record revenue on strong iPhone, Mac sales",
-      "link": "https://www.macworld.com/article/3275094/apple-posts-record-revenue-on-strong-iphone-mac-sales.html",
-      "date": "2026-11-02T22:17:39+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n After a jam-packed month that included the launch of a new smart-home display, touch-screen laptop, and folding phone, Apple on Monday released impressive quarterly results leading into what should be a stellar holiday quarter. For the quarter ending September 30, which notably doesn’t include any of the",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3275094-0-55065500-1793658817-apple-store-mumbai-iphone-17-pro.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Inc",
-        "Apple Inc"
-      ],
-      "id": "6d74b055d257100e8e267e00",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%",
-      "link": "https://9to5mac.com/2026/11/02/apple-spent-a-record-45-77-billion-on-rd-in-fiscal-2026-up-32/",
-      "date": "2026-11-02T22:16:51+00:00",
-      "summary": "    Apple’s research and development expenses reached a new all-time high in fiscal 2026, climbing 32% year over year to $45.77 billion. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "778bcf63bf681b17e11347f9",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Even RAMageddon can’t stop Apple’s record-setting revenues",
-      "link": "https://www.cultofmac.com/news/apple-q3-quarterly-results-september",
-      "date": "2026-11-02T22:10:27+00:00",
-      "summary": "   \n Apple posts record quarterly revenue and beats Wall Street expectations despite higher prices driven by the global RAM shortage. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Apple-Q4-2026-earnings-results.jpg.webp",
-      "categories": [
-        "News",
-        "Apple financials"
-      ],
-      "id": "dba86b325105630cc973284d",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "Apple CEO Ternus Says iPhone Duo Shortages Have No End Date in Sight",
-      "link": "https://www.macrumors.com/2026/11/02/iphone-duo-shortages-no-end/",
-      "date": "2026-11-02T22:03:23+00:00",
-      "summary": "Apple is unable to meet demand for the  iPhone Duo  and there's no timeline for when the company will catch up, CEO John Ternus told   Reuters   following  today's earnings report .\n \n\n \n \n \n Duo is constrained as of today. The ramp is going well, and we're working hard to get it to as many customers as quickly as possible, but at this point, we're",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "categories": [
-        "iPhone Duo",
-        "John Ternus"
-      ],
-      "id": "79c2856fd30b55f74b976335",
-      "selected_at": "2026-11-03T03:27:09.910181+00:00"
-    },
-    {
-      "title": "John Ternus addresses iPhone Duo supply constraints, display issue",
-      "link": "https://9to5mac.com/2026/11/02/john-ternus-addresses-iphone-duo-supply-constraints-display-issue/",
-      "date": "2026-11-02T21:47:30+00:00",
-      "summary": "    Today Apple  reported record Q4 earnings , which beat Wall Street expectations overall. And in an  interview with  Reuters  , CEO John Ternus addressed current iPhone Duo supply constraints and also referenced units that have been returned for display issues. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "3d6625affe42442a406ce3f4",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "Apple Reports 4Q 2026 Results: $30.7B Profit on $114.5B Revenue",
-      "link": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/",
-      "date": "2026-11-02T21:38:18+00:00",
-      "summary": "Apple today  announced  financial results for the fourth fiscal quarter of 2026, which corresponds to the third calendar quarter of the year. The quarter included a number of August and September product releases from Apple, as well as the CEO transition from  Tim Cook  to John Ternus that took place on September 1.\n \n\n \n \n \nFor the quarter, Apple ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/aapl-4q26-line.jpg",
-      "categories": [
-        "Featured",
-        "Earnings"
-      ],
-      "id": "43ef8d16c9917ed62d7ab9ae",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
-    },
-    {
-      "title": "Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12% [Charts]",
-      "link": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/",
-      "date": "2026-11-02T21:32:54+00:00",
-      "summary": "    Apple just released its earnings report for the fourth fiscal quarter of 2026. The company reported $114.5 billion in revenue, and $30.71 billion in net profit. Here’s the full breakdown. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "093e8ebe78566a7f9f30505f",
-      "selected_at": "2026-11-02T22:00:24.677998+00:00"
     }
   ],
   "v02_initialized": true,
