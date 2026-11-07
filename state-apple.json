@@ -1,6 +1,45 @@
 {
   "selected": [
     {
+      "title": "Apple Music Classical gets new black-and-white icon in latest update",
+      "link": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
+      "date": "2026-11-07T02:11:48+00:00",
+      "summary": "    Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated  Apple Music Classical  to match the new design. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-music-classical.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "84e58784b12cde355eb0dcd3",
+      "selected_at": "2026-11-07T07:01:59.157576+00:00"
+    },
+    {
+      "title": "How to set up your new Mac like a pro",
+      "link": "https://www.cultofmac.com/how-to/set-up-mac",
+      "date": "2026-11-07T01:15:47+00:00",
+      "summary": "   \n Every Mac today is a great buy. If you're one of the lucky people to get one this year, here’s how to set up your new Mac like a pro. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2024/12/Set-Up-Mac.jpg",
+      "categories": [
+        "How-To",
+        "iMac",
+        "Mac",
+        "Mac Pro",
+        "mac-how-to",
+        "MacBook Air",
+        "macOS",
+        "Top stories"
+      ],
+      "id": "6273cf3c791d03d09ac53792",
+      "selected_at": "2026-11-07T07:01:59.157576+00:00"
+    },
+    {
       "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
       "link": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
       "date": "2026-11-06T23:47:18+00:00",
@@ -2927,55 +2966,6 @@
       ],
       "id": "99ce9a8c3548a2c3be6225e8",
       "selected_at": "2026-11-04T11:19:23.970658+00:00"
-    },
-    {
-      "title": "macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro",
-      "link": "https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro/",
-      "date": "2026-11-04T02:43:07+00:00",
-      "summary": "    Included in today’s  macOS 27.3 beta 1  is a great-looking screensaver featuring an animated version of the  new MacBook Pro with PROLED XDR Display  wallpaper. Watch it below. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "aa456c7305bbc8ebba9ac69d",
-      "selected_at": "2026-11-04T03:20:26.418948+00:00"
-    },
-    {
-      "title": "‘Stick’ season 2 premieres on Apple TV",
-      "link": "https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv/",
-      "date": "2026-11-04T02:01:01+00:00",
-      "summary": "    Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), among others. Watch the trailer below. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "519eec4a7e2a389ea51e2681",
-      "selected_at": "2026-11-04T03:20:26.418948+00:00"
-    },
-    {
-      "title": "Apple Watch Series 12 & Ultra 4 guide: Price, features, battery life and updates",
-      "link": "https://www.macworld.com/article/3177024/apple-watch-2026-release-date-ultra-series-12-design-features-specs.html",
-      "date": "2026-11-04T01:30:27+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n In September 2026 Apple unveiled the  Apple Watch Series 12  and  Apple Watch Ultra 4 , with both models focusing much more heavily on health monitoring, Apple Intelligence and battery efficiency than on physical redesigns. Series 12 remains Apple’s mainstream premium smartwatch, while Ultra 4 continues ",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3177024-0-10708000-1793799944-Apple-Watch-Series-12-Apple-Watch-Ultra-4.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Watch",
-        "Apple Watch"
-      ],
-      "id": "30cfbe9279153f8930d2985c",
-      "selected_at": "2026-11-04T18:44:12.993444+00:00"
     }
   ],
   "v02_initialized": true,
