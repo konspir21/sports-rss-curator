@@ -1,6 +1,153 @@
 {
   "selected": [
     {
+      "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
+      "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
+      "date": "2026-11-08T17:24:45+00:00",
+      "summary": "Siri AI is much more intelligent and personalized compared to classic Siri, but it is still not nearly as advanced as proactive, always-on agents like OpenAI's Dots and Meta's Muse. That may change, though, according to a new rumor.\n \n\n \n \n \nIn his   Power On  newsletter today ,  Bloomberg 's Mark Gurman said he was told that Apple could make Siri ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "categories": [
+        "Craig Federighi",
+        "John Ternus",
+        "Mark Gurman",
+        "Siri",
+        "Siri AI"
+      ],
+      "id": "339089c825c261ca2ebdca9f",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Today in Apple history: Wild stunt lets strangers take Macs for 24-hour ‘test drive’",
+      "link": "https://www.cultofmac.com/apple-history/test-drive-a-macintosh",
+      "date": "2026-11-08T15:57:10+00:00",
+      "summary": "   \n On November 8, 1984, Apple fired up its \"Test Drive a Macintosh\" ad campaign, offering customers the chance to borrow a Mac for 24 hours. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/Apples-Test-drive-a-Macintosh-advertisement.jpg",
+      "categories": [
+        "Apple history",
+        "Top Stories",
+        "Apple advertising",
+        "John Sculley",
+        "Mac",
+        "TIAH: 1980s",
+        "TIAH: Macs",
+        "Today in Apple history"
+      ],
+      "id": "2eade46d7d9160a2c56d5636",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Report: John Ternus pushing Craig Federighi to speed up Apple software engineering",
+      "link": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/",
+      "date": "2026-11-08T15:55:23+00:00",
+      "summary": "    In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to  Bloomberg’s Mark Gurman , new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate’ Apple’s roadmap for software. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&strip=all&w=1500",
+      "categories": [
+        "News"
+      ],
+      "id": "0dece78ac9b2507b78898d98",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Apple Taking New Approach to Developing iOS 28 and macOS 28",
+      "link": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process/",
+      "date": "2026-11-08T15:42:38+00:00",
+      "summary": "Apple has made a change to its development process for iOS 28, macOS 28, and corresponding software updates, according to  Bloomberg 's Mark Gurman.\n \n\n \n \n \nIn his   Power On  newsletter today , he said Apple separates development of each year's new operating systems into three major stages. Typically, he said each stage consists of four weeks of ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg",
+      "categories": [
+        "iOS 28",
+        "Mark Gurman"
+      ],
+      "id": "5d8e75f7e29e74822876f385",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Apple aiming to make Siri ‘more like an agent’ as soon as next year: report",
+      "link": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/",
+      "date": "2026-11-08T15:30:36+00:00",
+      "summary": "    Apple finally shipped its long awaited  personalized Siri  with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024.  \n\n\n\n That said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively working towards. Apple might come around on t",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "54354cdb235e3773233c7964",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Find the beloved Clarus the Dogcow on your iPhone today",
+      "link": "https://www.cultofmac.com/how-to/find-the-beloved-clarus-the-dogcow-on-your-iphone-today",
+      "date": "2026-11-08T15:19:08+00:00",
+      "summary": "   \n Apple sneaks a nostalgic Easter egg featuring Clarus the Dogcow into iOS 27, bringing back a beloved piece of classic Macintosh history. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Clarus-the-Dogcow-Easter-egg_01b.jpg.webp",
+      "categories": [
+        "How-To",
+        "Easter eggs",
+        "iOS 27",
+        "iPhone"
+      ],
+      "id": "41718a7bab4037b04a95963e",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "I’m a believer in Touch after using Apple’s new PROLED MacBook Pro",
+      "link": "https://www.macworld.com/article/3276314/proled-xdr-macbook-pro-touch-lag-interface-gestures-fingerprints.html",
+      "date": "2026-11-08T15:10:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s new  MacBook Pro with PROLED XDR Display  isn’t just the  best display ever put in a laptop . It’s also Apple’s first-ever touchscreen in a Mac and the first time macOS has supported Touch as an input option. It’s a feature we longtime Mac users thought we’d never see, mostly because Apple has  a",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276314-0-47647500-1794150734-macos-touch-hero.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook, MacOS",
+        "Laptops, MacBook, MacOS"
+      ],
+      "id": "0945602895c9003e6e8e9ea0",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
+      "title": "Get these JBL Tune 530BT headphones with up to 76 hours of listening for just $47",
+      "link": "https://www.cultofmac.com/deals/jbl-tune-530bt-on-ear-headphones",
+      "date": "2026-11-08T14:30:09+00:00",
+      "summary": "   \n Get new, open-box JBL Tune 530BT headphones for $46.99, with up to 76 hours of battery life, Bluetooth multipoint and USB-C quick charging. Charging cable not included. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/sale_329799_article_image.jpg",
+      "categories": [
+        "Deals",
+        "Bluetooth headphones",
+        "Cult of Mac Deals",
+        "JBL"
+      ],
+      "id": "26f244139a46124915749740",
+      "selected_at": "2026-11-08T19:12:06.440902+00:00"
+    },
+    {
       "title": "Turn your iPhone into a document scanner with this lifetime subscription on sale for $35",
       "link": "https://www.macworld.com/article/3278260/turn-your-iphone-into-a-document-scanner-with-this-lifetime-subscription-on-sale-for-35.html",
       "date": "2026-11-08T08:00:00+00:00",
@@ -1572,552 +1719,6 @@
         "OLED"
       ],
       "id": "a3d8cde00fc72985676fbc0d",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "First iOS 27.3 and macOS Golden Gate 27.3 Public Betas Now Available",
-      "link": "https://www.macrumors.com/2026/11/05/ios-27-3-public-beta/",
-      "date": "2026-11-05T19:06:09+00:00",
-      "summary": "Apple today seeded the first betas of iOS 27.3, iPadOS 27.3,  macOS Golden Gate  27.3, tvOS 27.3, and watchOS 27.3. The new software comes two days after Apple released the betas for developers.\n \n\n \n \n \niOS 27.3 is a major update that adds  a Vertical Tabs layout option  and Adaptive  Dark Mode  for Safari.  Siri  AI can do more in and across Appl",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/iOS-27.3-Feature.jpg",
-      "categories": [
-        "Featured",
-        "iOS 27",
-        "macOS Golden Gate"
-      ],
-      "id": "4935140f6c43b825560cb99a",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "macOS 27.3 Golden Gate public beta 1 now available, here’s everything new",
-      "link": "https://9to5mac.com/2026/11/05/macos-27-3-golden-gate-public-beta-1-now-available-heres-everything-new/",
-      "date": "2026-11-05T19:04:55+00:00",
-      "summary": "    Following the release of  macOS 27.3 developer beta 1 , Apple is now rolling out the first test build for users enrolled in the public beta. Here’s what’s coming \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "579cc3663263182c12692a8b",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple releases iPadOS 27.3 public beta and more, here’s what’s new",
-      "link": "https://9to5mac.com/2026/11/05/apple-releases-ipados-27-3-public-beta-and-more-heres-whats-new/",
-      "date": "2026-11-05T19:04:35+00:00",
-      "summary": "    Public beta testers, Apple is now rolling out the first public betas for iPadOS 27.3, tvOS 27.3, and more. Here’s what‘s new. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "67743b512d29fe44f8bc811b",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "First macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 RCs now available [U]",
-      "link": "https://9to5mac.com/2026/11/05/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available/",
-      "date": "2026-11-05T19:03:56+00:00",
-      "summary": "     Update, November 5:  The release candidates are now available to public beta testers as well. \n\n\n\n In addition to the release of macOS 27.3 beta 1, Apple is also rolling out the first release candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "a03d7627faab44f07d3e98db",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple releases first iOS 27.3 public beta with redesigned Health app and more",
-      "link": "https://9to5mac.com/2026/11/05/apple-releases-first-ios-27-3-public-beta-with-redesigned-health-app-and-more/",
-      "date": "2026-11-05T19:01:35+00:00",
-      "summary": "    Apple has released the first iOS 27.3 public beta for iPhone. The update brings back the redesigned Health app that briefly appeared during iOS 27.2 testing. It also adds vertical tabs in Safari, gives Siri AI more to do across Apple’s apps, and makes the iPhone Duo easier to use with one hand. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.3-public.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ab08cf2255149bd103e3a160",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple Announces a New Mac Sales Record",
-      "link": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record/",
-      "date": "2026-11-05T18:52:37+00:00",
-      "summary": " On an  earnings call  earlier this week, Apple CEO John Ternus announced that the company sold more Macs in its 2026 fiscal year than any previous fiscal year. \"We have never sold more Macs in a fiscal year than we did this time, which is a truly remarkable testament to these incredible products,\" he said.\n \n\n \nThis record is all the more impressi",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg",
-      "categories": [
-        "MacBook Neo",
-        "MacBook Pro",
-        "No Linkback",
-        "John Ternus"
-      ],
-      "id": "a63023fab5cf8cee4094b951",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Paid $200 for Logic Pro? Apple Says You Won't Get This New Feature",
-      "link": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
-      "date": "2026-11-05T18:48:37+00:00",
-      "summary": "According to Apple's full release notes for version 13.0 of Logic Pro for Mac,  released today , the new AI-powered Intelligent Assistant feature requires an Apple Creator Studio subscription for &#36;12.99 per month or &#36;129 per year. In other words, the feature is not available in the &#36;199.99  one-time purchase version  of Logic Pro.\n \n\n \n",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Logic-Pro-Intelligent-Assistant.jpg",
-      "categories": [
-        "Apple Creator Studio",
-        "Logic Pro"
-      ],
-      "id": "fb30360ea5835e8fe58acade",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Microscopic teardown reveals secret of iPhone Duo’s surprisingly sharp nano-texture screen",
-      "link": "https://www.macworld.com/article/3277996/microscopic-teardown-reveals-secret-of-iphone-duos-surprisingly-sharp-nano-texture-screen.html",
-      "date": "2026-11-05T18:40:37+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n The iPhone Duo, which launched last month to  mixed reviews , contains a range of technological feats and breakthroughs. One of these is its nano-texture interior screen, which contrasts with the glossy outer screen and helps to conceal the crease that marred so many early (and a fair few more recent) fo",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3277996-0-11342600-1793904048-iphone-duo-keyboard.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone, Mobile, Smartphones",
-        "iPhone, Mobile, Smartphones"
-      ],
-      "id": "bc3849c428b1a013401c40b2",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator",
-      "link": "https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator/",
-      "date": "2026-11-05T18:23:55+00:00",
-      "summary": "     Bad Monkey , an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "12927defa653ad08b083e105",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Touch is the PROLED MacBook Pro’s greatest trick",
-      "link": "https://www.macworld.com/article/3276314/apple-touchscreen-macbook-pro-first-look.html",
-      "date": "2026-11-05T18:20:10+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s new  MacBook Pro with PROLED XDR Display  isn’t just the  best display ever put in a laptop . It’s also Apple’s first-ever touchscreen in a Mac and the first time macOS has supported Touch as an input option. It’s a feature we longtime Mac users thought we’d never see, mostly because Apple has  a",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276314-0-66580900-1793903589-macos-touch-hero.jpg?quality=50&strip=all",
-      "categories": [
-        "Laptops, MacBook, MacOS",
-        "Laptops, MacBook, MacOS"
-      ],
-      "id": "8f2f675f465475382678cf17",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Anthropic upgrades Claude with new Personal Finance feature",
-      "link": "https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature/",
-      "date": "2026-11-05T18:14:22+00:00",
-      "summary": "    Having the right context is what makes AI tools useful. Anthropic just launched the ability to securely use personal finance data with Claude. The company emphasizes that the feature is read-only and can’t take financial actions. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/claude-personal-finance.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "d7acd14c46d4333bdf0c29d0",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Got new Apple gear on the way? Pick up these Beats USB-C cables (60% off)",
-      "link": "https://www.macworld.com/article/3277942/got-new-apple-gear-on-the-way-pick-up-these-beats-usb-c-cables-60-off.html",
-      "date": "2026-11-05T18:12:27+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Beats USB-C Cables (2-pack)  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = thi",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3277942-0-24308600-1793902356-beats-cables.jpeg?quality=50&strip=all",
-      "categories": [
-        "Accessories, Power",
-        "Accessories, Power"
-      ],
-      "id": "5a4b7044074df39af479132f",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Instagram's Edits Video Editor is Now Available on Mac",
-      "link": "https://www.macrumors.com/2026/11/05/instagram-edits-mac/",
-      "date": "2026-11-05T17:36:32+00:00",
-      "summary": "Instagram  today expanded  its Edits video editing app  to the Mac . Edits for Mac is intended for larger projects that benefit from a big screen and the control of a mouse and keyboard.\n \n\n \n \n \nThe app includes Instagram's licensed and royalty-free audio libraries, sound and video effects, and unlimited automatic captions.\n \n\n \nEdits for Mac has ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/instagram-edits-mac.jpg",
-      "categories": [
-        "Instagram"
-      ],
-      "id": "74514094843f40bf25d9cc84",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Crossy Road Rush brings a fast-paced new adventure to iPhone",
-      "link": "https://www.cultofmac.com/news/crossy-road-rush-release-date-apple-arcade",
-      "date": "2026-11-05T17:27:13+00:00",
-      "summary": "   \n \"Crossy Road Rush\" boasts 50+ levels of challenging obstacles to zoom though, along with boss battles, Survival Mode and multiplayer fun. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Crossy-Road-Rush_01.jpg.webp",
-      "categories": [
-        "News",
-        "Apple Arcade",
-        "Atari",
-        "games",
-        "gaming"
-      ],
-      "id": "016832981fa95b4eff625423",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Prevent Siri and Search From Accessing Specific iPhone Apps",
-      "link": "https://www.macrumors.com/how-to/stop-siri-search-accessing-iphone-apps/",
-      "date": "2026-11-05T17:10:37+00:00",
-      "summary": "In iOS 27.2, Apple has a new settings menu that lets you choose which apps Siri, Search, and suggestions can access, all from one list. Here's what's changed and how to use the new menu.\n \n\n \n \n \nWith iOS 27.2, Apple has replaced the old App Access controls with a redesigned Excluded Apps feature that makes it a lot simpler to keep specific apps aw",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
-      "categories": [
-        "Siri"
-      ],
-      "id": "66ada561c25b47c05c17202d",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Best time to buy an iPhone in 2026: Buy now or wait for Black Friday?",
-      "link": "https://www.macworld.com/article/672505/when-is-the-best-time-to-buy-an-iphone.html",
-      "date": "2026-11-05T16:58:51+00:00",
-      "summary": "  Macworld  \n\n \n\n \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n If you’re planning to buy a new iPhone, should you buy now or wait for Black Friday? The  iPhone Duo  went on sale on October 23, completing Apple’s latest launches, but availability and early reports of inner-display failures complicate the decision for foldable buyers. \n\n\n\n The Duo joins the  iPhone 18",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/672505-0-76353000-1793897940-Which-IPhone-to-buy-now.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone",
-        "iPhone"
-      ],
-      "id": "3f745ced2390ed2a7abb1d25",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "tvOS 27.2 adds new Apple TV 4K setting that’s an instant favorite",
-      "link": "https://9to5mac.com/2026/11/05/tvos-27-2-adds-new-apple-tv-4k-setting-ive-been-loving/",
-      "date": "2026-11-05T16:48:23+00:00",
-      "summary": "    tvOS 27.2  launched last week  as the latest software update for Apple TV 4K, and it includes a new setting I’m a big fan of: Shuffle for screen savers. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "68910df6d7559a300affb17a",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "New 4K wireless video adapter makes HDMI cables rubbish [Review] ★★★★☆",
-      "link": "https://www.cultofmac.com/reviews/nyrius-phoenix-prime-4k30-review",
-      "date": "2026-11-05T16:35:16+00:00",
-      "summary": "   \n Freeing yourself from HDMI cables doesn't have to mean giving up 4K. We go hands-on with the Nyrius Phoenix Prime 4K30 wireless video adapter.  \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Nyrius-Phoenix-Prime-4K30_review_01.jpg.webp",
-      "categories": [
-        "Reviews",
-        "Top Stories",
-        "adapters",
-        "HDMI"
-      ],
-      "id": "105d6c3cae8bae2c99a2558b",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Deals: HomeView, AirPods Pro 3, Apple Watch Ultra 4, Hue Bridge Pro bundle, MacBook Air $200 off, more",
-      "link": "https://9to5mac.com/2026/11/05/deals-homeview-airpods-pro-3-apple-watch-ultra-4-macbook/",
-      "date": "2026-11-05T16:34:18+00:00",
-      "summary": "    The ongoing  Apple HomeView pre-order discount  and  AirPods Pro 3 at $50 off , the venerable 2026  Apple Polishing Cloth  is now back in-stock at   $9 Prime shipped   – perfect Apple stocking stuffer. We are also now tracking  Apple Watch Ultra 4  with the Translucent Gray Ocean Band  down at  nearly $100 off   again alongside the most afforda",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-Watch-Ultra-4-Hue-Bridge-Pro-HomeView.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "111c44610d23bcafec6cee92",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Today in Apple history: Fortune names Steve Jobs ‘CEO of the decade’",
-      "link": "https://www.cultofmac.com/apple-history/steve-jobs-ceo-of-the-decade",
-      "date": "2026-11-05T16:20:54+00:00",
-      "summary": "   \n On November 5, 2009, the businees magazine named Steve Jobs CEO of the decade after a brilliant 10 years at Apple and Pixar. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/Fortune-magazine-names-Steve-Jobs-22CEO-of-the-decade22.jpg",
-      "categories": [
-        "Apple history",
-        "Top Stories",
-        "Fortune",
-        "Pixar",
-        "Steve Jobs",
-        "TIAH: 2000s",
-        "Today in Apple history"
-      ],
-      "id": "46436d31e6b0ac129800f400",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "MacBook Pro PROLED XDR Reviews Are In: Is the Touchscreen Worth It?",
-      "link": "https://www.macrumors.com/2026/11/05/macbook-pro-proled-xdr-reviews/",
-      "date": "2026-11-05T16:20:40+00:00",
-      "summary": "The first reviews of the new 14-inch and 16-inch  MacBook Pro models with PROLED XDR displays  have been published ahead of the laptops launching on Friday.\n \n\n \n \n \nOne of the key new features is a touchscreen. Is it worth it, though? Here's what reviews say.\n \n\n \n  The Verge 's David Pierce said  that, in his testing so far, touch input has not b",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-Touch-1.jpg",
-      "categories": [
-        "Featured",
-        "MacBook Pro"
-      ],
-      "id": "d859c08ed23a4acce0c33202",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Early Black Friday Accessory Deals at Amazon Include TVs, Headphones, and Charging Devices",
-      "link": "https://www.macrumors.com/2026/11/05/early-black-friday-accessory-deals/",
-      "date": "2026-11-05T16:14:06+00:00",
-      "summary": "Earlier this week we highlighted some of the  best early Black Friday Apple deals , and today we're focusing on third-party accessory markdowns available to purchase right now on Amazon. In this article you'll find all the best accessories for charging, smart homes, smartphones, and more.\n \n\n \n   Note: MacRumors is an affiliate partner with some of",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-2.jpg",
-      "categories": [
-        "Black Friday",
-        "Deals",
-        "Featured"
-      ],
-      "id": "99d05ae470abcef04f0a6d93",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "iOS 27.3 gives Apple One’s high-end tier a compelling upgrade",
-      "link": "https://9to5mac.com/2026/11/05/ios-27-3-gives-apple-ones-high-end-tier-a-compelling-upgrade/",
-      "date": "2026-11-05T16:08:21+00:00",
-      "summary": "    iOS 27.3 is coming  next month  and is packed with new features, including some that make  Apple One Premier  more compelling than ever. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "3fe1b5cf2099f19e3aeae611",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Download movies and TV shows from most major streaming platforms for life",
-      "link": "https://www.cultofmac.com/deals/samemovie-video-downloader",
-      "date": "2026-11-05T15:57:19+00:00",
-      "summary": "   \n Grab movies and shows from Netflix, Prime Video and 1,000+ other sites with SameMovie. A lifetime license to the video downloader is on sale. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/SameMovie-co.jpg",
-      "categories": [
-        "Deals",
-        "Cult of Mac Deals",
-        "Mac apps"
-      ],
-      "id": "237c3531de1b61e6b81e80b1",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Best Early Black Friday Deals on iPhone 18 Pro and iPhone Duo",
-      "link": "https://www.macrumors.com/2026/11/05/early-black-friday-deals-iphone/",
-      "date": "2026-11-05T15:56:33+00:00",
-      "summary": "Cellular carriers have always offered big savings on the newest iPhone models during the holidays, and Black Friday 2026 sales have kicked off at  AT&T  and  T-Mobile , as well as  Best Buy . Right now we're tracking notable offers on the iPhone 18 Pro, iPhone 18 Pro Max, and iPhone Duo. For even more savings, keep an eye on older models during the",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/iphone-early-black-friday.jpeg",
-      "categories": [
-        "Black Friday",
-        "Deals",
-        "Featured"
-      ],
-      "id": "c86c72e0cd5de04ee35f5290",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple Creator Studio App Updates Rolling Out, Starting With Logic Pro",
-      "link": "https://www.macrumors.com/2026/11/05/apples-creator-studio-updates-start-rolling-out/",
-      "date": "2026-11-05T15:33:04+00:00",
-      "summary": "Apple today began rolling out the Creator Studio app updates that it  announced last month . Both the  Creator Studio version  and  standalone version  of Logic Pro for the Mac were updated today, and the remaining app updates will come out later in November. \n \n\n \n \n \n MacStories  editor John Voorhees  tested the updated Creator Studio apps  over ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio.jpg",
-      "categories": [
-        "Apple Creator Studio",
-        "Logic Pro"
-      ],
-      "id": "25d3f94942478749f6a0778e",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "iPhone Duo durability tested on unfolding livestream, now over 260,000 folds",
-      "link": "https://9to5mac.com/2026/11/05/iphone-duo-durability-tested-on-unfolding-livestream-now-over-260000-folds/",
-      "date": "2026-11-05T15:10:50+00:00",
-      "summary": "     CNET  built a ‘Fold-a-Phone’ machine that’s been constantly folding and unfolding iPhone Duo for over a week to test durability, while livestreaming daily. Here’s how it’s going. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-split-view-wide.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "dc490c6e21b09259d2030f44",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Apple Creator Studio gets powerful new AI features using OpenAI models [U: Now available]",
-      "link": "https://9to5mac.com/2026/11/05/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models/",
-      "date": "2026-11-05T15:03:24+00:00",
-      "summary": "     Apple Creator Studio  updates were announced late last month, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models. \n\n\n\n At the time, Apple didn’t give a specific availability date beyond sometime in November, but the updates are rolling out today … \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "17e3919fb4ef8557ba29a1e8",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Best iPhone 2026: Every iPhone compared",
-      "link": "https://www.macworld.com/article/228816/best-iphone-pro-max-duo-ranked.html",
-      "date": "2026-11-05T15:02:53+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s 2026 iPhone lineup is broader than ever, ranging from the relatively affordable iPhone 17e to the high-end  iPhone 18 Pro and Pro Max , plus the ultra-thin iPhone Air and the new folding  iPhone Duo . That gives buyers more choice, but it also makes picking the right model more complicated than s",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/228816-0-33806200-1793891075-Best-IPhone-Guide.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone",
-        "iPhone"
-      ],
-      "id": "5ae88074087e80da45595ca6",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Instagram launches Edits for Mac with multi-track video editing and 4K exports",
-      "link": "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
-      "date": "2026-11-05T15:00:00+00:00",
-      "summary": "     Instagram  users can now download a Mac version of Edits, the company’s free video editing app, with multi-track editing, advanced color grading tools, direct publishing to Instagram, and 4K exports. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/instagram-edits-desktop.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "030e9a25bfc15595b5df6e09",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "WhatsApp adds shareable event invites and a new Events hub",
-      "link": "https://9to5mac.com/2026/11/05/whatsapp-adds-shareable-event-invites-and-a-new-events-hub/",
-      "date": "2026-11-05T15:00:00+00:00",
-      "summary": "    WhatsApp is rolling out an update to Events just in time for holiday get-togethers. Guests can open an invite link, see the event details, and RSVP without creating a WhatsApp account or downloading the app. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/whatsapp-events.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "af1cadb7f1fec5267d6d14c9",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "New retention messages let apps plead when users cancel subscriptions",
-      "link": "https://www.cultofmac.com/news/app-store-retention-messages-cancel-subscription",
-      "date": "2026-11-05T14:59:19+00:00",
-      "summary": "   \n New App Store retention messages give developers one last shot to change customers' minds when they go to cancel a subscription. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/App-Store-Retention.jpg.webp",
-      "categories": [
-        "News",
-        "App Store",
-        "subscription"
-      ],
-      "id": "ba2f495dbcf2abb8d10005b6",
       "selected_at": "2026-11-05T20:50:09.494130+00:00"
     }
   ],
