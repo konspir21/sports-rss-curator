@@ -1,6 +1,39 @@
 {
   "selected": [
     {
+      "title": "Μπόκα Τζόυνιορς: Κατέκτησε τον τίτλο στην Αργεντινή με δραματικό φινάλε (vids)",
+      "link": "https://www.gazzetta.gr/football/2584669/mpoka-tzoyniors-katektise-ton-titlo-stin-argentini-me-dramatiko-finale-vids",
+      "date": "2026-11-08T07:10:23+00:00",
+      "summary": "Σε ένα δραματικό φινάλε μέχρι και το τελευταίο δευτερόλεπτο, η Μπόκα Τζούνιορς αναδείχθηκε πρωταθλήτρια Αργεντινής και... ξενέρωσε τους φίλους της Ροσάριο Σεντράλ που ήδη πανηγύριζαν.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/boca_juniors.jpg?itok=YuQNiEkm",
+      "categories": [
+        "Ποδόσφαιρο",
+        "Μπόκα Τζούνιορς"
+      ],
+      "id": "7c41d723d0bff1492da035fa",
+      "selected_at": "2026-11-08T07:54:45.129658+00:00"
+    },
+    {
+      "title": "Η ώρα και το κανάλι του ντέρμπι Ολυμπιακός - ΠΑΟΚ και των άλλων τεσσάρων ματς της Stoiximan Super League",
+      "link": "https://www.athletiko.gr/i-ora-kai-to-kanali-toy-ntermpi-olympiakos-paok-kai-ton-allon-tessaron-mats-tis-stoiximan-super-league-114305",
+      "date": "2026-11-08T05:10:00+00:00",
+      "summary": "    Το κυρίως πιάτο της 10ης αγωνιστικής της Stoiximan Super League προσφέρεται την Κυριακή (08/11). Το πρωτάθλημα διακόπτεται λόγω υποχρέωσεων των ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/paok5176344.jpg?crop=2048,1152,0,41",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "0524c605487d66a3af0b944e",
+      "selected_at": "2026-11-08T07:54:45.129658+00:00"
+    },
+    {
       "title": "Ανέβηκε δεύτερη η ΑΕΛ, σοκ για Απόλλωνα Λεμεσού",
       "link": "http://www.sport-fm.gr/article/5159624",
       "date": "2026-11-08T01:10:00+00:00",
@@ -1970,45 +2003,6 @@
         "Ποδόσφαιρο"
       ],
       "id": "39a185cd35b2d596d79dce63",
-      "selected_at": "2026-11-05T13:43:24.020966+00:00"
-    },
-    {
-      "title": "Δουβίκας: Το κλειστό club Ελλήνων παικτών που πέτυχαν χατ-τρικ στο Champions League",
-      "link": "https://www.gazzetta.gr/football/champions-league/2583805/doybikas-kleisto-club-ellinon-paikton-poy-petyhan-hat-trik-sto",
-      "date": "2026-11-05T07:04:54+00:00",
-      "summary": "Το Gazzetta θυμάται τους τρεις Έλληνες που... ζήλεψε ο Τάσος Δουβίκας και έχουν πετύχει χατ-τρικ στην κορυφαία διασυλλογική διοργάνωση.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/douvikas_2.jpg?itok=ZCk4qiHq",
-      "categories": [
-        "Champions League",
-        "Κόμο",
-        "Μπενφίκα",
-        "Ολυμπιακός",
-        "Παναθηναϊκός",
-        "Ποδόσφαιρο"
-      ],
-      "id": "820c94ff33ae7fcd28daf5d5",
-      "selected_at": "2026-11-05T13:43:24.020966+00:00"
-    },
-    {
-      "title": "ΑΕΚ: Οι πιθανότητες συνέχειας στο Champions League μετά την ήττα από τη Ρεάλ",
-      "link": "https://www.gazzetta.gr/football/champions-league/2583793/aek-oi-pithanotites-syneheias-sto-champions-league-meta-tin-itta",
-      "date": "2026-11-05T06:27:23+00:00",
-      "summary": "Το Football Meets Data δίνει τις πιθανότητες που έχει η ΑΕΚ να συνεχίσει στο Champions League, μετά την ήττα από τη Ρεάλ Μαδρίτης (2-3).",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/mbappe_rota.jpg?itok=QAMVeAzE",
-      "categories": [
-        "Champions League",
-        "ΑΕΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "e6c7175a60f68a70358497dd",
       "selected_at": "2026-11-05T13:43:24.020966+00:00"
     }
   ],
