@@ -1,6 +1,22 @@
 {
   "selected": [
     {
+      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
+      "link": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
+      "date": "2026-11-07T22:30:00+00:00",
+      "summary": "    Last week, movie director Rian Johnson  announced  a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed.  \n\n\n\n iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my view, it’s a bit too exaggerated.  Ch",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&strip=all&w=1500",
+      "categories": [
+        "News"
+      ],
+      "id": "294d25f663e360df3cdcdf82",
+      "selected_at": "2026-11-08T01:28:53.770073+00:00"
+    },
+    {
       "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
       "link": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
       "date": "2026-11-07T20:44:15+00:00",
@@ -2441,119 +2457,6 @@
       ],
       "id": "798da40fa0a93159b793a4d4",
       "selected_at": "2026-11-05T05:50:51.456534+00:00"
-    },
-    {
-      "title": "Apple Releases Safari Technology Preview 256 With Bug Fixes and Performance Improvements",
-      "link": "https://www.macrumors.com/2026/11/04/apple-releases-safari-technology-preview-256/",
-      "date": "2026-11-05T00:21:48+00:00",
-      "summary": "Apple today  released a new update  for  Safari Technology Preview , the experimental browser that was  first introduced  in March 2016. Apple designed &zwnj;Safari Technology Preview&zwnj; to allow users to test features that are planned for future release versions of the Safari browser.\n \n\n \n \n \n&zwnj;Safari Technology Preview&zwnj; 256 includes ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "categories": [
-        "Blurb",
-        "Safari Technology Preview"
-      ],
-      "id": "962b371844622c321f0f7808",
-      "selected_at": "2026-11-05T05:50:51.456534+00:00"
-    },
-    {
-      "title": "Apple now lets developers offer discounts when users move to cancel subscriptions",
-      "link": "https://9to5mac.com/2026/11/04/apple-now-lets-developers-offer-discounts-when-users-move-to-cancel-subscriptions/",
-      "date": "2026-11-05T00:17:49+00:00",
-      "summary": "    Apple today rolled out a new subscription retention tool for developers looking to reduce cancellations. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "c20f680bd89bf202d35f5b91",
-      "selected_at": "2026-11-05T05:50:51.456534+00:00"
-    },
-    {
-      "title": "Apps Can Now Try to Stop You From Canceling Subscriptions",
-      "link": "https://www.macrumors.com/2026/11/04/app-store-subscription-retention/",
-      "date": "2026-11-05T00:11:27+00:00",
-      "summary": "Apple today added a new  subscription retention feature  for developers, allowing them to show retention messages when a subscriber goes to cancel.\n \n\n \n \n \nApple says retention messages will appear in the subscription cancellation flow and can include text, images, or a special offer. Retention messages can be added in  App Store  Connect for auto",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/app-store-subscription-retention.jpg",
-      "categories": [
-        "App Store"
-      ],
-      "id": "baf3f77f76544b1bf637074b",
-      "selected_at": "2026-11-05T05:50:51.456534+00:00"
-    },
-    {
-      "title": "Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%",
-      "link": "https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21/",
-      "date": "2026-11-04T23:59:10+00:00",
-      "summary": "    According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "0fe0ff4986169d63ffe56d48",
-      "selected_at": "2026-11-05T05:50:51.456534+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available",
-      "link": "https://9to5mac.com/2026/11/04/daily-november-4-2026/",
-      "date": "2026-11-04T23:25:26+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "9630b0a73f542634b0f93abf",
-      "selected_at": "2026-11-04T23:57:05.212300+00:00"
-    },
-    {
-      "title": "'Super Mario Odyssey' Can Now Run on Apple TV Thanks to AI",
-      "link": "https://www.macrumors.com/2026/11/04/nintendo-games-apple-tv/",
-      "date": "2026-11-04T23:20:15+00:00",
-      "summary": "A Reddit user was able to get Nintendo's \"Animal Crossing: New Horizons\" and \"Super Mario Odyssey\" to  run natively on the Apple TV 4K , continuing a string of ports made possible with the use of AI (via   Engadget  ).\n \n\n \n \n \n TVPort , Reddit user FloatingFalafel's open-source project, is a fork of the nxnative toolkit used to recompile Switch an",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/super-mario-odyssey-apple-tv.jpg",
-      "categories": [
-        "Apple TV"
-      ],
-      "id": "98e19a2733dac3cd500bd17b",
-      "selected_at": "2026-11-04T23:57:05.212300+00:00"
-    },
-    {
-      "title": "Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show",
-      "link": "https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show/",
-      "date": "2026-11-04T22:40:45+00:00",
-      "summary": "    With one official announcement and one report, two new Apple TV projects have been revealed this week. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "0b6b95fb2abf2c97fc468725",
-      "selected_at": "2026-11-04T23:57:05.212300+00:00"
     }
   ],
   "v02_initialized": true,
