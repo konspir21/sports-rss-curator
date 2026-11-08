@@ -1,6 +1,22 @@
 {
   "selected": [
     {
+      "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
+      "link": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
+      "date": "2026-11-08T19:52:41+00:00",
+      "summary": "    Last month, Apple announced it’d be  tightening privacy controls  in a future macOS update, in response to AI agents requesting Full Disk Access then  going rogue  with users data without them being fully aware. Now, we have an idea of how the changes might look. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "a4dfb9e6c54f7b93cd162c68",
+      "selected_at": "2026-11-08T22:54:14.634054+00:00"
+    },
+    {
       "title": "Siri AI Rumored to Become 'More Like an Agent' as Early as Next Year",
       "link": "https://www.macrumors.com/2026/11/08/siri-ai-rumored-to-become-more-agentic/",
       "date": "2026-11-08T17:24:45+00:00",
@@ -1538,188 +1554,6 @@
       ],
       "id": "7bdcc06a50ae23cf6f81baad",
       "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has",
-      "link": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
-      "date": "2026-11-05T22:47:28+00:00",
-      "summary": "  MacRumors  has confirmed that the A18 chip in Apple's new  HomeView  smart home hub is paired with 8GB of RAM. This is not very surprising given the A18 chip also has 8GB of RAM in all iPhone 16 models and the MacBook Neo, but Apple does not list this information in the HomeView's tech specs, so it is worth documenting. Related Roundup:  Apple Ho",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
-      "categories": [
-        "HomeView",
-        "No Linkback"
-      ],
-      "id": "7f91128aba84733ab37eae56",
-      "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "Claude Gets Personal Finance Feature With Bank Account Linking",
-      "link": "https://www.macrumors.com/2026/11/05/claude-personal-finance/",
-      "date": "2026-11-05T22:47:18+00:00",
-      "summary": "Anthropic today added Personal Finance to Claude, allowing users to connect their bank and card accounts for analysis.\n \n\n \n \n \nClaude has read-only access to accounts, and there is no option for it to move, manage, or invest money. Anthropic says Claude gives answers in everyday language and can explain unfamiliar financial terms.\n \n\n \nThe feature",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/claude-personal-finance.jpg",
-      "categories": [
-        "Anthropic"
-      ],
-      "id": "3b581c7811e229dbff7bb83c",
-      "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "Report: Apple captured half of global smartphone revenue in Q3",
-      "link": "https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3/",
-      "date": "2026-11-05T22:22:49+00:00",
-      "summary": "    According to a new report from  Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "6810ee5281b7fd2f1eca2de8",
-      "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "CleanMyMac now helps you clean up Gmail and manage Chrome tabs",
-      "link": "https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs/",
-      "date": "2026-11-05T21:48:20+00:00",
-      "summary": "    MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ad8e8a2da88276ce524243b7",
-      "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 5, 2026 – MacBook Neo 2 rumors, watchOS 27.3",
-      "link": "https://9to5mac.com/2026/11/05/daily-november-5-2026/",
-      "date": "2026-11-05T21:31:08+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ad0407ecc9497a3e47fb3604",
-      "selected_at": "2026-11-06T01:17:10.608243+00:00"
-    },
-    {
-      "title": "Apple Arcade adds four games, including Crossy Road Rush and NBA 2K27 with WNBA teams",
-      "link": "https://9to5mac.com/2026/11/05/apple-arcade-adds-four-games-including-crossy-road-rush-and-nba-2k27-with-wnba-teams/",
-      "date": "2026-11-05T20:47:44+00:00",
-      "summary": "    Apple Arcade subscribers got four new games today, with another major release coming next week. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "452f6aa5ccd84c8bbba6087c",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "iPad Mini vs. iPad Air Buyer's Guide: Now Just $50 Apart",
-      "link": "https://www.macrumors.com/guide/ipad-mini-vs-ipad-air-2026/",
-      "date": "2026-11-05T20:41:52+00:00",
-      "summary": "Apple refreshed both the  iPad mini  and  iPad Air  this year, but the choice is now less straightforward and there is just a &#36;50 price difference between them, so which should you choose?\n \n\n \n \n \nThe eighth-generation &zwnj;iPad Air&zwnj;  arrived in March  with the M4 chip, 12GB of unified memory, Apple's N1 wireless chip, and the C1X modem ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/iPad-Air-v-Mini-Feature-scaled.jpg",
-      "categories": [
-        "Buyer's Guide",
-        "Featured",
-        "iPad Air",
-        "iPad mini"
-      ],
-      "id": "01a4ac5a5b75b1d8eefe390e",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "iOS 27.3 changes the iPhone Duo keyboard, here’s how",
-      "link": "https://9to5mac.com/2026/11/05/ios-27-3-changes-the-iphone-duo-keyboard-heres-how/",
-      "date": "2026-11-05T19:52:53+00:00",
-      "summary": "    iPhone Duo has only been available for a couple weeks, but Apple keeps improving the product with software enhancements. The latest arrives in the iOS 27.3 beta via a convenient keyboard update. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "2ed8e416f7dc49fd1284f574",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Report: Apple’s planned $7 billion bond sale attracts four times as much demand",
-      "link": "https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand/",
-      "date": "2026-11-05T19:43:10+00:00",
-      "summary": "    Apple has filed a preliminary prospectus with the SEC outlining plans to issue seven series of bonds. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "9539136a4da881af365ab488",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "MacBook Pro with PROLED review, new iPad mini hands-on, and iOS 27.3 features",
-      "link": "https://9to5mac.com/2026/11/05/happy-hour-615/",
-      "date": "2026-11-05T19:24:26+00:00",
-      "summary": "    It’s another bumper week, with Chance’s hands-on reviews of both the new iPad mini and the new MacBook Pro to discuss, especially around just how good the OLED display looks, and how touchscreens fit into the Mac ecosystem. Also, iOS 27.3 is packed with a bunch of new features, including updates to Safari, Siri AI, StandBy and more, and the new",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2018/04/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ee028458f119afccdd6e56fd",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
-    },
-    {
-      "title": "Reviewers feel meh about MacBook Pro’s touchscreen, love the OLED display",
-      "link": "https://www.cultofmac.com/reviews/macbook-pro-oled-reviews",
-      "date": "2026-11-05T19:13:04+00:00",
-      "summary": "   \n Early reviews of the latest MacBook Pro gush with praise for the active OLED display, but are more muted about the touchscreen. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/MacBook-Pro-OLED-review_01.jpg.webp",
-      "categories": [
-        "Reviews",
-        "MacBook Pro",
-        "OLED"
-      ],
-      "id": "a3d8cde00fc72985676fbc0d",
-      "selected_at": "2026-11-05T20:50:09.494130+00:00"
     }
   ],
   "v02_initialized": true,
