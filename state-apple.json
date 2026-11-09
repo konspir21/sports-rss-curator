@@ -1,6 +1,39 @@
 {
   "selected": [
     {
+      "title": "Apple shakes up iOS 28 and macOS 28 development cycle",
+      "link": "https://www.cultofmac.com/news/apple-shakes-up-ios-28-and-macos-28-development-cycle",
+      "date": "2026-11-09T05:03:59+00:00",
+      "summary": "   \n Apple is giving engineers two extra weeks to explore ideas and build features in the first development milestone for iOS 28 and macOS 28. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/ios-28-iphone.jpg.webp",
+      "categories": [
+        "News"
+      ],
+      "id": "9f21bc7fe3020dd803a8335a",
+      "selected_at": "2026-11-09T09:59:05.695322+00:00"
+    },
+    {
+      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
+      "link": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
+      "date": "2026-11-09T03:28:09+00:00",
+      "summary": "In a  series   of   YouTube videos  shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription trials for Apple One and other services without their informed consent.\n \n\n \n \n \nHere i",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
+      "categories": [
+        "Featured",
+        "Apple Store"
+      ],
+      "id": "92a181a8f1dcf154a7b36f43",
+      "selected_at": "2026-11-09T09:59:05.695322+00:00"
+    },
+    {
       "title": "macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how",
       "link": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage/",
       "date": "2026-11-08T19:52:41+00:00",
@@ -1387,23 +1420,6 @@
       ],
       "id": "93ace609c3576d0bb848a4ba",
       "selected_at": "2026-11-06T15:53:23.050163+00:00"
-    },
-    {
-      "title": "Use GPT, Claude, and Gemini on your Mac for life for $69.97",
-      "link": "https://www.macworld.com/article/3278037/use-gpt-claude-and-gemini-on-your-mac-for-life-for-69-97.html",
-      "date": "2026-11-06T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  Replace your separate AI writing, image, and audio apps with a  1min.AI lifetime subscription  for $69.97 (reg. $540). \n\n\n\n Writing, image editing, and voiceovers each tend to need their own AI app with their own monthly bill. Mac users who make content often pay for three or four of them at once. ",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3278037-0-38266600-1793952076-1minAI.jpg?quality=50&strip=all",
-      "categories": [
-        "AI",
-        "AI"
-      ],
-      "id": "1fe948ead626c4927db4a3cf",
-      "selected_at": "2026-11-06T08:06:56.012278+00:00"
     }
   ],
   "v02_initialized": true,
