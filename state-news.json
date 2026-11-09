@@ -1,6 +1,20 @@
 {
   "selected": [
     {
+      "title": "ΔΕΔΔΗΕ: Διακοπές ρεύματος σήμερα (9/11) στην Αττική – Δείτε αναλυτικά ώρες και οδούς",
+      "link": "https://lawandorder.gr/deddie-diakopes-revmatos-simera-9-11-stin-attiki-deite-analytika-ores-kai-odous/",
+      "date": "2026-11-09T02:00:11+00:00",
+      "summary": "Προγραμματισμένες διακοπές ρεύματος θα σημειωθούν τη Δευτέρα 9 Νοεμβρίου 2026 σε περιοχές της Αττικής, μεταξύ...",
+      "sources": [
+        "Law & Order"
+      ],
+      "weight": 1.0,
+      "image": "https://lawandorder.gr/wp-content/uploads/2026/10/deddie-19-10.jpg",
+      "categories": [],
+      "id": "9e9a45d7b66ea68349e1122e",
+      "selected_at": "2026-11-09T02:20:23.184313+00:00"
+    },
+    {
       "title": "Το σχέδιο των Δημοκρατικών για την επόμενη μέρα του… Τραμπ",
       "link": "https://www.naftemporiki.gr/kosmos/2186189/to-schedio-ton-dimokratikon-gia-tin-epomeni-mera-toy-tramp/?utm_source=rss&utm_medium=rss&utm_campaign=to-schedio-ton-dimokratikon-gia-tin-epomeni-mera-toy-tramp",
       "date": "2026-11-08T22:02:33+00:00",
@@ -11420,54 +11434,6 @@
       ],
       "id": "ae26b52c5b4774483e037218",
       "selected_at": "2026-11-06T08:06:56.052155+00:00"
-    },
-    {
-      "title": "O Τραμπ στηρίζει τον Χέγκσεθ: «Έχει κάνει φανταστική δουλειά»",
-      "link": "https://www.skai.gr/news/world/stiriksi-tramp-se-xegkseth-exei-kanei-fantastiki-douleia",
-      "date": "2026-11-06T00:45:44+00:00",
-      "summary": "Ο Τραμπ επανέλαβε την ισχυρή στήριξή του στον Χέγκσεθ, παρά τη βαριά ήττα των Ρεπουμπλικανών στις ενδιάμεσες, την οποία απέδωσε στις συνέπειες του πολέμου",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26309764364070-trump.jpg?itok=KkNrgOGC",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "c48802ee2643dd0264aa4c57",
-      "selected_at": "2026-11-06T01:17:10.578495+00:00"
-    },
-    {
-      "title": "Ζελένσκι: «Η Ουκρανία πρέπει να προσαρμοστεί στις νέες πολιτικές πραγματικότητες των ΗΠΑ»",
-      "link": "https://www.skai.gr/news/world/zelenski-i-oukrania-prepei-na-prosarmostei-stis-nees-politikes-pragmatikotites-ton-ipa",
-      "date": "2026-11-05T23:33:43+00:00",
-      "summary": "«Αν δεν λύσουμε το πρόβλημα των Patriot, θα γίνει πολύ δύσκολο για εμάς», είπε ο Ουκρανός πρόεδρος - «Αυτή είναι η νούμερο 1 προτεραιότητα»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26295629644025-zelensky.jpg?itok=6NkjhJYX",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "7ce839036520760859c4b16c",
-      "selected_at": "2026-11-06T01:17:10.578495+00:00"
-    },
-    {
-      "title": "Τραμπ: «Η διευθέτηση της σύγκρουσης Ρωσίας-Ουκρανίας μπορεί να περιλαμβάνει ολόκληρη την Ευρώπη»",
-      "link": "https://www.skai.gr/news/world/tramp-i-dieythetisi-tis-sygkrousis-rosias-oukranias-mporei-na-perilamvanei-olokliri-tin-ey",
-      "date": "2026-11-05T23:13:06+00:00",
-      "summary": "«Θα υπάρξει συμφωνία, θα είναι μια μεγάλη, εξαιρετική συμφωνία και όλοι θα είναι ενθουσιασμένοι», δήλωσε ο Αμερικανός πρόεδρος",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26309765018044-trump.jpg?itok=684ovwDZ",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "5e5296b37b5a28877806a09b",
-      "selected_at": "2026-11-06T01:17:10.578495+00:00"
     }
   ],
   "v02_initialized": true,
