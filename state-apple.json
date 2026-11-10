@@ -1,6 +1,234 @@
 {
   "selected": [
     {
+      "title": "Canadian court certifies class action against Apple over Google search deal",
+      "link": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
+      "date": "2026-11-10T02:20:07+00:00",
+      "summary": "    A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&w=1306",
+      "categories": [
+        "News"
+      ],
+      "id": "cfcea3c651c6722b7e7dd95c",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
+      "link": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
+      "date": "2026-11-10T00:49:31+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "25d1280601a65c9eaeb2bd1a",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
+      "link": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
+      "date": "2026-11-09T23:43:48+00:00",
+      "summary": "The  iOS 27.2.1 , iPadOS 27.2.1, and  macOS 27.2.1  updates Apple released today fix a handful of security vulnerabilities. With the security fixes implemented, it's a good idea to update as soon as you can.\n \n\n \n \n \nA bug with iMessage could let a remote attacker join a group chat to receive its messages, and another could let users see messages s",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "categories": [
+        "iOS 27"
+      ],
+      "id": "7ce9c03f26410c33d89d0b31",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
+      "link": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
+      "date": "2026-11-09T22:54:52+00:00",
+      "summary": "    Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "482a268936b1c0a243b546dc",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Webex Gets iPhone Duo Support",
+      "link": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
+      "date": "2026-11-09T22:31:20+00:00",
+      "summary": "Popular video meeting app Webex  was today updated  with support for Apple's  iPhone Duo . Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position.\n \n\n \n \n \nWhen open, the &zwnj;iPhone Duo&zwnj; shows more meeting participants, keeps shared content visible, and gives access to a whiteboard. Multitasking supp",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
+      "categories": [
+        "iPhone Duo",
+        "Cisco"
+      ],
+      "id": "91120fd7219316741dfcc2d6",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Today’s macOS updates fix security gap involving eMudhra certificates",
+      "link": "https://9to5mac.com/2026/11/09/todays-macos-updates-fix-security-gap-involving-emudhra-certificates/",
+      "date": "2026-11-09T22:17:36+00:00",
+      "summary": "    Apple today released macOS updates that address a security gap involving compromised eMudhra certificates, after initially blocking them in Safari, Mail, and other apps in October. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "2d16a4f669586420b979d80c",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Best AirPods Black Friday deals 2026: Our picks for Pro, standard AirPods and Max",
+      "link": "https://www.macworld.com/article/1377158/best-airpods-black-friday-deals-2026.html",
+      "date": "2026-11-09T22:13:40+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n Best Black Friday AirPods deals so far: U.S. \n\n\n\n \n  AirPods Pro 3 : $199 ($50 off, MSRP $249) – but we’ve previously seen $169 \n \n\n\n\n Best Black Friday AirPods deals so far: U.K. \n\n\n\n \n  AirPods Pro 3 :  £200 (£19 off, RRP £219) – we recommend waiting for a better price \n \n\n\n\n   PRICES CHECKED NOVEMBE",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/1377158-0-44550800-1794262448-mw-airpods-bf-primary.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc, Audio, Headphones",
+        "Apple Inc, Audio, Headphones"
+      ],
+      "id": "6abb483ef0a6a0a48d30789e",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Meta's Muse AI Agent Comes to Apple Watch",
+      "link": "https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/",
+      "date": "2026-11-09T21:55:26+00:00",
+      "summary": "Meta today updated the Muse app for iOS to add Apple Watch support, which means Muse users can access the proactive AI agent from the watch.\n \n\n \n \n \nThe app adds the Muse character to the watch with an option to text it, dictate text to it, or call it. There's also a Muse complication for quick access.\n \n\n \nMuse is Meta's personal AI agent that ca",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/muse-apple-watch-app.jpg",
+      "categories": [
+        "Apple Watch",
+        "Meta"
+      ],
+      "id": "c1a724a02507687ce0e3d9fa",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Anker Launches Eufy Security Cam With Auto-Tracking Light",
+      "link": "https://www.macrumors.com/2026/11/09/anker-auto-tracking-security-camera/",
+      "date": "2026-11-09T21:47:39+00:00",
+      "summary": "Anker today launched the  Eufy TrackLight Cam S1 , which it says is the world's first outdoor security camera with an auto-tracking light for actively deterring intruders. The TrackLight Cam S1 is compatible with Apple Home when using the Anker HomeBase, so it can be used alongside other smart home devices in a  HomeKit  setup.\n \n\n \n \n \n\n \n \n \nWhen",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/09/eufycam.jpg",
+      "categories": [
+        "Anker"
+      ],
+      "id": "c8b6b8c0e5963a354da46d8d",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Skydance confirms HBO Max and Paramount+ ‘value’ bundle plan",
+      "link": "https://9to5mac.com/2026/11/09/skydance-confirms-hbo-max-and-paramount-value-bundle-plan/",
+      "date": "2026-11-09T21:46:15+00:00",
+      "summary": "    HBO Max and Paramount+ customers will soon be able to pay for one subscription that unlocks both services. That’s according to Skydance, the company that came out of Paramount’s Warner Bros. Discovery acquisition. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "92fdf8fb2581eae6bc22f0b4",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Edgar Wright directs Apple’s hilarious new Apple Pay action ad",
+      "link": "https://9to5mac.com/2026/11/09/edgar-wright-directs-apples-hilarious-new-apple-pay-action-ad/",
+      "date": "2026-11-09T21:30:57+00:00",
+      "summary": "    Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver ,  Shaun of the Dead ). Watch the new ad below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "29455d13cfe8c3eb2904faeb",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "How to customize or disable the touchscreen on the new MacBook Pro",
+      "link": "https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar/",
+      "date": "2026-11-09T21:11:30+00:00",
+      "summary": "    A headlining feature of Apple’s new MacBook Pro with PROLED XDR Display is the long-awaited addition of a touchscreen. However, not everyone has been so thrilled about this addition. Here’s how you can turn it off. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Disable-MacBook-Touch-Display-FI.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "1ab96cab8319deadb60f29ed",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Report: Apple saved over $5 billion in taxes through Singapore and Ireland in 2026",
+      "link": "https://9to5mac.com/2026/11/09/report-apple-saved-over-5-billion-in-taxes-through-singapore-and-ireland-in-2026/",
+      "date": "2026-11-09T20:47:38+00:00",
+      "summary": "    A new   Financial Times   report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b64948689a12350ba02f8cd3",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
+      "title": "Agentic Siri is coming, and that’s just the beginning",
+      "link": "https://www.macworld.com/article/3280358/agentic-siri-is-coming-and-thats-just-the-beginning.html",
+      "date": "2026-11-09T20:45:48+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Siri AI is just the beginning. According to the  latest newsletter from Bloomberg’s Mark Gurman , who is always dialed-in to the inner workings of Apple, the new CEO John Ternus is pushing to make Apple a bigger player in the AI space. \n\n\n\n While he had great things to say publicly about Siri AI at the l",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3280358-0-88497400-1794257155-siri-ai-orb.jpg?quality=50&strip=all",
+      "categories": [
+        "AI, Personal Software",
+        "AI, Personal Software"
+      ],
+      "id": "2c26448b9dba8933f3d4f4ca",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
+    },
+    {
       "title": "macOS 27.2.1 Fixes eMudhra Certificate Flaw in Command-Line Tools",
       "link": "https://www.macrumors.com/2026/11/09/macos-27-2-1-emudhra-fix/",
       "date": "2026-11-09T20:26:53+00:00",
@@ -623,6 +851,23 @@
       ],
       "id": "f02ffb0bca26a4084238921a",
       "selected_at": "2026-11-09T20:39:53.680946+00:00"
+    },
+    {
+      "title": "Apple’s new glowing logo on the MacBook Pro has a hidden on-off switch",
+      "link": "https://www.macworld.com/article/3279015/apples-new-glowing-logo-on-the-macbook-pro-has-a-hidden-on-off-switch.html",
+      "date": "2026-11-09T15:42:53+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n With the MacBook Pro with PROLED Display, Apple returned the Apple logo to its former glory, switching from shiny aluminum to one that lights up and glows again. And it’s got a new trick: Turn up the display brightness, and the logo gets brighter, too. Turn down the display brightness, and the logo dims.",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3279015-0-74555000-1794239022-macbook-proled-03.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "3dac19a52bdb88d10b77eeb3",
+      "selected_at": "2026-11-10T02:57:02.116915+00:00"
     },
     {
       "title": "Some HomePod Mini 2 Buyers Returning Units Over Mac Speaker Issues",
@@ -1592,208 +1837,6 @@
       ],
       "id": "983deab4f88e234ecd75554b",
       "selected_at": "2026-11-07T13:55:29.900984+00:00"
-    },
-    {
-      "title": "Apple Music Classical gets new black-and-white icon in latest update",
-      "link": "https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update/",
-      "date": "2026-11-07T02:11:48+00:00",
-      "summary": "    Following the redesign of the Apple Music app icon, which replaced the familiar white music note on a red background with a black-and-white look, Apple today updated  Apple Music Classical  to match the new design. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-music-classical.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "84e58784b12cde355eb0dcd3",
-      "selected_at": "2026-11-07T07:01:59.157576+00:00"
-    },
-    {
-      "title": "How to set up your new Mac like a pro",
-      "link": "https://www.cultofmac.com/how-to/set-up-mac",
-      "date": "2026-11-07T01:15:47+00:00",
-      "summary": "   \n Every Mac today is a great buy. If you're one of the lucky people to get one this year, here’s how to set up your new Mac like a pro. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2024/12/Set-Up-Mac.jpg",
-      "categories": [
-        "How-To",
-        "iMac",
-        "Mac",
-        "Mac Pro",
-        "mac-how-to",
-        "MacBook Air",
-        "macOS",
-        "Top stories"
-      ],
-      "id": "6273cf3c791d03d09ac53792",
-      "selected_at": "2026-11-07T07:01:59.157576+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 6, 2026 – App Store changes, new MacBook Pro launch",
-      "link": "https://9to5mac.com/2026/11/06/daily-november-6-2026/",
-      "date": "2026-11-06T23:47:18+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "11885ca834011c8178bbe4b5",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
-      "link": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on/",
-      "date": "2026-11-06T23:46:57+00:00",
-      "summary": "Happy touch your Mac day! Apple's new PROLED  MacBook Pro  is now in the hands of customers. We picked up one of the new machines to get our greasy fingerprints all over that pristine  OLED  display.\n \n\n \n     Subscribe to the MacRumors YouTube channel  for more videos.  \n \nIt's been five years since Apple last redesigned the &zwnj;MacBook Pro&zwnj",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/t/7q4QqphUJThOhCQ98BeO_58HXAE=/1920x/article-new/2026/11/MacBook-Pro-with-PROLED-XDR-Display-First-Impressions-Thumb.jpg",
-      "categories": [
-        "Featured",
-        "MacBook Pro",
-        "OLED"
-      ],
-      "id": "22a38ae6693befaa4a69fe45",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "More Fun iPhone Duo Apps: 30 New Picks to Try",
-      "link": "https://www.macrumors.com/2026/11/06/iphone-duo-app-suggestions/",
-      "date": "2026-11-06T23:27:55+00:00",
-      "summary": "When the  iPhone Duo  launched, we  shared a list of some of the fun apps  developers created for the new form factor. Two weeks out, developers are continuing to come up with fresh ideas, so we thought we'd share some of our favorites.\n \n\n \n \n \n Games \n \n    \n \n    Marbles Unhinged   (&#36;2.99) - Marbles Unhinged is a marble maze designed for the",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
-      "categories": [
-        "Featured",
-        "iPhone Duo"
-      ],
-      "id": "7150448ca6f7bda61745a9fe",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "Apple TV renews ‘Knife Edge: Chasing Michelin Stars’ for season three",
-      "link": "https://9to5mac.com/2026/11/06/apple-tv-renews-knife-edge-chasing-michelin-stars-for-season-three/",
-      "date": "2026-11-06T23:15:19+00:00",
-      "summary": "    Award-winning culinary show ‘ Knife Edge: Chasing Michelin Stars ’ is getting a third season, in an announcement that came hours after its second season came to a close. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/knife-edge.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "fdce35b31a65f3c1fca34f19",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "Raycast combines voice dictation and screen awareness in new AI feature",
-      "link": "https://9to5mac.com/2026/11/06/raycast-combines-voice-dictation-and-screen-awareness-in-new-ai-feature/",
-      "date": "2026-11-06T22:28:13+00:00",
-      "summary": "    Following the recent release of Screen Awareness, Raycast got an interesting update this week that lets users talk to AI about whatever is on their screen without having to explain the context. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/raycast-dictate-ai.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "49a92f2351d5a59cbce8d59b",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "iOS 27.3: New features, release date, more",
-      "link": "https://9to5mac.com/2026/11/06/ios-27-3-new-features-release-date-more/",
-      "date": "2026-11-06T21:58:30+00:00",
-      "summary": "    This week, Apple released the first iOS 27.3 beta. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and much more. Here’s everything you need to know about what’s new in iOS 27.3 … \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "a1b0faf859527eaba5b8fb73",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "Apple Store With All-New Design Opening Soon in Southern California",
-      "link": "https://www.macrumors.com/2026/11/06/apple-carlsbad-reopening-soon/",
-      "date": "2026-11-06T21:48:46+00:00",
-      "summary": "Apple today  announced  that its retail store at The Forum in Carlsbad, California will be reopening in its original location on Friday, November 20 at 10 a.m. local time, following  more than a year of renovations . Additions will likely include a Genius Bar with accessible seating and a dedicated Apple Pickup area for online orders.\n \n\n \n   Apple",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/11/Apple-Carlsbad-Temporary.jpeg",
-      "categories": [
-        "Apple Store"
-      ],
-      "id": "a857a272270488a887eba2a4",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "Report: Apple faces congressional scrutiny over ICE tracking apps and Trump donations",
-      "link": "https://9to5mac.com/2026/11/06/report-apple-faces-congressional-scrutiny-over-ice-tracking-apps-and-trump-donations/",
-      "date": "2026-11-06T21:46:36+00:00",
-      "summary": "      Reuters   and   The Washington Post   report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "d43266d4fb3346de632fea00",
-      "selected_at": "2026-11-07T00:57:17.102480+00:00"
-    },
-    {
-      "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love",
-      "link": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love/",
-      "date": "2026-11-06T21:05:28+00:00",
-      "summary": "    watchOS 27.3 arrived this week in beta alongside iOS 27.3, with a  major new feature  for the latest Apple Watch models: Siri Recap, which I’m already really loving. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "694be131fa342ec8f91e62ce",
-      "selected_at": "2026-11-06T21:12:08.634919+00:00"
-    },
-    {
-      "title": "Apple’s funny new Apple Card ad features an awkward therapy session",
-      "link": "https://9to5mac.com/2026/11/06/apples-funny-new-apple-card-ad-features-an-awkward-therapy-session/",
-      "date": "2026-11-06T20:55:39+00:00",
-      "summary": "    Apple shared a new  Apple Card  ad on its YouTube page today featuring a therapist who realizes she really needs a vacation. Watch it below. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-card-ad.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "5e5402ab87da35d2f9d1c037",
-      "selected_at": "2026-11-06T21:12:08.634919+00:00"
     }
   ],
   "v02_initialized": true,
