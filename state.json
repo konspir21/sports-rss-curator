@@ -1,6 +1,409 @@
 {
   "selected": [
     {
+      "title": "Εθνική: Ξανά ατομικό ο Κουρμπέλης, αισιοδοξία για τη συμμετοχή του",
+      "link": "http://www.sport-fm.gr/article/5160255",
+      "date": "2026-11-10T17:56:00+00:00",
+      "summary": "Ο Δημήτρης Κουρμπέλης ακολούθησε ατομικό την Τρίτη. Το βάρος στην τακτική από τον Ιβάν Γιοβάνοβιτς.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/10/7104846_195757.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "f4a7cca6eca68b7f2e994128",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "ΟΦΗ: Πήγε τα τρόπαια στην Ογκολογική Κλινική Παίδων του ΠΑΓΝΗ και μοίρασε χαμόγελα",
+      "link": "https://www.gazzetta.gr/football/superleague/2585420/ofi-pige-ta-tropaia-stin-ogkologiki-kliniki-paidon-toy-pagni-kai",
+      "date": "2026-11-10T17:47:27+00:00",
+      "summary": "Παίκτες του ΟΦΗ πήγαν τα τρόπαια του Κυπέλλου Ελλάδας και του Super Cup στην Ογκολογική Κλινική Παίδων του Πανεπιστημιακού Γενικού Νοσοκομείου Ηρακλείου.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ofi-paidwn.jpg?itok=Ar1lUhys",
+      "categories": [
+        "Superleague",
+        "ΟΦΗ",
+        "Ποδόσφαιρο"
+      ],
+      "id": "feb6f70c91328977d6041d6e",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Σούπερ Λίγκα: H… πιθανή τελική βαθμολογία - 44% για τίτλο ο Παναθηναϊκός, ποια τα φαβορί για υποβιβασμό!",
+      "link": "http://www.sport-fm.gr/article/5160250",
+      "date": "2026-11-10T17:21:00+00:00",
+      "summary": "Το «Football Ranked» έκανε το σχετικό… simulation στη βαθμολογία της Stoiximan Super League.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/10/7119151_192144.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "46d1d85fd1af91df2d41d74b",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Live: Ολυμπιακός - Σαμπαντέλ στην φάση των ομίλων του Champions League",
+      "link": "https://www.athletiko.gr/live-olympiakos-sampantel-stin-fasi-ton-omilon-toy-champions-league-114854",
+      "date": "2026-11-10T17:15:00+00:00",
+      "summary": "    \n\n\n  window.renderSportWidgetFeed('sport-widget-feed', {\n    eventId: '59b3c77e-dee4-4a96-b1cf-e64ab4e76873',\n  });\n ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/7154398.jpg?crop=2048,1152,0,105",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "7e78cc6339986641e67f271c",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Τρελαίνει την Ευρώπη ο Αθανασιού: Πρώτος σε ασίστ στο Europa League ο παίκτης του ΟΦΗ",
+      "link": "https://www.athletiko.gr/trelainei-tin-eyropi-o-athanasioy-protos-se-asist-sto-europa-league-o-paiktis-toy-ofi-114865",
+      "date": "2026-11-10T17:15:00+00:00",
+      "summary": "    Ο Νίκος Αθανασίου βρίσκεται στην κορυφή της λίστας με τους κορυφαίους δημιουργούς του Europa League, μετά την ολοκλήρωση των πρώτων τεσσάρων ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/7090106.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "56b7ff89e49c9e60236edb4f",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Κλήθηκε στην εθνική Κ18 των ΗΠΑ ο εγγονός του Γιόχαν Κρόιφ!",
+      "link": "http://www.sport-fm.gr/article/5160248",
+      "date": "2026-11-10T17:10:46.557000+00:00",
+      "summary": "Ο Σάε Κρόιφ-Μπιν κλήθηκε για πρώτη φορά στην εθνική ομάδα Κ-18 των Ηνωμένων Πολιτειών της Αμερικής.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/10/johan-cruyff_191046.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "dd49ead35a5970be74cf2836",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Ο Αμερικανοβραζιλιάνος… Τζόρνταν Μάικλ στην εθνική των ΗΠΑ - Ονομάστηκε έτσι λόγω του θρυλικού άσου!",
+      "link": "http://www.sport-fm.gr/article/5160242",
+      "date": "2026-11-10T16:37:50.627000+00:00",
+      "summary": "Ο Τζόρνταν Μάικλ, 17χρονος χαφ της Φλαμένγκο, κλήθηκε στην εθνική ποδοσφαίρου των ΗΠΑ.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/10/michael-jordan-flamengo_183750.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "f79956af9c482ed4bd452026",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Ο Εμπαπέ στα... χνάρια του Ρονάλντο - Το ρεκόρ που καλείται να σπάσει",
+      "link": "https://www.athletiko.gr/o-empape-sta-chnaria-toy-ronalnto-to-rekor-12etias-poy-kaleitai-na-spasei-114861",
+      "date": "2026-11-10T16:35:00+00:00",
+      "summary": "    Η Ρεάλ Μαδρίτης δείχνει να έχει αλλάξει πρόσωπο υπό τις οδηγίες του Ζοσέ Μουρίνιο, παρουσιάζοντας αισθητά βελτιωμένη εικόνα μέσα στον αγωνιστικό ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/45/7152363.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "24964b58cb403fe2d3cc7c38",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Τσέλιε - Ολυμπιακός: Παρουσία Τσέφεριν ο αγώνας",
+      "link": "https://www.gazzetta.gr/football/europa-league/2585401/tselie-olympiakos-paroysia-tseferin-o-agonas",
+      "date": "2026-11-10T16:17:45+00:00",
+      "summary": "Η Τσέλιε με ανακοίνωσή της ευχαρίστησε τον πρόεδρο της UEFA, που αναμένεται να δώσει το παρών στο παιχνίδι της 10ης Δεκεμβρίου με τον Ολυμπιακό.",
+      "sources": [
+        "Sport-FM Football",
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/tseferin.jpg?itok=_SCXhp5l",
+      "categories": [
+        "Europa League",
+        "Τσέλιε",
+        "Ολυμπιακός",
+        "Ποδόσφαιρο"
+      ],
+      "id": "17381f0006a95cebdf86332e",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Με Μουζακίτη, Κούτσια και Μύθου η προετοιμασία της Γαλανόλευκης",
+      "link": "https://www.gazzetta.gr/football/2585395/ethniki-elpidon-me-moyzakiti-koytsia-kai-mythoy-xekinise-i-proetoimasia-tis",
+      "date": "2026-11-10T16:11:08+00:00",
+      "summary": "Πρώτη προπόνηση στην Ισλανδία για την  Εθνική Ελπίδων,  που έχει μπροστά της δύο σημαντικές αναμετρήσεις με φόντο την πρόκριση στο EURO U21 2027.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/mouzakitis-papakanelos.jpg?itok=q4nGs8yh",
+      "categories": [
+        "Ποδόσφαιρο",
+        "Ελλάδα"
+      ],
+      "id": "0fbc5ded16e8bdd6bbd2e331",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "«Πώς έφτασαν στον Ολυμπιακό στις σκέψεις να ζητήσουν αναβολή του ντέρμπι με την ΑΕΚ»",
+      "link": "https://www.athletiko.gr/pos-eftasan-ston-olympiako-stis-skepseis-na-zitisoyn-anavoli-toy-ntermpi-me-tin-aek-114857",
+      "date": "2026-11-10T16:01:00+00:00",
+      "summary": "    Όπως ενημερωθήκατε νωρίτερα από το Athletiko, στον&nbsp;Ολυμπιακό εξετάζουν το ενδεχόμενο να ζητήσουν&nbsp;αναβολή για την αναμέτρηση με την ΑΕΚ για ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/alguacil.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "fba3e010359ab0d18b360a4b",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Με Μουζακίτη και πολύ κρύο η «πρώτη» της εθνικής Ελπίδων στην Ισλανδία",
+      "link": "https://www.athletiko.gr/me-moyzakiti-kai-poly-kryo-i-proti-tis-ethnikis-elpidon-elpidon-stin-islandia-114853",
+      "date": "2026-11-10T15:47:00+00:00",
+      "summary": "    Στην τελική ευθεία βρίσκεται η προετοιμασία της Εθνικής Ελπίδων επί ισλανδικού εδάφους, με το αντιπροσωπευτικό μας συγκρότημα να πραγματοποιεί την ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/kataghrafi-Ag2sj.PNG?crop=777,437,0,81",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "7078360c7351e12417c7b180",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Ο ποδοσφαιριστής που κατέκτησε την Serie A και έγινε... αθλητής του MMA μετά την απόσυρσή του",
+      "link": "https://www.athletiko.gr/o-podosfairistis-poy-katektise-tin-serie-a-kai-egine-athlitis-toy-mma-meta-tin-aposyrsi-toy-114850",
+      "date": "2026-11-10T15:45:00+00:00",
+      "summary": "    Ο Ντιέγκο Ντέμε κατάφερε να ξεκινήσει από τις χαμηλότερες κατηγορίες του γερμανικού ποδοσφαίρου, να φτάσει στην κορυφή της Serie A και πλέον να ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/imago1032237194h.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "826b6775e64b314d25880c03",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Τι έκανε ο Μπακασέτας στον ΑΠΟΕΛ πριν επιστρέψει στις κλήσεις της Εθνικής",
+      "link": "https://www.athletiko.gr/ti-ekane-o-mpakasetas-ston-apoel-prin-epistrepsei-stis-kliseis-tis-ethnikis-114820",
+      "date": "2026-11-10T15:37:00+00:00",
+      "summary": "    Ο Τάσος Μπακασέτας επέστρεψε στις κλήσεις της Εθνικής Ελλάδας, μετά την απουσία του από εκείνες του Σεπτεμβρίου-Οκτωβρίου. Η κατάσταση έκτοτε, ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5116345.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "01be54ddee4547869839bfe6",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Γ' Εθνική: Πρόστιμο ύψους τριών χιλιάδων ευρώ σε παράγοντα που βιαιοπράγησε σε βάρος αθλητή",
+      "link": "https://www.gazzetta.gr/football/g-ethniki/2585377/g-ethniki-prostimo-ypsoys-trion-hiliadon-eyro-se-paragonta-poy",
+      "date": "2026-11-10T15:13:28+00:00",
+      "summary": "Η ΔΕΑΒ ανακοίνωσε ποινή για παράγοντα που βιαιπράγησε σε βάρος παίκτη στο περιθώριο αγώνα της Γ' Εθνικής.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/gga_logo.jpg?itok=jkg7rs1t",
+      "categories": [
+        "Γ' Εθνική",
+        "Αιγάλεω",
+        "Δόξα Βύρωνος",
+        "Ποδόσφαιρο"
+      ],
+      "id": "85799e5658deb886d97e07dd",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Το Ιράκ απαγόρευσε την προσγείωση του αεροσκάφους της εθνικής ομάδας ποδοσφαίρου του Ιράν στη Βασόρα",
+      "link": "https://www.athletiko.gr/to-irak-apagoreyse-tin-prosgeiosi-toy-aeroskafoys-tis-ethnikis-omadas-podosfairoy-toy-iran-sti-vasora-114849",
+      "date": "2026-11-10T15:07:00+00:00",
+      "summary": "    Το Ιράκ απαγόρευσε την Τρίτη (10 Νοεμβρίου) την προσγείωση αεροσκάφους που μετέφερε την εθνική ομάδα ποδοσφαίρου του Ιράν στο αεροδρόμιο της Βασόρας. ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/imago1078733103h.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "c2507eba2dec1dfe9b5c8033",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Ηρακλής: «Ο κύριος Ματσάρι δεν πάει πουθενά, ξεκινήσαμε νομικές ενέργειες κατά μάνατζερ και δημοσιογράφων»",
+      "link": "https://www.gazzetta.gr/football/superleague/2585372/iraklis-o-kyrios-matsari-den-paei-poythena-xekinisame-nomikes",
+      "date": "2026-11-10T15:01:29+00:00",
+      "summary": "Ο Ηρακλής με ανακοίνωση του ξεκαθάρισε πως δεν τίθεται θέμα απομάκρυνσης του Βάλτερ Ματσάρι και τόνισε πως έχουν ξεκινήσει νομικές ενέργειες κατά δημοσιογράφων και συγκεκριμένου μάνατζερ.",
+      "sources": [
+        "Sport-FM Football",
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-08/mazzari_0.jpg?itok=kfruqi1f",
+      "categories": [
+        "Superleague",
+        "Ηρακλής",
+        "Ποδόσφαιρο"
+      ],
+      "id": "6c4a22c943791ae38bbeb675",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Πιθανή αναβολή στο ντέρμπι του Ολυμπιακού με την ΑΕΚ - Ο λόγος",
+      "link": "https://www.athletiko.gr/pithani-anavoli-sto-ntermpi-toy-olympiakoy-me-tin-aek-o-logos-114845",
+      "date": "2026-11-10T15:01:00+00:00",
+      "summary": "    Όπως μετέφερε στον αέρα της εκπομπής «BACK2ΜΠΑΚ» ο Διονύσης Βερβελές, υπάρχουν σκέψεις στον Ολυμπιακό για να ζητηθεί αναβολή για την αναμέτρηση με την... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/29/6927718.jpg?crop=2049,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "73b6bb885379549d120dff91",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Η League Phase του Champions League σπάει το ένα ρεκόρ μετά το άλλο και η UEFA... τρίβει τα χέρια της",
+      "link": "https://www.athletiko.gr/i-league-phase-toy-champions-league-spaei-to-ena-rekor-meta-to-allo-kai-i-uefa-trivei-ta-cheria-tis-114839",
+      "date": "2026-11-10T14:45:00+00:00",
+      "summary": "    Η νέα μορφή του Champions League συνεχίζει την ανοδική της πορεία στην τρίτη σεζόν εφαρμογής της. Η κορυφαία ευρωπαϊκή διασυλλογική διοργάνωση ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/45/gettyimages-2303542821.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "fd71b5af46649a4059e98715",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Super League 2: Στην Τρίπολη το Πανιώνιος - Ολυμπιακός Β', το πρόγραμμα της 11ης αγωνιστικής",
+      "link": "https://www.gazzetta.gr/football/superleague-2/2585365/super-league-2-stin-tripoli-panionios-olympiakos-b-programma-tis",
+      "date": "2026-11-10T14:40:17+00:00",
+      "summary": "H Super League 2 ανακοίνωσε το πλήρες πρόγραμμα της 11ης αγωνιστικής. Στο «Θεόδωρος Κολοκοτρώνης» θα διεξαχθεί το Πανιώνιος - Ολυμπιακός Β'.",
+      "sources": [
+        "Gazzetta Football",
+        "Athletiko"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/kolokotronis.jpg?itok=fs3H-8DD",
+      "categories": [
+        "Superleague 2",
+        "Πανιώνιος",
+        "Ολυμπιακός",
+        "Πανσερραϊκός",
+        "ΑΕΛ Novibet",
+        "Athens Kallithea",
+        "Μαρκό",
+        "Νίκη Βόλου",
+        "Ποδόσφαιρο"
+      ],
+      "id": "de29ff0d3357f3d2b8549e04",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Καλογερόπουλος - Αλεξίου: Οι «πυλώνες» της αμυντικής γραμμής στην Εθνική Ελπίδων",
+      "link": "https://www.gazzetta.gr/football/2585250/kalogeropoylos-alexioy-oi-pylones-tis-amyntikis-grammis-stin-ethniki-elpidon",
+      "date": "2026-11-10T13:56:00+00:00",
+      "summary": "Ένα από τα δυνατά σημεία της Εθνική Ελπίδων είναι η άμυνά της και αυτό οφείλεται σε μεγάλο βαθμό στο δίδυμο Καλογερόπουλου με Αλεξίου στα στόπερ.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/6739801.jpg?itok=ajU7pYUG",
+      "categories": [
+        "Ποδόσφαιρο",
+        "Ελλάδα"
+      ],
+      "id": "5e31957b2d6749394182f1fe",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Εθνική Ολλανδίας: Ο Φαν Ντεν Μπεργκ στη θέση του Φαν Ντάικ στις κλήσεις",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2585340/ethniki-ollandias-o-fan-nten-mpergk-sti-thesi-toy-fan-ntaik",
+      "date": "2026-11-10T13:29:33+00:00",
+      "summary": "Ο  Σεπ Φαν Ντεν Μπεργκ είναι ο εκλεκτός που θα αντικαταστήσει τον τραυματία Φαν Νταίκ στην αποστολή της Ολλανδίας ενόψει Ελλάδας (13/11) και Γερμανίας (16/11)!",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/sepp_van_den_berg.jpg?itok=YwJ3Od26",
+      "categories": [
+        "UEFA Nations League",
+        "Ολλανδία",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "f5a1cd06b6e7cbe662140c0b",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Στα... σχοινιά η Αλ Σαντ του Λουτσέσκου: Η FIFA επέβαλλε ποινή απαγόρευσης μεταγραφών",
+      "link": "https://www.gazzetta.gr/football/2585334/sta-shoinia-i-al-sant-toy-loytseskoy-i-fifa-epeballe-poini-apagoreysis-metagrafon",
+      "date": "2026-11-10T13:01:40+00:00",
+      "summary": "Η FIFA αποφάσισε η Αλ Σαντ να μην έχει το δικαίωμα μεταγραφής για τρεις μεταγραφικές περιόδους ως ποινή για τις οικονομικές εκκρεμότητες που δεν διευθέτησε ο σύλλογος.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-06/lucescu-intime.jpg?itok=jXMyX9Z2",
+      "categories": [
+        "Ποδόσφαιρο"
+      ],
+      "id": "3f2cf4f9d4207e19679ba168",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
+      "title": "Ραφίνια: Μυστική συμφωνία για την προστασία του παίκτη στην Εθνική Βραζιλίας",
+      "link": "https://www.gazzetta.gr/football/2585304/rafinia-mystiki-symfonia-gia-tin-prostasia-toy-paihti-stin-ethniki-brazilias",
+      "date": "2026-11-10T11:03:22+00:00",
+      "summary": "Η Μπαρτσελόνα και η Ομοσπονδία της Βραζιλίας έκαναν συμφωνία για τον χρόνο που θα αγωνίζεται ο Ραφίνια ώστε να μην παρθεί κάποιο ρίσκο.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-04/raphinia.jpg?itok=pIX88UvC",
+      "categories": [
+        "Ποδόσφαιρο",
+        "Βραζιλία"
+      ],
+      "id": "433a1c36a13807e41b8b9284",
+      "selected_at": "2026-11-10T18:23:32.913642+00:00"
+    },
+    {
       "title": "Το Football Meets Data στέλνει την Εθνική Ελλάδας στα προημιτελικά του Nations League – Οι πιθανοί αντίπαλοι",
       "link": "https://www.athletiko.gr/to-football-meets-data-stelnei-tin-ethniki-elladas-sta-proimitelika-toy-nations-league-oi-pithanoi-antipaloi-114798",
       "date": "2026-11-10T10:39:00+00:00",
@@ -1597,346 +2000,6 @@
       ],
       "id": "02353115155b5a0e9db4dace",
       "selected_at": "2026-11-07T22:14:48.573568+00:00"
-    },
-    {
-      "title": "ΟΦH: Χωρίς απρόοπτα η αποστολή για Ατρόμητο",
-      "link": "https://www.gazzetta.gr/football/superleague/2584560/ofh-horis-aproopta-i-apostoli-gia-atromito",
-      "date": "2026-11-07T18:15:53+00:00",
-      "summary": "Η αποστολή του ΟΦΗ για την εντός έδρας αναμέτρηση με τον Ατρόμητο για την 10η αγωνιστική της Super League.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/fountas.jpg?itok=3F3aD-TM",
-      "categories": [
-        "Superleague",
-        "ΟΦΗ",
-        "Ατρόμητος Αθηνών",
-        "Ποδόσφαιρο"
-      ],
-      "id": "4a8f658b20195c9cb677459e",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Αποθέωση για τον Μανδά και τους συμπαίκτες του πριν το ντέρμπι κορυφής της Λάτσιο (video)",
-      "link": "https://www.athletiko.gr/apotheosi-gia-ton-manda-kai-toys-sympaiktes-toy-prin-to-ntermpi-koryfis-tis-latsio-video-114281",
-      "date": "2026-11-07T17:45:00+00:00",
-      "summary": "    Η Λάτσιο&nbsp;αποτελεί μέχρι στιγμής την ευχάριστη έκπληξη της φετινής Serie A, καθώς έχει καταφέρει να παραμείνει αήττητη στις πρώτες 10 αγωνιστικές.... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/lazio-fans-1200x800.jpg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "f826457a1c09c02f0f658257",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Μαραθώνιος Αθήνας: Ρεκόρ αγώνα στα 5χλμ η Καλλιμογιάννη, δεύτερη σερί νίκη για Γεωργίου",
-      "link": "https://www.athletiko.gr/marathonios-athinas-rekor-agona-sta-5chlm-i-kallimogianni-deyteri-seri-niki-gia-georgioy-114272",
-      "date": "2026-11-07T17:00:00+00:00",
-      "summary": "    Ο Ανδρέας Γεωργίου και η Βασιλική Καλλιμογιάννη ήταν αυτοί την πρώτη θέση στις κατηγορίες ανδρών και γυναικών αντίστοιχα, με την Καλλιμογιάννη να ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/7156082.jpg?crop=2048,1151,0,107",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "31b193479c8baf3cf129c096",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Χρήστος Μουζακίτης: Ντεμπούτο στην Premier League με τη Χαλ",
-      "link": "https://www.gazzetta.gr/football/premier-league/2584520/hristos-moyzakitis-ntempoyto-stin-premier-league-me-ti-hal",
-      "date": "2026-11-07T16:42:09+00:00",
-      "summary": "Ο Χρήστος Μουζακίτης έκανε ντεμπούτο στην Premier League, περνώντας ως αλλαγή στο ματς της Χαλ με την Άρσεναλ.",
-      "sources": [
-        "Athletiko",
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-09/f643f559-7f81-46fb-a1a8-066d35d23a7a.jpg?itok=nSFuVbJi",
-      "categories": [
-        "Premier League",
-        "Χαλ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "7141e563779308b2c860e3e4",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Άνετο πέρασμα του ΠΑΟΚ από το Μοσχάτο για το απόλυτο 6/6",
-      "link": "http://www.sport-fm.gr/article/5159518",
-      "date": "2026-11-07T15:30:00+00:00",
-      "summary": "Ο Οδυσσέας Μοσχάτου φιλοξένησε τον ΠΑΟΚ, με τις «ασπρόμαυρες» να επικρατούν με άνεση 2-0 και να συνεχίζουν ακάθεκτες το απόλυτο σερί τους, φτάνοντας στο 6/6.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/07/7146914_173022.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "27151f44b6bd559c22f3831b",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "ΠΑΟΚ:Με Λουσέ η αποστολή του Δικεφάλου για το ντέρμπι με τον Ολυμπιακό",
-      "link": "https://www.gazzetta.gr/football/superleague/2584493/paok-me-loyse-i-apostoli-toy-paok-gia-ntermpi-me-ton-olympiako",
-      "date": "2026-11-07T15:19:25+00:00",
-      "summary": "Ο Αλέσιο Λίσι ανακοίνωσε την αποστολή για το εκτός έδρας ντέρμπι με τον Ολυμπιακό με νέα πρόσωπα τον νεαρό Γιώργο Κοσίδη αλλά και τον Τομ Λουσέ.",
-      "sources": [
-        "Athletiko",
-        "Gazzetta Football",
-        "Sport-FM Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/7061093_1_1.jpg?itok=EV4i9vhS",
-      "categories": [
-        "Superleague",
-        "ΠΑΟΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "8af5b3b07ae65e84f7a53327",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Καθυστέρηση 16 λεπτών στο Τορίνο-Λέτσε λόγω στραβής χάραξης της τελικής γραμμής (photo)",
-      "link": "https://www.athletiko.gr/kathysterisi-16-lepton-sto-torino-letse-logo-stravis-charaxis-tis-telikis-grammis-photo-114250",
-      "date": "2026-11-07T15:17:00+00:00",
-      "summary": "    Με 16 λεπτά καθυστέρηση ξεκίνησε το Τορίνο – Λέτσε, για την 11η αγωνιστική της Serie A το Σάββατο (7/11), εξαιτίας ενός προβλήματος στη γραμμή του ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/stighmiotipo-othonis-2026-11-07-171339.jpg?crop=1361,766,0,58",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "7a816884b9e2516e0f36fcdc",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "ΑΕΚ: Στις κλήσεις της Εθνικής Ρουμανίας ο Μαρίν για τα παιχνίδια του Nations League",
-      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2584483/aek-stis-kliseis-tis-ethnikis-roymanias-o-marin-gia-ta",
-      "date": "2026-11-07T14:38:10+00:00",
-      "summary": "Ο Ραζβάν Μαρίν για ακόμα μια φορά συμπεριλήφθηκε στις κλήσεις της Εθνικής Ρουμανίας για τα ματς στο Nations League.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/marin.jpg?itok=G5AmvH2a",
-      "categories": [
-        "UEFA Nations League",
-        "ΑΕΚ",
-        "Ρουμανία",
-        "Ποδόσφαιρο"
-      ],
-      "id": "9316fab40217954aec6eebb4",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Ο Ολυμπιακός επικράτησε του ΑΝΟ Γλυφάδας κι έκανε το 8/8 στην Water Polo League Γυναικών",
-      "link": "https://www.athletiko.gr/o-olympiakos-epikratise-toy-ano-glyfadas-ki-ekane-to-8-8-stin-water-polo-league-gynaikon-114243",
-      "date": "2026-11-07T14:30:00+00:00",
-      "summary": "    Νικηφόρα συνεχίζει την πορεία του στην Water Polo League Γυναικών ο Ολυμπιακός αφού επικράτησε του ΑΝΟ Γλυφάδας με 19-8 και έκανε το 8/8 στο εγχώριο ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5429559.jpg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "b7a95322f60e6e84adaa4f67",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Ανγκόλα: Ζίνι και Κάρμο κλήθηκαν στην Εθνική τους για τα ματς του Νοεμβρίου",
-      "link": "https://www.gazzetta.gr/football/superleague/2584473/angkola-zini-kai-karmo-klithikan-stin-ethniki-toys-gia-ta-mats-toy",
-      "date": "2026-11-07T14:12:47+00:00",
-      "summary": "Ο επιθετικός της ΑΕΚ, Σαλβαδόρ Ζίνι και ο αμυντικός του Ολυμπιακού, Νταβίντ Κάρμο κλήθηκαν στην Εθνική Ανγκόλας για τα παιχνίδια με το Νότιο Σουδάν.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/zini.jpg?itok=xbTnWbCF",
-      "categories": [
-        "Superleague",
-        "ΑΕΚ",
-        "Ολυμπιακός",
-        "Ανγκόλα",
-        "Ποδόσφαιρο"
-      ],
-      "id": "40ce41a8029ac12e097dd262",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Τελικός Μουντιάλ 2026: Η FIFA απέρριψε την έφεση του Παρέδες",
-      "link": "https://www.gazzetta.gr/football/mundial/2584462/telikos-moyntial-2026-i-fifa-aperripse-tin-efesi-toy-paredes",
-      "date": "2026-11-07T13:21:03+00:00",
-      "summary": "Η FIFA ήρε μέρος της τιμωρίας του Ναουέλ Μολίνα, επικυρώνοντας ωστόσο πλήρως την τιμωρία του Λεάντρο Παρέδες αναφορικά με τα όσα συνέβησαν στον τελικό του Μουντιάλ 2026.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/paredes.jpg?itok=azZPbBrh",
-      "categories": [
-        "Mundial",
-        "Αργεντινή",
-        "Ισπανία",
-        "Ποδόσφαιρο"
-      ],
-      "id": "6768c30d6ee24ae1059ad486",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Ο Βενγκέρ σκέφτεται να διεκδικήσει την προεδρία της FIFA απέναντι στον Ινφαντίνο",
-      "link": "https://www.athletiko.gr/o-vengker-skeftetai-na-diekdikisei-tin-proedria-tis-fifa-apenanti-ston-infantino-114230",
-      "date": "2026-11-07T13:05:00+00:00",
-      "summary": "    Το ενδεχόμενο να διεκδικήσει την προεδρία της FIFA εξετάζει ο Αρσέν Βενγκέρ, ο οποίος, σύμφωνα με τη L’Équipe, βρίσκεται όλο και πιο κοντά στην ... ",
-      "sources": [
-        "Athletiko",
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/18/wenger.png",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "a903d1acd1b570c1f7568a69",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Η διαφωνία Πετρόπουλου-Μπακάκη στο Gazzetta Magazino για το Ολυμπιακός - ΠΑΟΚ",
-      "link": "https://www.gazzetta.gr/football/superleague/2584453/i-diafonia-petropoyloy-mpakaki-sto-gazzetta-magazino-gia-olympiakos",
-      "date": "2026-11-07T13:00:00+00:00",
-      "summary": "Ο Αντώνης Πετρόπουλος και ο Μιχάλης Μπακάκης μίλησαν στο Gazzetta Magazino σχετικά με την αναμέτρηση του Ολυμπιακού κόντρα στον ΠΑΟΚ (8/11).",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/screenshot_2026-11-07_141423.png?itok=p_NHLGE8",
-      "categories": [
-        "Superleague",
-        "Ολυμπιακός",
-        "ΠΑΟΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "a7d6992ee3caa76bd0743f77",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
-    },
-    {
-      "title": "Ποινή πέντε θέσεων για τον Ράσελ στο grand prix του Σάο Πάολο λόγω αλλαγής κινητήρα",
-      "link": "https://www.athletiko.gr/poini-pente-theseon-gia-ton-rasel-sto-grand-prix-toy-sao-paolo-logo-allagis-kinitira-114221",
-      "date": "2026-11-07T12:51:00+00:00",
-      "summary": "    Ο&nbsp;Τζορτζ Ράσελ θα δεχθεί ποινή πέντε θέσεων στο grand prix του Σάο Πάολο, καθώς θα χρησιμοποιήσει νέο κινητήρα της Mercedes στο μονοθέσιό του, ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/43/imago1084078318h.jpg?crop=2049,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "9bb4839d289cc573030eb21b",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Παναθηναϊκός: Μένει Αθήνα ο Λιβάι στη διακοπή των εθνικών ομάδων",
-      "link": "http://www.sport-fm.gr/article/5159492",
-      "date": "2026-11-07T12:45:00+00:00",
-      "summary": "Ο Λιβάι Γκαρσία θα παραμείνει στη διάθεση του Τζέικομπ Νίστρουπ στη διακοπή των εθνικών ομάδων.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/07/7153665_144649.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "2f06a25d6858351a32954b4a",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Πορτογαλία: Μετά την αποχώρηση Ρονάλντο, ο Μπερνάρντο Σίλβα αναλαμβάνει το περιβραχιόνιο της εθνικής",
-      "link": "http://www.sport-fm.gr/article/5159491",
-      "date": "2026-11-07T12:32:00+00:00",
-      "summary": "Νέος αρχηγός της εθνικής ομάδας της Πορτογαλίας είναι ο Μπερνάρντο Σίλβα, μετά την αποχώρηση του Κριστιάνο Ρονάλντο.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/07/ap26210840212911_143253.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "60643de0aa9dc8ad9e9841be",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Η Σάκκαρη πάλεψε, αλλά η Ιάλα την άφησε εκτός τελικού στο Χονγκ Κονγκ",
-      "link": "https://www.athletiko.gr/i-sakkari-palepse-alla-i-iala-tin-afise-ektos-telikou-sto-chonghk-konghk-114148",
-      "date": "2026-11-07T11:58:00+00:00",
-      "summary": "    Η&nbsp;Μαρία Σάκκαρη δεν κατάφερε να ξεπεράσει το εμπόδιο της Αλεξάντρα Ιάλα στα ημιτελικά του τουρνουά του Χονγκ Κονγκ, καθώς ηττήθηκε με 2-1 σετ. Η ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/45/imago1081215865h.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "5a01c12f75eab958e9c38e72",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Με Ζίνι και Κάρμο οι κλήσεις της εθνικής Ανγκόλας",
-      "link": "http://www.sport-fm.gr/article/5159487",
-      "date": "2026-11-07T11:45:00+00:00",
-      "summary": "Οι Ζίνι και Νταβίντ Κάρμο θα προσφέρουν τις υπηρεσίες τους στην εθνική ομάδα της Ανγκόλας, καθώς ο ομοσπονδιακός τεχνικός της, Αλιού Σισέ, τους συμπεριέλαβε στις κλήσεις του.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/07/7142935_134521.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "a3d06f59b8b7a1c521339a41",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Η αποστολή του Ολυμπιακού για το ντέρμπι με τον ΠΑΟΚ",
-      "link": "https://www.athletiko.gr/i-apostoli-toy-olympiakoy-gia-to-ntermpi-me-ton-paok-114217",
-      "date": "2026-11-07T11:08:00+00:00",
-      "summary": "    Ο Ολυμπιακός υποδέχεται το βράδυ της Κυριακής (08/11, 21:00) τον ΠΑΟΚ στο «Γεώργιος Καραϊσκάκης» για την 10η αγωνιστική της Stoiximan Super League.Το ... ",
-      "sources": [
-        "Athletiko",
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/42/imanol.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "ac6e2711efad6e7249b6f1a1",
-      "selected_at": "2026-11-07T13:55:29.881222+00:00"
-    },
-    {
-      "title": "Ολυμπιακός: Η αποστολή του για το ματς με τον ΠΑΟΚ",
-      "link": "https://www.gazzetta.gr/football/superleague/2584429/olympiakos-i-apostoli-toy-gia-mats-me-ton-paok",
-      "date": "2026-11-07T11:05:11+00:00",
-      "summary": "Μετά την ολοκλήρωση της προετοιμασίας του Ολυμπιακού, ο Αλγκουαθίλ ανακοίνωσε τους παίκτες που θα έχει στη διάθεσή του για το παιχνίδι με τον ΠΑΟΚ (8/11,21:00).",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ren_-_olympakos_4.jpg?itok=v1O61EeV",
-      "categories": [
-        "Superleague",
-        "Ολυμπιακός",
-        "ΠΑΟΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "bddd8064fc2dc685c2b1e0a8",
-      "selected_at": "2026-11-07T18:28:41.352640+00:00"
     }
   ],
   "v02_initialized": true,
