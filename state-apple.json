@@ -1,6 +1,259 @@
 {
   "selected": [
     {
+      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs",
+      "link": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
+      "date": "2026-11-10T23:34:51+00:00",
+      "summary": "Apple's Claris subsidiary is  testing an app called Harbor , which turns Apple silicon Macs into a private AI server.\n \n\n \n \n \nHarbor works with a single Apple silicon Mac, but it also supports connecting multiple Mac computers over Thunderbolt 5 to pool unified memory for larger models. Apple added RDMA over Thunderbolt 5 with  macOS Tahoe  26.2, ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "6b4d43840334c05e6816d647",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+      "link": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details/",
+      "date": "2026-11-10T23:14:49+00:00",
+      "summary": "    iFixit published its teardown of the  new MacBook Pro with PROLED XDR Display  today, revealing interesting details about how Apple brought back its illuminated logo on the lid. Watch it below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "d426cd01a282e1505f73954b",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Best iPad Black Friday deals: Black Friday savings on iPad, Pro, Air and mini",
+      "link": "https://www.macworld.com/article/1374180/best-ipad-black-friday-deals-2026.html",
+      "date": "2026-11-10T23:06:16+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n Best Black Friday iPad deals so far U.S. \n\n\n\n \n  11-inch M4 iPad Air (128GB):  $649.99 ($99 off, MSRP $749) \n\n\n\n  13-inch M4 iPad Air (128GB) : $849.99 ($99 off, MSRP $949) \n\n\n\n  11-inch M5 iPad Pro (1TB) : $1,699 ($100 off, MSRP $1,799) \n\n\n\n  13-inch M5 iPad Pro (256GB) : $1,399.99 ($99 off, MSRP $1,4",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/1374180-0-97598000-1794352061-mw-bf-ipad-deals-primary.jpg?quality=50&strip=all",
+      "categories": [
+        "iPad",
+        "iPad"
+      ],
+      "id": "bbc9ef1ec9a21ed9a5424c32",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features",
+      "link": "https://9to5mac.com/2026/11/10/cleanupbuddy-2-0-expands-beyond-the-keyboard-with-new-display-cleaning-features/",
+      "date": "2026-11-10T22:56:55+00:00",
+      "summary": "    Developer Gui Rambo updated CleanupBuddy today, expanding its ability to prevent accidental inputs while cleaning your Mac from the keyboard to the touchscreen. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/cleanup-buddy.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "e5ca5e114d02830ab610165e",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple releases firmware 9B47 for all AirPods with H2 chip",
+      "link": "https://www.macworld.com/article/3281712/apple-releases-firmware-9b47-for-all-airpods-with-h2-chip.html",
+      "date": "2026-11-10T22:22:33+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n If you have any AirPods with an H2 chip, it’s time for an update. Apple has released firmware version 9B47 for all AirPods that use the H2. That includes: \n\n\n\n \n AirPods Pro 2 \n\n\n\n AirPods Pro 3 \n\n\n\n AirPods 4 \n\n\n\n AirPods 5 \n\n\n\n AirPods Max 2 \n \n\n\n\n The previous firmware was 9A348 which added support fr",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3281712-0-66046400-1794349451-AirPods-5-review-hero1.jpg?quality=50&strip=all",
+      "categories": [
+        "Audio, Headphones",
+        "Audio, Headphones"
+      ],
+      "id": "ccbecdce5112e6f3369b2dec",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
+      "link": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
+      "date": "2026-11-10T22:02:34+00:00",
+      "summary": "iFixit today took apart Apple's touchscreen PROLED  MacBook Pro  to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 &zwnj;MacBook Pro&zwnj;.\n \n\n \n    \n \nApple added a glowing logo on the back of the PROLED &zwnj;MacBook Pro&zwnj;, but since there's no backlight to illuminate it, Apple used four LEDs, a reflect",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/bNCqb7hMgJBYlvysmFnI0uihC8o=/2000x/article-new/2026/11/ifixit-macbook-proled-teardown.jpg",
+      "categories": [
+        "MacBook Pro",
+        "iFixit"
+      ],
+      "id": "b8d7197cdc7256ec5de09a1a",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
+      "link": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
+      "date": "2026-11-10T21:34:43+00:00",
+      "summary": "      Reuters   reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "671675a91acc7e9e3f0568d4",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
+      "link": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
+      "date": "2026-11-10T20:48:41+00:00",
+      "summary": "    Spotify today expanded customization options for its AI DJ, allowing users to choose between different voices and personalities, as well as control how much the DJ talks between songs. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-dj.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "6071f1498df54b48ecd1cff4",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "10 Free iPhone Duo Apps Worth Downloading",
+      "link": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
+      "date": "2026-11-10T20:27:07+00:00",
+      "summary": "We've done two rounds of  iPhone Duo  app picks so far, and now we're back with an overview of some of the best Duo apps you can get for free.  MacRumors  videographer Dan Barbera demos his suggestions for apps worth checking out.\n \n\n \n     Subscribe to the MacRumors YouTube channel  for more videos.  \n \nDan's list includes Delta Game Emulator, Bea",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/c7pal-sHDRApsOHD6Q1pnrBW_Ho=/2500x/article-new/2026/11/iPhone-Duo-10-Best-Free-Apps-Thumb-2.jpg",
+      "categories": [
+        "Featured",
+        "iPhone Duo"
+      ],
+      "id": "dcd8e3cdf9520395321cdc9b",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple Releases New AirPods Firmware",
+      "link": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
+      "date": "2026-11-10T20:11:26+00:00",
+      "summary": "Apple today released new firmware for the AirPods Pro 2,  AirPods Pro 3 , AirPods 4,  AirPods 5 , and  AirPods Max 2 . The firmware has a build number of 9B47, up from 9A348/9A350.\n \n\n \n \n \nApple has been  beta testing the new firmware  for the last several weeks, but hasn't yet offered details on what's included in the software. Apple has  an AirP",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5-new-blue.jpeg",
+      "categories": [
+        "AirPods",
+        "AirPods Max",
+        "AirPods Pro",
+        "Featured"
+      ],
+      "id": "a66c8895bb0de4dd7e29ffb9",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple just released new AirPods Pro 3 firmware and more",
+      "link": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
+      "date": "2026-11-10T20:06:19+00:00",
+      "summary": "    Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3. Here are the details on how to update. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "af8885410603cdd4b0cc1894",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials",
+      "link": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
+      "date": "2026-11-10T19:57:28+00:00",
+      "summary": "    With the holidays fast approaching, Apple TV has shared trailers for two upcoming specials featuring Snoopy and the Fraggles. Watch them below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-holiday.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "505858e7b316db7210625e8a",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Don’t miss this $150 discount on Apple’s desktop M6 Mac mini",
+      "link": "https://www.macworld.com/article/3281462/dont-miss-this-150-discount-on-apples-desktop-m6-mac-mini.html",
+      "date": "2026-11-10T19:56:06+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple Mac mini M6  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3281462-0-16876300-1794340574-mac-mini-M6.jpg?quality=50&strip=all",
+      "categories": [
+        "Desktop PCs, Mac Mini",
+        "Desktop PCs, Mac Mini"
+      ],
+      "id": "c2ab86701cbca4eecf089217",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "iOS 27.2 adds new features in six iPhone apps, details here",
+      "link": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
+      "date": "2026-11-10T19:50:14+00:00",
+      "summary": "    iOS 27.2 recently launched with new features for iPhone users, including improvements across six Apple apps. Here’s what’s new. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-app-icons-grid.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "81a9f64553d0ad57a5a4ea89",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "date": "2026-11-10T19:15:32+00:00",
+      "summary": "    Leaker Aaron Perris has  discovered evidence  of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "601b39403922f80c3c6d4004",
+      "selected_at": "2026-11-10T23:37:08.395690+00:00"
+    },
+    {
       "title": "Apple announces Swift Student Challenge 2027 with new twist",
       "link": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
       "date": "2026-11-10T18:11:28+00:00",
@@ -2241,71 +2494,6 @@
       ],
       "id": "426310dae32d7f9efc170006",
       "selected_at": "2026-11-08T14:44:57.467682+00:00"
-    },
-    {
-      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
-      "link": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
-      "date": "2026-11-07T22:30:00+00:00",
-      "summary": "    Last week, movie director Rian Johnson  announced  a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed.  \n\n\n\n iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my view, it’s a bit too exaggerated.  Ch",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&strip=all&w=1500",
-      "categories": [
-        "News"
-      ],
-      "id": "294d25f663e360df3cdcdf82",
-      "selected_at": "2026-11-08T01:28:53.770073+00:00"
-    },
-    {
-      "title": "'Backglow' Lets You Customize New MacBook Pro's Glowing Apple Logo",
-      "link": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo/",
-      "date": "2026-11-07T20:44:15+00:00",
-      "summary": "A new  \"Backglow\" app  created by designer  Juan Buis  lets you customize the illuminated Apple logo on the lid of the new MacBook Pro models.\n \n\n \n \n \nThe free version of the app allows you to manually adjust the brightness level of the Apple logo, independent of the MacBook Pro's display brightness level. You can also turn it off entirely with a ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg",
-      "categories": [
-        "Featured",
-        "MacBook Pro"
-      ],
-      "id": "e8659caa58eb956dcaa8922c",
-      "selected_at": "2026-11-07T22:14:48.560644+00:00"
-    },
-    {
-      "title": "Indie App Spotlight: ‘CueFlip’ automatically turns the page for your sheet music",
-      "link": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music/",
-      "date": "2026-11-07T20:30:00+00:00",
-      "summary": "     Welcome to  Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get  in contact  . \n\n\n\n \n\n\n\n If you find yourself playing an instrument with sheet music, flipping the page often requires you to stop playing to turn the page.  Cue",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "6ccfd18adf581532583b27e1",
-      "selected_at": "2026-11-07T22:14:48.560644+00:00"
-    },
-    {
-      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
-      "link": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
-      "date": "2026-11-07T19:11:00+00:00",
-      "summary": "    Anker’s new  MagGo Pro 2  power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "788e0c0ad7fefeab272a83c5",
-      "selected_at": "2026-11-07T22:14:48.560644+00:00"
     }
   ],
   "v02_initialized": true,
