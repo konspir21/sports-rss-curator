@@ -1,6 +1,41 @@
 {
   "selected": [
     {
+      "title": "Make Apple Watch Listen for Sounds Like the Doorbell",
+      "link": "https://www.macrumors.com/how-to/enable-sound-recognition-apple-watch-listen/",
+      "date": "2026-11-11T10:03:54+00:00",
+      "summary": "One of Apple's accessibility features on iPhone can listen for important sounds around you, such as a doorbell, siren or alarm, and it sends you a notification when it hears one. The feature has been extended to Apple's new Apple Watch Series 12 and Apple Watch Ultra 4 models, so the alert reaches your wrist even when your iPhone isn't with you.\n \n",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/watch-sound-recognition.jpg",
+      "categories": [
+        "Apple Watch",
+        "Apple Watch Ultra",
+        "Featured"
+      ],
+      "id": "454bc0a910e07ee91e7f75b9",
+      "selected_at": "2026-11-11T10:46:50.577259+00:00"
+    },
+    {
+      "title": "A new mobile-friendly AI photo editor is on sale for $59",
+      "link": "https://www.macworld.com/article/3280544/a-new-mobile-friendly-ai-photo-editor-is-on-sale-for-59.html",
+      "date": "2026-11-11T08:00:00+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:   Luminar  is an AI photo editor that runs in your browser, and a lifetime subscription with the mobile app is on sale for $59 (reg. $206.99). \n\n\n\n Most photo editors on a Mac need a big install, and the AI tools usually come with a monthly fee. Instead, try the  Luminar Web and Mobile bundle , an A",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3280544-0-91454000-1794384051-Luminar-bundle.jpg?quality=50&strip=all",
+      "categories": [
+        "Online Services",
+        "Online Services"
+      ],
+      "id": "5a0868cdaf7320860a1891a1",
+      "selected_at": "2026-11-11T10:46:50.577259+00:00"
+    },
+    {
       "title": "End of an era: Apple Support Community forums will permanently close on November 20",
       "link": "https://9to5mac.com/2026/11/10/end-of-an-era-apple-support-community-forums-will-permanently-close-on-november-20/",
       "date": "2026-11-11T02:49:08+00:00",
@@ -2589,40 +2624,6 @@
       ],
       "id": "26f244139a46124915749740",
       "selected_at": "2026-11-08T19:12:06.440902+00:00"
-    },
-    {
-      "title": "Turn your iPhone into a document scanner with this lifetime subscription on sale for $35",
-      "link": "https://www.macworld.com/article/3278260/turn-your-iphone-into-a-document-scanner-with-this-lifetime-subscription-on-sale-for-35.html",
-      "date": "2026-11-08T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  Scan, edit, and sign documents on your iPhone with an  iScanner lifetime subscription  for $34.97 (reg. $199.90). \n\n\n\n There’s no shortage of scanner apps, but the good ones usually charge a monthly or yearly fee. If you’d rather pay once, try  iScanner , a scanning and PDF app for iPhone and iPad.",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3278260-0-26598200-1794124846-iScanner.jpg?quality=50&strip=all",
-      "categories": [
-        "PDF Editors",
-        "PDF Editors"
-      ],
-      "id": "63846ae8c6b68cc8a0052ca3",
-      "selected_at": "2026-11-08T14:44:57.467682+00:00"
-    },
-    {
-      "title": "This $96 lifetime subscription lets you download shows from platforms like Netflix",
-      "link": "https://www.macworld.com/article/3278268/this-96-lifetime-subscription-lets-you-download-shows-from-platforms-like-netflix.html",
-      "date": "2026-11-08T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:   Keeprix  saves streaming videos to your Mac for offline viewing, and a lifetime subscription is $95.99 (reg. $159.99). \n\n\n\n Streaming apps let you download some titles for a flight, but those downloads can expire or hit a download limit before you watch them. For anyone who wants downloads to stay",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3278268-0-17741500-1794124866-Keeprix-3.jpg?quality=50&strip=all",
-      "categories": [
-        "Online Services",
-        "Online Services"
-      ],
-      "id": "426310dae32d7f9efc170006",
-      "selected_at": "2026-11-08T14:44:57.467682+00:00"
     }
   ],
   "v02_initialized": true,
