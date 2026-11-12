@@ -1,6 +1,78 @@
 {
   "selected": [
     {
+      "title": "Macworld Podcast: Touchscreen MacBook Pro review",
+      "link": "https://www.macworld.com/article/3280267/macworld-podcast-touchscreen-macbook-pro-review.html",
+      "date": "2026-11-12T07:07:00+00:00",
+      "summary": "  Macworld  \n\n \n\n \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n In this episode of the Macworld Podcast, we talk about our experience with Apple’s new MacBook Pro with PROLED Display. Why we like the laptop, what macOS Touch is all about, and our recommendation. Tune in and find out!  \n\n\n\n This is episode 1008 with  Michael Simon ,  Jason Cross , and  Roman Loyola . ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3280267-0-70752700-1794467247-macbook-proled-02.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "fa2d66721bde7b63e9792b9f",
+      "selected_at": "2026-11-12T07:46:43.602298+00:00"
+    },
+    {
+      "title": "Google Gemini joins CarPlay to make your commute more productive",
+      "link": "https://www.cultofmac.com/news/google-gemini-joins-carplay-commute-productive",
+      "date": "2026-11-12T06:44:03+00:00",
+      "summary": "   \n Google’s Gemini app is now available on CarPlay from your iPhone, bringing live AI conversations to your daily drive. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/google-gemini-iphone.jpeg.webp",
+      "categories": [
+        "News",
+        "CarPlay",
+        "Google Gemini"
+      ],
+      "id": "5e835f02a2de1ac663944d00",
+      "selected_at": "2026-11-12T07:46:43.602298+00:00"
+    },
+    {
+      "title": "Apple Support Community Deserved a Proper Goodbye",
+      "link": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
+      "date": "2026-11-12T04:51:19+00:00",
+      "summary": "Apple on Tuesday abruptly placed the  Apple Support Community  into a read-only state and announced that the forums  will be permanently closing on Friday, November 20 . Those who contributed to the site — some for more than two decades — were blindsided by this decision and had no chance to post farewell messages.\n \n\n \n \n \nEven if you felt the App",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "d8284ec973d6d13ebd076f8d",
+      "selected_at": "2026-11-12T07:46:43.602298+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
+      "link": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
+      "date": "2026-11-12T04:01:11+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b7221966f1e446ae5fcbf777",
+      "selected_at": "2026-11-12T07:46:43.602298+00:00"
+    },
+    {
       "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
       "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
       "date": "2026-11-11T21:37:39+00:00",
@@ -3155,39 +3227,6 @@
       ],
       "id": "2302a1957413cdcd371428c5",
       "selected_at": "2026-11-09T20:39:53.680946+00:00"
-    },
-    {
-      "title": "Apple shakes up iOS 28 and macOS 28 development cycle",
-      "link": "https://www.cultofmac.com/news/apple-shakes-up-ios-28-and-macos-28-development-cycle",
-      "date": "2026-11-09T05:03:59+00:00",
-      "summary": "   \n Apple is giving engineers two extra weeks to explore ideas and build features in the first development milestone for iOS 28 and macOS 28. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/ios-28-iphone.jpg.webp",
-      "categories": [
-        "News"
-      ],
-      "id": "9f21bc7fe3020dd803a8335a",
-      "selected_at": "2026-11-09T09:59:05.695322+00:00"
-    },
-    {
-      "title": "Apple Store Subscription Sign-Up Controversy Exposed",
-      "link": "https://www.macrumors.com/2026/11/08/apple-store-subscription-controversy/",
-      "date": "2026-11-09T03:28:09+00:00",
-      "summary": "In a  series   of   YouTube videos  shared over the past two weeks, electronics technician and consumer rights advocate Louis Rossmann has exposed a controversy in which some Apple Store employees have allegedly signed up customers for auto-renewing subscription trials for Apple One and other services without their informed consent.\n \n\n \n \n \nHere i",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/09/Apple-Store-Downtown-Detroit.jpg",
-      "categories": [
-        "Featured",
-        "Apple Store"
-      ],
-      "id": "92a181a8f1dcf154a7b36f43",
-      "selected_at": "2026-11-09T09:59:05.695322+00:00"
     }
   ],
   "v02_initialized": true,
