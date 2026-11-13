@@ -1,6 +1,212 @@
 {
   "selected": [
     {
+      "title": "Τραμπ: «Θέλω να έχω τελειώσει με την Κούβα πριν φύγω»",
+      "link": "https://www.skai.gr/news/world/o-tramp-leei-pos-thelei-na-exei-teleiosei-me-tin-kouva-prin-apo-to-telos-tis-thiteias-tou",
+      "date": "2026-11-13T02:09:31+00:00",
+      "summary": "Το ζήτημα έχει αναλάβει ένας «πολύ καλός, ταλαντούχος τύπος, τον λένε Μάρκο», είπε αναφερόμενος στον Ρούμπιο, ορκισμένο εχθρό της κυβέρνησης στην Αβάνα",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26315610951470-trump.jpg?itok=jfhWnV2C",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "dce135eaed573c1eabc2dac9",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "ΔΕΔΔΗΕ: Διακοπές ρεύματος σήμερα (13/11) στην Αττική – Αναλυτικά οι περιοχές και οι ώρες",
+      "link": "https://lawandorder.gr/deddie-diakopes-revmatos-simera-13-11-stin-attiki-analytika-oi-perioches-kai-oi-ores/",
+      "date": "2026-11-13T02:00:01+00:00",
+      "summary": "Προγραμματισμένες διακοπές ρεύματος θα σημειωθούν την Παρασκευή 13 Νοεμβρίου 2026 σε περιοχές δέκα δήμων της...",
+      "sources": [
+        "Law & Order"
+      ],
+      "weight": 1.0,
+      "image": "https://lawandorder.gr/wp-content/uploads/2026/07/diakopes-reumatos-deddie-21-7-2026.jpg",
+      "categories": [],
+      "id": "ee227829da554b19176c6f82",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Γουινέα: 10 νεκροί σε συγκρούσεις ανάμεσα στις δυνάμεις επιβολής της τάξης και χρυσωρύχους",
+      "link": "https://www.skai.gr/news/world/gouinea-toulaxiston-10-nekroi-se-sygkrouseis-anamesa-stis-dynameis-epivolis-tis-taksis-kai",
+      "date": "2026-11-13T01:57:39+00:00",
+      "summary": "Τα επεισόδια ξέσπασαν μετά την απαγόρευση της «άναρχης και παράνομης» εξόρυξης χρυσού στην περιοχή από τις δυνάμεις επιβολής της τάξης",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap25262084665498-gold-mine.jpg?itok=yyRjmLK4",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "cd96112393a16d3a6bfa61e4",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Μαργαρίτης Σχοινάς από Λάρισα: «Κανένας δικαιούχος αγροτικών ενισχύσεων δεν θα χάσει αυτά που δικαιούται»",
+      "link": "https://www.skai.gr/news/politics/m-sxoinas-kanenas-dikaiouxos-agrotikon-enisxyseon-den-tha-xasei-ayta-pou-dikaioutai",
+      "date": "2026-11-13T01:38:27+00:00",
+      "summary": "Ο υπουργός Αγροτικής Ανάπτυξης και Τροφίμων, Μαργαρίτης Σχοινάς, συμμετείχε στη γενική συνέλευση του Συνδέσμου Θεσσαλικών Επιχειρήσεων και Βιομηχανιών (ΣΘΕΒ)",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/margaritis-sxoinas.png?itok=ShRQ2H4K",
+      "categories": [
+        "Πολιτική"
+      ],
+      "id": "0c65af7816dfeb9c9bdbc4a8",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Ντάνι Ντανόν: Οι ΗΠΑ προετοιμάζουν μυστικά νέο πόλεμο στο Ιράν - Μετακινούν στρατεύματα στην περιοχή",
+      "link": "https://www.skai.gr/news/world/ntani-ntanon-oi-ipa-proetoimazontai-gia-neo-polemo-sto-iran-metakinoun-strateymata-stin-pe",
+      "date": "2026-11-13T01:30:31+00:00",
+      "summary": "Έχουν αναπτύξει 200 αεροσκάφη εναέριου ανεφοδιασμού και ετοιμάζονται να φέρουν ένα τρίτο αεροπλανοφόρο στην περιοχή, πλάι στα δύο που επιχειρούν ήδη εκεί",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-07/danon_ap26070593898270.jpg?itok=IgF6qaVi",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "ef5503fd0397b0fbb0b5d174",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Οι ΗΠΑ κατέβαλαν στη Βενεζουέλα 12 δισ. δολάρια για πωλήσεις φυσικών πόρων της",
+      "link": "https://www.skai.gr/news/world/oi-ipa-katevalan-sti-venezouela-12-dis-dolaria-gia-poliseis-fysikon-poron-tis",
+      "date": "2026-11-13T01:12:00+00:00",
+      "summary": "Στέιτ Ντιπάρτμεντ: Τα χρήματα προήλθαν «από επαληθευμένες και εγκεκριμένες οντότητες που διεξάγουν δραστηριότητες σχετιζόμενες με τους φυσικούς πόρους της»",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26140284524048-fysikoi-poroi.jpg?itok=bxWfFm7B",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "635b7e2432ef8704eab0441d",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Επιχείρηση της Europol εναντίον κυκλωμάτων του «dark web», πάνω από 350 συλλήψεις",
+      "link": "https://www.skai.gr/news/world/diethnis-astynomiki-epixeirisi-kata-tou-dark-web-350-syllipseis",
+      "date": "2026-11-13T00:52:04+00:00",
+      "summary": "H επιχείρηση «TorNado» διεξήχθη το χρονικό διάστημα από τον Μάιο του 2025 ως τον Οκτώβριο του 2026, με εκατοντάδες αστυνομικές επεμβάσεις σε όλο τον κόσμο",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap20184386195750europol.jpg?itok=a86664BL",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "82a13b212c6c32f21c751e7e",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Σεισμική δόνηση με μέγεθος 4.8 της κλίμακας Ρίχτερ νότια της Κρήτης",
+      "link": "https://www.skai.gr/news/greece/seismiki-donisi-me-megethos-48-tis-klimakas-rixter-notia-tis-kritis",
+      "date": "2026-11-13T00:43:30+00:00",
+      "summary": "Το επίκεντρο της δόνησης εντοπίζεται στο θαλάσσιο χώρο 15 χλμ. ΝΝΑ των Καλών Λιμένων Ηρακλείου",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/notia-kriti.png?itok=O3McmdVQ",
+      "categories": [
+        "Ελλάδα"
+      ],
+      "id": "667e40bdb589ff88ba2bed24",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Η Επιτροπή Τραπεζών της Γερουσίας των ΗΠΑ κάλεσε Λούτνικ και Χουάνγκ να καταθέσουν",
+      "link": "https://www.skai.gr/news/world/i-epitropi-trapezon-tis-gerousias-ton-ipa-kalese-latnik-kai-xouangk-na-katathesoun",
+      "date": "2026-11-13T00:31:30+00:00",
+      "summary": "«Πρόσφατες αναφορές εγείρουν σοβαρές ανησυχίες σχετικά με την εθνική μας ασφάλεια και την προστασία της ευαίσθητης αμερικανικής τεχνολογίας», αναφέρει",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2025-08/usa-gerousia-ape.jpg?itok=iyWqBx_s",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "af779e1c75689654d444d211",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Οι Χούθι ανακοίνωσαν ότι «χτύπησαν» τρεις πετρελαϊκές εγκαταστάσεις στη Σαουδική Αραβία",
+      "link": "https://www.skai.gr/news/world/oi-xouthi-anakoinosan-oti-epitethikan-se-treis-petrelaikes-egkatastaseis-sti-saoudiki-arav",
+      "date": "2026-11-12T23:47:05+00:00",
+      "summary": "Εξαπέλυσαν επιθέσεις εναντίον του πετρελαιαγωγού Ανατολής-Δύσης, του πετρελαϊκού τερματικού σταθμού στη Γιάνμπου και της εγκατάστασης της ARAMCO στο Ριάντ",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/ap26279449072261-synaspismos-enantion-houthi.jpg?itok=CXkZ29uh",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "ac85cca6bf111f670fba8ad0",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Ικανοποίηση Ζελένσκι για την Ευρωπαϊκή παρουσία στις συνομιλίες με τη Ρωσία - «Είναι σημαντικό να ξεμπλοκάρουν όλα»",
+      "link": "https://www.skai.gr/news/world/zelenski-i-atzenta-ton-synomilion-me-ti-rosia-tha-prepei-na-perilamvanei-ekexeiries",
+      "date": "2026-11-12T23:14:23+00:00",
+      "summary": "Ο Ζελένσκι, μετά τις συνομιλίες με τους απεσταλμένους των ΗΠΑ Γουίτκοφ και Κούσνερ, δήλωσε ότι είναι σημαντικό να επανεκκινήσει η ειρηνευτική διαδικασία",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26316750819890-witkoff-kusner-zelensky.jpg?itok=ZjVOuFHb",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "14a041b58d7162addc48664a",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Στο Δουβλίνο σήμερα Γουίτκοφ και Κούσνερ - Συνάντηση με Ζελένσκι",
+      "link": "https://www.skai.gr/news/world/oi-apestalmenoi-ton-ipa-efthasan-sto-douvlino-gia-na-synantisoun-ton-proedro-tis-oukranias",
+      "date": "2026-11-12T22:38:40+00:00",
+      "summary": "Οι δύο απεσταλμένοι των ΗΠΑ επισκέφθηκαν νωρίτερα τον Ρώσο πρόεδρο Βλαντίμιρ Πούτιν, στο πλαίσιο των ουκρανορωσικών συνομιλιών υπό την αιγίδα της Ουάσινγκτον",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26316754981580-witkoff-kusner.jpg?itok=8KQ7f38w",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "bfda8c1c84922fab0573fe15",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
+      "title": "Το υπουργείο Δικαιοσύνης των ΗΠΑ δεν έχει καταλήξει σε συμπέρασμα για το αν η Άλις Χουάνγκ είναι κατάσκοπος",
+      "link": "https://www.skai.gr/news/world/ipa-to-ypourgeio-dikaiosynis-den-exei-kataliksei-se-symperasma-gia-to-an-i-alis-xouangk-ei",
+      "date": "2026-11-12T22:22:39+00:00",
+      "summary": "Ο Αμερικανός υπουργός Δικαιοσύνης Τοντ Μπλανς δήλωσε ότι ασφαλώς το FBI ερευνά αναφορές σύμφωνα με τις οποίες η Χουάνγκ εργάζεται για την κινεζική κυβέρνηση",
+      "sources": [
+        "Skai.gr: Ροή Ειδήσεων"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2023-05/justice_department_st_3443343434.jpg?itok=FLpik3LI",
+      "categories": [
+        "Κόσμος"
+      ],
+      "id": "2feb4b0dc44e513956619064",
+      "selected_at": "2026-11-13T02:43:41.563915+00:00"
+    },
+    {
       "title": "Κλείσιμο με πτώση στη Wall Street η οποία ξεπερνά το σοκ της Nvidia",
       "link": "https://www.naftemporiki.gr/finance/world/2188503/kleisimo-me-ptosi-sti-wall-street-i-opoia-xeperna-to-sok-tis-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=kleisimo-me-ptosi-sti-wall-street-i-opoia-xeperna-to-sok-tis-nvidia",
       "date": "2026-11-12T22:01:19+00:00",
@@ -12391,212 +12597,6 @@
         "Πολιτισμός"
       ],
       "id": "9262ba892c87bf2eca68239f",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Η Βόρεια Κορέα προχωρά σε δοκιμή νέων τορπιλών υψηλής ταχύτητας",
-      "link": "https://www.skai.gr/news/world/i-voreia-korea-proxora-se-dokimi-neon-torpilon-ypsilis-taxytitas",
-      "date": "2026-11-10T02:36:40+00:00",
-      "summary": "Σύμφωνα με το επίσημο πρακτορείο ειδήσεων KCNA, το νέο όπλο θα εξοπλίσει το βορειοκορεατικό πολεμικό ναυτικό από τις αρχές του 2027",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26308189496415-north-korea.jpg?itok=uSRsrDyE",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "6aea8e9f372098a4411bb6a6",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Η Σαουδαραβική συμμαχία κατέστρεψε drones και πυραύλους των Χούθι σε Ριάντ, Άμπχα και Χαμίς Μουσάιτ",
-      "link": "https://www.skai.gr/news/world/i-saoudaraviki-symmaxia-katestrepse-drones-kai-pyraylous-ton-xouthi",
-      "date": "2026-11-10T02:24:52+00:00",
-      "summary": "Οι αεράμυνες κατέστρεψαν βαλλιστικούς πυραύλους και πυραύλους κρουζ κοντά στο Ριάντ και στα νότια της Σαουδικής Αραβίας, στις πόλεις Άμπχα και Χαμίς Μουσάιτ",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-06/drone-pyravlos.png?itok=jyD1FzVy",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "d7d12383e2b1866d18067432",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "ΔΕΔΔΗΕ: Διακοπές ρεύματος σήμερα Τρίτη 10 Νοεμβρίου στην Αττική – Αναλυτικά οι περιοχές και οι οδοί",
-      "link": "https://lawandorder.gr/10-11-diakopes-revmatos-attiki-perioches-odoi-deddie/",
-      "date": "2026-11-10T02:00:33+00:00",
-      "summary": "Σε προγραμματισμένες διακοπές ρεύματος σε αρκετές περιοχές της Αττικής προχωρά σήμερα, Τρίτη (10/10), ο ΔΕΔΔΗΕ,...",
-      "sources": [
-        "Law & Order"
-      ],
-      "weight": 1.0,
-      "image": "https://lawandorder.gr/wp-content/uploads/2024/10/kolona-dei-deddie-5-10-2024.jpg",
-      "categories": [],
-      "id": "188eced381ab7ee30861da19",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Η Διεθνής Αμνηστία ζητεί από Σαλβαδόρ και Αϊτή διαφάνεια στις στρατιωτικές επιχειρήσεις τους",
-      "link": "https://www.skai.gr/news/world/i-diethnis-amnistia-zitei-apo-to-salvador-kai-tin-aiti-diafaneia-stis-stratiotikes-epixeir",
-      "date": "2026-11-10T01:40:43+00:00",
-      "summary": "Οι δυο κυβερνήσεις «πρέπει να εγγυηθούν ότι όλες οι επιχειρήσεις των σαλβαδοριανών δυνάμεων θα σέβονται το διεθνές δίκαιο ως προς τα ανθρώπινα δικαιώματα»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2021-10/amnesty_international-shutterstock.jpg?itok=AIQREQ6B",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "95698f6fc2b05e05e2bd6113",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Σειρά εκρήξεων στο Ριάντ",
-      "link": "https://www.skai.gr/news/world/seira-ekrikseon-sto-riant",
-      "date": "2026-11-10T01:31:28+00:00",
-      "summary": "Σειρά εκρήξεων ακούστηκε τις πρώτες πρωινές ώρες στην πρωτεύουσα της Σαουδικής Αραβίας, το Ριάντ - Κάτοικοι έλαβαν στα κινητά τηλέφωνά τους μήνυμα συναγερμού",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/riyadh_bombingap26276415281654.jpg?itok=lJ82izz5",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "1f879638f8907980b3be8c52",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Η Κέιτι Ζακαράια ξανά σε οντισιόν για γραμματέας Τύπου του Λευκού Οίκου, παρά το γεγονός ότι απολύθηκε μετά από 5 ημέρες",
-      "link": "https://www.skai.gr/news/world/i-keiti-zakaraia-ksana-se-ontision-gia-grammateas-typou-tou-leykou-oikou",
-      "date": "2026-11-10T00:42:43+00:00",
-      "summary": "Το Σαββατοκύριακο εθεάθη στο θέρετρο του Τραμπ στο Μαρ-α-Λάγκο, καθώς προετοιμαζόταν για αλλαγές προσωπικού μετά την αντικατάσταση της Σούζι Γουάιλς",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/zacharia_ap.jpg?itok=Q8uvnW06",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "b607c95003060ca9548a6ffc",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Ζελένσκι: «Οι ουκρανικές ένοπλες δυνάμεις ενισχύουν ουσιαστικά τη διαπραγματευτική θέση του Κιέβου»",
-      "link": "https://www.skai.gr/news/world/zelenski-oi-epityxies-ton-oukranikon-dynameon-sta-pedia-ton-maxon-exoun-enisxysei-ti-thesi",
-      "date": "2026-11-10T00:13:58+00:00",
-      "summary": "Ο ουκρανός πρόεδρος δήλωσε ότι οι επιτυχίες των ουκρανικών δυνάμεων στα πεδία των μαχών έχουν ενισχύσει τη θέση του Κιέβου στις διαπραγματεύσεις",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-10/zelensky-ap_0.jpg?itok=fUL0d2zv",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "7c0f6a0a977945ecc7264d93",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Δημοσιογράφος δολοφονήθηκε έξω από το σπίτι του στον Ισημερινό",
-      "link": "https://www.skai.gr/news/world/isimerinos-dolofonia-dimosiografou-ekso-apo-to-spiti-tou",
-      "date": "2026-11-09T23:55:53+00:00",
-      "summary": "Ένοπλοι του είχαν στήσει ενέδρα το βράδυ της Κυριακής και τον πυροβόλησαν κατ’ επανάληψη μόλις βγήκε από το αυτοκίνητό του έξω από το σπίτι του",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2024-12/isimerinos_ape.jpg?itok=tmslpJG1",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "895adfa0f4e3ab56c15e4dbc",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Πρωθυπουργός Κατάρ Αλ Θάνι: «Θετικές» οι συνομιλίες ΗΠΑ-Ιράν",
-      "link": "https://www.skai.gr/news/world/prothypourgos-katar-thetikes-oi-synomilies-ipa-iran",
-      "date": "2026-11-09T23:36:52+00:00",
-      "summary": "«Είμαι ευγνώμων για τις θετικές συζητήσεις σχετικά με την επίτευξη συμφωνίας και την ειρήνη στην περιοχή», είπε ο Μοχάμεντ μπιν Αμπντουλραχμάν αλ Θάνι",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-09/sheikh_mohammed_bin_abdulrahman_al-thani_ap.jpg?itok=y82KgJGk",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "c95e786527454150f8aed5ee",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Wall Street: Κλείσιμο με άνοδο",
-      "link": "https://www.skai.gr/news/finance/wall-street-kleisimo-me-anodo-105",
-      "date": "2026-11-09T23:23:46+00:00",
-      "summary": "Με κέρδη έκλεισε χθες η  Wall Street , με φόντο την υποχώρηση των τιμών του πετρελαίου και την ανάκαμψη μετοχών εταιρειών που σχετίζονται με τον κλάδο της ΤΝ",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-04/ap26090561242265-wall-street.jpg?itok=cE3FAzx7",
-      "categories": [
-        "Οικονομία"
-      ],
-      "id": "c2a75a16f2d6eafc3ca29f01",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Τραμπ: Το FBI ξεκίνησε έρευνα για κατασκοπεία - Ο Χουάνγκ «δεν είχε ιδέα» ότι η Κινέζα επιχειρηματίας ήταν κατάσκοπος",
-      "link": "https://www.skai.gr/news/world/tramp-o-tzensen-xouangk-mou-eipe-pos-den-eixe-idea-oti-i-gynaika-pou-syndeotan-mazi-tou-it",
-      "date": "2026-11-09T23:05:42+00:00",
-      "summary": "Ο Τραμπ, ο οποίος είπε ότι είχε μιλήσει με τον Χουάνγκ τη Δευτέρα, δήλωσε «έκπληκτος» από το ότι το FBI ξεκίνησε έρευνα για κατασκοπεία",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/ap26313804731777-trump.jpg?itok=CCC--A4J",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "8bf2ef92d2f3cd9577894cb6",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Ιράν: Οι ΗΠΑ «είναι ώρα να δεχθούν τους επτά όρους που έχει επανειλημμένα θέσει το Ιράν»",
-      "link": "https://www.skai.gr/news/world/epikefalis-asfaleias-iran-oi-ipa-na-stamatisoun-na-kataskeyazoun-pseydeis-eidiseis-gia-fan",
-      "date": "2026-11-09T22:30:54+00:00",
-      "summary": "Ο επικεφαλής του Ανώτατου Συμβουλίου Εθνικής Ασφάλειας του Ιράν δήλωσε ότι «είναι ώρα οι ΗΠΑ να δεχθούν τους επτά όρους που έχει επανειλημμένα θέσει το Ιράν»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-05/mohsen_rezaei.jpg?itok=g9eHOnQ6",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "8ae0885b1ddf5aaf623ed4d5",
-      "selected_at": "2026-11-10T02:57:02.154135+00:00"
-    },
-    {
-      "title": "Δίπλα στον Τραμπ στον Λευκό Οίκο ο επικεφαλής του UFC - «Δεν έχω καμία απολύτως πολιτική φιλοδοξία»",
-      "link": "https://www.skai.gr/news/world/dipla-ston-tramp-ston-leyko-oiko-o-epikefalis-tou-ufc-den-exo-kamia-apolytos-politiki-filo",
-      "date": "2026-11-09T22:25:07+00:00",
-      "summary": "Ο διευθύνων σύμβουλος του UFC, Ντάνα Γουάιτ, επέμεινε ότι δεν έχει «καμία απολύτως πολιτική φιλοδοξία»",
-      "sources": [
-        "Skai.gr: Ροή Ειδήσεων"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-11/white_trump_ap.jpg?itok=ERRBI2eh",
-      "categories": [
-        "Κόσμος"
-      ],
-      "id": "68f5ab4ca60e4481a5d28a3b",
       "selected_at": "2026-11-10T02:57:02.154135+00:00"
     }
   ],

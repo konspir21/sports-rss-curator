@@ -1,6 +1,108 @@
 {
   "selected": [
     {
+      "title": "Apple TV just debuted three new originals, including a heist thriller series",
+      "link": "https://9to5mac.com/2026/11/12/apple-tv-just-debuted-three-new-originals-including-a-heist-thriller-series/",
+      "date": "2026-11-13T02:02:34+00:00",
+      "summary": "    Apple TV subscribers can now watch three new originals, including a heist thriller series, a film based on true events, and the first of two holiday specials coming to the platform this season. Watch the trailers below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "8ef6d556c9084b0d28e3f46c",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
+      "title": "Apple’s M5 iPad Pro with 1TB of storage drops to its lowest price since summer",
+      "link": "https://www.macworld.com/article/3283746/apples-m5-ipad-pro-with-1tb-of-storage-drops-to-its-lowest-price-since-summer.html",
+      "date": "2026-11-13T01:51:38+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple iPad Pro M5, 11-inch  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3283746-0-06708900-1794534706-Apple-iPad-Pro-M5-12.jpg?quality=50&strip=all",
+      "categories": [
+        "iPad, Tablets",
+        "iPad, Tablets"
+      ],
+      "id": "3021bdfd4d38d0bc36b47b99",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
+      "title": "Hands-On With the New Apple TV 4K and Siri AI",
+      "link": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on/",
+      "date": "2026-11-13T00:42:07+00:00",
+      "summary": "The 4th-generation  Apple TV  4K with an A19 chip and  Siri  AI support is available starting on November 13, and we were able to spend some time with it ahead of launch.\n \n\n \n     Subscribe to the MacRumors YouTube channel  for more videos.  \n \n&zwnj;Siri&zwnj; AI is the headline feature, and while it's not perfect, it works better than the prior ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/Klp9x3R0niKAd-wJW65m-OsfTJk=/2500x/article-new/2026/11/Apple-TV-4K-Thumb-2.jpg",
+      "categories": [
+        "Apple TV",
+        "Featured",
+        "Siri"
+      ],
+      "id": "4ca4886b310f78bc4ff39962",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
+      "title": "Siri AI Coming to Older Apple TV 4K Models in tvOS 27.2.1",
+      "link": "https://www.macrumors.com/2026/11/12/siri-ai-tvos-27-2-1/",
+      "date": "2026-11-12T23:57:48+00:00",
+      "summary": "An upcoming tvOS 27.2.1 update will bring  Siri  AI to the 2nd- and 3rd-generation  Apple TV  4K models, according to Apple.\n \n\n \n \n \nA  support document  outlining &zwnj;Siri&zwnj; AI requirements across Apple products says tvOS 27.2.1 supports &zwnj;Siri&zwnj; AI on the &zwnj;Apple TV&zwnj; 4K (2nd generation and later), but the software hasn't y",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-AI-Icon.jpeg",
+      "categories": [
+        "Apple TV",
+        "Featured",
+        "Siri"
+      ],
+      "id": "84a462847430f84492b2e502",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
+      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
+      "link": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/",
+      "date": "2026-11-12T22:50:59+00:00",
+      "summary": "Apple announced an all-new home product a month ago, and it's now starting to arrive to customers. It's Friday, November 13, in Australia and New Zealand, which means it's the HomeView launch day.\n \n\n \n \n \nCustomers who pre-ordered Apple's new home hub will soon be sharing pictures and first impressions on the  MacRumors  forums, Reddit, Instagram,",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+      "categories": [
+        "Featured",
+        "HomeView"
+      ],
+      "id": "0f69f8b4c2f8adfed111b4e8",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown",
+      "link": "https://9to5mac.com/2026/11/12/daily-november-12-2026/",
+      "date": "2026-11-12T22:45:57+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "5c6be88c5ac0d983c25488c9",
+      "selected_at": "2026-11-13T02:43:41.560648+00:00"
+    },
+    {
       "title": "Yes, the whole Internet is having major issues right now",
       "link": "https://www.macworld.com/article/3284152/yes-the-whole-internet-is-having-major-issues-right-now.html",
       "date": "2026-11-12T21:40:36+00:00",
@@ -2891,104 +2993,6 @@
       ],
       "id": "45e5ffe934460d9b5e113c27",
       "selected_at": "2026-11-10T10:52:43.479637+00:00"
-    },
-    {
-      "title": "Canadian court certifies class action against Apple over Google search deal",
-      "link": "https://9to5mac.com/2026/11/09/canadian-court-certifies-class-action-against-apple-over-google-search-deal/",
-      "date": "2026-11-10T02:20:07+00:00",
-      "summary": "    A British Columbia Supreme Court judge has certified a class action against Apple over allegations that its search agreement with Google stifled competition and inflated advertising prices. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/05/Apple-Google-partner-industry-specification-hero.jpg?quality=82&strip=all&w=1306",
-      "categories": [
-        "News"
-      ],
-      "id": "cfcea3c651c6722b7e7dd95c",
-      "selected_at": "2026-11-10T02:57:02.116915+00:00"
-    },
-    {
-      "title": "From Static to Adaptive: Why This Fall Is the Right Time to Rethink How You Sit",
-      "link": "https://www.macworld.com/article/3241205/from-static-to-adaptive-why-this-fall-is-the-right-time-to-rethink-how-you-sit.html",
-      "date": "2026-11-10T02:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Sit Smarter. Save Bigger.   \n\t\t\t\t\t Up to 42% Off LiberNovo's Ergonomic Chairs \n\t\t\t\t \n\t\t\t\t  VIEW SALE  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.sit",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3241205-0-95367800-1794299997-LiberNovo-Omni-Desk-3.jpg?quality=50&strip=all",
-      "categories": [
-        "Accessories",
-        "Accessories"
-      ],
-      "id": "43ba49c6711da7dfcec0f8cc",
-      "selected_at": "2026-11-10T10:52:43.479637+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28",
-      "link": "https://9to5mac.com/2026/11/09/daily-november-9-2026/",
-      "date": "2026-11-10T00:49:31+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "25d1280601a65c9eaeb2bd1a",
-      "selected_at": "2026-11-10T02:57:02.116915+00:00"
-    },
-    {
-      "title": "Here's What Apple Fixed in iOS 27.2.1 and macOS 27.2.1",
-      "link": "https://www.macrumors.com/2026/11/09/ios-27-2-1-security-fixes/",
-      "date": "2026-11-09T23:43:48+00:00",
-      "summary": "The  iOS 27.2.1 , iPadOS 27.2.1, and  macOS 27.2.1  updates Apple released today fix a handful of security vulnerabilities. With the security fixes implemented, it's a good idea to update as soon as you can.\n \n\n \n \n \nA bug with iMessage could let a remote attacker join a group chat to receive its messages, and another could let users see messages s",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
-      "categories": [
-        "iOS 27"
-      ],
-      "id": "7ce9c03f26410c33d89d0b31",
-      "selected_at": "2026-11-10T02:57:02.116915+00:00"
-    },
-    {
-      "title": "Apple Intelligence completes regulatory registration for iPad and Mac in China",
-      "link": "https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china/",
-      "date": "2026-11-09T22:54:52+00:00",
-      "summary": "    Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "482a268936b1c0a243b546dc",
-      "selected_at": "2026-11-10T02:57:02.116915+00:00"
-    },
-    {
-      "title": "Webex Gets iPhone Duo Support",
-      "link": "https://www.macrumors.com/2026/11/09/webex-gets-iphone-duo-support/",
-      "date": "2026-11-09T22:31:20+00:00",
-      "summary": "Popular video meeting app Webex  was today updated  with support for Apple's  iPhone Duo . Webex works open or closed, in portrait or landscape mode, and even in a laptop or tent position.\n \n\n \n \n \nWhen open, the &zwnj;iPhone Duo&zwnj; shows more meeting participants, keeps shared content visible, and gives access to a whiteboard. Multitasking supp",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/webex-app-iphone-duo.jpg",
-      "categories": [
-        "iPhone Duo",
-        "Cisco"
-      ],
-      "id": "91120fd7219316741dfcc2d6",
-      "selected_at": "2026-11-10T02:57:02.116915+00:00"
     }
   ],
   "v02_initialized": true,
