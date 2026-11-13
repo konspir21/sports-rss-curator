@@ -1,6 +1,307 @@
 {
   "selected": [
     {
+      "title": "HomeView Tidbits: Mirror, Sleep Timer, and Other Details",
+      "link": "https://www.macrumors.com/2026/11/13/homeview-tidbits-2/",
+      "date": "2026-11-13T22:04:47+00:00",
+      "summary": "Apple's HomeView is out today, and we're finally learning all the little details about the new hub. We've rounded up a list of tidbits for those setting up a HomeView or thinking about getting one.\n \n\n \n \n \n Sunglasses \n \nApple says the HomeView probably won't recognize you if you have your face covered, including when wearing sunglasses. If HomeVi",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview-lifestyle.jpg",
+      "categories": [
+        "Featured",
+        "HomeView"
+      ],
+      "id": "d397d439f7bb0966f700e27f",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Apple details HomeView facial recognition, repair options, and more in new support guides",
+      "link": "https://9to5mac.com/2026/11/13/apple-details-homeview-facial-recognition-repair-options-and-more-in-new-support-guides/",
+      "date": "2026-11-13T21:59:21+00:00",
+      "summary": "    Coinciding with the launch of Apple HomeView, the company has been updating its support website with new guides covering everything from facial recognition and user profiles to troubleshooting and repairs. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-hand-touch.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "fda33d625c650e6366a554a4",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Update your Apple TV 4K now to add Siri AI",
+      "link": "https://www.cultofmac.com/news/tvos-27-2-1-update-apple-tv-4k-siri-ai",
+      "date": "2026-11-13T21:32:33+00:00",
+      "summary": "   \n tvOS 27.2.1 brings Siri AI to Apple TV 4K models dating back years, giving older streaming boxes a major upgrade. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/tvOS-27-2-1.jpg.webp",
+      "categories": [
+        "News",
+        "Apple TV 4K",
+        "Siri",
+        "Siri AI"
+      ],
+      "id": "c8067e62b2c6069a842094cb",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
+      "link": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
+      "date": "2026-11-13T21:00:00+00:00",
+      "summary": "    The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented product blitz and rumors of a second-gen MacBook Neo. \n\n\n\n \n   Spon",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/9to5Mac-Overtime-90.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "79aa8914dcb38c86f768dff4",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Siri AI Still Not Enabled on HomePod Mini 2 With Latest Software Update",
+      "link": "https://www.macrumors.com/2026/11/13/homepod-mini-2-still-lacks-siri-ai/",
+      "date": "2026-11-13T20:35:53+00:00",
+      "summary": "Apple today released HomePod software version 27.2.1, but it  does not enable Siri AI on the HomePod mini 2 . Apple's website continues to say the feature is \"coming in a future software update,\" but it has not provided a timeframe.\n \n\n \n \n \nDue to the HomePod mini 2 having  only 2GB of RAM , well below the minimum 8GB of RAM required for dedicated",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homepod-mini-2-feature2.jpg",
+      "categories": [
+        "HomePod mini",
+        "Siri",
+        "Siri AI"
+      ],
+      "id": "a97f83bfea47237989d7de1b",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Epic formally asks SCOTUS to uphold contempt ruling against Apple",
+      "link": "https://9to5mac.com/2026/11/13/epic-formally-asks-scotus-to-uphold-contempt-ruling-against-apple/",
+      "date": "2026-11-13T20:00:50+00:00",
+      "summary": "    Epic Games has submitted its official response to Apple’s Supreme Court appeal, urging the justices to uphold the contempt ruling over App Store payment restrictions. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "8bdcf3098376b94d27809fbf",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Get a brand-new Apple Pencil Pro for a record-low $85 in this open-box Woot deal",
+      "link": "https://www.macworld.com/article/3285301/get-a-brand-new-apple-pencil-pro-for-a-record-low-85-in-this-open-box-woot-deal.html",
+      "date": "2026-11-13T19:37:02+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple Pencil Pro  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(\"",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3285301-0-52999100-1794598631-Apple-Pencil-Pro-in-front-of-iPad-Pro-M4.jpg?quality=50&strip=all",
+      "categories": [
+        "iPad, Tablets",
+        "iPad, Tablets"
+      ],
+      "id": "fae1db76c1ef8ccba03ca1c7",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Apple releases tvOS 27.2.1 and HomePod 27.2.1, here’s what’s new",
+      "link": "https://9to5mac.com/2026/11/13/apple-releases-tvos-27-2-1-and-homepod-27-2-1-heres-whats-new/",
+      "date": "2026-11-13T19:33:08+00:00",
+      "summary": "    Apple has just released tvOS 27.2.1 for Apple TV 4K and HomePod 27.2.1 for HomePod models, here’s what’s new. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/apple-tv-homepod-mini.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "8ac21bdc351e1b68afae5364",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Perplexity brings AI agents feature called Teammates to the Mac",
+      "link": "https://9to5mac.com/2026/11/13/perplexity-brings-ai-agents-feature-called-teammates-to-the-mac/",
+      "date": "2026-11-13T19:31:05+00:00",
+      "summary": "    This week, Perplexity has deployed its new proactive agentic AI feature called Teammates to the Mac. Perplexity Teammates were previously limited to iOS and the web. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "894d447261aaeb601685f691",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs",
+      "link": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
+      "date": "2026-11-13T19:26:39+00:00",
+      "summary": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2.\n \n\n \n \n \ntvOS 27.2.1 brings  Siri  AI support to the 2nd- and 3rd-generation  Apple TV  4K models, but it is available for all &zwnj;Apple TV&zwnj; 4K models that support tvOS 2",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
+      "categories": [
+        "Apple TV",
+        "Featured",
+        "Siri"
+      ],
+      "id": "7e9a250cb3f5a2e45de6d66d",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Microsoft 365 Outage Resolving After Nearly 24 Hours",
+      "link": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/",
+      "date": "2026-11-13T19:00:35+00:00",
+      "summary": "The  ongoing Microsoft 365 outage is resolving  after nearly 24 hours. The company said the underlying issue  has been fixed  and it is seeing \"broad recovery and stability\" across its services as it works to restore access to customers.\n \n\n \n \n \nThe Microsoft 365 downtime started at approximately 1 p.m. Eastern Time on Thursday. Customers could no",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/microsoft-365-icons.jpg",
+      "categories": [
+        "Microsoft"
+      ],
+      "id": "5e2652a0b365695eb9ba2f76",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "iOS 27.3 adds three new features I’ve used almost every day",
+      "link": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day/",
+      "date": "2026-11-13T18:56:41+00:00",
+      "summary": "    iOS 27.3 is coming  next month , and during the beta so far there are three new features I’ve been using almost every day. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "a5915144d53e4113ff938ea9",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "iPhone Duo Survives 450,000 Folds, but Hinge is Weakening",
+      "link": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing/",
+      "date": "2026-11-13T18:43:39+00:00",
+      "summary": "For the last three weeks,   CNET   has been stress testing the  iPhone Duo 's hinge on a livestream. After over 451,000 folds, the hinge is showing signs of wear.\n \n\n \n    \n \n CNET  says the hinge started feeling looser at the 390,000-fold point, and by 440,300 folds, there was enough of a shift in the mechanism that the screen didn't open in full ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg",
+      "categories": [
+        "iPhone Duo"
+      ],
+      "id": "04d784a63e0e15a2e699778f",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Coming to Apple TV: All the upcoming shows, movies, trailers, and more",
+      "link": "https://www.macworld.com/article/340717/apple-tv-upcoming-shows-movies-series-release-dates.html",
+      "date": "2026-11-13T18:40:58+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s list of  currently available content for Apple TV  continues to grow, and so does the list of upcoming projects in the works. \n\n\n\n Some of these projects have been officially announced and acknowledged by Apple, while others have been reported by the Hollywood press. \n\n\n\n We’ve divided this list in ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/340717-0-70156500-1794595327-apple-tv-plus-logo.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple TV",
+        "Apple TV"
+      ],
+      "id": "059e4ec76e8e8de69e5585c4",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Apple TV 4K Launch Day Deal Arrives at Amazon",
+      "link": "https://www.macrumors.com/2026/11/13/apple-tv-4k-launch-day-deal/",
+      "date": "2026-11-13T18:16:52+00:00",
+      "summary": "Amazon today is back with a discount on the brand new A19 Apple TV 4K for launch day, available for   &#36;289.99  , down from &#36;299.00. This is a match of the pre-order discount we saw last week.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment,",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View3.jpg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "dc984bb3b37c2e94b832f6d8",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "Some MacBook Pro owners say PROLED XDR screen flickering causes headaches",
+      "link": "https://www.cultofmac.com/news/macbook-pro-proled-xdr-screen-flicker",
+      "date": "2026-11-13T18:06:27+00:00",
+      "summary": "   \n Some owners of the new MacBook Pro with PROLED XDR Display report headaches and dizziness due to screen flickering. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/PROLED-MacBook-Pro-.jpg.webp",
+      "categories": [
+        "News",
+        "MacBook Pro"
+      ],
+      "id": "4496dc41ea68df613216ef64",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
+      "link": "https://9to5mac.com/2026/11/13/daily-november-13-2026/",
+      "date": "2026-11-13T18:04:08+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "25dce61c0fbf5e5f068db21c",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
+      "title": "This 100W power bank is safer than conventional lithium-ion",
+      "link": "https://www.cultofmac.com/news/bmx-solidsafe-20k-power-bank-semi-solid-state-battery",
+      "date": "2026-11-13T17:43:12+00:00",
+      "summary": "   \n BMX's new SolidSafe power banks use semi-solid-state battery technology to reduce fire risk, with up to 100W charging. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/BMX-SolidSafe-20K_01.jpg.webp",
+      "categories": [
+        "News",
+        "power banks"
+      ],
+      "id": "ada6699b69185621a0fc0692",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
+    },
+    {
       "title": "Binance warns of iOS 27 flaw that could expose ‘private keys and login credentials’",
       "link": "https://www.macworld.com/article/3285362/binance-warns-of-ios-27-flaw-that-could-expose-private-keys-and-login-credentials.html",
       "date": "2026-11-13T17:34:19+00:00",
@@ -52,6 +353,22 @@
       ],
       "id": "f55cdfcf88847c6cb9d13ed6",
       "selected_at": "2026-11-13T17:40:00.588434+00:00"
+    },
+    {
+      "title": "This tiny iOS 27 camera feature really makes a huge difference",
+      "link": "https://9to5mac.com/2026/11/13/this-tiny-ios-27-camera-feature-really-makes-a-huge-difference/",
+      "date": "2026-11-13T17:00:00+00:00",
+      "summary": "    When shooting both  photos  and  videos  on my iPhone, I make regular use of a few different third-party apps, mostly because I like to take manual control. \n\n\n\n But a combination of the new Pro controls on the  iPhone 18 Pro  and a new feature introduced with iOS 27 means there are more times when I can stick to Apple’s stock Camera app. If yo",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-18-Pro-and-iOS-27-customizable-controls.jpeg?quality=82&strip=all&w=1200",
+      "categories": [
+        "News"
+      ],
+      "id": "656f7c6a2683fef6b7de17b3",
+      "selected_at": "2026-11-13T22:54:56.519646+00:00"
     },
     {
       "title": "Apple Maps in iOS 27 has hidden new feature I’ve been loving",
@@ -2625,254 +2942,6 @@
       ],
       "id": "e5ca5e114d02830ab610165e",
       "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple releases firmware 9B47 for all AirPods with H2 chip",
-      "link": "https://www.macworld.com/article/3281712/apple-releases-firmware-9b47-for-all-airpods-with-h2-chip.html",
-      "date": "2026-11-10T22:22:33+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n If you have any AirPods with an H2 chip, it’s time for an update. Apple has released firmware version 9B47 for all AirPods that use the H2. That includes: \n\n\n\n \n AirPods Pro 2 \n\n\n\n AirPods Pro 3 \n\n\n\n AirPods 4 \n\n\n\n AirPods 5 \n\n\n\n AirPods Max 2 \n \n\n\n\n The previous firmware was 9A348 which added support fr",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3281712-0-66046400-1794349451-AirPods-5-review-hero1.jpg?quality=50&strip=all",
-      "categories": [
-        "Audio, Headphones",
-        "Audio, Headphones"
-      ],
-      "id": "ccbecdce5112e6f3369b2dec",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "iFixit's PROLED MacBook Pro Teardown Reveals Logo LEDs",
-      "link": "https://www.macrumors.com/2026/11/10/ifixit-proled-macbook-pro-teardown/",
-      "date": "2026-11-10T22:02:34+00:00",
-      "summary": "iFixit today took apart Apple's touchscreen PROLED  MacBook Pro  to see how Apple shed weight, what powers the logo, and how it compares to the 14-inch M6 &zwnj;MacBook Pro&zwnj;.\n \n\n \n    \n \nApple added a glowing logo on the back of the PROLED &zwnj;MacBook Pro&zwnj;, but since there's no backlight to illuminate it, Apple used four LEDs, a reflect",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/t/bNCqb7hMgJBYlvysmFnI0uihC8o=/2000x/article-new/2026/11/ifixit-macbook-proled-teardown.jpg",
-      "categories": [
-        "MacBook Pro",
-        "iFixit"
-      ],
-      "id": "b8d7197cdc7256ec5de09a1a",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple to investigate accident that killed three workers at iPhone parts factory in India",
-      "link": "https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india/",
-      "date": "2026-11-10T21:34:43+00:00",
-      "summary": "      Reuters   reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "671675a91acc7e9e3f0568d4",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Spotify’s AI DJ adds nine voices and a setting to reduce interruptions",
-      "link": "https://9to5mac.com/2026/11/10/spotifys-ai-dj-adds-nine-voices-and-a-setting-to-reduce-interruptions/",
-      "date": "2026-11-10T20:48:41+00:00",
-      "summary": "    Spotify today expanded customization options for its AI DJ, allowing users to choose between different voices and personalities, as well as control how much the DJ talks between songs. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/spotify-dj.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "6071f1498df54b48ecd1cff4",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Best Apple Deals: Save on MacBooks, iPhones, iPads, Apple Watch & more",
-      "link": "https://www.macworld.com/article/541154/best-apple-deals.html",
-      "date": "2026-11-10T20:32:42+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n In this frequently updated hub, we track the best Apple deals by comparing prices on Macs, iPhones, iPads, Apple Watch, AirPods and other Apple products using our specialised price-tracking tools. Whether you’re buying a gift or treating yourself, you’ll find the lowest prices currently available from Am",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/541154-0-05366700-1794430170-Apple-deals-best-savings-on-apple-products.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Inc, Apple Watch, Audio, iPad, iPhone, Mac",
-        "Apple Inc, Apple Watch, Audio, iPad, iPhone, Mac"
-      ],
-      "id": "46a496642b8e7801d137bfc3",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "10 Free iPhone Duo Apps Worth Downloading",
-      "link": "https://www.macrumors.com/2026/11/10/free-iphone-duo-apps/",
-      "date": "2026-11-10T20:27:07+00:00",
-      "summary": "We've done two rounds of  iPhone Duo  app picks so far, and now we're back with an overview of some of the best Duo apps you can get for free.  MacRumors  videographer Dan Barbera demos his suggestions for apps worth checking out.\n \n\n \n     Subscribe to the MacRumors YouTube channel  for more videos.  \n \nDan's list includes Delta Game Emulator, Bea",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/t/c7pal-sHDRApsOHD6Q1pnrBW_Ho=/2500x/article-new/2026/11/iPhone-Duo-10-Best-Free-Apps-Thumb-2.jpg",
-      "categories": [
-        "Featured",
-        "iPhone Duo"
-      ],
-      "id": "dcd8e3cdf9520395321cdc9b",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple Releases New AirPods Firmware",
-      "link": "https://www.macrumors.com/2026/11/10/apple-releases-airpods-firmware-9b47/",
-      "date": "2026-11-10T20:11:26+00:00",
-      "summary": "Apple today released new firmware for the AirPods Pro 2,  AirPods Pro 3 , AirPods 4,  AirPods 5 , and  AirPods Max 2 . The firmware has a build number of 9B47, up from 9A348/9A350.\n \n\n \n \n \nApple has been  beta testing the new firmware  for the last several weeks, but hasn't yet offered details on what's included in the software. Apple has  an AirP",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/09/airpods-5-new-blue.jpeg",
-      "categories": [
-        "AirPods",
-        "AirPods Max",
-        "AirPods Pro",
-        "Featured"
-      ],
-      "id": "a66c8895bb0de4dd7e29ffb9",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple just released new AirPods Pro 3 firmware and more",
-      "link": "https://9to5mac.com/2026/11/10/apple-just-released-new-airpods-pro-3-firmware-airpods-5-more/",
-      "date": "2026-11-10T20:06:19+00:00",
-      "summary": "    Apple is rolling out brand new firmware for select AirPods models today, including AirPods Pro 3. Here are the details on how to update. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/airpods-pro-3-upside-down.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "af8885410603cdd4b0cc1894",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple TV shares trailers for upcoming Snoopy and Fraggle Rock holiday specials",
-      "link": "https://9to5mac.com/2026/11/10/apple-tv-shares-trailers-for-upcoming-snoopy-and-fraggle-rock-holiday-specials/",
-      "date": "2026-11-10T19:57:28+00:00",
-      "summary": "    With the holidays fast approaching, Apple TV has shared trailers for two upcoming specials featuring Snoopy and the Fraggles. Watch them below. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-holiday.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "505858e7b316db7210625e8a",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Don’t miss this $150 discount on Apple’s desktop M6 Mac mini",
-      "link": "https://www.macworld.com/article/3281462/dont-miss-this-150-discount-on-apples-desktop-m6-mac-mini.html",
-      "date": "2026-11-10T19:56:06+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple Mac mini M6  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3281462-0-16876300-1794340574-mac-mini-M6.jpg?quality=50&strip=all",
-      "categories": [
-        "Desktop PCs, Mac Mini",
-        "Desktop PCs, Mac Mini"
-      ],
-      "id": "c2ab86701cbca4eecf089217",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "iOS 27.2 adds new features in six iPhone apps, details here",
-      "link": "https://9to5mac.com/2026/11/10/ios-27-2-adds-new-features-in-six-iphone-apps-details-here/",
-      "date": "2026-11-10T19:50:14+00:00",
-      "summary": "    iOS 27.2 recently launched with new features for iPhone users, including improvements across six Apple apps. Here’s what’s new. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-app-icons-grid.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "81a9f64553d0ad57a5a4ea89",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "date": "2026-11-10T19:15:32+00:00",
-      "summary": "    Leaker Aaron Perris has  discovered evidence  of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "601b39403922f80c3c6d4004",
-      "selected_at": "2026-11-10T23:37:08.395690+00:00"
-    },
-    {
-      "title": "Apple announces Swift Student Challenge 2027 with new twist",
-      "link": "https://9to5mac.com/2026/11/10/apple-announces-swift-student-challenge-2027-with-new-twist/",
-      "date": "2026-11-10T18:11:28+00:00",
-      "summary": "    Apple has  announced  details for 2027’s Swift Student Challenge, and there’s a new twist this year: students can submit an app for any Apple platform. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "496d2c193e841b20ce1aecfa",
-      "selected_at": "2026-11-10T18:23:32.889224+00:00"
-    },
-    {
-      "title": "Next iPad Air Likely to Have These 10 New Features",
-      "link": "https://www.macrumors.com/2026/11/10/next-ipad-air-10-likely-new-features/",
-      "date": "2026-11-10T17:53:26+00:00",
-      "summary": "Earlier today, it was once again reported that the next-generation iPad Air  will be equipped with an OLED display , albeit with a 60Hz refresh rate. That is not all, of course, with the  new iPad mini  announced last month likely providing us with a preview of some other upgrades coming to the iPad Air in the first half of 2027.\n \n\n \n \n \nBelow, we",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/iPad-air-the-latest-rumors.jpg",
-      "categories": [
-        "iPad Air"
-      ],
-      "id": "84de81f01aeda7e54d46fdb0",
-      "selected_at": "2026-11-10T18:23:32.889224+00:00"
-    },
-    {
-      "title": "New Apple TV 4K remote’s best feature requires a newer iPhone model",
-      "link": "https://9to5mac.com/2026/11/10/new-apple-tv-4k-remotes-best-feature-requires-a-newer-iphone-model/",
-      "date": "2026-11-10T17:47:32+00:00",
-      "summary": "    A new Apple TV 4K releases this Friday ( pre-order here ), with an upgraded Siri Remote. But the new remote’s best feature might not work on your iPhone. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "4f50657bf971ec6e43bfab28",
-      "selected_at": "2026-11-10T18:23:32.889224+00:00"
     }
   ],
   "v02_initialized": true,
