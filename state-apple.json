@@ -1,6 +1,80 @@
 {
   "selected": [
     {
+      "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+      "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
+      "date": "2026-11-14T20:30:00+00:00",
+      "summary": "     Welcome to  Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get  in contact  . \n\n\n\n \n\n\n\n Apple finally released its new  HomeView  this week, a smart display that serves at the center of your home. What if you don’t want to b",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "bbba9fd57bbba3b7bc923304",
+      "selected_at": "2026-11-14T20:44:45.835765+00:00"
+    },
+    {
+      "title": "Here’s a HomeView feature that should come to every Apple device",
+      "link": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
+      "date": "2026-11-14T17:43:49+00:00",
+      "summary": "    This week, Apple started shipping the  HomeView , its first display made for the smart home. On the  HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "d8d373c31f1f41733f8d64fa",
+      "selected_at": "2026-11-14T20:44:45.835765+00:00"
+    },
+    {
+      "title": "Siri’s agentic future [Cult of Mac podcast 41]",
+      "link": "https://www.cultofmac.com/news/agentic-siri-cult-of-mac-podcast-41",
+      "date": "2026-11-14T17:40:39+00:00",
+      "summary": "   \n This week on the \"Cult of Mac\" podcast: Apple CEO John Ternus is reportedly pushing hard to make Siri AI more agentic as early as next year. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Agentic-Siri-AI-on-Cult-of-Mac-podcast-41.jpg.webp",
+      "categories": [
+        "News",
+        "Apple rumors",
+        "Cult of Mac podcast",
+        "Easter eggs",
+        "John Ternus",
+        "Mac",
+        "Siri AI"
+      ],
+      "id": "ee84bdc4be5195cc0b701271",
+      "selected_at": "2026-11-14T20:44:45.835765+00:00"
+    },
+    {
+      "title": "How to watch A Charlie Brown Thanksgiving for free",
+      "link": "https://www.cultofmac.com/how-to/charlie-brown-thanksgiving-watch-free-how-to",
+      "date": "2026-11-14T16:30:45+00:00",
+      "summary": "   \n With Thanksgiving coming soon, it’s time to watch the beloved Peanuts holiday special “A Charlie Brown Thanksgiving.” It’s free this whole weekend! \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2024/11/Peanuts-Thanksgiving-How-to-watch_B.jpg",
+      "categories": [
+        "How-To",
+        "Apple TV",
+        "Apple TV How To",
+        "Peanuts",
+        "Thanksgiving"
+      ],
+      "id": "6dad1645d994e24c3b2bb6c9",
+      "selected_at": "2026-11-14T20:44:45.835765+00:00"
+    },
+    {
       "title": "Today in Apple history: iPods take to the skies",
       "link": "https://www.cultofmac.com/apple-history/today-in-apple-history-ipods-on-airplanes",
       "date": "2026-11-14T16:03:42+00:00",
@@ -2312,252 +2386,6 @@
       ],
       "id": "cf35da731a2b327eac19a7df",
       "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Apple reportedly met with Thai officials over spyware alerts sent to politicians",
-      "link": "https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians/",
-      "date": "2026-11-11T20:18:07+00:00",
-      "summary": "      Bloomberg   reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "36436c0508cd4b5bf501beb2",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "OpenAI’s personal finance features for ChatGPT expands to Mac app",
-      "link": "https://9to5mac.com/2026/11/11/openais-personal-finance-features-for-chatgpt-expands-to-mac-app/",
-      "date": "2026-11-11T19:58:26+00:00",
-      "summary": "    Earlier this year, OpenAI introduced ChatGPT Finances. The feature started on the mobile app and website, but it’s been missing from ChatGPT’s desktop app. Starting today. ChatGPT Finances is now available on the Mac as well. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "a83480e15e33ab1f11a23901",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Google Says Gemini App Rolling Out on Apple CarPlay Starting Today",
-      "link": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/",
-      "date": "2026-11-11T19:50:14+00:00",
-      "summary": "Google has  announced  that a dedicated Gemini app on Apple CarPlay is rolling out around the world in several languages starting today, allowing you to have conversations with the AI assistant right from your vehicle's dashboard.\n \n\n \n \n \nGemini conversations on your iPhone automatically sync to CarPlay, so you can continue a previous conversation",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg",
-      "categories": [
-        "CarPlay",
-        "Gemini",
-        "Google"
-      ],
-      "id": "494e7c7989a592495070e5e5",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Second-gen AirTags 4-pack drops to lowest price we’ve seen — $17.50 a pop!",
-      "link": "https://www.cultofmac.com/deals/airtag-deal",
-      "date": "2026-11-11T19:47:38+00:00",
-      "summary": "   \n You can hoard Apple trackers for yourself or make the whole family a bit more organized for less money, thanks to this sweet AirTag deal. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/03/AirTag-Deal-04.jpg.jpg",
-      "categories": [
-        "Deals",
-        "AirTag",
-        "Apple deals"
-      ],
-      "id": "72fe53f4ef45ce892e3ad770",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage",
-      "link": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
-      "date": "2026-11-11T19:32:54+00:00",
-      "summary": "    The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too. And in iOS 27, iCloud+ has a new benefit for high-storage tiers: AI features for HomeKit cameras. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "4a5dae7a8ddb57c71d89a2a5",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "See how the new MacBook Pro makes its Apple logo glow",
-      "link": "https://www.cultofmac.com/news/oled-macbook-pro-teardown-glowing-apple-logo",
-      "date": "2026-11-11T19:15:53+00:00",
-      "summary": "   \n A teardown reveals how Apple brought back the glowing logo to the MacBook Pro. It also shows off other details of the tandem OLED notebook.  \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/MacBook-Pro-glowing-Apple-logo.png",
-      "categories": [
-        "News",
-        "MacBook Pro",
-        "teardowns"
-      ],
-      "id": "7f74783ea4dc4e6a5ffa799a",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Today in Apple history: iPad Pro makes its big debut",
-      "link": "https://www.cultofmac.com/apple-history/first-ipad-pro-goes-on-sale",
-      "date": "2026-11-11T18:05:15+00:00",
-      "summary": "   \n On November 11, 2015, Apple's 12.9-inch iPad Pro went on sale after months of speculation. Shock horror: It even worked with an Apple stylus! \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/Original-12.9-inch-iPad-Pro-launch.jpg",
-      "categories": [
-        "Apple history",
-        "Top Stories",
-        "Apple Pencil",
-        "iPad",
-        "iPad Pro",
-        "Steve Jobs",
-        "TIAH: 2010s",
-        "Tim Cook",
-        "Today in Apple history"
-      ],
-      "id": "17b3de99bbe22ddd7aa72dfd",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "Apple offers a military discount, here’s how to get it",
-      "link": "https://9to5mac.com/2026/11/11/apple-offers-a-military-discount-heres-how-to-get-it/",
-      "date": "2026-11-11T18:01:00+00:00",
-      "summary": "    If you’re a member of the U.S. military, Apple offers an easy way to save 10% on eligible products and accessories. It’s available to current and veteran members of the U.S. military and their immediate family members living in the same household. While you’ll need to verify your eligibility to access the discount, the process is simple. There ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-military-discount.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "613198e0044f20faf2b278b3",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Google Gemini coming to CarPlay",
-      "link": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
-      "date": "2026-11-11T17:29:13+00:00",
-      "summary": "    Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/gemini-mac.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "a42f6812c258a843a8ed7b8e",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "Is It Worth Buying a Ceramic Apple Watch?",
-      "link": "https://www.macrumors.com/guide/is-it-worth-buying-a-ceramic-apple-watch/",
-      "date": "2026-11-11T17:05:11+00:00",
-      "summary": "The Apple Watch Series 12's ceramic casing option is its most luxurious, offering a distinctive finish and highly scratch-resistant material at a price above both aluminum and titanium. Is it worth choosing?\n \n\n \n \n \nThe ceramic Apple Watch  starts at &#36;899 , compared to &#36;399 for aluminum and &#36;699 for titanium. Available in Pearl White a",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/09/series-12-ceramic.jpg",
-      "categories": [
-        "Apple Watch",
-        "Buyer's Guide",
-        "Featured"
-      ],
-      "id": "52b9e06ff3559d7625d81d38",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "Who you gonna call? Apple Support Community is shutting down.",
-      "link": "https://www.cultofmac.com/news/apple-support-community-shutdown",
-      "date": "2026-11-11T16:58:22+00:00",
-      "summary": "   \n Apple plans to pull the plug on one of the internet's most storied troubleshooting sites, the Apple Support Community, later this month. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Apple-Support-Community-shutdown.jpg.webp",
-      "categories": [
-        "News"
-      ],
-      "id": "f2036dba2ae3be76837e1932",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "iPhone crushes the competition in battery life showdown",
-      "link": "https://www.cultofmac.com/news/best-iphone-battery-life-2026",
-      "date": "2026-11-11T16:43:11+00:00",
-      "summary": "   \n Battery life tests crowned an iPhone the longest-lasting phone, beating dozens of rivals. And Apple models dominated the competition. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/iPhone-battery-life-2026_01b.jpg.webp",
-      "categories": [
-        "News",
-        "battery life",
-        "iPhone 17",
-        "iPhone 17e",
-        "iPhone 18 Pro",
-        "iPhone 18 Pro Max",
-        "iPhone Duo"
-      ],
-      "id": "d0677652b94f2f8b5ce44c02",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "watchOS 27.3: Three new features coming soon to Apple Watch",
-      "link": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
-      "date": "2026-11-11T16:33:39+00:00",
-      "summary": "    watchOS 27.3 will launch to all users  next month  and introduce these three new Apple Watch features. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "7bfec10f33b032c36571d187",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
-    },
-    {
-      "title": "Deals: AirTag 2 $17.50 each, Magic Mouse, Trackpad, AirPods, TechWoven, MacBook Air $250 off, more",
-      "link": "https://9to5mac.com/2026/11/11/deals-airtag-2-magic-mouse-trackpad-macbook-air/",
-      "date": "2026-11-11T16:27:43+00:00",
-      "summary": "    The Amazon  early Black Friday sale is now live  and, alongside the ongoing  AirPods Pro 3 at $50 off  and  Apple Watch Ultra 4 at nearly  $100 off  , we are getting some official Apple early Black Friday deals today too. Firstly, the  2026 AirTag 2  has now returned to its  lowest price ever at  $17.50 each   alongside some rare price drops on",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-early-black-friday-singles-day.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "37f49dd849f704563a8cba77",
-      "selected_at": "2026-11-11T18:08:56.534439+00:00"
     }
   ],
   "v02_initialized": true,
