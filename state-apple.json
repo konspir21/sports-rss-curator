@@ -1,6 +1,22 @@
 {
   "selected": [
     {
+      "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
+      "link": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
+      "date": "2026-11-14T22:02:41+00:00",
+      "summary": "    In September, Apple  introduced  the new Beats 360 headphones, the first overears from Beats since the  Beats Studio Pro  in 2023. That said, the older  Beats Studio Pro  still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b574f4119dc274c873288ee7",
+      "selected_at": "2026-11-15T00:23:25.346474+00:00"
+    },
+    {
       "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
       "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
       "date": "2026-11-14T20:30:00+00:00",
@@ -2287,105 +2303,6 @@
       ],
       "id": "3f745ced2390ed2a7abb1d25",
       "selected_at": "2026-11-12T16:20:25.329210+00:00"
-    },
-    {
-      "title": "Apple on Fatal Vehicle Crash Near Apple Park: 'Our Hearts Are Broken'",
-      "link": "https://www.macrumors.com/2026/11/11/apple-statement-on-fatal-crash/",
-      "date": "2026-11-11T21:37:39+00:00",
-      "summary": "Apple employee Eric Chen Su was arrested and charged with suspicion of gross vehicular manslaughter last week following a fatal collision near the intersection of North Tantau Avenue and Pruneridge Avenue, right next to the Apple Park Visitor Center, according to the  Santa Clara County Sheriff's Office  and the   San Francisco Chronicle  .\n \n\n \n \n",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/07/Apple-Park-Visitor-Center.jpeg",
-      "categories": [
-        "Apple Park",
-        "Apple Park Visitor Center"
-      ],
-      "id": "51f4969a9a19d1e9187d1803",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "iPhone Duo one week later: The future, or not for me?",
-      "link": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me/",
-      "date": "2026-11-11T21:33:21+00:00",
-      "summary": "    My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone? \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "a799d17c55d0699ae8fc319e",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Binance warns iPhone crypto holders of security flaw researchers say remains unpatched",
-      "link": "https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched/",
-      "date": "2026-11-11T21:17:30+00:00",
-      "summary": "    Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "d8054ce302d958532367fb03",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Apple Invites app now lets hosts poll guests, plus new emoji effect added",
-      "link": "https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added/",
-      "date": "2026-11-11T21:08:46+00:00",
-      "summary": "    Apple Invites, an iCloud+ feature, just added two new features in this month’s update. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "622ee8d7f4353b0c1c2675eb",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Apple Invites App Updated With Two New Features",
-      "link": "https://www.macrumors.com/2026/11/11/apple-invites-gets-two-new-features/",
-      "date": "2026-11-11T21:01:05+00:00",
-      "summary": " The free  Apple Invites app  for the iPhone was updated today with two new features: hosts can now add polls to invitations so guests can vote on details such as a party's theme and food, and hosts can now add an \"emoji effect\" that floats across invitations.\n \n\n \nReleased in February 2025, the Apple Invites app makes it easy to invite people to e",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/09/General-Invites-App-Feature.jpg",
-      "categories": [
-        "No Linkback",
-        "Apple Invites"
-      ],
-      "id": "0b865ab718bae038c61175b8",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
-    },
-    {
-      "title": "Best Black Friday MacBook and Mac deals 2026: Air, Pro, mini & iMac",
-      "link": "https://www.macworld.com/article/1373543/best-macbook-mac-black-friday-deals-2026.html",
-      "date": "2026-11-11T20:46:51+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n Best Black Friday Mac deals so far U.S. \n\n\n\n \n  13-inch M5 MacBook Air (512GB/16GB) : $1,099 ($200 off, MSRP $1,299) \n\n\n\n  15-inch M5 MacBook Air (1TB/16GB) : $1,549 ($250 off, MSRP $1,799) \n\n\n\n  14-inch, M5 MacBook Pro (1TB, 16GB) : $1,799 ($200 less than M6 model)  \n\n\n\n  16-inch, MacBook Pro (M5 Pro,",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/1373543-0-22464500-1794430152-mw-macbooks-bf-primary.jpg?quality=50&strip=all",
-      "categories": [
-        "Mac, MacBook",
-        "Mac, MacBook"
-      ],
-      "id": "cf35da731a2b327eac19a7df",
-      "selected_at": "2026-11-12T00:45:57.066094+00:00"
     }
   ],
   "v02_initialized": true,
