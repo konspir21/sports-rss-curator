@@ -1,6 +1,22 @@
 {
   "selected": [
     {
+      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
+      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
+      "date": "2026-11-15T00:42:21+00:00",
+      "summary": "    iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display. \n\n\n\n A couple weeks ago, I  wrote about one accessory  that solves t",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "95afe06ef926f61bb015bc9a",
+      "selected_at": "2026-11-15T06:54:42.795910+00:00"
+    },
+    {
       "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
       "link": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
       "date": "2026-11-14T22:02:41+00:00",
@@ -2231,78 +2247,6 @@
       ],
       "id": "fa2d66721bde7b63e9792b9f",
       "selected_at": "2026-11-12T07:46:43.602298+00:00"
-    },
-    {
-      "title": "Google Gemini joins CarPlay to make your commute more productive",
-      "link": "https://www.cultofmac.com/news/google-gemini-joins-carplay-commute-productive",
-      "date": "2026-11-12T06:44:03+00:00",
-      "summary": "   \n Google’s Gemini app is now available on CarPlay from your iPhone, bringing live AI conversations to your daily drive. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/google-gemini-iphone.jpeg.webp",
-      "categories": [
-        "News",
-        "CarPlay",
-        "Google Gemini"
-      ],
-      "id": "5e835f02a2de1ac663944d00",
-      "selected_at": "2026-11-12T07:46:43.602298+00:00"
-    },
-    {
-      "title": "Apple Support Community Deserved a Proper Goodbye",
-      "link": "https://www.macrumors.com/2026/11/11/apple-support-community-deserved-a-proper-goodbye/",
-      "date": "2026-11-12T04:51:19+00:00",
-      "summary": "Apple on Tuesday abruptly placed the  Apple Support Community  into a read-only state and announced that the forums  will be permanently closing on Friday, November 20 . Those who contributed to the site — some for more than two decades — were blindsided by this decision and had no chance to post farewell messages.\n \n\n \n \n \nEven if you felt the App",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Support-Community.jpg",
-      "categories": [
-        "Apple",
-        "Rumors",
-        "Mac",
-        "iOS",
-        "iPhone",
-        "iPad"
-      ],
-      "id": "d8284ec973d6d13ebd076f8d",
-      "selected_at": "2026-11-12T07:46:43.602298+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 11, 2026 – New Apple TV feature, more",
-      "link": "https://9to5mac.com/2026/11/11/daily-november-11-2026/",
-      "date": "2026-11-12T04:01:11+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "b7221966f1e446ae5fcbf777",
-      "selected_at": "2026-11-12T07:46:43.602298+00:00"
-    },
-    {
-      "title": "Best time to buy an iPhone in 2026: Buy now or wait for Black Friday?",
-      "link": "https://www.macworld.com/article/672505/when-is-the-best-time-to-buy-an-iphone.html",
-      "date": "2026-11-12T03:18:08+00:00",
-      "summary": "  Macworld  \n\n \n\n \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n If you’re planning to buy a new iPhone, should you buy now or wait for Black Friday? The  iPhone Duo  went on sale on October 23, completing Apple’s latest launches, but availability and early reports of inner-display failures complicate the decision for foldable buyers. \n\n\n\n The Duo joins the  iPhone 18",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/672505-0-11460100-1794496702-Which-IPhone-to-buy-now.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone",
-        "iPhone"
-      ],
-      "id": "3f745ced2390ed2a7abb1d25",
-      "selected_at": "2026-11-12T16:20:25.329210+00:00"
     }
   ],
   "v02_initialized": true,
