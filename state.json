@@ -1,6 +1,512 @@
 {
   "selected": [
     {
+      "title": "Πότε ξεκινάει το ανανεωμένο Nations League: Οι μεγάλες αλλαγές και η θέση της Ελλάδας",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587103/pote-xekinaei-neo-nations-league-oi-megales-allages-kai-i",
+      "date": "2026-11-16T22:13:02+00:00",
+      "summary": "Η επόμενη έκδοση του Nations League θα έχει διαφορετικό χαρακτήρα, με την UEFA να χωρίζει πλέον τις ομάδες σε τρεις κατηγορίες. Η ημερομηνία έναρξης και η αφετηρία της Ελλάδας.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ollandia-ellada_3.jpg?itok=1_-PBUEJ",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "5c24c42dff910d9f9c717e09",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Μακάμπι Τελ Αβίβ - Ολυμπιακός Live 17-11-26",
+      "link": "https://www.athletiko.gr/makampi-tel-aviv-olimpiakos-live-17-11-26-116242",
+      "date": "2026-11-16T22:10:00+00:00",
+      "summary": "     ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/_athletiko/images/img_placeholder.webp",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "91bdfa8d95cf36d66c822691",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Μπασκόνια - Χάποελ Τελ Αβίβ Live 17-11-26",
+      "link": "https://www.athletiko.gr/mpaskonia-chapoel-tel-aviv-live-17-11-26-116249",
+      "date": "2026-11-16T22:10:00+00:00",
+      "summary": "     ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/_athletiko/images/img_placeholder.webp",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "093065fefe51aad4e0858916",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "BC Dubai - Αναντολού Εφές Live 17-11-26",
+      "link": "https://www.athletiko.gr/bc-dubai-anantolou-efes-live-17-11-26-116248",
+      "date": "2026-11-16T22:10:00+00:00",
+      "summary": "     ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/_athletiko/images/img_placeholder.webp",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "3475c8be39203902e53f726c",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Ζαλγκίρις - Μπάγερν Live 17-11-26",
+      "link": "https://www.athletiko.gr/zalghkiris-mpaghern-live-17-11-26-116247",
+      "date": "2026-11-16T22:10:00+00:00",
+      "summary": "     ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/_athletiko/images/img_placeholder.webp",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "fa890e92b58eff82e051b01b",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Παρτιζάν - Βαλένθια Live 17-11-26",
+      "link": "https://www.athletiko.gr/partizan-valenthia-live-17-11-26-116245",
+      "date": "2026-11-16T22:10:00+00:00",
+      "summary": "     ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/_athletiko/images/img_placeholder.webp",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "70f5aa1224212c9a8ee8d3ca",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Μασούρας: «Μας χάλασε την εικόνα η προηγούμενη ήττα αλλά κάναμε καλή συγκομιδή»",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587102/masoyras-mas-halase-tin-eikona-i-proigoymeni-itta-alla-kaname",
+      "date": "2026-11-16T22:03:41+00:00",
+      "summary": "Ο Γιώργος Μασούρας στις τηλεοπτικές του δηλώσεις στάθηκε στην πορεία της Εθνικής στο Nations League μετά το 1-0 με τη Σερβία.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/masouras.jpg?itok=qxI7Y5Ib",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Σερβία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "aa5eb17d9d0f50f422283691",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελλάδος: Οι πιθανοί αντίπαλοι και τα μεγαθήρια που... γλιτώνει στα προκριματικά του Euro",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587101/ethniki-ellados-oi-pithanoi-antipaloi-kai-ta-megathiria-poy",
+      "date": "2026-11-16T22:02:45+00:00",
+      "summary": "Δείτε τους πιθανούς αντιπάλους της Ελλάδας στα προκριματικά του Euro 2028 και τις ομάδες με τις οποίες δεν μπορεί να κληρωθεί.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/antipaloi_ethniki.jpg?itok=vWiEsq8D",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "d46df8b053df85fb8862395f",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Η νίκη της Εθνικής μέσα από την περιγραφή του bwinΣΠΟΡ FM 94,6!",
+      "link": "http://www.sport-fm.gr/article/5161516",
+      "date": "2026-11-16T22:02:00+00:00",
+      "summary": "Ακούστε την περιγραφή του Σωτήρη Ταμπάκου στον bwinΣΠΟΡ FM 94,6 από τη μεγάλη εντός έδρας νίκη της Εθνικής μας ομάδας επί της Σερβίας στο Πανθεσσαλικό!",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/16/7169094-(1)_235916.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "c6f1ee8748dd14510305d3f6",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Το NBA δημιουργεί εταιρεία κεφαλαίων για να προσελκύσει τους κολοσσούς του ποδοσφαίρου",
+      "link": "https://www.athletiko.gr/to-nba-dimioyrgei-etaireia-kefalaion-gia-na-proselkysei-toys-kolossoys-toy-podosfairoy-116238",
+      "date": "2026-11-16T22:01:00+00:00",
+      "summary": "    Το NBA βρίσκεται σε συζητήσεις με διεθνή χρηματοπιστωτικά ιδρύματα για τη δημιουργία ενός fund που θα διαχειριστεί δισεκατομμύρια δολάρια, με στόχο τη... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/1/adam-silver-imago1038795997.jpg",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "a3f8a56c68debab966f043d6",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Ελλάδα - Σερβία 1-0: Το γκολ του Μασούρα που έδωσε τη νίκη στην Εθνική",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587100/ellada-serbia-1-0-gkol-toy-masoyra-poy-edose-ti-niki-stin",
+      "date": "2026-11-16T21:59:40+00:00",
+      "summary": "Το γκολ του Μασούρα που έκρινε το ματς της Εθνικής με τη Σερβία.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_38.jpg?itok=bUlqfPO1",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Σερβία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "afa44610dc75f9bb5b53ad6e",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελλάδας: Πότε γίνονται τα ματς των προκριματικών",
+      "link": "https://www.gazzetta.gr/football/euro/2587096/ethniki-elladas-pote-ginontai-ta-mats-ton-prokrimatikon",
+      "date": "2026-11-16T21:45:22+00:00",
+      "summary": "Οι ημερομηνίες των αγώνων στα προκριματικά του Euro 2028.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_28.jpg?itok=Vt-7vf3I",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "ea63d09cee9b6a400701127c",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Ελλάδα – Σερβία: Στην ισοβαθμία αποκλεισμός, έμεινε στην League A' η Εθνική",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587095/ellada-serbia-stin-isobathmia-apokleismos-emeine-stin-league-i",
+      "date": "2026-11-16T21:44:49+00:00",
+      "summary": "Η Εθνική ομάδα νίκησε την Σερβία στο γεμάτο Πανθεσσαλικό, αλλά δεν κατάφερε να προκριθεί στα προημιτελικά του Nations League μετά την συντριβή της Ολλανδίας από την Γερμανία. Έμεινε στην League A' το αντιπροσωπευτικό μας συγκρότημα.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/5450114_1.jpg?itok=cUHmQvgk",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Σερβία",
+        "Ολλανδία",
+        "Γερμανία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "baef04016e27bdf3bf9e3dd5",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Ξόρκισε τον εφιάλτη της Ολλανδίας η Εθνική, έμεινε στη League A, αλλά έχασε τα προημιτελικά",
+      "link": "http://www.sport-fm.gr/article/5161503",
+      "date": "2026-11-16T21:39:00+00:00",
+      "summary": "Η Ελλάδα λύγισε με 1-0 τη Σερβία στο Πανθεσσαλικό, άφησε πίσω τον εφιάλτη του Άμστερνταμ και παραμένει στη League A.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/16/7169067_233522.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "c9c3d166862f2e23be63f2bc",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Γερμανία - Ολλανδία 5-0: Βρυχηθμός οκτάδας και τέλος στα όνειρα της Εθνικής",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587093/germania-ollandia-5-0-bryhithmos-oktadas-kai-telos-sta-oneira",
+      "date": "2026-11-16T21:38:05+00:00",
+      "summary": "Η Γερμανία βρυχήθηκε τη στιγμή που έπρεπε κόντρα στην Ολλανδία, τη συνέτριψε με 5-0 και έκλεψε το εισιτήριο για τους «8» του Nations League μέσα από τα χέρια της Ελλάδας.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/germany_win_1.jpg?itok=9YC8hzvt",
+      "categories": [
+        "UEFA Nations League",
+        "Γερμανία",
+        "Ολλανδία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "1b80f3deaaa56687bad0ca25",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελλάδας: Η κλήρωση των προκριματικών του Euro 2028",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587092/ethniki-elladas-i-klirosi-ton-prokrimatikon-toy-euro-2028",
+      "date": "2026-11-16T21:38:02+00:00",
+      "summary": "Η Εθνική Ελλάδας πέτυχε τον μεγάλο στόχο και διεκδικεί την πρόκριση στα προημιτελικά του Nations League.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_31.jpg?itok=kW08wAgF",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "3b71252fe671a32008e1716b",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Η τελική βαθμολογία στον όμιλο της Εθνικής μετά τη νίκη απέναντι στη Σερβία",
+      "link": "https://www.athletiko.gr/i-teliki-vathmologia-ston-omilo-tis-ethnikis-meta-ti-niki-apenanti-sti-servia-116229",
+      "date": "2026-11-16T21:38:00+00:00",
+      "summary": "    Ο διασυρμός της Εθνικής ομάδας στην Ολλανδία αποδείχτηκε καταλυτικός σε ό,τι αφορά την αποτυχία πλασαρίσματος στην πρώτη δυάδα στο γκρουπ της Λιγκ Α ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/greece5449863.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "7d141883580b9b24fe642c8a",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Στον αέρα ο Ταουσιάνης!",
+      "link": "https://www.gazzetta.gr/football/euro/2587086/ethniki-elpidon-ston-aera-o-taoysianis",
+      "date": "2026-11-16T20:47:50+00:00",
+      "summary": "Οι παίκτες της Ελπίδων σήκωσαν στα χέρια τον προπονητή Γιάννη Ταουσιάνη.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_19_0.jpg?itok=_SKp-T_o",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "65e3182948e90a3d15a3fcc5",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Τρέλα στα αποδυτήρια για την πρόκριση",
+      "link": "https://www.gazzetta.gr/football/euro/2587081/ethniki-elpidon-trela-sta-apodytiria-gia-tin-prokrisi",
+      "date": "2026-11-16T20:28:19+00:00",
+      "summary": "Με την ψυχή τους πανηγύρισαν οι διεθνείς την πρόκριση στο Euro Κ21 2027.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_22.jpg?itok=HZLvH7jD",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "18eabc87ba5e742593de17ca",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Ο Μπότης «πνίγηκε» στην αγκαλιά της οικογένειάς του μετά τα πέναλτι",
+      "link": "https://www.gazzetta.gr/football/2587080/ethniki-elpidon-o-mpotis-pnigike-stin-agkalia-tis-oikogeneias-toy-meta-ta-penalti",
+      "date": "2026-11-16T20:26:01+00:00",
+      "summary": "Συγκινητικές στιγμές στη Λεωφόρο μετά την πρόκριση της Εθνικής Ελπίδων επί της Ισλανδίας, με τον Νίκο Μπότη να τρέχει να αγκαλιάσει τους δικούς του ανθρώπους.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/mpotis.jpg?itok=wqOHyq3_",
+      "categories": [
+        "Ποδόσφαιρο",
+        "Ελλάδα",
+        "Ισλανδία"
+      ],
+      "id": "aa178d5e01f7c7fac5684294",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Επιστροφή στο Euro μετά το 2002, οι δύο μεγάλες επιτυχίες",
+      "link": "https://www.gazzetta.gr/football/euro/2587074/ethniki-elpidon-epistrofi-sto-euro-meta-2002-oi-dyo-megales-epityhies",
+      "date": "2026-11-16T19:59:49+00:00",
+      "summary": "Η Εθνική Ελπίδων επικρατώντας στην Λεωφόρο της Ισλανδίας με 5-4 στα πέναλτι (1-1 κανονική διάρκεια και παράταση) με πήρε την πρόκριση για το Euro U21 2027, επιστρέφοντας σε τελική φάση Ευρωπαϊκού Πρωταθλήματος μετά από 25 χρόνια. Ποιες είναι οι δύο μεγάλες επιτυχίες μέσα σε μια δεκαετία.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/5449429_1.jpg?itok=Btb0TjSe",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "a003124fa01a51dfe99a28a2",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Τι έκανε η Εθνική Ελπίδων στην τελευταία της συμμετοχή σε τελική φάση Euro",
+      "link": "https://www.athletiko.gr/ti-ekane-i-ethniki-elpidon-stin-teleytaia-tis-symmetochi-se-teliki-fasi-euro-106482",
+      "date": "2026-11-16T19:58:00+00:00",
+      "summary": "    Μία σπουδαία επιτυχία και το τέλος αναμονής 25 χρόνων πανηγυρίζει από το βράδυ της Δευτέρας (16/11) η Εθνική Ελπίδων. Το αντιπροσωπευτικό μας ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/43/111997.jpg?crop=2048,1152,0,131",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "8edbf7cc78e5f73a27948d8d",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Ελλάδα – Ισλανδία: Η διαδικασία των πέναλτι που έδωσε την πρόκριση στην Εθνική",
+      "link": "https://www.gazzetta.gr/football/euro/2587072/ellada-islandia-i-diadikasia-ton-penalti-poy-edose-tin-prokrisi-stin-ethniki",
+      "date": "2026-11-16T19:54:09+00:00",
+      "summary": "Η Εθνική Ελπίδων κατάφερε στην διαδικασία των πέναλτι να πάρει την μεγάλη πρόκριση στα τελικά του Ευρωπαϊκού Πρωταθλήματος που θα διεξαχθούν σε Αλβανία και Σερβία. Ήρωας ο Μπότης που έπιασε ένα, σκόραρε στο τελευταίο ο Μουζακίτης.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_11.jpg?itok=VM0T7rRd",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ισλανδία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "2ededc07f0ccfe4859f9f240",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Η ημερομηνία της κλήρωσης για την τελική φάση του EURO U21",
+      "link": "https://www.gazzetta.gr/football/euro/2586995/ethniki-elpidon-i-imerominia-tis-klirosis-gia-tin-teliki-fasi-toy-euro-u21",
+      "date": "2026-11-16T19:50:00+00:00",
+      "summary": "Δείτε το πότε και πού θα γίνει η κλήρωση για την τελική φάση του EURO U21, όπου μετέχει και η Εθνική Ελπίδων μετά την πρόκριση επί της Ισλανδίας.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/elpidon_1_0.jpg?itok=wTQQPp9W",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "1fc0301fd9be669863f80574",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Οι πιθανοί αντίπαλοι της Εθνικής Ελπίδων στα τελικά του Euro U21 2027",
+      "link": "https://www.athletiko.gr/poioi-einai-oi-pithanoi-antipaloi-tis-ethnikis-elpidon-sta-telika-toy-euro-u21-106510",
+      "date": "2026-11-16T19:50:00+00:00",
+      "summary": "    Ιστορική βραδιά είναι αυτή της 16ης Νοεμβρίου για το ελληνικό ποδόσφαιρο. Η Εθνική Ελπίδων πέτυχε τον στόχο της, που ήταν η πρόκριση στα τελικά του ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5448685.jpg?crop=2048,1151,0,107",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "e5b4d6f42493a52f8a88da48",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Το format και τα γήπεδα του Euro Κ21",
+      "link": "https://www.gazzetta.gr/football/euro/2587023/ethniki-elpidon-format-kai-ta-gipeda-toy-euro-k21",
+      "date": "2026-11-16T19:48:06+00:00",
+      "summary": "Οι 16 ομάδες θα χωριστούν σε τέσσερις ομίλους και τα ματς του Euro Κ21 θα γίνουν σε οκτώ γήπεδα της Σερβίας και της Αλβανίας.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/elpidon_9.jpg?itok=c8hXq8g2",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Σερβία",
+        "Αλβανία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "251092882eddf30637c4a0ac",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελπίδων: Οι ομάδες που έχουν προκριθεί στο Euro K21",
+      "link": "https://www.gazzetta.gr/football/euro/2587021/ethniki-elpidon-oi-omades-poy-ehoyn-prokrithei-sto-euro-k21",
+      "date": "2026-11-16T19:48:00+00:00",
+      "summary": "Με την Ελπίδων συνολικά 13 ομάδες έχουν εξασφαλίσει παρουσία στο Euro 2027 Κ21 κι απομένουν τρία εισιτήρια.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/elpidon_10.jpg?itok=GO4PlGW8",
+      "categories": [
+        "EURO",
+        "Ελλάδα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "0a258889e0fa8bce7f490ae0",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "Εθνική Ελλάδας: Ενδεκάδα με Μανδά και Παυλίδη πίσω από τον Δουβίκα ο Γιοβάνοβιτς",
+      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2587062/ethniki-elladas-endekada-me-manda-kai-paylidi-piso-apo-ton",
+      "date": "2026-11-16T18:35:42+00:00",
+      "summary": "Με 4 αλλαγές ξεκινά την Ελλάδα απέναντι στη Σερβία ο κόουτς Γιοβάνοβιτς. Βασικοί ο Μανδάς κάτω από τα δοκάρια, Κουλιεράκης στην άμυνα και Δουβίκας ως φορ.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ellada_7.jpg?itok=WkD9Ju1c",
+      "categories": [
+        "UEFA Nations League",
+        "Ελλάδα",
+        "Σερβία",
+        "Ποδόσφαιρο"
+      ],
+      "id": "2481de178f62d68cdfc2f345",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
+      "title": "ΑΠΟΕΛ: Μεταγραφικό ban λόγω οφειλών σε πρώην παίκτη του Ολυμπιακού",
+      "link": "https://www.gazzetta.gr/football/katigoria-kyproy/2587006/apoel-metagrafiko-ban-logo-ofeilon-se-proin-paikti-toy-olympiakoy",
+      "date": "2026-11-16T15:22:56+00:00",
+      "summary": "Η FIFA επέβαλε απαγορευτικό μεταγραφών στον ΑΠΟΕΛ λόγω οφειλών προς τον Αλγκασίμ Μπα, ο οποίος στο παρελθόν αγωνιζόταν στον Ολυμπιακό.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ba_olympiacos.jpg?itok=Zo6_X1kY",
+      "categories": [
+        "Α' ΚΑΤΗΓΟΡΙΑ ΚΥΠΡΟΥ",
+        "ΑΠΟΕΛ",
+        "Ποδόσφαιρο"
+      ],
+      "id": "d70d9ee12eb4363b9784bcf7",
+      "selected_at": "2026-11-16T22:16:01.113946+00:00"
+    },
+    {
       "title": "Νικολακόπουλος: «Πακτωλός εκατομμυρίων από το Champions League αν ο Ολυμπιακός πάρει το πρωτάθλημα φέτος»",
       "link": "http://www.sport-fm.gr/article/5161401",
       "date": "2026-11-16T11:43:00+00:00",
@@ -1646,486 +2152,6 @@
       ],
       "id": "615ddd1edfb816e2ccfe34dc",
       "selected_at": "2026-11-13T22:54:56.549225+00:00"
-    },
-    {
-      "title": "Παρά την επτάρα, οι Έλληνες φίλαθλοι χειροκρότησαν την Εθνική στο Άμστερνταμ!",
-      "link": "http://www.sport-fm.gr/article/5160916",
-      "date": "2026-11-13T22:16:00+00:00",
-      "summary": "Οι φίλοι της «γαλανόλευκης» που βρέθηκαν στη Johan Cruijff ArenA αναγνώρισαν την προσπάθεια των διεθνών και τους χειροκρότησαν μετά το τέλος της αναμέτρησης με την Ολλανδία.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/14/hellas_001637.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "ebb366a8b28fa327faa4c337",
-      "selected_at": "2026-11-13T22:54:56.549225+00:00"
-    },
-    {
-      "title": "Λανς: Ανακοίνωσε τον νέο της προπονητή",
-      "link": "https://www.gazzetta.gr/football/ligue-1/2586360/lans-anakoinose-ton-neo-tis-proponiti",
-      "date": "2026-11-13T22:14:50+00:00",
-      "summary": "Η Λανς ανακοίνωσε την πρόσληψη του Ντιντιέ Ντιγκάρ, που πρόσφατα απολύθηκε από τη Χάβρη.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/digard_getty.jpg?itok=zQny2IGz",
-      "categories": [
-        "Ligue 1",
-        "Λανς",
-        "Ποδόσφαιρο"
-      ],
-      "id": "86cec9fcbd230917599e51fc",
-      "selected_at": "2026-11-13T22:54:56.549225+00:00"
-    },
-    {
-      "title": "Γιοβάνοβιτς: «Το 3-0 ήταν ένα μικρό σοκ και δεν καταφέραμε να επανέλθουμε, το αποτέλεσμα δημιουργεί κλίμα που δεν θέλουμε»",
-      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2586358/giobanobits-3-0-itan-ena-mikro-sok-kai-den-kataferame-na",
-      "date": "2026-11-13T22:02:38+00:00",
-      "summary": "Οι δηλώσεις του Ιβαν Γιοβάνοβιτς στην κάμερα του Alpha μετά τη συντριβή της Ελλάδας από την Ολλανδία στο Άμστερνταμ.",
-      "sources": [
-        "Athletiko",
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/ollandia_-_ellada_20.jpg?itok=Y5_-HfxU",
-      "categories": [
-        "UEFA Nations League",
-        "Ελλάδα",
-        "Ποδόσφαιρο"
-      ],
-      "id": "646b7bdf23fa6df7ca26257e",
-      "selected_at": "2026-11-13T22:54:56.549225+00:00"
-    },
-    {
-      "title": "Η τρίτη πιο βαριά ήττα στην ιστορία της Εθνικής Ελλάδας",
-      "link": "https://www.athletiko.gr/i-triti-pio-vradia-itta-stin-istoria-tis-ethnikis-elladas-115602",
-      "date": "2026-11-13T21:57:00+00:00",
-      "summary": "    Η Εθνική Ελλάδας έζησε ένα από τα πιο εφιαλτικά - ντροπιαστικά βράδια της ιστορίας της στο Άμστερνταμ, όπου και διασύρθηκεμε 7-0 από την Ολλανδία για ... ",
-      "sources": [
-        "Athletiko",
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/7164318.jpg?crop=2048,1152,0,213",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "e63ba19d06a1c6a6ae062e8d",
-      "selected_at": "2026-11-13T22:54:56.549225+00:00"
-    },
-    {
-      "title": "Live στις 19:30 από το TikTok του Athletiko: Ο Φάνης Τσοκανάς για τη μάχη της Εθνικής στην Ολλανδία",
-      "link": "https://www.athletiko.gr/live-stis-19-30-apo-to-tiktok-toy-athletiko-o-fanis-tsokanas-gia-ti-machi-tis-ethnikis-stin-ollandia-115526",
-      "date": "2026-11-13T17:09:00+00:00",
-      "summary": "    Η Ελλάδα δοκιμάζεται το βράδυ της&nbsp;Παρασκευής (13/11, 21:45) στο Αμστερνταμ κόντρα στην Ολλανδία, σε αναμέτρηση για την 5η αγωνιστική του Nations ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/tsokanas-site-tiktokjpg.jpeg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "0c6a6908992cfb49593991ad",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ολυμπιακός: Ο Ελ Κααμπί μετράει αντίστροφα - Ο Ιανουάριος που μπορεί να αλλάξει τα πάντα!",
-      "link": "https://www.gazzetta.gr/football/superleague/2586185/olympiakos-o-el-kaampi-metraei-antistrofa-o-ianoyarios-poy-mporei-na",
-      "date": "2026-11-13T17:00:21+00:00",
-      "summary": "Ο Αλέξης Βιρβίλης εξηγεί στο blog του στο gazzetta.gr όλα όσα συμβαίνουν γύρω από την πολυαναμενόμενη επιστροφή του Αγιούμπ Ελ Κααμπί σε φουλ προπονητικούς ρυθμούς.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/el_kaabi.jpg?itok=uFCU1QrU",
-      "categories": [
-        "Superleague",
-        "Ολυμπιακός",
-        "Ποδόσφαιρο"
-      ],
-      "id": "4b9ceef75ecc2082351d4a66",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ουναΐ: Η φωτογραφία με πατερίτσες στο πλευρό της εθνικής Μαρόκου",
-      "link": "https://www.gazzetta.gr/football/copa-africa/2586285/oynai-i-fotografia-me-pateritses-sto-pleyro-tis-ethnikis-marokoy",
-      "date": "2026-11-13T16:58:18+00:00",
-      "summary": "Στην ομαδική φωτογραφία του Μαρόκου βρέθηκε ο μεσοεπιθετικός του Παναθηναϊκού, Αζεντίν Ουναΐ, ο οποίος έκανε την εμφάνισή του με πατερίτσες.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/unai_copa_africa.png?itok=28OfqeNa",
-      "categories": [
-        "Copa Africa",
-        "Μαρόκο",
-        "Παναθηναϊκός",
-        "Ποδόσφαιρο"
-      ],
-      "id": "85f9a86c22ac91929c5d5bea",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ξεσηκωμός για την Εθνική Ελπίδων, «έφυγαν» περισσότερα από 4.000 εισιτήρια",
-      "link": "https://www.athletiko.gr/xesikomos-gia-tin-ethniki-elpidon-efygan-perissotera-apo-4-000-eisitiria-115541",
-      "date": "2026-11-13T16:57:00+00:00",
-      "summary": "    Η Εθνική Ελπίδων την Πέμπτη (12/11) στο Ρέικιαβικ απέσπασε ισοπαλία (1-1) απέναντι στην Ισλανδία και βρίσκεται πολύ κοντά στην πρόκρισή της στα τελικά... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5122787.jpg?crop=2048,1152,0,213",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "def4b5ad40f487a7d2a4f5b6",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Εθνική Ελπίδων: Χαμός με τα εισιτήρια, διατέθηκαν ήδη πάνω από 4.000",
-      "link": "https://www.gazzetta.gr/football/2586275/ethniki-elpidon-hamos-me-ta-eisitiria-diatethikan-idi-pano-apo-4000",
-      "date": "2026-11-13T16:49:51+00:00",
-      "summary": "Πολύ μεγάλο είναι ήδη το ενδιαφέρον για το επερχόμενο ματς της Εθνικής ομάδας των Ελπίδων τη Δευτέρα στη Λεωφόρο.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/elpides.jpg?itok=zmK18OAd",
-      "categories": [
-        "Ποδόσφαιρο",
-        "Ελλάδα",
-        "Ισλανδία"
-      ],
-      "id": "3f22979d37330a3b227bb8d9",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ολυμπιακός - Μίλαν: Εισιτήρια μόνο μέσω internet από τη Δευτέρα",
-      "link": "https://www.gazzetta.gr/football/europa-league/2586266/olympiakos-milan-eisitiria-mono-meso-internet-apo-ti-deytera",
-      "date": "2026-11-13T16:20:15+00:00",
-      "summary": "Ο Ολυμπιακός εξέδωσε ανακοίνωση για το καθεστώς διάθεσης των εισιτηρίων του σπουδαίου αγώνα με αντίπαλο τη Μίλαν στις 26 Νοεμβρίου.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/anakoinosi-red-copy.jpg?itok=qXS5ki5k",
-      "categories": [
-        "Europa League",
-        "Ολυμπιακός",
-        "Μίλαν",
-        "Ποδόσφαιρο"
-      ],
-      "id": "9174c7ae28cff3ea32e512d0",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ο Παγώνης προκρίθηκε στον τελικό του ITF J100 της Λευκωσίας",
-      "link": "https://www.athletiko.gr/o-pagonis-prokrithike-ston-teliko-toy-itf-j100-tis-leykosias-115513",
-      "date": "2026-11-13T16:17:00+00:00",
-      "summary": "    Ακόμα μια μεγάλη επιτυχία για τον Ραφαήλ Παγώνη, ο οποίος προκρίθηκε στον τελικό του ITF J100 Eurobank Masters Tennis Academy, το οποίο διεξάγεται στη... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/10/gettyimages-2223813559.jpg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "d66966514021ab4eec8fcfe2",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Με τη λευκή εμφάνιση η Εθνική απέναντι στην Ολλανδία (photo)",
-      "link": "https://www.athletiko.gr/me-ti-leyki-emfanisi-i-ethniki-apenanti-stin-ollandia-photo-115522",
-      "date": "2026-11-13T15:53:00+00:00",
-      "summary": "    Η Εθνική μας ομάδα αντιμετωπίζει την Ολλανδία το βράδυ της Παρασκευής (13/11, 21:45) για την πέμπτη αγωνιστική της φάσης των ομίλων του UEFA Nations ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/43/7109511.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "a22e8a6134a07ccf45bbfdb9",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Οι τέσσερις που δεν έχασαν δευτερόλεπτο στην προηγούμενη διακοπή της Εθνικής",
-      "link": "https://www.athletiko.gr/aytoi-poy-den-echasan-deyterolepto-stin-proigoymeni-diakopi-tis-ethnikis-elladas-115084",
-      "date": "2026-11-13T15:37:00+00:00",
-      "summary": "    Η&nbsp;Εθνική Ελλάδας&nbsp;μπαίνει στην τελική ευθεία του Nations League αήττητη, κυνηγώντας την πρόκριση στα προημιτελικά της διοργάνωσης. Με οκτώ ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/34/6990947.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "7e7cf910002943ab8d3795cb",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Πράσινη «φρενίτιδα»: Εξαντλήθηκαν σε χρόνο ρεκόρ τα εισιτήρια για το εκτός έδρας ματς του Παναθηναϊκού με Φράιμπουργκ!",
-      "link": "http://www.sport-fm.gr/article/5160829",
-      "date": "2026-11-13T15:36:00+00:00",
-      "summary": "Δείχνοντας ξανά τη δίψα και την... τρέλα τους για την ομαδα του Τζέικομπ Νίστρουπ, οι οπαδοί του Παναθηναϊκού, εξαφάνισαν τα εισιτήρια για το εκτός έδρας ματς με τη Φράιμπουργκ!",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/13/7055947_174849.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "dc0075314046a775fc3edbc6",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Δάκρυσε ο Ποτσετίνο αποχαιρετώντας την εθνική των ΗΠΑ: «Πολύ στενάχωρη απόφαση, η πιο δύσκολη της καριέρας μου»",
-      "link": "http://www.sport-fm.gr/article/5160827",
-      "date": "2026-11-13T15:30:00+00:00",
-      "summary": "Ο Μαουρίτσιο Ποτσετίνο εμφανίστηκε συγκινησιακά φορτισμένος στην τελευταία του συνέντευξη Τύπου ως προπονητής της εθνικής ομάδας των ΗΠΑ, πριν αναλάβει τη Μάντσεστερ Γιουάιτεντ.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/13/ap26317531411409-(1)_173051.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "b30b1b385bd5431933264fef",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Άρης: Πρόστιμο 20.000 ευρώ από την ΕΠΟ",
-      "link": "https://www.gazzetta.gr/football/superleague/2586238/aris-prostimo-20000-eyro-apo-tin-epo",
-      "date": "2026-11-13T15:12:31+00:00",
-      "summary": "Η Πειθαρχική Επιτροπή της ΕΠΟ τιμώρησε την ΠΑΕ Άρης για δημόσιες δυσμενείς δηλώσεις και δυσφήμιση ποδοσφαιρικών αρχών και οργάνων.",
-      "sources": [
-        "Gazzetta Football",
-        "Athletiko"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/5406761_1.jpg?itok=c35tW0w3",
-      "categories": [
-        "Superleague",
-        "Άρης",
-        "Ατρόμητος Αθηνών",
-        "Ποδόσφαιρο"
-      ],
-      "id": "203dae307696652407501dc3",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Σε κυκλοφορία τα εισιτήρια του ΟΦΗ για το ματς με την Αντερλεχτ",
-      "link": "https://www.athletiko.gr/se-kykloforia-ta-eisitiria-toy-ofi-gia-to-mats-me-tin-anterlecht-115512",
-      "date": "2026-11-13T15:09:00+00:00",
-      "summary": "    Μία ακόμη μεγάλη ευρωπαϊκή βραδιά πλησιάζει για τον ΟΦΗ, με την ΠΑΕ να ανακοινώνει την έναρξη διάθεσης των εισιτηρίων για την αναμέτρηση με την ... ",
-      "sources": [
-        "Sport-FM Football",
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/41/7060813.jpg?crop=2048,1151,0,107",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "75c2b6e996c3595fae885fcf",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Εθνική: Η νεότερη ενημέρωση για τα εισιτήρια λόγω του προβλήματος της Microsoft",
-      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2586234/ethniki-i-neoteri-enimerosi-gia-ta-eisitiria-logo-toy",
-      "date": "2026-11-13T15:03:34+00:00",
-      "summary": "Απο τα social media της Εθνικής μας έγινε γνωστή νεότερη ενημερώση πάνω στο σκέλος των τεχνικών θεμάτων της Microsoft που μπορεί να επηρεάσουν τα ηλεκτρονικά εισιτήρια.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/hella_exedra.jpg?itok=HrL5iHe-",
-      "categories": [
-        "UEFA Nations League",
-        "Ελλάδα",
-        "Ολλανδία",
-        "Ποδόσφαιρο"
-      ],
-      "id": "d26059fb2d18dddc4d8e987a",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Δικαίωση, πίστη, αμφιβολία, ερωτηματικά: Τι εμφανίζει σήμερα το μεταγραφικό καλοκαίρι της ΑΕΚ",
-      "link": "https://www.gazzetta.gr/football/2586155/dikaiosi-pisti-amfibolia-erotimatika-ti-emfanizei-simera-metagrafiko-kalokairi-tis",
-      "date": "2026-11-13T15:00:40+00:00",
-      "summary": "Ο Βαγγέλης Αρναούτογλου κάνει τον απολογισμό των όσων έχουν διαπιστώσει έως σήμερα από τις μεταγραφικές κινήσεις της Ένωσης.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/aek-lev_2.jpg?itok=ac9kgj_H",
-      "categories": [
-        "Superleague",
-        "ΑΕΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "a0a6345861c8d5319eb65c67",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Τεχνικό πρόβλημα με τα εισιτήρια, λίγο πριν το ματς της Εθνικής με την Ολλανδία - Τι συνέβη",
-      "link": "https://www.athletiko.gr/techniko-provlima-me-ta-eisitiria-ligo-prin-to-mats-tis-ethnikis-me-tin-ollandia-ti-synevi-115507",
-      "date": "2026-11-13T14:37:00+00:00",
-      "summary": "    Η Εθνική μας ομάδα αντιμετωπίζει την Ολλανδία το βράδυ της Παρασκευής (13/11, 21:45) για την πέμπτη αγωνιστική της φάσης των ομίλων του UEFA Nations ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5440195.jpg?crop=2048,1151,0,107",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "7504a066391267a2051549c6",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Μπαρτσελόνα: Πήρε νέο δάνειο 300 εκατ. ευρώ για το «Καμπ Νόου», πότε θα είναι έτοιμο",
-      "link": "https://www.gazzetta.gr/football/la-liga/2586222/mpartselona-pire-neo-daneio-300-ekat-eyro-gia-kamp-nooy-pote-tha-einai",
-      "date": "2026-11-13T14:18:58+00:00",
-      "summary": "Η Μπαρτσελόνα μέσω επίσημης ανακοίνωσης γνωστοποίησε την έγκριση νέου δανείου για την ολοκλήρωση του «Καμπ Νόου». Πότε θα είναι έτοιμο.",
-      "sources": [
-        "Athletiko",
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-11/camp_nou_barcelona_1.jpg?itok=urGvyNXx",
-      "categories": [
-        "La Liga",
-        "Μπαρτσελόνα",
-        "Ποδόσφαιρο"
-      ],
-      "id": "165fb89eac4b561a59348d85",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ουναΐ: Επισκέφτηκε την εθνική Μαρόκου με πατερίτσες",
-      "link": "https://www.gazzetta.gr/football/superleague/2586213/oynai-episkeftike-tin-ethniki-marokoy-me-pateritses",
-      "date": "2026-11-13T13:47:29+00:00",
-      "summary": "Ο Αζεντίν Ουναΐ βρίσκεται στην πατρίδα του για να παρακολουθήσει τα προκριματικά του Copa Africa, με τον άσο του Παναθηναϊκού να φωτογραφίζεται μαζί με τους συμπαίκτες του στην εθνική Μαρόκου.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2025-12/ounahi_getty.jpg?itok=cPcWQ-GY",
-      "categories": [
-        "Superleague",
-        "Παναθηναϊκός",
-        "Μαρόκο",
-        "Ποδόσφαιρο"
-      ],
-      "id": "45a58c261e3f5a1f9ee9e128",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "«O Υφυπουργός υπέβαλε την παραίτησή του, κάποιοι άλλοι τι περιμένουν;»",
-      "link": "https://www.athletiko.gr/o-yfypoyrgos-ypevale-tin-paraitisi-toy-kapoioi-alloi-ti-perimenoyn-115472",
-      "date": "2026-11-13T13:31:00+00:00",
-      "summary": "    Την παραίτηση της διοίκησης του ΑΕΣΧ Πυλαίας ζητούν οι γονείς των αθλητριών της ομάδας χάντμπολ, μετά τις εξελίξεις στην υπόθεση που οδήγησε στην ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/7115355.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "ae2383394c5d2281ce38809f",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Ο Τσομπανίδης αντί του Μοναστηρλή στην αποστολή της Εθνικής Ελπίδων",
-      "link": "https://www.athletiko.gr/o-tsompanidis-anti-toy-monastirli-stin-apostoli-tis-ethnikis-elpidon-115479",
-      "date": "2026-11-13T13:30:00+00:00",
-      "summary": "    Ανησυχία επικρατεί στις τάξεις της εθνικής Ελπίδων και του ΠΑΟΚ αναφορικά&nbsp;με την κατάσταση του Δημήτρη Μοναστηρλή.Ο νεαρός τερματοφύλακας της ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/5250007.jpg?crop=1936,1088,0,104",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "1e91649eb92a3388615275b2",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Οταν ο Παναθηναϊκός εκθρόνισε την πρωταθλήτρια Ευρώπης Μπαρτσελόνα: Η EuroLeague θυμήθηκε τη σειρά του 2011",
-      "link": "https://www.athletiko.gr/otan-o-panathinaikos-ekthronise-tin-protathlitria-eyropis-mpartselona-i-euroleague-thymithike-ti-seira-toy-2011-115487",
-      "date": "2026-11-13T13:29:00+00:00",
-      "summary": "    Ο Παναθηναϊκός ετοιμάζεται να αντιμετωπίσει την Μπαρτσελόνα (13/11, 21:15) στο Telekom Center Athens, στο πλαίσιο της 11ης αγωνιστικής της EuroLeague.... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/771050.jpg?crop=2048,1151,0,20",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "834f2b1ae5dd3d0552fb0a89",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Οι 6 παίκτες Εθνικής που κινδυνεύουν να χάσουν το ματς με την Σερβία",
-      "link": "https://www.athletiko.gr/oi-6-paiktes-ethnikis-poy-kindyneyoyn-na-chasoyn-to-mats-me-tin-servia-115485",
-      "date": "2026-11-13T13:25:00+00:00",
-      "summary": "    Το ενδεχόμενο να χάσουν το επόμενο παιχνίδι της Εθνικής ομάδας, θα πρέπει να έχουν στο πίσω μέρος του μυαλού τους, ούτε λίγο, ούτε πολύ, συνολικά 6 ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/tsimikas.jpg?crop=2048,1152,0,65",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "2fd5eb8419b1bdea3facb843",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Εθνική Ελλάδος: Βάφτηκε γαλανόλευκη η κεντρική πλατεία του Άμστερνταμ",
-      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2586203/ethniki-ellados-baftike-galanoleyki-i-kentriki-plateia-toy",
-      "date": "2026-11-13T13:11:06+00:00",
-      "summary": "Οπαδοί της Ελλάδας κατέκλυσαν την κεντρική πλατεία του Άμστερνταμ και άρχισαν να ζεσταίνουν το κλίμα ενόψει της αναμέτρησης με την Ολλανδία. ΑΠΟΣΤΟΛΗ: ΝΟΤΗΣ ΧΑΛΑΡΗΣ.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/opadoi_amsterntam.jpg?itok=n06Z0dv5",
-      "categories": [
-        "UEFA Nations League",
-        "Ελλάδα",
-        "Ολλανδία",
-        "Ποδόσφαιρο"
-      ],
-      "id": "447d0beb32c33b51ae06904e",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
-    },
-    {
-      "title": "Κωστούλας: Γιατί είναι εκτός αποστολής με την Εθνική;",
-      "link": "https://www.gazzetta.gr/football/uefa-nations-league/2586192/kostoylas-giati-einai-ektos-apostolis-me-tin-ethniki",
-      "date": "2026-11-13T12:40:14+00:00",
-      "summary": "Οι λόγοι που ο Ιβάν Γιοβάνοβιτς αποφάσισε να αφήσει εκτός αποστολής τον Μπάμπη Κωστούλα για το ματς με την Ολλανδία. ΑΠΟΣΤΟΛΗ ΣΤΟ ΑΜΣΤΕΡΝΤΑΜ: ΝΟΤΗΣ ΧΑΛΑΡΗΣ.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-10/kostoulas_hellas.jpg?itok=z_KM3b_O",
-      "categories": [
-        "UEFA Nations League",
-        "Ελλάδα",
-        "Ολλανδία",
-        "Ποδόσφαιρο"
-      ],
-      "id": "c85817b3c1741df23363a682",
-      "selected_at": "2026-11-13T17:40:00.564752+00:00"
     }
   ],
   "v02_initialized": true,
