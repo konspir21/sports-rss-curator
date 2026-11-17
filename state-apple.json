@@ -1,6 +1,711 @@
 {
   "selected": [
     {
+      "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
+      "link": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
+      "date": "2026-11-17T21:54:04+00:00",
+      "summary": "Apple has largely resolved  outages affecting   iCloud  accounts, retail stores, and more, the company  said in a statement  to  Bloomberg . Apple said the outages were due to an unspecified \"internal update\" and were not caused by a cyberattack. The company is working to get remaining systems online \"as soon as possible.\"\n \n\n \n \n \nIssues started a",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "6a4614af4588d03293b71e06",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "iFixit Says Apple's HomeView is Unnecessarily Hard to Repair",
+      "link": "https://www.macrumors.com/2026/11/17/ifixit-homeview-teardown/",
+      "date": "2026-11-17T21:36:24+00:00",
+      "summary": "iFixit today tore down the  Apple HomeView  to see what's inside, and found that the device takes a step backward in repairability compared to the  HomePod . Getting into it resulted in damage to internal components.\n \n\n \n    \n \nStrong adhesive holds the HomeView's display in place, and iFixit said it was difficult to remove. There's a mix of Phill",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/QHjLF2RhRNJRMKsP-_s2BQ52wJA=/2000x/article-new/2026/11/ifixit-homeview-teardown.jpg",
+      "categories": [
+        "HomeView",
+        "iFixit"
+      ],
+      "id": "4ecf5bf669039f5e80f2b4db",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Epic accuses Apple of withholding 122,000 documents, seeks daily fines",
+      "link": "https://9to5mac.com/2026/11/17/epic-accuses-apple-of-withholding-122000-documents-seeks-daily-fines/",
+      "date": "2026-11-17T21:22:55+00:00",
+      "summary": "    In a new filing, Epic Games accuses Apple of withholding more than 122,000 documents related to its proposed App Store commissions and asks the court to impose daily fines until the company complies. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/epic-games-app-store.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "3ec42e19b07ce5a1f7da003f",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Final Cut Pro Now Includes MotionVFX for Creator Studio Users",
+      "link": "https://www.macrumors.com/2026/11/17/final-cut-pro-motionvfx/",
+      "date": "2026-11-17T20:58:00+00:00",
+      "summary": "Apple today updated Final Cut Pro (FCP), adding MotionVFX integration. Apple purchased the company earlier this year, so now the MotionVFX library is part of FCP. It includes the templates, titles, themes, effects, layouts, and transitions that are popular with creators.\n \n\n \n     Subscribe to the MacRumors YouTube channel  for more videos.  \n \nMot",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/t/8mG64VQrqI8Wh8b3DvzR5FrN6U8=/2500x/article-new/2026/11/FCP-Update-Hands-On-Thumb.jpg",
+      "categories": [
+        "Apple Creator Studio",
+        "Final Cut Pro"
+      ],
+      "id": "5e001733db4126e4c78688a7",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Welp, it’s Apple’s turn: iCloud and other services are struggling to stay online today",
+      "link": "https://www.macworld.com/article/3288577/welp-its-apples-turn-icloud-and-other-services-are-struggling-to-stay-online-today.html",
+      "date": "2026-11-17T20:25:30+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n The past week has been a nonstop parade of important network outages, from a big  Microsoft fiasco  to the FAA grounding planes and more, including network issues at the NSA and JPMorgan Chase &amp; Co. Now, it looks like it’s Apple’s turn. \n\n\n\n For the last couple of hours, several of Apple’s network se",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284152-0-56250300-1794747762-internet-down-graphic.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc",
+        "Apple Inc"
+      ],
+      "id": "8c3e84b061ea4c517ed94eb5",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "iOS 27.3’s redesigned Apple Health app requires newer iPhone model",
+      "link": "https://9to5mac.com/2026/11/17/ios-27-3s-redesigned-apple-health-app-requires-newer-iphone-model/",
+      "date": "2026-11-17T20:19:51+00:00",
+      "summary": "    iOS 27.3 will introduce  an all-new Apple Health experience  when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "061bef60130ecc64d8dd0b62",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Budget-friendly MacBook Neo gets even cheaper",
+      "link": "https://www.cultofmac.com/deals/macbook-neo-deal",
+      "date": "2026-11-17T19:40:41+00:00",
+      "summary": "   \n It's already a great deal, but shaving $50 off the MacBook Neo makes it even more attractive to laptop buyers. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/04/MacBook-Neo-deal-all-colors.jpg",
+      "categories": [
+        "Deals",
+        "Apple deals",
+        "MacBook Neo"
+      ],
+      "id": "e517ce0661254fbc50034bab",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "AirPods Pro 3 keep getting better, here’s what’s new in iOS 27",
+      "link": "https://9to5mac.com/2026/11/17/airpods-pro-3-keep-getting-better-heres-whats-new-ios-27/",
+      "date": "2026-11-17T19:28:12+00:00",
+      "summary": "    AirPods got a variety of new features this fall in iOS 27, several of which are exclusive to AirPods Pro 3 (now only $179). Here’s everything new. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/airpods-pro-3-w-case-apple.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "29594aca893561bb7f9733d9",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Why iPhone Duo wasn’t for me (but might be for you)",
+      "link": "https://9to5mac.com/2026/11/17/why-iphone-duo-wasnt-for-me-but-might-be-for-you/",
+      "date": "2026-11-17T18:48:36+00:00",
+      "summary": "    I’ve had the iPhone Duo for nearly two weeks now, and have officially decided to return it. Here are the three main reasons why the Duo didn’t work out for me, but might for you. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "17253ea9f4643371033ef870",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Nomad Launches Black Friday Sale With Up to 30% Off Apple Accessories",
+      "link": "https://www.macrumors.com/2026/11/17/nomad-black-friday-sale-2026/",
+      "date": "2026-11-17T18:35:28+00:00",
+      "summary": "Nomad  kicked off its Black Friday sale  this week, with the year's best prices on iPhone 18 Pro cases, USB-C cables, MagSafe-compatible charging stations, Apple Watch bands, Find My trackers, and more. This sale is set to run all the way through Cyber Week, ending on December 1.\n \n\n \n   Note: MacRumors is an affiliate partner with Nomad. When you ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/nomad-black-friday.jpeg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "ea44d5304b65e5056c2133a0",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Google Wallet Available on iPhone, But Without Tap to Pay",
+      "link": "https://www.macrumors.com/2026/11/17/google-wallet-iphone/",
+      "date": "2026-11-17T18:19:39+00:00",
+      "summary": "Google today said it is  bringing Google Wallet  to iOS in the United States, giving users a way to make payments and manage purchases across Google services.\n \n\n \n \n \nGoogle Wallet cannot be used for tap-to-pay purchases in retail locations, but it otherwise serves as an alternative to Apple Wallet. It can store payment cards for online checkout w",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/google-wallet-ios.jpg",
+      "categories": [
+        "Google",
+        "Google Wallet"
+      ],
+      "id": "7d912d0fa16bcdbddaa73665",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more",
+      "link": "https://9to5mac.com/2026/11/17/daily-november-17-2026/",
+      "date": "2026-11-17T18:09:11+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "9159b3e87c603a6c07c370a0",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models",
+      "link": "https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models/",
+      "date": "2026-11-17T17:51:47+00:00",
+      "summary": "    OpenAI kicked off the GPT-6 generation with  Astra in September , then upgraded Sol to GPT-6.1 a few weeks later at  DevDay . \n\n\n\n Today, GPT-6.2 Astra and GPT-6.2 Sol are coming to ChatGPT Work and Codex together. OpenAI says both can finish demanding tasks with fewer output tokens, so you can get more done before hitting your usage limit. \n\n\n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "6f7cc3e1db47af4f11dc90b7",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "The Google Wallet app is now available on iOS",
+      "link": "https://9to5google.com/2026/11/17/google-wallet-ios-app/",
+      "date": "2026-11-17T17:49:25+00:00",
+      "summary": "    Google Wallet is  now available  on iOS to “organize purchases, tickets, boarding passes, and more in one easy place” in the US. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Google-Wallet-iOS-1.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "a34051f4faf0a29b31350b49",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Accounts, App Store and Apple Music Experiencing Issues",
+      "link": "https://www.macrumors.com/2026/11/17/apple-accounts-experiencing-issues/",
+      "date": "2026-11-17T17:47:55+00:00",
+      "summary": "Apple Accounts and  iCloud  sign-ins appear to be experiencing issues, according to multiple social media reports and  Apple's System Status page . \n \n\n \n \n \nApple says &zwnj;iCloud&zwnj; Account and Sign In may be slow or experiencing issues, but there are no other outages listed on the site. \n \n\n \nThere are also reports on social media about Appl",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/01/apple-account@2x.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "e3502e78fdc762d4db1a87e0",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Says iCloud+ Plans Will Not Include Increased Siri AI Usage in UK",
+      "link": "https://www.macrumors.com/2026/11/17/icloud-plus-no-increased-siri-ai-access-in-uk/",
+      "date": "2026-11-17T17:45:19+00:00",
+      "summary": "Apple on Monday announced that it is implementing daily usage limits on Siri AI and select other Apple Intelligence features that rely on \"powerful server models\" starting with iOS 27.3 and corresponding software updates, but  increased access will be included with most iCloud+ plans  at no additional cost in most countries, with one notable except",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/07/General-iCloud-App-Feature.jpg",
+      "categories": [
+        "Apple Intelligence",
+        "iCloud",
+        "Siri",
+        "Siri AI",
+        "United Kingdom"
+      ],
+      "id": "673d57c5b597bcc04985a30a",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Now Sells DIY Repair Parts for iPhone Duo",
+      "link": "https://www.macrumors.com/2026/11/17/apple-now-sells-iphone-duo-repair-parts/",
+      "date": "2026-11-17T17:38:37+00:00",
+      "summary": " As reported  by  9to5Mac  , Apple is now selling parts for the iPhone Duo on its  self-service repair store  in the U.S., Canada, and Europe. After ordering parts and tools, customers with the know-how can follow the steps in Apple's  iPhone Duo repair manual  to complete their own repairs and save a visit to the Genius Bar. Related Roundup:  iPho",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
+      "categories": [
+        "iPhone Duo",
+        "No Linkback",
+        "Self Service Repair"
+      ],
+      "id": "d02d5846ed6ee66d420bd1a1",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+      "link": "https://9to5mac.com/2026/11/17/icloud-app-store-and-other-apple-services-hit-by-ongoing-outage/",
+      "date": "2026-11-17T17:33:58+00:00",
+      "summary": "    Apple services are having a rough Tuesday. iCloud, the App Store, and other services are experiencing an apparent outage, with users reporting connection failures and trouble signing in. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "f5b13c7e601b79603ef2aa75",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "You can now assign Gemini ‘tasks’ for free in six countries",
+      "link": "https://9to5google.com/2026/11/17/gemini-tasks-free/",
+      "date": "2026-11-17T17:23:00+00:00",
+      "summary": "     Starting  today, the Gemini app’s “tasks” feature, previously known as Spark, is now available for free users after requiring AI Pro in the past. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-task-free-cover.webp?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "716e660a0496baa3f52a894d",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "macOS 27.3’s new Full Disk Access prompt protects your data from apps that want it",
+      "link": "https://www.macworld.com/article/3288329/macos-27-3s-new-full-disk-access-prompt-protects-your-data-from-apps-that-want-it.html",
+      "date": "2026-11-17T17:20:16+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n In October, Apple  announced  that it was going to change how it implements Full Disk Access control in macOS. Users were going to have to perform “very explicit user action” to grant FDA to an app, which is a change from before, when apps could prompt users to flip switches on in System Settings to allow F",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/07/macOS-Tahoe-Disk-Utility-icon-1.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "10f8197ae135e3a26adaacde",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Grab Apple’s MacBook Neo for a best-ever $50 off",
+      "link": "https://www.macworld.com/article/3288324/grab-apples-macbook-neo-for-a-best-ever-50-off.html",
+      "date": "2026-11-17T17:11:24+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple MacBook Neo  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/05/Macbook-Neo-A18-256GB-Cover-1.png",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "348f879adb752101b0f501b1",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
+      "link": "https://9to5mac.com/2026/11/17/vsco-launches-its-first-native-mac-photo-editor-with-raw-support-batch-editing-more/",
+      "date": "2026-11-17T17:00:00+00:00",
+      "summary": "     VSCO  today released Studio Pro Desktop, its first native photo editor for Mac, bringing many of the company’s familiar editing tools to macOS, alongside new features aimed at photographers working with large numbers of images. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vsco-desktop.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "55768f98fa8e50338868ea20",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Moves Ahead With Better Dual SIM Support for Apps",
+      "link": "https://www.macrumors.com/2026/11/17/apple-moves-ahead-with-better-dual-sim-support/",
+      "date": "2026-11-17T16:59:28+00:00",
+      "summary": "Apple is moving ahead with changes that could make it easier to use separate work and personal numbers in third-party iPhone calling and contact apps, after advancing a request to the development stage this week.\n \n\n \n \n \nThe  request  was submitted by developer Airelec Clima on August 9 and would let these apps use more of the information iOS alre",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/iphone-dual-sim.jpg",
+      "categories": [
+        "eSIM",
+        "European Union"
+      ],
+      "id": "a40700fa7b0ae3e700136678",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "X-VPN’s Talaria Protocol: What the Speed Gains Mean on a Mac",
+      "link": "https://www.macworld.com/article/3284738/x-vpns-talaria-protocol-what-the-speed-gains-mean-on-a-mac.html",
+      "date": "2026-11-17T16:38:25+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Test X-VPN's new speed boost for yourself for free  \n\t\t\t\t\t Combined download and upload improvements of 200% \n\t\t\t\t \n\t\t\t\t  Learn more  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = documen",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284738-0-59755200-1794933512-X-VPN-Mac-mini-Taleria.jpg?quality=50&strip=all",
+      "categories": [
+        "Security Software and Services, VPN",
+        "Security Software and Services, VPN"
+      ],
+      "id": "67a951acb57d8cd6affd9920",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Capture and action your ideas easily with SpeakON",
+      "link": "https://www.macworld.com/article/3288335/capture-and-action-your-ideas-easily-with-speakon-2.html",
+      "date": "2026-11-17T16:30:53+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Use code Foundry15 to save $15 off SpeakON Today!  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  Learn more  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3288335-0-38694200-1794933060-SpeakON-Lady-Device-MAIN.png",
+      "categories": [
+        "AI, Personal Software",
+        "AI, Personal Software"
+      ],
+      "id": "71e4f5b34e9886f75d0981ec",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Former Apple Chairman Plans to Sell $32 Million in Apple Stock",
+      "link": "https://www.macrumors.com/2026/11/17/former-apple-chairman-to-sell-32-million-in-stock/",
+      "date": "2026-11-17T16:29:56+00:00",
+      "summary": "Apple's former chairman Arthur Levinson plans to sell 90,000 Apple shares worth approximately &#36;31.8 million, according to a  new filing  with the U.S. Securities and Exchange Commission.\n \n\n \n \n \nThe shares are held in Levinson's trust and were originally acquired in February 2001, more than 25 years ago. The filing lists November 16 as the exp",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg",
+      "categories": [
+        "AAPL"
+      ],
+      "id": "8902688eabefee9be5a5889a",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Deals: Rare MacBook Neo discounts from $650 ($50 off), Apple Watch Series 12, Nomad 2026 Black Friday sale, more",
+      "link": "https://9to5mac.com/2026/11/17/deals-macbook-neo-apple-watch-nomad-airpods/",
+      "date": "2026-11-17T16:23:44+00:00",
+      "summary": "    Joining the return of Amazon Apple Watch Series 12 model out there, and the  now live Nomad 2026 Black Friday sale  – rare deals on iPhone cases, Apple Watch bands, Find My gear, and much more. Just be sure to score yourself Apple’s  40W Dynamic Power iPhone Duo fast charger  while it’s at one of the lowest prices ever before you head below for",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Neo-Apple-TV-4K-AirPods-Nomad.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c809bc9f0a20bcbe50ca3e9f",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple makes DIY iPhone Duo repairs possible",
+      "link": "https://www.cultofmac.com/news/apple-makes-diy-iphone-duo-repairs-possible",
+      "date": "2026-11-17T16:21:54+00:00",
+      "summary": "   \n iPhone Duo owners can now buy genuine Apple replacement parts and tools, with an official repair manual for DIY fixes. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/iPhone-Duo-Teardown_20.jpg.webp",
+      "categories": [
+        "News",
+        "DIY",
+        "repairs"
+      ],
+      "id": "e9b6f015a5404a19237698e9",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Accused of Silencing iPhone Duo Supplier Over 'Crackgate' Issue",
+      "link": "https://www.macrumors.com/2026/11/17/apple-silencing-iphone-duo-supplier-crackgate/",
+      "date": "2026-11-17T16:10:49+00:00",
+      "summary": "Apple allegedly pressured a component supplier to withdraw a public statement distancing itself from the display cracking issue affecting some iPhone Duo units, according to   The Elec  .\n \n\n \n \n \nThe allegation surrounds the little-known  Fine M-Tec , which reportedly supplies internal metal plates supporting the iPhone Duo's folding screen. Last ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg",
+      "categories": [
+        "iPhone Duo",
+        "The Elec"
+      ],
+      "id": "bb353e60439f237ccf01672e",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Jensen Huang says he’s ready to rejoin Nvidia as CEO (if asked)",
+      "link": "https://9to5mac.com/2026/11/17/jensen-huang-says-hes-ready-to-rejoin-nvidia-as-ceo-if-asked/",
+      "date": "2026-11-17T16:10:31+00:00",
+      "summary": "    Jensen Huang’s resignation as Nvidia CEO shook up the AI market and US economy  last week , but now  via  The Wall Street Journal   Huang has spoken out publicly for the first time since stepping down, and he signals he’s ready to return as CEO if asked. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/jensen-huang-nvidia.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "a79e8aed6a3aa62e6535058e",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Today in Apple history: First M1 Macs usher in the wonderful world of Apple silicon",
+      "link": "https://www.cultofmac.com/apple-history/first-m1-macs-launch",
+      "date": "2026-11-17T15:50:00+00:00",
+      "summary": "   \n On November 17, 2020, Apple released the first three Macs with an M1 chip to great success, sparking a renaissance for the computer maker. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/M1-Macs-lineup-e1794929574940.jpg",
+      "categories": [
+        "Apple history",
+        "Top Stories",
+        "Apple silicon",
+        "iMac",
+        "John Ternus",
+        "M1 chip",
+        "Mac",
+        "MacBook Air",
+        "MacBook Pro",
+        "Today in Apple history"
+      ],
+      "id": "6275fa69a1e9d2764294eec5",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "iOS 27.3 will give iCloud+ subscribers two new perks",
+      "link": "https://9to5mac.com/2026/11/17/ios-27-3-will-give-icloud-subscribers-two-new-perks/",
+      "date": "2026-11-17T15:34:16+00:00",
+      "summary": "    iCloud+ keeps adding new perks for subscribers, including two that are coming with iOS 27.3 when it launches  next month . \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "8204538c39aa7f267c9bc14d",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Amazon Offering Early Black Friday Discounts on TVs, Headphones, and Charging Devices",
+      "link": "https://www.macrumors.com/2026/11/17/amazon-black-friday-discounts-on-tvs-headphones/",
+      "date": "2026-11-17T15:02:36+00:00",
+      "summary": "Earlier this week we highlighted some of the  best early Black Friday Apple deals , and today we're focusing on third-party accessory markdowns available to purchase right now on Amazon. In this article you'll find all the best accessories for charging, smart homes, smartphones, and more.\n \n\n \n   Note: MacRumors is an affiliate partner with some of",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-2.jpg",
+      "categories": [
+        "Black Friday",
+        "Deals",
+        "Featured"
+      ],
+      "id": "d0bf848bbbf051e8c36f4575",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "How to hide the new macOS 27.3 menu bar indicator",
+      "link": "https://9to5mac.com/2026/11/17/how-to-hide-the-new-macos-27-3-menu-bar-indicator/",
+      "date": "2026-11-17T15:02:18+00:00",
+      "summary": "     macOS 27.3 beta 2 adds a blue menu bar indicator for apps using System &amp; App Protection Override.   Apple describes it  as a transparency indicator that appears when one app is controlling another.  \n\n\n\n If you regularly use trusted automation tools and utilities, that can mean a persistent pill taking up space in your menu bar. Prefer to ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "72b46f2fcb8f3c5684b8f33e",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple HomeView: Everything you need to know about Apple’s smart-home display",
+      "link": "https://www.macworld.com/article/676817/apple-homeview-guide-specs-features-release-date.html",
+      "date": "2026-11-17T14:54:58+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple HomeView is Apple’s first dedicated smart-home display, combining a 7-inch touchscreen, powerful speakers, a camera, and Siri AI in a device designed to sit at the center of the connected home. Announced on October 13, 2026 and on sale from November 13, it brings together smart-home controls, entertai",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/676817-0-73848100-1794927617-MacWorld-HomeView-2.jpg?quality=50&strip=all",
+      "categories": [
+        "Audio, HomePod",
+        "Audio, HomePod"
+      ],
+      "id": "c01e9942de4d6603be50d957",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple now selling iPhone Duo replacement parts and tools",
+      "link": "https://9to5mac.com/2026/11/17/apple-now-selling-iphone-duo-replacement-parts-and-tools/",
+      "date": "2026-11-17T14:38:30+00:00",
+      "summary": "    Following last month’s launch of the iPhone Duo, which also saw the release of Apple’s official repair manuals for the device, Apple today began selling replacement parts and tools through its Self Service Repair Store. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b06b965544c8a67e5252176c",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Disney+ and Hulu’s ‘fully unified’ app is coming next month",
+      "link": "https://9to5mac.com/2026/11/17/disney-and-hulus-fully-unified-app-is-coming-next-month/",
+      "date": "2026-11-17T14:31:31+00:00",
+      "summary": "    Disney has  announced  a major milestone coming next month in its plans to merge the Disney+ and Hulu apps, which will be “fully unified” into Disney+ soon. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/disney-plus-hulu-app-icons.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ce90389d83b495153929ff44",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Get 5 lifetime AI tools for just $44.97 — save 97% and ditch monthly subscriptions",
+      "link": "https://www.cultofmac.com/deals/lifetime-ai-software-stack-bundle",
+      "date": "2026-11-17T14:30:25+00:00",
+      "summary": "   \n Get lifetime subscriptions to five AI tools for voice, images, video, prompts and multi-model chat in one bundle for $44.97 (reg. $1,811.99). \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Lifetime-AI-co.jpg.webp",
+      "categories": [
+        "Deals",
+        "AI",
+        "content creation",
+        "Cult of Mac Deals"
+      ],
+      "id": "389afea55335328ed4297ad9",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Siri AI usage limits will depend on your iCloud+ plan",
+      "link": "https://www.cultofmac.com/news/siri-ai-usage-limits-icloud-plus",
+      "date": "2026-11-17T14:16:48+00:00",
+      "summary": "   \n Apple will tie Siri AI usage limits to iCloud+ plans, giving subscribers up to 20 times the standard daily allowance for advanced AI features. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Siri-AI-2.jpg.webp",
+      "categories": [
+        "News",
+        "Apple Intelligence",
+        "Siri",
+        "Siri AI"
+      ],
+      "id": "0a48242a62a41f4188c9232b",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Major websites compromised to steal crypto from iPhone users",
+      "link": "https://9to5mac.com/2026/11/17/major-websites-compromised-to-steal-crypto-from-iphone-users/",
+      "date": "2026-11-17T14:06:04+00:00",
+      "summary": "    A  security  researcher has discovered that some of the world’s most popular websites were compromised in an attempt to steal cryptocurrency from iPhone users. \n\n\n\n A total of 178 websites were affected, including BBC, CNN, HSBC, IKEA, and Zoom. Reasonably recent versions of iOS are safe, and so far it appears that only a few thousand dollars h",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ec1e2ca54eedbb8b7d8693d8",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
+      "title": "Apple Work Podcast: Kaseya on MSPs, cybersecurity, and managing Apple in one platform",
+      "link": "https://9to5mac.com/2026/11/17/kaseya-on-msps-cybersecurity-and-managing-apple-in-one-platform/",
+      "date": "2026-11-17T14:00:00+00:00",
+      "summary": "      Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage &amp; protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of A",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "6961b32fb573712020adbeeb",
+      "selected_at": "2026-11-17T21:57:27.029806+00:00"
+    },
+    {
       "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
       "link": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
       "date": "2026-11-17T13:39:13+00:00",
@@ -1978,229 +2683,6 @@
       ],
       "id": "b574f4119dc274c873288ee7",
       "selected_at": "2026-11-15T00:23:25.346474+00:00"
-    },
-    {
-      "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
-      "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
-      "date": "2026-11-14T20:30:00+00:00",
-      "summary": "     Welcome to  Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get  in contact  . \n\n\n\n \n\n\n\n Apple finally released its new  HomeView  this week, a smart display that serves at the center of your home. What if you don’t want to b",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "bbba9fd57bbba3b7bc923304",
-      "selected_at": "2026-11-14T20:44:45.835765+00:00"
-    },
-    {
-      "title": "Here’s a HomeView feature that should come to every Apple device",
-      "link": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices/",
-      "date": "2026-11-14T17:43:49+00:00",
-      "summary": "    This week, Apple started shipping the  HomeView , its first display made for the smart home. On the  HomeView , there’s one particularly nice feature that I’d love to see make its way to all Apple platforms: Ambient Dark Mode. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "d8d373c31f1f41733f8d64fa",
-      "selected_at": "2026-11-14T20:44:45.835765+00:00"
-    },
-    {
-      "title": "Siri’s agentic future [Cult of Mac podcast 41]",
-      "link": "https://www.cultofmac.com/news/agentic-siri-cult-of-mac-podcast-41",
-      "date": "2026-11-14T17:40:39+00:00",
-      "summary": "   \n This week on the \"Cult of Mac\" podcast: Apple CEO John Ternus is reportedly pushing hard to make Siri AI more agentic as early as next year. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Agentic-Siri-AI-on-Cult-of-Mac-podcast-41.jpg.webp",
-      "categories": [
-        "News",
-        "Apple rumors",
-        "Cult of Mac podcast",
-        "Easter eggs",
-        "John Ternus",
-        "Mac",
-        "Siri AI"
-      ],
-      "id": "ee84bdc4be5195cc0b701271",
-      "selected_at": "2026-11-14T20:44:45.835765+00:00"
-    },
-    {
-      "title": "How to watch A Charlie Brown Thanksgiving for free",
-      "link": "https://www.cultofmac.com/how-to/charlie-brown-thanksgiving-watch-free-how-to",
-      "date": "2026-11-14T16:30:45+00:00",
-      "summary": "   \n With Thanksgiving coming soon, it’s time to watch the beloved Peanuts holiday special “A Charlie Brown Thanksgiving.” It’s free this whole weekend! \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2024/11/Peanuts-Thanksgiving-How-to-watch_B.jpg",
-      "categories": [
-        "How-To",
-        "Apple TV",
-        "Apple TV How To",
-        "Peanuts",
-        "Thanksgiving"
-      ],
-      "id": "6dad1645d994e24c3b2bb6c9",
-      "selected_at": "2026-11-14T20:44:45.835765+00:00"
-    },
-    {
-      "title": "Today in Apple history: iPods take to the skies",
-      "link": "https://www.cultofmac.com/apple-history/today-in-apple-history-ipods-on-airplanes",
-      "date": "2026-11-14T16:03:42+00:00",
-      "summary": "   \n On November 14, 2006, Apple said it would team up with six airlines to make in-flight iPods an option for flyers' entertainment. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/AirPods-for-in-flight-entertainment.jpg",
-      "categories": [
-        "Apple history",
-        "Top Stories",
-        "American Airlines",
-        "iBeacons",
-        "iPad",
-        "iPod",
-        "TIAH: 2000s",
-        "Today in Apple history"
-      ],
-      "id": "7b7282a30c57e559f6a3647c",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
-      "link": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
-      "date": "2026-11-14T15:25:16+00:00",
-      "summary": " Black Friday  is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products like AirPods, iPad, Apple Watch, and more.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/Black-Friday-Deals-26-3.jpg",
-      "categories": [
-        "Black Friday",
-        "Deals",
-        "Featured"
-      ],
-      "id": "b7403f02bff2cc5e2989926a",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Remove bugs from your HomePod with new software update",
-      "link": "https://www.cultofmac.com/how-to/how-to-get-the-latest-homepod-software-update",
-      "date": "2026-11-14T15:15:14+00:00",
-      "summary": "   \n HomePod software update 27.2.1 offers bug fixes for the major update the smart speaker received recently. How to install it now. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/HomePod-Update-27-2_03.jpg",
-      "categories": [
-        "How-To",
-        "HomePod",
-        "HomePod mini",
-        "software updates"
-      ],
-      "id": "2b5a41c8f54020796012f6fa",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Best AirPods Black Friday deals 2026: Our picks for Pro, standard AirPods and Max",
-      "link": "https://www.macworld.com/article/1377158/best-airpods-black-friday-deals-2026.html",
-      "date": "2026-11-14T15:12:11+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n Best Black Friday AirPods deals so far: U.S. \n\n\n\n \n  AirPods Pro 3 : $199 ($50 off, MSRP $249) – but we’ve previously seen $169 \n \n\n\n\n  \n\n\n\n Best Black Friday AirPods deals so far: U.K. \n\n\n\n \n  AirPods Pro 3 :  £189 (£30 off, RRP £219)  \n\n\n\n  AirPods Max 2 : £449 (£50 off, RRP £499)  \n \n\n\n\n  \n\n\n\n   PRI",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/1377158-0-60380600-1794669157-AirPods-Deals-Black-Friday.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Inc, Audio, Headphones",
-        "Apple Inc, Audio, Headphones"
-      ],
-      "id": "6abb483ef0a6a0a48d30789e",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Snag a pair of Bose QuietComfort noise-canceling headphones for just $184.99",
-      "link": "https://www.cultofmac.com/deals/bose-quietcomfort-noise-canceling-headphones-deal",
-      "date": "2026-11-14T14:30:28+00:00",
-      "summary": "   \n Get a pair of Bose QuietComfort over-ear noise-canceling headphones for just $184.99 (regularly $359) with this open-box deal. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Bose-QuietComfort-co.jpg.webp",
-      "categories": [
-        "Deals",
-        "Bose",
-        "Cult of Mac Deals",
-        "over-ear headphones"
-      ],
-      "id": "f18bc0bf46614b2d183e0760",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Mac malware increasingly works by tricking you, not hacking macOS",
-      "link": "https://www.cultofmac.com/news/mac-malware-tricks-users-bitdefender-report",
-      "date": "2026-11-14T14:00:13+00:00",
-      "summary": "   \n Modern Mac malware relies on scams that trick users into running it, a new report finds. Here’s what’s changing and how to protect your Mac. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Malware.jpg.webp",
-      "categories": [
-        "News",
-        "BitDefender",
-        "Mac",
-        "Mac malware",
-        "macOS"
-      ],
-      "id": "fbbfa913c7585c5c6a1b25e3",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Top Stories: Apple's New Software Approach, iPhone Duo-Optimized Apps, and More",
-      "link": "https://www.macrumors.com/2026/11/14/top-stories-apple-new-software-approach/",
-      "date": "2026-11-14T14:00:08+00:00",
-      "summary": "Apple's wild past few months are finally starting to slow down with the last of the big hardware launches coming this week.\n \n\n \n \n \nMeanwhile, developers are continuing to optimize their apps for the all-new form factor of the iPhone Duo and Apple looks to shake up its internal iOS and macOS development to give engineers more time to explore and d",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/top-stories-2026-11-14.jpg",
-      "categories": [
-        "Featured",
-        "Top Stories"
-      ],
-      "id": "db5acd321349bbf52304448e",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
-      "link": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there/",
-      "date": "2026-11-14T14:00:00+00:00",
-      "summary": "      Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Ap",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "159d61b5db090f3fc9bc0811",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
     }
   ],
   "v02_initialized": true,
