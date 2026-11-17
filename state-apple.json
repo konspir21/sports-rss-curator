@@ -1,6 +1,307 @@
 {
   "selected": [
     {
+      "title": "Apple memory suppliers expect price increases through at least 2030 [U]",
+      "link": "https://9to5mac.com/2026/11/17/apple-memory-supplier-expects-price-increases-through-at-least-2030/",
+      "date": "2026-11-17T13:39:13+00:00",
+      "summary": "    Key  Apple  memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not protect against price increases related to the balance of supply and demand. \n\n\n\n  Up",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "dfa3b9c19d83f8424ad836a8",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "MacBook Neo Black Friday Deals Arrive With $49 Discounts on Nearly Every Model at Amazon",
+      "link": "https://www.macrumors.com/2026/11/17/macbook-neo-rare-50-discount/",
+      "date": "2026-11-17T13:36:15+00:00",
+      "summary": "Amazon today introduced a rare discount on the MacBook Neo, discounting all four of the entry-level 256GB models down to   &#36;649.99  , from &#36;699.00. This sale is available in Silver, Indigo, Citrus, and Blush, with an estimated delivery date of November 22 for most models.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these ve",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/macbook-neo-black-friday.jpeg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "42ec2091d80e78111c3e5f1f",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "macOS 27.3 gives you more say over what AI agents can access",
+      "link": "https://www.cultofmac.com/news/macos-27-3-gives-you-more-say-ai-agents-access",
+      "date": "2026-11-17T13:23:55+00:00",
+      "summary": "   \n macOS 27.3 gives you more control over what AI agents can access, with app-by-app permissions and stronger warnings before granting Full Disk Access. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/10/mac-studio-.jpg",
+      "categories": [
+        "News",
+        "macOS 27"
+      ],
+      "id": "852b24359e49b189c4033a6d",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Face unlock is a good compromise for the iPhone Duo – now let’s have it for the Mac",
+      "link": "https://9to5mac.com/2026/11/17/face-unlock-is-a-good-compromise-for-the-iphone-duo-now-lets-have-it-for-the-mac/",
+      "date": "2026-11-17T13:23:14+00:00",
+      "summary": "    When Apple first announced  Face ID , the company talked a great deal about how secure the system is, contrasting it to the far less secure image-based facial unlock systems used by the likes of Google and Samsung. \n\n\n\n Fast-forward to 2026, and Apple is itself now  offering that less secure approach  as an option on the  iPhone Duo  – but in a",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c19a9916e846e679f4cc95c4",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Longest-running Apple TV show to return for surprise 9th and 10th seasons",
+      "link": "https://www.macworld.com/article/3287837/longest-running-apple-tv-show-to-return-for-surprise-9th-and-10th-seasons.html",
+      "date": "2026-11-17T12:50:50+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  Slow Horses , one of the most consistently popular and successful shows to emerge from Apple’s TV streaming venture, has reportedly been renewed for a ninth and tenth season. This contradicts seemingly definitive comments from one of the show’s stars a few days ago indicating that it would conclude with",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3287837-0-80044300-1794919859-SlowHorsesSeries6.jpg?quality=50&strip=all",
+      "categories": [
+        "Entertainment, Streaming Media",
+        "Entertainment, Streaming Media"
+      ],
+      "id": "bb1ffa775820e633d8c93482",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "iPhone Users Targeted in Major Website Security Breach",
+      "link": "https://www.macrumors.com/2026/11/17/iphone-users-targeted-website-security-breach/",
+      "date": "2026-11-17T12:42:03+00:00",
+      "summary": "Hackers used some of the world's most popular websites to distribute malware designed to steal cryptocurrency and exploit vulnerabilities in iPhones and iPads this week, according to a new security investigation.\n \n\n \n \n \n  Reuters   reports that websites associated with 178 organizations were affected by the attack on Monday, November 16, includin",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2023/05/bug-security-vulnerability-issue-fix-larry.jpg",
+      "categories": [
+        "Cybersecurity"
+      ],
+      "id": "ac99a0a791083ca4c219ac66",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Apple Names 'Baby, This Is Keke Palmer' Podcast of the Year",
+      "link": "https://www.macrumors.com/2026/11/17/this-is-keke-palmer-podcast-of-the-year/",
+      "date": "2026-11-17T12:30:54+00:00",
+      "summary": " Apple today  named  \" Baby, this is Keke Palmer \" its 2026 Show of the Year, recognizing the interview podcast for its quality and cultural impact.\n \n\n \nProduced by Wondery and executive produced by Palmer, the show features guests including Oprah Winfrey and Anderson .Paak. Apple said it consistently ranks among the platform's top video and comed",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories",
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Podcasts-Show-of-the-Year-2026-scaled.jpg",
+      "categories": [
+        "No Linkback",
+        "Apple Podcasts"
+      ],
+      "id": "03f91b00c1fdfa2e3d426be7",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Apple hears Liquid Glass feedback, tests small but welcome change",
+      "link": "https://9to5mac.com/2026/11/17/apple-hears-liquid-glass-feedback-tests-small-but-welcome-change/",
+      "date": "2026-11-17T12:01:10+00:00",
+      "summary": "     Liquid Glass  was one of the most controversial and polarizing UI changes Apple has made for a long time. The company listened to the feedback and made a number of changes, the most significant of which was to introduce  a sliding transparency scale . \n\n\n\n Apple is currently testing a change some will consider insignificant but I personally fi",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ab7daeaa7201a6cb86c42be3",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Apple, please bring that new iPhone Duo feature to my MacBook",
+      "link": "https://www.macworld.com/article/3287142/apple-please-bring-that-new-iphone-duo-feature-to-my-macbook.html",
+      "date": "2026-11-17T11:30:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n With the  iOS 27.3 beta 2  that was released on Monday, Apple unveiled a cool new feature for iPhone Duo users. I don’t own a Duo, but it’s such a cool feature I’m really hoping Apple brings it to the MacBook. \n\n\n\n One of the iPhone Duo’s biggest flaws is that the front camera doesn’t have Face ID and in",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3287142-0-35902700-1794915020-macbook-proled-dynamic-island.jpg?quality=50&strip=all",
+      "categories": [
+        "Laptops, MacBook",
+        "Laptops, MacBook"
+      ],
+      "id": "60975aa24d7eabbd12c79506",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Apple Tests Bringing Back a Softer Side of Liquid Glass",
+      "link": "https://www.macrumors.com/2026/11/17/apple-tests-softer-side-of-liquid-glass/",
+      "date": "2026-11-17T11:16:24+00:00",
+      "summary": "Apple is testing a softer appearance for iPhone navigation bars that would bring back part of the look used in iOS 26, according to a new finding shared by  pdfu on X (Twitter) .\n \n\n \n   The gradual fade nav bar effect is disabled by default in iOS 27.3 beta 2  \n \nThe change affects how content fades out as it scrolls beneath the bar at the top of ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/gradual-fade-nav-bar-flag-pdfu-scaled.jpg",
+      "categories": [
+        "pdfu"
+      ],
+      "id": "0c1f812da6a12c452331995a",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "MacBook Neo gets rare $50 price drop in early Black Friday deal",
+      "link": "https://9to5mac.com/2026/11/17/macbook-neo-gets-rare-50-price-drop-in-early-black-friday-deal/",
+      "date": "2026-11-17T11:16:21+00:00",
+      "summary": "    The  most affordable current-generation MacBook  you can get under the tree this year just dropped to its best prices in several months with today’s  extremely rare early Black Friday deals .  Apple’s MacBook Neo lineup is nearly $50 off  to deliver one of, if not the most surprising discounts of the 2026 Black Friday season yet.  \n\n\n\n \n MacBoo",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "0691829163bc02d8663f308f",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Here’s how much you’ll need to pay to use Siri AI after Apple’s new limits kick in",
+      "link": "https://www.macworld.com/article/3287111/heres-how-much-youll-need-to-pay-to-use-siri-ai-after-apples-new-limits-kick-in.html",
+      "date": "2026-11-17T11:00:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple Intelligence is a blanket term Apple uses for all sorts of AI features, which are growing in scope and capability with each OS update. Apple has maintained from the start that some of the more advanced features—those that use powerful cloud AI models—will eventually have usage limits. \n\n\n\n With the",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3287111-0-35329400-1794913226-apple-intelligence-features.jpg?quality=50&strip=all",
+      "categories": [
+        "AI, Personal Software",
+        "AI, Personal Software"
+      ],
+      "id": "bb12a053e9ce086844a776e8",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "iPhone Duo guide: Price, specs, availability, problems and reviews",
+      "link": "https://www.macworld.com/article/2629813/iphone-duo-folding-design-guide-problems-price-specs.html",
+      "date": "2026-11-17T10:54:37+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s first foldable iPhone, the iPhone Duo, brings a larger screen and new ways to use an iPhone – but its launch has also raised questions about durability, app compatibility and availability. We regularly update this guide with the latest reported problems, software updates and app-support developme",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/2629813-0-25145200-1794912885-Apple-iPhone-Duo-MacWorld-22.jpg?quality=50&strip=all",
+      "categories": [
+        "iPhone",
+        "iPhone"
+      ],
+      "id": "194b4c5b61af58f6de8fed6a",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "iPhone Duo 2 rumored to get Face ID, but other upgrades will need to wait",
+      "link": "https://www.macworld.com/article/3287070/iphone-duo-2-rumored-to-get-face-id-but-other-upgrades-will-need-to-wait.html",
+      "date": "2026-11-17T10:45:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Mark Gurman’s  latest Power On newsletter  is mostly about  Apple’s upcoming smart glasses,  but it does have one interesting bit of iPhone Duo 2 information in it. \n\n\n\n Apple has been aware that the missing Face ID is an issue since before the device launched, and has been working on adding it to the se",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3287070-0-69303800-1794912328-iphone-duo-hold-2.jpg?quality=50&strip=all",
+      "categories": [
+        "iPhone, Mobile, Smartphones",
+        "iPhone, Mobile, Smartphones"
+      ],
+      "id": "d9240692acd60ddb2d8be1a2",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Apple Close to Rare Long-Term Memory Deal With Samsung",
+      "link": "https://www.macrumors.com/2026/11/17/apple-rare-long-term-memory-deal-samsung/",
+      "date": "2026-11-17T10:28:18+00:00",
+      "summary": " Apple is close to signing a long-term supply agreement with Samsung for DRAM chips, according to Korea's   Maeil Business Newspaper  . The deal would reportedly run for four to five years from the first half of 2027, setting a minimum supply volume, with prices finalized later based on market conditions.\n \n\n \nApple usually favors short-term contra",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2024/09/Apple-Logo-Top-Half.jpeg",
+      "categories": [
+        "No Linkback",
+        "Samsung"
+      ],
+      "id": "c04683b1b9915fcd2dfbe9c7",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "macOS 27 Golden Gate: What’s new, what’s in the beta & what’s next",
+      "link": "https://www.macworld.com/article/3139330/macos-27-mac-features-siri-apple-intelligence-release-date-compatibility.html",
+      "date": "2026-11-17T10:26:19+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n macOS 27 Golden Gate arrived on September 14, introducing an all-new Siri AI assistant, major updates to Safari, Photos, Messages, Mail and Calendar, and expanded child-safety features. Design refinements and performance improvements round out the release. \n\n\n\n Named after California’s iconic Golden Gate, t",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3139330-0-88515600-1794911187-macos-golden-gate-image-playground-freeform-notes-weather.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "5d8ac094c15f9bfda2ec6dba",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "iOS 27: What’s new, what’s in the latest beta and what’s coming next",
+      "link": "https://www.macworld.com/article/2986799/ios-27-features-compatiblity-siri-ai-updates.html",
+      "date": "2026-11-17T10:21:32+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple unveiled iOS 27 at WWDC on June 8, 2026, with the public release following on September 14. The latest update, iOS 27.2.1 arrived on November 9, with security fixes. It follows the October 26 release of iOS 27.2, which introduced further Siri AI improvements and new app features.  \n\n\n\n iOS 27 mainly f",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/2986799-0-24470700-1794910900-ios-27-.jpg?quality=50&strip=all",
+      "categories": [
+        "iOS",
+        "iOS"
+      ],
+      "id": "999a1c3ae5ca82398045fbe9",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Put Windows 11 Pro on your Mac for $9.97 through Nov. 22 with this Early Black Friday deal",
+      "link": "https://www.macworld.com/article/3285327/put-windows-11-pro-on-your-mac-for-9-97-through-nov-22-with-this-early-black-friday-deal.html",
+      "date": "2026-11-17T08:00:00+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:   Windows 11 Pro runs on your Mac  through Parallels or VMware Fusion, and a lifetime license is $9.97 (reg. $199) for Early Black Friday. \n\n\n\n Plenty of Mac owners keep a Windows virtual machine around for one work app or a game that never came to macOS. Parallels Desktop and VMware Fusion can run ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3285327-0-87021900-1794902461-Windows-11-Pro-1.jpg?quality=50&strip=all",
+      "categories": [
+        "Windows",
+        "Windows"
+      ],
+      "id": "67ed05be4c0327bbf4b6e795",
+      "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
       "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update",
       "link": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
       "date": "2026-11-17T03:15:50+00:00",
@@ -1900,56 +2201,6 @@
       ],
       "id": "159d61b5db090f3fc9bc0811",
       "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Early Black Friday Apple deals: AirPods, AirTag 2, MacBook Air, Apple Pencil, Mac mini, more",
-      "link": "https://9to5mac.com/2026/11/14/early-black-friday-apple-deals-apple-tv-4k-airpods/",
-      "date": "2026-11-14T13:05:05+00:00",
-      "summary": "    Alongside the release of the new  Apple TV 4K , we also have loads of the  early Black Friday offers  flying with the lowest prices to date on  AirTag 2 at $17.50 , rare discounts on  Magic Mouse , the lowest price yet on the 2026 Magic Keyboard and more, alongside the  $50 price drop on AirPods Pro 3 .  \n\n\n\n This week’s impressive $250 price d",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Early-Black-Friday-Apple-deals-Apple-TV-4K-AirPods.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "964687cfeba8bf5bee8bfbd1",
-      "selected_at": "2026-11-14T16:10:03.042472+00:00"
-    },
-    {
-      "title": "Pay $47 once for 2TB of cloud storage during this software sale",
-      "link": "https://www.macworld.com/article/3284388/pay-47-once-for-2tb-of-cloud-storage-during-this-software-sale.html",
-      "date": "2026-11-14T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:  Pay once for 2TB of cloud storage with a  FileJump lifetime subscription  for $47.20 (reg. $467) with code  DEAL20 . \n\n\n\n Apple’s 2TB iCloud+ plan costs $9.99 a month, and that bill keeps coming for as long as your files stay there. To stop renting storage, try a FileJump 2TB cloud storage lifetime",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284388-0-94823000-1794643297-FileJump.jpg?quality=50&strip=all",
-      "categories": [
-        "Storage",
-        "Storage"
-      ],
-      "id": "d0858c9c93741cdb93dbc9a5",
-      "selected_at": "2026-11-14T09:46:02.120543+00:00"
-    },
-    {
-      "title": "Edit any PDF on your Mac with this $32 lifetime app",
-      "link": "https://www.macworld.com/article/3284148/edit-any-pdf-on-your-mac-with-this-32-lifetime-app.html",
-      "date": "2026-11-14T08:00:00+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n  TL;DR:   PDF Reader Pro  is a full PDF editor for Mac, and a lifetime license is $31.99 (reg. $79.99) with code  DEAL20 . \n\n\n\n Preview on your Mac can highlight a PDF and add a signature, but it can’t change the text already on the page. If you want to edit PDFs the way you edit Word documents, try a lifet",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3284148-0-24289100-1794643288-PDF-Reader.jpg?quality=50&strip=all",
-      "categories": [
-        "PDF Editors",
-        "PDF Editors"
-      ],
-      "id": "f45e892ab6af47011816b993",
-      "selected_at": "2026-11-14T09:46:02.120543+00:00"
     }
   ],
   "v02_initialized": true,
