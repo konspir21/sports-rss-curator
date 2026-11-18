@@ -1,6 +1,120 @@
 {
   "selected": [
     {
+      "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
+      "link": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
+      "date": "2026-11-18T02:17:48+00:00",
+      "summary": "    Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "deee179be8de3520163c23b5",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
+      "link": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
+      "date": "2026-11-18T00:35:25+00:00",
+      "summary": "    Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "1068647a5e8e33035ec300a1",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
+      "link": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
+      "date": "2026-11-18T00:22:19+00:00",
+      "summary": "Aqara  today launched  six new Matter-enabled smart lights that work with Apple's Home platform. The lights also include Thread and Zigbee support and can be used with Aqara sensors and switches.\n \n\n \n \n \nThe  &#36;120 Floor Lamp T1  is a rod-shaped light with a wall-wash effect. It has 18 controllable zones that can be set to different colors, wit",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
+      "categories": [
+        "Apple Home",
+        "Aqara"
+      ],
+      "id": "3da7a756be9eabed2eb94360",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
+      "link": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
+      "date": "2026-11-17T23:56:28+00:00",
+      "summary": "Disney says its plans to merge Disney+ and Hulu will be completed in December, with subscribers able to have a \"fully unified experience\" on Disney+ with Hulu live TV and premium add-ons.\n \n\n \n \n \nThe detail was included in Disney's  fourth quarter earnings report . Disney believes the unified app will make it easier for customers to find content a",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
+      "categories": [
+        "Disney",
+        "Hulu"
+      ],
+      "id": "edd6d10c796ec74cbd6bdd33",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
+      "link": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
+      "date": "2026-11-17T23:36:09+00:00",
+      "summary": "    iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "b59037db53d5575b8cd7571a",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "WhatsApp’s first-party chat history backup service moves ahead",
+      "link": "https://9to5mac.com/2026/11/17/whatsapps-first-party-chat-history-backup-service-moves-ahead/",
+      "date": "2026-11-17T22:57:08+00:00",
+      "summary": "    Select WhatsApp beta testers on iOS are now seeing an option to use the app’s own backup service as an alternative to iCloud. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "3775b37f8cb140a3d4a62412",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
+      "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+      "link": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
+      "date": "2026-11-17T22:07:22+00:00",
+      "summary": "    Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments, according to a new report. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "0b1928da4868f327f1b41696",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
+    },
+    {
       "title": "Apple Blames Internal Update for Outage, Says It Wasn't a Cyberattack",
       "link": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update/",
       "date": "2026-11-17T21:54:04+00:00",
@@ -821,6 +935,23 @@
       ],
       "id": "03f91b00c1fdfa2e3d426be7",
       "selected_at": "2026-11-17T13:49:56.955034+00:00"
+    },
+    {
+      "title": "Best AirPods Black Friday deals 2026: Our picks for Pro, standard AirPods and Max",
+      "link": "https://www.macworld.com/article/1377158/best-airpods-black-friday-deals-2026.html",
+      "date": "2026-11-17T12:24:43+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n Best Black Friday AirPods deals so far: U.S. \n\n\n\n \n  AirPods Pro 3 :  $179  ($70 off at Amazon, MSRP $249) \n\n\n\n  AirPods Max 2 :  $449  ($100 off at Amazon, MSRP $549) \n \n\n\n\n  \n\n\n\n Best Black Friday AirPods deals so far: U.K. \n\n\n\n \n  AirPods Pro 3 :  £200  (£19 off at Amazon, RRP £219). \n \n\n\n\n  \n\n\n\n   ",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/1377158-0-16811100-1794918291-AirPods-Deals-Black-Friday.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc, Audio, Headphones",
+        "Apple Inc, Audio, Headphones"
+      ],
+      "id": "6abb483ef0a6a0a48d30789e",
+      "selected_at": "2026-11-18T03:38:47.972050+00:00"
     },
     {
       "title": "Apple hears Liquid Glass feedback, tests small but welcome change",
@@ -2651,38 +2782,6 @@
       ],
       "id": "9e44671b7c36ed3a312cf228",
       "selected_at": "2026-11-15T14:29:54.890165+00:00"
-    },
-    {
-      "title": "Hands-on: ESR’s MagSafe kickstand charger solves two key iPhone Duo shortcomings",
-      "link": "https://9to5mac.com/2026/11/14/hands-on-esrs-magsafe-kickstand-charger-solves-two-key-iphone-duo-shortcomings/",
-      "date": "2026-11-15T00:42:21+00:00",
-      "summary": "    iPhone Duo, because it offers a much larger inside display, means theres all tons of new use cases that you wouldn’t normally come across with your iPhone. Of course, one of them is the fact that you might want to prop up your iPhone Duo to watch a video on the larger display. \n\n\n\n A couple weeks ago, I  wrote about one accessory  that solves t",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "95afe06ef926f61bb015bc9a",
-      "selected_at": "2026-11-15T06:54:42.795910+00:00"
-    },
-    {
-      "title": "Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy",
-      "link": "https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison/",
-      "date": "2026-11-14T22:02:41+00:00",
-      "summary": "    In September, Apple  introduced  the new Beats 360 headphones, the first overears from Beats since the  Beats Studio Pro  in 2023. That said, the older  Beats Studio Pro  still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "b574f4119dc274c873288ee7",
-      "selected_at": "2026-11-15T00:23:25.346474+00:00"
     }
   ],
   "v02_initialized": true,
