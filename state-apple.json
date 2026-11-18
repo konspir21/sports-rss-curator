@@ -1,6 +1,666 @@
 {
   "selected": [
     {
+      "title": "Apple Watch Series 12 drops to its best price yet ahead of Black Friday",
+      "link": "https://www.macworld.com/article/3289657/apple-watch-series-12-drops-to-its-best-price-yet-ahead-of-black-friday.html",
+      "date": "2026-11-18T20:40:33+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple Watch 12  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(\"#s",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249459-0-44657800-1792683133-Apple-Watch-Series-12-review-hero5.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Watch, Mobile, Wearables",
+        "Apple Watch, Mobile, Wearables"
+      ],
+      "id": "b3883c2e9ce3d8ece071a1ed",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps",
+      "link": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/",
+      "date": "2026-11-18T20:05:10+00:00",
+      "summary": "      The Guardian   reports that three US senators have sent letters to the CEOs of Apple, Google, and Meta, demanding answers about their failure to prevent access to AI-powered ‘nudify’ apps. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
+      "categories": [
+        "News"
+      ],
+      "id": "27a6fc1324bbdf39377a2610",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Card Offers New Users Double Daily Cash for a Year",
+      "link": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
+      "date": "2026-11-18T19:47:57+00:00",
+      "summary": "Apple is aiming to get people to sign up for the  Apple Card  over the holidays by offering a 2X Daily Cash bonus for new users.\n \n\n \n \n \niPhone users who  sign up for an Apple Card  by December 10 can earn up to six percent Daily Cash on purchases for the first year after opening the account, with Apple offering up to &#36;1,000 total bonus Daily ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2023/06/Apple-Card-Balance.jpeg",
+      "categories": [
+        "Apple Card"
+      ],
+      "id": "286b8b1c68a813327a2ef0d9",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
+      "link": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
+      "date": "2026-11-18T19:47:06+00:00",
+      "summary": "    Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "f454ae57570eab57d15b4956",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Creator Studio gets major AI upgrade with many new tools",
+      "link": "https://www.cultofmac.com/news/apple-creator-studio-gets-major-ai-upgrade-with-new-creative-tools",
+      "date": "2026-11-18T19:35:29+00:00",
+      "summary": "   \n Apple Creator Studio gets a major upgrade with loads of new tools for Final Cut Pro, Logic Pro, Pixelmator Pro and more. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/Final-Cut-Pro-for-Mac-MotionVFX_01.jpg.webp",
+      "categories": [
+        "News",
+        "Apple Creator Studio",
+        "Final Cut Pro",
+        "Logic Pro",
+        "Pixelmator Pro"
+      ],
+      "id": "5f0d34e363e0734982296a30",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Releases 27.2.1 HomeView Software Update",
+      "link": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-software/",
+      "date": "2026-11-18T18:53:53+00:00",
+      "summary": "Apple today released new 27.2.1 software for the HomeView, marking the first post-release software update for the device.\n \n\n \n \n \nThere are no notes that mention what's new in the update, but Apple does have a  HomeView software support document  that should have details in the near future. The 27.2.1 updates for other platforms were primarily foc",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories",
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-2.jpg",
+      "categories": [
+        "HomeView"
+      ],
+      "id": "fd48e431c3c3eac978e8b3fc",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "ChatGPT app gains enhanced Live Dictation streaming without 10-minute limit",
+      "link": "https://9to5mac.com/2026/11/18/chatgpt-app-gains-enhanced-live-dictation-streaming-without-10-minute-limit/",
+      "date": "2026-11-18T18:25:09+00:00",
+      "summary": "    ChatGPT dictation is getting a boost today. OpenAI has updated the text-to-speech feature with Live Dictation that improves both speed and reliability. The enhanced dictation update also removes the 10-minute limit. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/chatgpt-app-icon-dark-openai.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "43ecf637f942e7c581a3b911",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Creator Studio adds MotionVFX for Final Cut Pro, new Pixelmator Pro features, more",
+      "link": "https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/",
+      "date": "2026-11-18T17:57:45+00:00",
+      "summary": "    Last month Apple  announced  big updates coming to Apple Creator Studio in November, and those updates have just arrived, headlined by the addition of MotionVFX in Final Cut Pro and a lot more. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/final-cut-pro-motionvfx-update.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "569e8bf8ac010f6ea0184c15",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Amazon Offering $100 Off Nearly All M4 iPad Air Models",
+      "link": "https://www.macrumors.com/2026/11/18/amazon-100-off-m4-ipad-air-models/",
+      "date": "2026-11-18T17:50:00+00:00",
+      "summary": "Amazon this week has multiple  early Black Friday discounts on the M4 iPad Air , providing &#36;100 off nearly every model. These remain the best prices we've seen in the wake of Apple's summer price hikes, and many deals are being  matched at Best Buy .\n \n\n \n   Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a p",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2020/03/m4-ipad-air-blue-2.jpeg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "71120f8e1c3e553646c99e44",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple's Fall Creator Studio Updates Now Live",
+      "link": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates/",
+      "date": "2026-11-18T17:43:18+00:00",
+      "summary": "Apple today refreshed its suite of Creator Studio apps, launching the fall updates  that it announced in October .\n \n\n \n \n \n Final Cut Pro with MotionVFX  integration is now available, letting users access MotionVFX templates, titles, themes, effects, layouts, and more right in Apple's video editing app. Timeline clips can be disconnected from the ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio.jpg",
+      "categories": [
+        "Apple Creator Studio"
+      ],
+      "id": "c813bb5a6645c05a77e55518",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Rare deal drops Apple Magic Mouse to lowest price ever",
+      "link": "https://www.cultofmac.com/deals/apple-magic-mouse-deal",
+      "date": "2026-11-18T17:35:02+00:00",
+      "summary": "   \n Do not miss a rare Apple Magic Mouse deal! Save on the sleek USB-C version for your Mac or iPad to give your setup a boost. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2025/05/Apple-Magic-Mouse-Deal.jpg",
+      "categories": [
+        "Deals",
+        "iPad accessories",
+        "Mac accessories",
+        "Magic Mouse"
+      ],
+      "id": "730103f4f90ff82fafb668d5",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple has a handy new menu bar icon in macOS 27.3. Here’s what it does",
+      "link": "https://www.macworld.com/article/3289705/apple-has-a-handy-new-menu-bar-icon-in-macos-27-3-heres-what-it-does.html",
+      "date": "2026-11-18T17:30:33+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n On Monday, Apple released a  note to developers  covering the updates to Device Control and Data Access, and Full Disk Access in the upcoming macOS 27.3. In addtion to providing a  new user interface for configuring FDA , users will notice another new related feature that’s up in the macOS menu bar. \n\n\n\n Th",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3289705-0-82006100-1795023041-GoldenGateWallpaper.jpg?quality=50&strip=all",
+      "categories": [
+        "MacOS",
+        "MacOS"
+      ],
+      "id": "811f242187cd16066e7cf81e",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "iPhone 20 Pro Rumored to Return to Titanium",
+      "link": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/",
+      "date": "2026-11-18T17:13:36+00:00",
+      "summary": "Apple's rumored \"iPhone 20 Pro\" could return to titanium as part of a more rounded design, according to the leaker known as \" Fixed Focus Digital .\"\n \n\n \n \n \nIn a  new post on Weibo , the leaker said the iPhone 20 Pro will adopt a titanium frame with a more rounded design. A frame made of titanium is reportedly currently in use on prototype devices",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Titanium-iPhone-15-Pro.jpg",
+      "categories": [
+        "Featured",
+        "20th-Anniversary iPhone",
+        "Fixed Focus Digital"
+      ],
+      "id": "8cf7fa8272922666b3cc5986",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "iOS 27.3 adds Siri AI usage limits, here’s what counts toward your limit",
+      "link": "https://9to5mac.com/2026/11/18/ios-27-3-adds-siri-ai-usage-limits-heres-what-counts-toward-your-limit/",
+      "date": "2026-11-18T16:40:26+00:00",
+      "summary": "    Earlier this week, Apple  revealed  that Siri AI usage limits will be implemented in iOS 27.3 and explained how iCloud+  increases those limits . Now we have a real-world example of what it looks like when limits are hit, and details on what counts toward those limits. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "553f0b401689f5d4efabc34a",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Today in Apple history: Apple introduces its biggest iMac G4 yet",
+      "link": "https://www.cultofmac.com/apple-history/imac-g4-20-inch-screen",
+      "date": "2026-11-18T16:30:43+00:00",
+      "summary": "   \n On November 18, 2003, Apple debuted an iMac G4 with a gorgeous 20-inch screen and the famous sunflower-inspired design. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2025/11/Apple-20-inch-iMac-G4-launch-photo.jpg",
+      "categories": [
+        "Apple history",
+        "Top Stories",
+        "Apple design",
+        "iMac",
+        "iMac G4",
+        "Jony Ive",
+        "Mac",
+        "Steve Jobs",
+        "TIAH: 2000s",
+        "TIAH: Macs",
+        "Today in Apple history"
+      ],
+      "id": "8e8faa3bc90d79cb2f570708",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Deals: All MacBook Neo models now on sale from $649, AirTag 2 $17.50 each, Apple Watch $199, Alpine Loop, more",
+      "link": "https://9to5mac.com/2026/11/18/deals-macbook-neo-airtag-2-apple-watch-alpine-loop/",
+      "date": "2026-11-18T16:29:59+00:00",
+      "summary": "    Amazon’s launch discount Apple Series 12 configuration – you can also score  Apple Watch SE 3 down at  $199   right now. However, the particularly  rare price drops on MacBook Neo  have now expanded to all colors and storage configurations to get one under the tree starting from   $649   and we have a host of notable deals on accessories too. A",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-TV-Alpine-Loop-Macbook-Neo.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "347d621b231962a7db34e021",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Make your Mac feel new again with this utilities bundle",
+      "link": "https://www.cultofmac.com/deals/dr-buho-mac-utility-lifetime-bundle",
+      "date": "2026-11-18T16:02:34+00:00",
+      "summary": "   \n The Dr.Buho Mac Utility Lifetime Bundle contains four great apps that can declutter your Mac and get it working like new. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/03/buho-e1795017492196.png",
+      "categories": [
+        "Deals",
+        "Cult of Mac Deals",
+        "Mac apps"
+      ],
+      "id": "8e1e089910251210a125fa56",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "9to5Mac Daily: November 18, 2026 – More on iOS 27.3, iPhone Duo",
+      "link": "https://9to5mac.com/2026/11/18/daily-november-18-2026/",
+      "date": "2026-11-18T15:58:33+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "97e7cf35fcb2bbc44da0b7f3",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "iPhone Duo is getting three new features in iOS 27.3",
+      "link": "https://9to5mac.com/2026/11/18/iphone-duo-is-getting-three-new-features-in-ios-27-3/",
+      "date": "2026-11-18T15:55:33+00:00",
+      "summary": "    iOS 27.3 launches  next month  and includes several exciting changes for iPhone Duo, here’s what’s new for Apple’s foldable model. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "7d80df5f3be4a63476b4fca0",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Releases Siri Remote Firmware Update",
+      "link": "https://www.macrumors.com/2026/11/18/apple-releases-new-siri-remote-firmware-update/",
+      "date": "2026-11-18T15:38:56+00:00",
+      "summary": " Apple on Tuesday released a firmware update for the fourth-generation Siri Remote. The new version is 0001.0061.0000.0000, up from 0001.0057.0000.0000,  according to AppleDB .\n \n\n \nThere is no way to manually install the update, so make sure your Siri Remote is charged and near your Apple TV and it should automatically install over time. To check,",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Siri-Remote-Feature.jpg",
+      "categories": [
+        "Apple TV",
+        "No Linkback",
+        "Siri",
+        "Siri Remote"
+      ],
+      "id": "d27ca67cea5fd98c75ef1306",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "The new HomePod mini’s boring colors finally make sense to me",
+      "link": "https://www.macworld.com/article/3289311/the-new-homepod-minis-boring-colors-finally-make-sense-to-me.html",
+      "date": "2026-11-18T15:32:53+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Yesterday I made a rare trip south of the Thames to visit Apple’s stunning Battersea Power Station headquarters in London, where I was given a chance to try out HomeView (on which I will soon have more to say) as well as the new Apple TV and HomePod mini. And while I was there, one of the product manager",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3289311-0-00762700-1795015979-Green-HomePod-minis-with-green-iMac.jpg?quality=50&strip=all",
+      "categories": [
+        "Smart Home, Smart Speakers",
+        "Smart Home, Smart Speakers"
+      ],
+      "id": "d492af05f79658428df2ef2d",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Target's Early Black Friday Event Offers Savings on Apple, TVs, and Accessories",
+      "link": "https://www.macrumors.com/2026/11/18/targets-early-black-friday/",
+      "date": "2026-11-18T15:24:51+00:00",
+      "summary": "Target's  early Black Friday sale  has begun, with an online shopping event that will run through next week. There are quite a few major discounts in this sale, including sitewide savings on headphones, TVs, Apple devices, home appliances, and more. \n \n\n \n   Note: MacRumors is an affiliate partner with Target. When you click a link and make a purch",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2020/11/Target-November-Deals-Simple.jpg",
+      "categories": [
+        "Black Friday",
+        "Deals",
+        "Featured"
+      ],
+      "id": "6cdb7d5a43f66e3d3288b5d7",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "This ESR car charger keeps two cables handy and out of the way [Review] ★★★★☆",
+      "link": "https://www.cultofmac.com/reviews/esrs-xtend-100w-retractable-car-charger-review",
+      "date": "2026-11-18T15:00:09+00:00",
+      "summary": "   \n ESR’s bulky 100W car charger makes up for its size with a tilting head and two USB-C cables that reel back in when you unplug. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2026/11/esr-extend-car-charger-dasboard.jpeg.webp",
+      "categories": [
+        "Reviews",
+        "Top Stories",
+        "car chargers",
+        "ESR",
+        "iPhone accessories"
+      ],
+      "id": "5b1cd4aeb21912ceecfad43d",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Announces 2026 App Store Award Finalists",
+      "link": "https://www.macrumors.com/2026/11/18/2026-app-store-award-finalists/",
+      "date": "2026-11-18T14:57:44+00:00",
+      "summary": "Apple today  revealed the 45 finalists  for its 2026  App Store  Awards, with nominations spanning its devices,  Apple Arcade , and the Cultural Impact category.\n \n\n \n \n \n\"ElevenReader,\" \"(Not Boring) Camera,\" and \"Raylie\" are in contention for iPhone App of the Year. On the Mac, the app nominees are clipboard manager \"Paste,\" task manager \"Things ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories",
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2025/12/Apple-App-Store-Awards-2025.jpg",
+      "categories": [
+        "App Store"
+      ],
+      "id": "3a48e92ae5763e666e2d3d64",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "New Apple products coming in 2027: What’s next?",
+      "link": "https://www.macworld.com/article/671090/new-apple-products-iphone-ipad-mac-watch.html",
+      "date": "2026-11-18T14:39:02+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n What new products will Apple launch in 2027? Rumors point to a redesigned iPhone to mark its 20th anniversary, an OLED iPad Air, and potentially Apple’s first smart glasses. Updated Macs, more affordable iPhones and new AI-focused accessories could also be on the way. \n\n\n\n The first launches could arrive in",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/671090-0-66560000-1794569074-New-Apple-Products-Launching-Soon.jpg?quality=50&strip=all",
+      "categories": [
+        "Apple Inc, Apple TV, Apple Watch, iOS, iPad, iPhone, Mac, MacBook, MacOS",
+        "Apple Inc, Apple TV, Apple Watch, iOS, iPad, iPhone, Mac, MacBook, MacOS"
+      ],
+      "id": "2e7553985090c4e937312f4f",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "New Siri Remote for Apple TV 4K just got a firmware update",
+      "link": "https://9to5mac.com/2026/11/18/new-siri-remote-for-apple-tv-4k-just-got-a-firmware-update/",
+      "date": "2026-11-18T14:33:20+00:00",
+      "summary": "    Apple has released a firmware update for the new Siri Remote for Apple TV 4K, according to   AppleDB  . Here’s what you should know. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "85c80821348f14c0e8cac16a",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "iPhone Duo 2 Likely to Retain Touch ID as Face ID Remains Uncertain",
+      "link": "https://www.macrumors.com/2026/11/18/iphone-duo-2-likely-to-retain-touch-id/",
+      "date": "2026-11-18T14:16:44+00:00",
+      "summary": "Apple's second-generation  iPhone Duo  will retain its existing display sizes and side-mounted fingerprint sensor, according to the leaker known as \" Digital Chat Station .\"\n \n\n \n \n \nIn a  new post  on Weibo, the leaker said information about the &zwnj;iPhone Duo&zwnj; 2 remains limited, but engineering units continue to feature a 7.6-inch inner di",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2024/09/face-id.jpg",
+      "categories": [
+        "Featured",
+        "iPhone Duo",
+        "Digital Chat Station",
+        "Face ID",
+        "Touch ID"
+      ],
+      "id": "9b31f785e23980cf0a48e956",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Amazon Takes $850 Off 2026 16-Inch MacBook Pro With M5 Max Chip",
+      "link": "https://www.macrumors.com/2026/11/18/amazon-850-off-macbook-pro/",
+      "date": "2026-11-18T13:54:43+00:00",
+      "summary": "Amazon today introduced the biggest discount yet on one model of the 16-inch MacBook Pro from early 2026. You can get the M5 Max model with 48GB RAM and a 2TB SSD for   &#36;4,149.00  , down from &#36;4,999.00.\n \n\n \n   Note: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a sma",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/03/m5-pro-macbook-pro-launch-day.jpeg",
+      "categories": [
+        "Deals",
+        "Featured"
+      ],
+      "id": "d10d431a0d84ce9a1c2c3c0d",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Leaker claims Apple developing four models of 20th anniversary iPhone",
+      "link": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
+      "date": "2026-11-18T13:30:06+00:00",
+      "summary": "    Leaker Ice Universe says Apple is currently developing four models of the 20th anniversary iPhone which we’ve been referring to as  the iPhone 20 . We’re expecting next year’s flagship models to be a radical new design with an all-glass appearance. \n\n\n\n Why four models rather than two is unclear, but it seems possible Apple is testing two versi",
+      "sources": [
+        "Cult of Mac",
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/iphone-20th-anniversary-color-wave.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "1853254cafc627f215df7498",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "WhatsApp's iCloud Backup Alternative Rolls Out to Beta Users on iPhone",
+      "link": "https://www.macrumors.com/2026/11/18/whatsapp-backup-alternative-rolls-out-beta-ios/",
+      "date": "2026-11-18T13:14:09+00:00",
+      "summary": "WhatsApp is rolling out its first-party cloud backup service to some users on the beta version of the app for iOS, reports  WABetaInfo .\n \n\n \n   WhatsApp cloud backup options in iOS beta (image: WABetaInfo)  \n \nThe option is said to be appearing to some users on WhatsApp beta version 26.45.10.71, currently in TestFlight, providing users with an alt",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/whatsapp-chat-cloud-backup-wabetainfo.jpg",
+      "categories": [
+        "WhatsApp"
+      ],
+      "id": "358c761ed267340d00cbf9a1",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "The Android camera app that doesn’t overprocess adds new color grading sets, expands to iPhone",
+      "link": "https://9to5google.com/2026/11/18/vwfndr-mbl-camera-app-color-grading-android-iphone-release/",
+      "date": "2026-11-18T13:10:02+00:00",
+      "summary": "    VWFNDR + MBL, an Android camera app that doesn’t overprocess and delivers high-quality DNG (RAW) files, is getting a 2.0 release with improved color grading and an expansion to the iPhone. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/vwfndr-android-camera-app.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "ea1c541b76e2a83c3b746c0c",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Best iPhone Duo cases: Slim, protective and kickstand options",
+      "link": "https://www.macworld.com/article/3239288/best-iphone-duo-cases-slim-protective-and-kickstand-options.html",
+      "date": "2026-11-18T13:10:00+00:00",
+      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n Apple’s  new iPhone Duo  is both big and small, and it’s more susceptible to knocks and drops than a standard iPhone with its folding function maybe taking a while to get used to. It’s the first iPhone that needs a case built around moving parts—namely the hinge. A case for a foldable can be made from on",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3239288-0-92023500-1794647217-Best-iPhone_Duo_Cases.jpg?quality=50&strip=all",
+      "categories": [
+        "iPhone, Mobile, Mobile Phone Accessories, Mobile Phone Cases and Covers, Smartphones",
+        "iPhone, Mobile, Mobile Phone Accessories, Mobile Phone Cases and Covers, Smartphones"
+      ],
+      "id": "4856bed13ece6c5cc7350d69",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Six new Aqara smart lights with Apple Home support and ‘spatial intelligence’",
+      "link": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
+      "date": "2026-11-18T13:06:32+00:00",
+      "summary": "     Aqara  has announced the global launch of six new smart lighting products with full  Apple Home  support and what the company describes as “spatial intelligence.” \n\n\n\n The new lineup includes a vertical floor lamp with 18 individually addressable lighting zones, and a new LED strip offering seamless color gradients, dynamic flowing effects, an",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Six-new-Aqara-smart-lights-with-Apple-Home-support-and-spatial-intelligence.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "20e7ae7fb64d6d9e35c327bb",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "MacPaw's Moonlock Cybersecurity App Launches for iPhone",
+      "link": "https://www.macrumors.com/2026/11/18/macpaw-moonlock-cybersecurity-app-iphone/",
+      "date": "2026-11-18T13:00:05+00:00",
+      "summary": "MacPaw today launched its  Moonlock  cybersecurity app for the iPhone, bringing the company's consumer-focused security features to mobile for the first time.\n \n\n \n \n \nMoonlock is designed to help iPhone users recognize and avoid phishing scams and other online threats, according to the company. For example, one of its key features is Scam Detect, ",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Moonlock-macpaw.jpg",
+      "categories": [
+        "Apple",
+        "Rumors",
+        "Mac",
+        "iOS",
+        "iPhone",
+        "iPad"
+      ],
+      "id": "459e0826bd74869453239827",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "MacPaw’s Moonlock comes to iPhone, helping users detect potential scams",
+      "link": "https://9to5mac.com/2026/11/18/macpaws-moonlock-comes-to-iphone-helping-users-detect-potential-scams/",
+      "date": "2026-11-18T13:00:00+00:00",
+      "summary": "    After launching Moonlock for Mac last year, MacPaw is bringing its scam-detection app to iPhone today. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macpaw-moonlock.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "f9be7a7a803d181c6de1cd41",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Reportedly Developing Two Designs for 20th Anniversary iPhone",
+      "link": "https://www.macrumors.com/2026/11/18/two-designs-for-20th-anniversary-iphone/",
+      "date": "2026-11-18T12:57:25+00:00",
+      "summary": "Apple is currently developing four models with two different designs for the iPhone's 20th anniversary, according to the leaker known as \"Ice Universe.\"\n \n\n \n \n \nIn a  new post on Weibo , the leaker outlined the two designs. Two are said to feature flat glass covers and two have glass that curves along all four edges.\n \n\n \nOne plausible explanation",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/09/iPhone-18-Pro-Black.jpg",
+      "categories": [
+        "Featured",
+        "20th-Anniversary iPhone",
+        "Ice Universe"
+      ],
+      "id": "6fae1620974b9ad66b653494",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
+      "link": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
+      "date": "2026-11-18T12:30:24+00:00",
+      "summary": "    A set of major tech outages in close succession is leading some to speculate that they are connected, and that the US is under systemic attack by a hostile state. \n\n\n\n All the evidence suggests otherwise, with individual explanations for each of them – and the White House is now saying as much in a bid to put fears to rest …  \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Banks-FAA-Microsoft-Apple-–-no-systemic-attack-on-the-US-says-White-House.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "8289c4d14cc8e5e97a754cc3",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
+      "title": "Apple Rolls Out All-New Maps Experience Across India",
+      "link": "https://www.macrumors.com/2026/11/18/apple-rolls-out-all-new-maps-across-india/",
+      "date": "2026-11-18T12:23:29+00:00",
+      "summary": "Apple today  announced  the rollout of an all-new Apple Maps experience in India, bringing the company's redesigned map to the country for the first time. The update offers faster and more accurate navigation, more detailed views of roads, buildings, parks, and shopping centers, and over 300 three-dimensional landmarks.\n \n\n \n \n \nNotably, the new en",
+      "sources": [
+        "MacRumors: Mac News and Rumors - All Stories"
+      ],
+      "weight": 1.0,
+      "image": "https://images.macrumors.com/article-new/2026/11/Apple-Maps-India-3up-scaled.jpg",
+      "categories": [
+        "Apple Maps",
+        "India"
+      ],
+      "id": "a558673e5c34f7b277aff238",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
+    },
+    {
       "title": "The UK and some other countries don’t get more Siri AI usage with iCloud+",
       "link": "https://9to5mac.com/2026/11/18/the-uk-and-some-other-countries-dont-get-more-siri-ai-usage-with-icloud/",
       "date": "2026-11-18T12:00:06+00:00",
@@ -83,6 +743,23 @@
       ],
       "id": "12d4b13243529522c9b161e7",
       "selected_at": "2026-11-18T12:16:54.810579+00:00"
+    },
+    {
+      "title": "Best Apple Watch chargers, stands, power banks & docks 2026",
+      "link": "https://www.macworld.com/article/668468/best-apple-watch-chargers-stands-docks.html",
+      "date": "2026-11-18T11:25:00+00:00",
+      "summary": "  Macworld  \n\n \n\n \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n \n The Black Friday 2026 deals have started early, and we’ve listed some of the best below. But check the price comparison units for all the products reviewed in this feature to find the very best Apple Watch charging solution and deal for you. \n\n\n\n  Early Black Friday Deals U.S.  \n\n\n\n \n  Twelve South But",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/07/Apple-Watch-Chargers-reviewed.jpg?quality=50&strip=all",
+      "categories": [
+        "Accessories, Mobile Phone Accessories, Mobile Phone Chargers",
+        "Accessories, Mobile Phone Accessories, Mobile Phone Chargers"
+      ],
+      "id": "b8e0ec8b8f4fb57a2b4ba1ce",
+      "selected_at": "2026-11-18T20:41:36.111927+00:00"
     },
     {
       "title": "1min.AI’s 20-seat business plan drops to $64.97 for Black Friday",
@@ -2626,246 +3303,6 @@
       ],
       "id": "7b614e3eb99f6fafac528efc",
       "selected_at": "2026-11-15T23:48:09.804414+00:00"
-    },
-    {
-      "title": "Early Apple Watch Black Friday Deals Arrive With Series 12 Hitting New Record Lows",
-      "link": "https://www.macrumors.com/2026/11/15/early-apple-watch-black-friday-deals/",
-      "date": "2026-11-15T17:59:53+00:00",
-      "summary": " Early Black Friday deals  are rolling in this weekend, and Amazon now has new all-time low prices on a  giant collection of Apple Watch Series 12 models . You'll find &#36;70 off every category of the smartwatch, including Aluminum, Titanium, and Ceramic models in both 42mm and 46mm sizes.\n \n\n \n   Note: MacRumors is an affiliate partner with some ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/apple-watch-series-12-orange.jpeg",
-      "categories": [
-        "Deals",
-        "Featured"
-      ],
-      "id": "00fb4b61d13b2c434a21eb77",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
-      "link": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
-      "date": "2026-11-15T17:55:32+00:00",
-      "summary": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to  Bloomberg 's  Mark Gurman .\n \n\n \n \n \nIn the latest edition of his  \"Power On\" newsletter , Gurman shared new details about the glasses' design, charging system, and  Siri  features.\n \n\n \nCurrent prototypes of the glas",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
-      "categories": [
-        "AirPods Pro",
-        "Featured",
-        "Apple Glasses",
-        "Bloomberg",
-        "Mark Gurman",
-        "Siri"
-      ],
-      "id": "793b8c365b9730ead31f9068",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "AirPods Pro 3 Discounted to $179.99 in Early Black Friday Sale",
-      "link": "https://www.macrumors.com/2026/11/15/airpods-pro-3-discounted/",
-      "date": "2026-11-15T17:27:30+00:00",
-      "summary": "One of the best early Black Friday deals has arrived today, with Amazon discounting the AirPods Pro 3 down to   &#36;179.99  , from &#36;249.00.\n \n\n \n   Note: MacRumors is an affiliate partner with Amazon. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.  \n \n\n \nThis is just &#36;0.99 h",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/airpods-pro-3-orange-new.jpeg",
-      "categories": [
-        "Deals",
-        "Featured"
-      ],
-      "id": "95aa6b0f12f4e687585b22f5",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Today in Apple history: Apple’s last mechanical keyboard is a winner",
-      "link": "https://www.cultofmac.com/apple-history/apple-extended-keyboard-ii",
-      "date": "2026-11-15T17:25:28+00:00",
-      "summary": "   \n On November 15, 1990, Cupertino won a patent for its iconic Apple Extended Keyboard II, arguably the best Apple keyboard in history. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2016/11/usb-e1794761795616.jpg",
-      "categories": [
-        "Apple history",
-        "Top Stories",
-        "Apple accessories",
-        "Apple design",
-        "Today in Apple history"
-      ],
-      "id": "9e17ab1574f90b6bf90f2f3a",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Price cut: Get 3 years of piano lessons on your iPhone, iPad or Mac for just $48",
-      "link": "https://www.cultofmac.com/deals/flowkey-piano-lessons-app",
-      "date": "2026-11-15T17:00:52+00:00",
-      "summary": "   \n Turn your device into a smart teacher with Flowkey’s interactive piano lessons, real-time feedback and song-first approach to learning. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/02/flowkey.png",
-      "categories": [
-        "Deals",
-        "Cult of Mac Deals"
-      ],
-      "id": "03b3f9d1a95e7ec41f4b849c",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Apple Aiming to Upgrade the iPhone Duo in Four Ways",
-      "link": "https://www.macrumors.com/2026/11/15/apple-aims-to-upgrade-iphone-duo-in-four-ways/",
-      "date": "2026-11-15T16:42:29+00:00",
-      "summary": "   Bloomberg 's Mark Gurman today said  Apple has four goals for future iPhone Duo models: Face ID, an Action button, a telephoto camera, and a thinner-and-lighter design. Gurman said Apple has already developed iPhone Duo 2 prototypes with Face ID on the outer display, but it is \"running out of time\" to finalize the feature for that model, so it m",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg",
-      "categories": [
-        "iPhone Duo",
-        "No Linkback",
-        "Mark Gurman"
-      ],
-      "id": "2804bd29887c89b7ebb376e0",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
-      "link": "https://9to5mac.com/2026/11/15/apple-engineers-actively-working-on-face-id-for-iphone-duo-2s-outer-display-report/",
-      "date": "2026-11-15T16:36:12+00:00",
-      "summary": "    Next fall, Apple will introduce its second-generation iPhone Duo. It’s unclear what it’ll offer in terms of meaningful upgrades outside of the usual chip upgrades and camera improvements, but Apple engineers are  reportedly attempting  to bake Face ID into the device. That said, the feature might not make the cutoff. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "dfc4f8076d4a05ff5f5d5b0f",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can’t use it",
-      "link": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit/",
-      "date": "2026-11-15T15:57:57+00:00",
-      "summary": "    The new  Apple TV 4K  features an A19 chip inside with 128 GB storage and 8 GB RAM, twice the amount of memory as the previous version. Presumably, the supply crunch surrounding the memory chips is part of the reason this generation of Apple TV box jumped to a $299 price point as well. \n\n\n\n However, although the specs have been upgraded, apps a",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-ram-memory-limit.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "e50dcd84041e7e787b8ceb14",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Apple’s Siri AI smart glasses are reportedly launching next year, here’s what to expect",
-      "link": "https://9to5mac.com/2026/11/15/apples-siri-ai-smart-glasses-are-reportedly-launching-next-year-heres-what-to-expect/",
-      "date": "2026-11-15T15:48:52+00:00",
-      "summary": "    Apple’s long awaited smart glasses, akin to  Meta Ray-Bans  but tailored to Siri AI and the Apple ecosystem, are almost here. According to  Bloomberg’s Mark Gurman , the product should be introduced at the next WWDC, and they should be on the market by the end of the year. Here’s what to expect. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/05/apple-glasses-dark.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "233761d7276939287c65dcf0",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "Hands-on: This 25W MagSafe charger is thinner than an iPhone: KUXIU K4 Air [Video]",
-      "link": "https://9to5mac.com/2026/11/15/hands-on-this-25w-magsafe-charger-is-thinner-than-an-iphone-kuxiu-k4-air-video/",
-      "date": "2026-11-15T15:23:31+00:00",
-      "summary": "    When it comes to 3-in-1 travel chargers, I look at two main things: How fast it can charge my iPhone and how portable it is. I have tested plenty of travel chargers that aim to be as portable as possible by using lightweight materials or folding into a smaller footprint, but there usually seems to be some sort of compromise. But this new K4 Air",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/IMG_6662-e1794695776576.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "4667bcf0f63a8180e5e1d1df",
-      "selected_at": "2026-11-15T19:56:01.698251+00:00"
-    },
-    {
-      "title": "AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)",
-      "link": "https://9to5mac.com/2026/11/15/airpods-pro-3-hit-black-friday-pricing-early-at-179-reg-249/",
-      "date": "2026-11-15T13:39:39+00:00",
-      "summary": "    Hot on the heels of  Apple Watch Series 12  hitting its best price ever and all-time lows on  AirTag 2 at $17.50 , Black Friday pricing is already live on  AirPods Pro 3  starting today. You can now land the best earbuds on the planet at  one of the lowest prices ever .  \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/AirPods-Pro-3-deal-April-2026-01.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "3840b68db2f74176ba0974cd",
-      "selected_at": "2026-11-15T14:29:54.890165+00:00"
-    },
-    {
-      "title": "AirPods Pro 3 drop to a super low price",
-      "link": "https://www.cultofmac.com/deals/airpods-pro-deal",
-      "date": "2026-11-15T13:35:10+00:00",
-      "summary": "   \n Apple's high-end, noise-canceling earbuds already provide great value, and this AirPods Pro 3 deal makes them much, much more affordable. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2025/09/AirPods-Pro-3-on-Aluminum-e1781114900783.jpeg",
-      "categories": [
-        "Deals",
-        "AirPods Pro",
-        "Apple deals"
-      ],
-      "id": "673a848c27131b5a4db55fdd",
-      "selected_at": "2026-11-15T14:29:54.890165+00:00"
-    },
-    {
-      "title": "MacBook Neo 2: Here’s everything we know so far",
-      "link": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
-      "date": "2026-11-15T13:01:56+00:00",
-      "summary": "    Apple released the all-new MacBook Neo earlier this year, and it’s been a  resounding success  by all indications. Here’s everything we know so far about what’s next for Apple’s most affordable laptop … \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "743d1c904450d253a2a0f583",
-      "selected_at": "2026-11-15T14:29:54.890165+00:00"
-    },
-    {
-      "title": "All Apple Watch Series 12 models just dropped to the lowest price ever",
-      "link": "https://9to5mac.com/2026/11/15/apple-watch-series-12-black-friday-deals-lowest-price/",
-      "date": "2026-11-15T12:52:50+00:00",
-      "summary": "    Amazon’s  early Black Friday sale  is in full swing and, while we aren’t expecting it to kick into overdrive until next week, it unexpectedly just delivered the lowest price ever on the latest Apple Watch Series 12, starting at $329 shipped. That’s the best deal we have tracked to date at   $70 off  the list  on several different configurations",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-band-lineup.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "52286c3ca183a0b7640c1be3",
-      "selected_at": "2026-11-15T14:29:54.890165+00:00"
     }
   ],
   "v02_initialized": true,
