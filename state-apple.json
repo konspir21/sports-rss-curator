@@ -1,6 +1,38 @@
 {
   "selected": [
     {
+      "title": "iOS 27: My favorite new iPhone features (other than AI)",
+      "link": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/",
+      "date": "2026-11-21T22:22:26+00:00",
+      "summary": "    When Apple released iOS 27 in September, Siri Ai stole a lot of the headline. However, the update also includes plenty of non-AI features that I’ve come to really enjoy.  \n\n\n\n Here are a few of my favorite iOS 27 features (other than Siri and AI). \n\n\n\n \n\n\n\n    9to5Mac is supported by Sony  : Score Sony’s ULT Field 1 Bluetooth  speaker for 51% o",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "af91479be4c537a4dff7dedb",
+      "selected_at": "2026-11-21T23:57:28.192826+00:00"
+    },
+    {
+      "title": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
+      "link": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/",
+      "date": "2026-11-21T20:30:00+00:00",
+      "summary": "     Welcome to  Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get  in contact  . \n\n\n\n \n\n\n\n You likely have a TV on your wall that generally sits idle throughout the day. While the  Apple TV  does offer loads of built in screens",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/salon-in-a-living-room.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "54456b14738a60c2f730a250",
+      "selected_at": "2026-11-21T23:57:28.192826+00:00"
+    },
+    {
       "title": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
       "link": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/",
       "date": "2026-11-21T19:35:44+00:00",
@@ -2389,187 +2421,6 @@
       ],
       "id": "326cccd6978e72e8f288082c",
       "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Apple Releases Safari Technology Preview 257 With Bug Fixes and Performance Improvements",
-      "link": "https://www.macrumors.com/2026/11/18/apple-releases-safari-technology-preview-257/",
-      "date": "2026-11-18T23:15:24+00:00",
-      "summary": "Apple today  released a new update  for  Safari Technology Preview , the experimental browser that was  first introduced  in March 2016. Apple designed &zwnj;Safari Technology Preview&zwnj; to allow users to test features that are planned for future release versions of the Safari browser.\n \n\n \n \n \n&zwnj;Safari Technology Preview&zwnj; 257 includes ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2024/07/Safari-Technology-Preview-Updated-Feature-1.jpg",
-      "categories": [
-        "Blurb",
-        "Safari Technology Preview"
-      ],
-      "id": "e8bc79bb16126d70113e838b",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Apple Card doubles Daily Cash rewards for new customers in limited-time offer",
-      "link": "https://9to5mac.com/2026/11/18/apple-card-doubles-daily-cash-rewards-for-new-customers-in-limited-time-offer/",
-      "date": "2026-11-18T23:12:32+00:00",
-      "summary": "    If you’ve been thinking about getting an Apple Card, now might be a good time. Users who apply for an Apple Card through December 10 are eligible to earn double Daily Cash for their first year. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-card.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "c093dfa9bb22ef11b9bc8b07",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro",
-      "link": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
-      "date": "2026-11-18T21:58:36+00:00",
-      "summary": "    Following last week’s release of  Carbon  and  Hydrogen , Google  today  is rolling out Gemini 4 Neon. The model offers “frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.” \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/gemini-4-neon-cover.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "706b5497ca5b0e97ef30a85e",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Apple’s 2027 anniversary iPhone 20 rumors, specs and release date",
-      "link": "https://www.macworld.com/article/3206297/20th-anniversary-iphone-2027-release-date-rumors-specs-features-price.html",
-      "date": "2026-11-18T21:55:15+00:00",
-      "summary": "  Macworld  \n \n\t\t \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n The original iPhone was previewed in January 2007 and then released on June 29, 2007. So in 2027, it will turn 20 years old, and rumors point to Apple commemorating the event with a special 20th-anniversary model. \n\n\n\n It’s not expected to launch on June 29 (it will probably be in September, as usual), a",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3206297-0-92324700-1791986242-iPhone-Air-hero.jpg?quality=50&strip=all",
-      "categories": [
-        "iPhone",
-        "iPhone"
-      ],
-      "id": "1915241938eef39641d1dc7e",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Zane Lowe shares Apple Music Radio audience numbers, recalls ‘crickets’ in the early days",
-      "link": "https://9to5mac.com/2026/11/18/zane-lowe-shares-apple-music-radio-audience-numbers-recalls-crickets-in-the-early-days/",
-      "date": "2026-11-18T21:50:04+00:00",
-      "summary": "    In a new interview with   Billboard ’s On the Record with Kristin Robinson , Apple Music’s Zane Lowe discussed the early days of Apple Music Radio and revealed just how many people tune in each month. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-03.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "eb3da75a3a21f84b57f3c0e9",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch",
-      "link": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
-      "date": "2026-11-18T20:48:35+00:00",
-      "summary": "    Every once in a while, Instagram rolls out an update that addresses one of its users’ most longstanding requests. Today is one of those days. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "8e7f4f3364688b0ac60f8510",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "HomeView 27.2.1 Update Fixes Siri Bugs",
-      "link": "https://www.macrumors.com/2026/11/18/homeview-27-2-1-update-fixes-siri-bugs/",
-      "date": "2026-11-18T20:41:55+00:00",
-      "summary": "Apple today  released a new software update  for the HomeView, and it fixes two  Siri  issues  users were running into .\n \n\n \n \n \nAccording to Apple, HomeView 27.2.1 fixes a bug that could cause &zwnj;Siri&zwnj; requests to fail if the HomeView is paired to an iPhone or  iPad  running the iOS 27.3 or iPadOS 27.3 betas.\n \n\n \nIt also addresses an iss",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature0.jpg",
-      "categories": [
-        "Featured",
-        "HomeView",
-        "Siri"
-      ],
-      "id": "6ac5403ff753a283098b904c",
-      "selected_at": "2026-11-19T02:01:22.102974+00:00"
-    },
-    {
-      "title": "Apple Watch Series 12 drops to its best price yet ahead of Black Friday",
-      "link": "https://www.macworld.com/article/3289657/apple-watch-series-12-drops-to-its-best-price-yet-ahead-of-black-friday.html",
-      "date": "2026-11-18T20:40:33+00:00",
-      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  Apple Watch 12  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.closest(\"#s",
-      "sources": [
-        "Macworld - News, Tips & Reviews from the Apple Experts"
-      ],
-      "weight": 1.0,
-      "image": "https://www.macworld.com/wp-content/uploads/2026/10/3249459-0-44657800-1792683133-Apple-Watch-Series-12-review-hero5.jpg?quality=50&strip=all",
-      "categories": [
-        "Apple Watch, Mobile, Wearables",
-        "Apple Watch, Mobile, Wearables"
-      ],
-      "id": "b3883c2e9ce3d8ece071a1ed",
-      "selected_at": "2026-11-18T20:41:36.111927+00:00"
-    },
-    {
-      "title": "Apple among the companies facing pressure from US senators over ‘nudify’ apps",
-      "link": "https://9to5mac.com/2026/11/18/apple-among-the-companies-facing-pressure-from-us-senators-over-nudify-apps/",
-      "date": "2026-11-18T20:05:10+00:00",
-      "summary": "      The Guardian   reports that three US senators have sent letters to the CEOs of Apple, Google, and Meta, demanding answers about their failure to prevent access to AI-powered ‘nudify’ apps. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500",
-      "categories": [
-        "News"
-      ],
-      "id": "27a6fc1324bbdf39377a2610",
-      "selected_at": "2026-11-18T20:41:36.111927+00:00"
-    },
-    {
-      "title": "Apple Card Offers New Users Double Daily Cash for a Year",
-      "link": "https://www.macrumors.com/2026/11/18/apple-card-double-daily-cash/",
-      "date": "2026-11-18T19:47:57+00:00",
-      "summary": "Apple is aiming to get people to sign up for the  Apple Card  over the holidays by offering a 2X Daily Cash bonus for new users.\n \n\n \n \n \niPhone users who  sign up for an Apple Card  by December 10 can earn up to six percent Daily Cash on purchases for the first year after opening the account, with Apple offering up to &#36;1,000 total bonus Daily ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2023/06/Apple-Card-Balance.jpeg",
-      "categories": [
-        "Apple Card"
-      ],
-      "id": "286b8b1c68a813327a2ef0d9",
-      "selected_at": "2026-11-18T20:41:36.111927+00:00"
-    },
-    {
-      "title": "New leaks detail next year’s iPhone Pro redesign and iPhone Duo 2",
-      "link": "https://9to5mac.com/2026/11/18/new-leaks-detail-next-years-iphone-pro-redesign-and-iphone-duo-2/",
-      "date": "2026-11-18T19:47:06+00:00",
-      "summary": "    Next year’s fall iPhone lineup is expected to include 20th anniversary redesigned Pro models and an iPhone Duo 2. Here’s what to expect per the latest leaks. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "f454ae57570eab57d15b4956",
-      "selected_at": "2026-11-18T20:41:36.111927+00:00"
     }
   ],
   "v02_initialized": true,

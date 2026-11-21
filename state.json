@@ -1,6 +1,83 @@
 {
   "selected": [
     {
+      "title": "«Διπλό» Champions League για τη Λιόν, γκέλες για Μονακό και Λανς",
+      "link": "http://www.sport-fm.gr/article/5162628",
+      "date": "2026-11-21T23:05:10.720000+00:00",
+      "summary": "Η Λιόν πέρασε με 1-0 από την έδρα της Λιλ και πλησίασε σε απόσταση αναπνοής τη δεύτερη θέση, ενώ Μονακό και Λανς άφησαν βαθμούς απέναντι σε Οσέρ και Τουλούζ αντίστοιχα.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/22/lyon_010510.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "a6022c46736b0808f2d78e45",
+      "selected_at": "2026-11-21T23:57:28.193451+00:00"
+    },
+    {
+      "title": "Στρακόσα: «Μακράν το πιο δύσκολο παιχνίδι έως τώρα με την Κόμο - Άκουσα κάποια… ωραία λόγια από τον Νίκολιτς»",
+      "link": "http://www.sport-fm.gr/article/5162625",
+      "date": "2026-11-21T22:21:06.860000+00:00",
+      "summary": "Ο Θωμάς Στρακόσα μίλησε για την επιστροφή του στην αγωνιστική δράση, την επικράτηση επί της Καλαμάτας, το περιστατικό με τον Μάρκο Νίκολιτς και την απαιτητική αναμέτρηση που ακολουθεί με την Κόμο.",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/16/6939650_112637.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "be4083f7a57766be1d04c5fa",
+      "selected_at": "2026-11-21T23:57:28.193451+00:00"
+    },
+    {
+      "title": "Άξιον... Εσπί και «βασιλική» ανατροπή της Ρεάλ κόντρα στη Θέλτα!",
+      "link": "http://www.sport-fm.gr/article/5162619",
+      "date": "2026-11-21T22:04:00+00:00",
+      "summary": "Ανατροπή και... κορυφή η Ρεάλ! Οι Μαδριλένοι, δέχθηκαν στο 6' την ψυχρολουσία από τη Θέλτα, όμως με κέρβερο Κουρτουά και ήρωες Μπέλιγχαμ και Εσπί, επικράτησαν 2-1 στο «Μπερναμπέου».",
+      "sources": [
+        "Sport-FM Football"
+      ],
+      "weight": 1.0,
+      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/22/ap26325791780443_000350.jpg?w=880&f=bicubic",
+      "categories": [],
+      "id": "74cee710cc4f1bc8f1ca99da",
+      "selected_at": "2026-11-21T23:57:28.193451+00:00"
+    },
+    {
+      "title": "Ρεάλ Μαδρίτης - Θέλτα 2-1: Ο Εσπί υπέγραψε ανατροπή και λύτρωση!",
+      "link": "https://www.gazzetta.gr/football/la-liga/2588646/real-madritis-thelta-2-1-o-espi-ypegrapse-anatropi-kai-lytrosi",
+      "date": "2026-11-21T22:02:51+00:00",
+      "summary": "Η Ρεάλ ζορίστηκε στη Μαδρίτη κόντρα στη Θέλτα, όμως με λυτρωτή τον Εσπί στο 86΄πήρε τη νίκη με ανατροπή 2-1 κι έπιασε προσωρινά τη Μπαρτσελόνα στην κορυφή της La Liga.",
+      "sources": [
+        "Gazzetta Football"
+      ],
+      "weight": 1.1,
+      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/gettyimages-2306262589_1.jpg?itok=6iuIcOi5",
+      "categories": [
+        "La Liga",
+        "Ρεάλ Μαδρίτης",
+        "Θέλτα",
+        "Ποδόσφαιρο"
+      ],
+      "id": "9c2b6984ea8995a96a03ee54",
+      "selected_at": "2026-11-21T23:57:28.193451+00:00"
+    },
+    {
+      "title": "Η Ρεάλ γύρισε το ματς με τη Θέλτα με Μπέλιγχαμ και Εσπί",
+      "link": "https://www.athletiko.gr/real-madritis-thelta-2-1-foveri-anatropi-kai-triponto-me-mpeligcham-kai-espi-117310",
+      "date": "2026-11-21T22:02:00+00:00",
+      "summary": "    Δύσκολη βραδιά πέρασε η Ρεάλ Μαδρίτης στο «Σαντιάγο Μπερναμπέου», όπου η Θέλτα κράτησε το προβάδισμα για μία ώρα και διεκδίκησε βαθμό μέχρι το ... ",
+      "sources": [
+        "Athletiko"
+      ],
+      "weight": 1.0,
+      "image": "https://cdn.athletiko.gr/portal-img/feedimage/47/imago1086197235h.jpg?crop=2048,1152,0,0",
+      "categories": [
+        "athletiko"
+      ],
+      "id": "fd5c2d02041294200859ce5c",
+      "selected_at": "2026-11-21T23:57:28.193451+00:00"
+    },
+    {
       "title": "Η Σεβίλλη ξετύλιξε το «δώρο» του Βάγιες στο ντέρμπι με τη Μπέτις στις καθυστερήσεις",
       "link": "https://www.athletiko.gr/i-sevilli-xetylixe-to-doro-toy-vagies-stis-kathysteriseis-toy-ntermpi-me-ti-mpetis-117280",
       "date": "2026-11-21T19:39:00+00:00",
@@ -1857,164 +1934,6 @@
       "categories": [],
       "id": "0f1490f0ddaa6c8599dfe675",
       "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Μούντρικ: «Θεωρώ υπεύθυνη την εθνική Ουκρανίας για την τιμωρία μου...»",
-      "link": "http://www.sport-fm.gr/article/5161985",
-      "date": "2026-11-18T23:00:00+00:00",
-      "summary": "Ο Μιχαΐλο Μούντρικ απέρριψε ευθύνες στην εθνική ομάδα της Ουκρανίας για την τιμωρία του με την υπόθεση ντόπινγκ.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/19/befunky-photo---2026-11-19t005_005249.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "dff7a81e1ffafd02327e9f7f",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Τούρκοι χάκερ παραβίασαν την ιστοσελίδα της ΑΕΚ",
-      "link": "https://www.athletiko.gr/toyrkoi-chaker-paraviasan-tin-istoselida-tis-aek-116736",
-      "date": "2026-11-18T22:48:00+00:00",
-      "summary": "    Στόχος κυβερνοεπίθεσης έγινε το επίσημο site της ΠΑΕ ΑΕΚ απόψε. Λίγο μετά τα μεσάνυχτα της Τετάρτης  όσοι έμπαιναν στην επίσημη ιστοσελίδα της Ένωσης ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/pae-aek.jpg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "e694a5de6bd2d88a48cfcf23",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Το σάιτ της ΑΕΚ έπεσε θύμα κυβερνοεπίθεσης από Τούρκους χάκερ",
-      "link": "http://www.sport-fm.gr/article/5161986",
-      "date": "2026-11-18T22:38:00+00:00",
-      "summary": "Το επίσημο σάιτ της ΠΑΕ ΑΕΚ έπεσε κυβερνοεπίθεσης από Τούρκους χάκερ, με την Ένωση να ρίχνει την επίσημη ιστοσελίδα της για να αποκατασταθεί η ζημιά που έχει προκληθεί.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/19/befunky-photo---2026-11-19t003_003800.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "10330fc72f928cdc1f835e1c",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Ολυμπιακός: Με πατερίτσες και ειδικό νάρθηκα στο αριστερό πόδι ο Πουέρτα",
-      "link": "http://www.sport-fm.gr/article/5161984",
-      "date": "2026-11-18T22:31:00+00:00",
-      "summary": "Ανησυχία επικρατεί στις τάξεις του Ολυμπιακού μετά την εμφάνιση του Γκουστάβο Πουέρτα με ειδικό νάρθηκα και πατερίτσες στο αριστερό του πόδι.",
-      "sources": [
-        "Sport-FM Football"
-      ],
-      "weight": 1.0,
-      "image": "https://resources.sport-fm.gr/supersportFM/images/news/26/11/19/befunky-photo---2026-11-19t002_003124.jpg?w=880&f=bicubic",
-      "categories": [],
-      "id": "8411b1809e3e64c13858e4d1",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Η ώρα της απόφασης Μπαρτζώκα για Ντόρσεϊ",
-      "link": "https://www.athletiko.gr/i-ora-tis-apofasis-mpartzoka-gia-ntorsei-116723",
-      "date": "2026-11-18T22:30:00+00:00",
-      "summary": "    Το κλίμα στον Ολυμπιακό μετά την επεισοδιακή και (κυριολεκτικά) θρυλική νίκη επί της Μακάμπι Τελ Αβίβ, βρίσκεται ξανά σε θετικά επίπεδα. Η ήττα από ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/42/7092566.jpg?crop=2048,1152,0,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "2c5671f91ca90ff30258f894",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "ΑΕΚ: Τούρκοι εθνικιστές χάκαραν το σάιτ της ΠΑΕ, άμεση η αντίδραση της Ένωσης",
-      "link": "https://www.gazzetta.gr/football/superleague/2587770/aek-toyrkoi-ethnikistes-hakaran-sait-tis-pae-amesi-i-antidrasi-tis",
-      "date": "2026-11-18T22:27:50+00:00",
-      "summary": "Τούρκοι εθνικιστές χάκαραν την ιστοσελίδα της ΠΑΕ ΑΕΚ προβάλλοντας μηνύματα για τον Κεμάλ. Άμεση η αντίδραση της Ένωσης που ανέκτησε το σάιτ λίγο αργότερα επαναφέροντας την κανονική λειτουργία του.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/pic1_0.jpg?itok=R-L7KcL4",
-      "categories": [
-        "Superleague",
-        "ΑΕΚ",
-        "Ποδόσφαιρο"
-      ],
-      "id": "403da3342c41a94f334bf6a6",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Παναθηναϊκός για Θύρα 13: «60 χρόνια περήφανα, με την πράσινη σημαία μας ψηλά»",
-      "link": "https://www.gazzetta.gr/football/superleague/2587768/panathinaikos-gia-thyra-13-60-hronia-perifana-me-tin-prasini-simaia",
-      "date": "2026-11-18T22:18:50+00:00",
-      "summary": "Η Θύρα 13 κλείνει τα 60 χρόνια ζωής στις 19 του Νοεμβρίου και η ΠΑΕ Παναθηναϊκός ευχήθηκε χρόνια πολλά στο «μεγαλύτερο οπαδικό κίνημα της χώρας» μ' ένα υπέροχο βίντεο.",
-      "sources": [
-        "Gazzetta Football"
-      ],
-      "weight": 1.1,
-      "image": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/panathinaikos_koreo_leofors_intime_0.jpg?itok=vV3V3dkt",
-      "categories": [
-        "Superleague",
-        "Παναθηναϊκός",
-        "Ποδόσφαιρο"
-      ],
-      "id": "c5793d3a104c747fa49e27e9",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Τρινκιέρι: «Τεράστια νίκη για εμάς απέναντι σε μια καλή ομάδα»",
-      "link": "https://www.athletiko.gr/trinkieri-terastia-niki-gia-emas-apenanti-se-mia-kali-omada-116734",
-      "date": "2026-11-18T22:12:00+00:00",
-      "summary": "    Μια απίστευτη ανατροπή ολοκλήρωσε στην Ισπανία ο ΠΑΟΚ, ο οποίος έφερε «τούμπα» το παιχνίδι απέναντι στη Μανρέσα και πήρε μια σπουδαία νίκη με σκορ ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/45/5416411.jpg?crop=2048,1152,0,13",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "be3be74d23e81eae4a4a1da4",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "Πως έχουν διαμορφωθεί οι όμιλοι μετά την τέταρτη αγωνιστική του Champions League",
-      "link": "https://www.athletiko.gr/pos-echoyn-diamorfothei-oi-tesseris-omiloi-meta-tin-tetarti-agonistiki-toy-champions-league-116731",
-      "date": "2026-11-18T22:03:00+00:00",
-      "summary": "    Ολοκληρώθηκε η τέταρτη αγωνιστική της φάσης των ομίλων του Water Polo Champions League ανδρών, με δύο ελληνικές ομάδες, τον Ολυμπιακό και τον ... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/dsc-2821-1200x800-edited.jpeg?crop=1156,650,22,0",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "8a68f1dee7f4c49484493095",
-      "selected_at": "2026-11-19T02:01:22.104040+00:00"
-    },
-    {
-      "title": "TikTok Live με τον Διονύση Βερβελέ για τα πάντα στον Ολυμπιακό",
-      "link": "https://www.athletiko.gr/tiktok-live-me-ton-dionysi-vervele-gia-ta-panta-ston-olympiako-116708",
-      "date": "2026-11-18T20:08:00+00:00",
-      "summary": "    Ο Διονύσης Βερβελές από τις 22:00 το βράδυ της Τετάρτης (18/11) ξεκινάει Live στο TikTok του Athletiko για περίπου μία ώρα, ώστε να συζητηθούν όλα όσα... ",
-      "sources": [
-        "Athletiko"
-      ],
-      "weight": 1.0,
-      "image": "https://cdn.athletiko.gr/portal-img/feedimage/46/verveles.jpg",
-      "categories": [
-        "athletiko"
-      ],
-      "id": "b36d56550074bd5b81f7755a",
-      "selected_at": "2026-11-18T20:41:36.155982+00:00"
     }
   ],
   "v02_initialized": true,
