@@ -1,6 +1,22 @@
 {
   "selected": [
     {
+      "title": "9to5Mac Daily: November 20, 2026 – Siri AI limits, HomeView update",
+      "link": "https://9to5mac.com/2026/11/20/daily-november-20-2026/",
+      "date": "2026-11-20T23:43:15+00:00",
+      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n   Sponsored by Backblaze  : Backup you can rely on. Save 20% with code  9to5daily . \n",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c07548d21d5c6f9294e9beab",
+      "selected_at": "2026-11-21T03:59:31.581718+00:00"
+    },
+    {
       "title": "iOS 27 lets you use two iPhones with the same phone number",
       "link": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/",
       "date": "2026-11-20T23:06:00+00:00",
@@ -2981,88 +2997,6 @@
       ],
       "id": "2c4c1ef530ca3c0cd96e7ec6",
       "selected_at": "2026-11-18T12:16:54.810579+00:00"
-    },
-    {
-      "title": "Apple announces App Store price changes in multiple countries, new California tax rules",
-      "link": "https://9to5mac.com/2026/11/17/apple-announces-app-store-price-changes-in-multiple-countries-new-california-tax-rules/",
-      "date": "2026-11-18T02:17:48+00:00",
-      "summary": "    Apple today announced that App Store prices for apps and In-App Purchases will be adjusted in five countries starting December 3, following changes in taxes and foreign exchange rates. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "deee179be8de3520163c23b5",
-      "selected_at": "2026-11-18T03:38:47.972050+00:00"
-    },
-    {
-      "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
-      "link": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
-      "date": "2026-11-18T00:35:25+00:00",
-      "summary": "    Apple Music Hall has added Kings of Leon to its lineup of upcoming gigs at the newly opened London venue. Here are the details. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "1068647a5e8e33035ec300a1",
-      "selected_at": "2026-11-18T03:38:47.972050+00:00"
-    },
-    {
-      "title": "Aqara Debuts Six Matter Smart Lights That Work With Apple Home",
-      "link": "https://www.macrumors.com/2026/11/17/aqara-matter-lights-apple-home/",
-      "date": "2026-11-18T00:22:19+00:00",
-      "summary": "Aqara  today launched  six new Matter-enabled smart lights that work with Apple's Home platform. The lights also include Thread and Zigbee support and can be used with Aqara sensors and switches.\n \n\n \n \n \nThe  &#36;120 Floor Lamp T1  is a rod-shaped light with a wall-wash effect. It has 18 controllable zones that can be set to different colors, wit",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/09/aqara-floor-lamp.jpg",
-      "categories": [
-        "Apple Home",
-        "Aqara"
-      ],
-      "id": "3da7a756be9eabed2eb94360",
-      "selected_at": "2026-11-18T03:38:47.972050+00:00"
-    },
-    {
-      "title": "Disney+ and Hulu Will Fully Merge Into One App in December",
-      "link": "https://www.macrumors.com/2026/11/17/disney-hulu-merge-december/",
-      "date": "2026-11-17T23:56:28+00:00",
-      "summary": "Disney says its plans to merge Disney+ and Hulu will be completed in December, with subscribers able to have a \"fully unified experience\" on Disney+ with Hulu live TV and premium add-ons.\n \n\n \n \n \nThe detail was included in Disney's  fourth quarter earnings report . Disney believes the unified app will make it easier for customers to find content a",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2023/09/disney.jpg",
-      "categories": [
-        "Disney",
-        "Hulu"
-      ],
-      "id": "edd6d10c796ec74cbd6bdd33",
-      "selected_at": "2026-11-18T03:38:47.972050+00:00"
-    },
-    {
-      "title": "iFixit tears down Apple HomeView, finds lots of glue and endless frustration",
-      "link": "https://9to5mac.com/2026/11/17/ifixit-tears-down-apple-homeview-finds-lots-of-glue-and-endless-frustration/",
-      "date": "2026-11-17T23:36:09+00:00",
-      "summary": "    iFixit’s teardown of the new Apple HomeView is now up, revealing a device that seems nearly impossible to take apart and repair. Watch it below. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-teardown.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "b59037db53d5575b8cd7571a",
-      "selected_at": "2026-11-18T03:38:47.972050+00:00"
     }
   ],
   "v02_initialized": true,
