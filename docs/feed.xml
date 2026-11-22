@@ -5,7 +5,48 @@
     <link>https://konspir21.github.io/sports-rss-curator/</link>
     <description>Selected sports headlines. Original publishers retain their content.</description>
     <language>el</language>
-    <lastBuildDate>Sat, 21 Nov 2026 23:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:33:28 +0000</lastBuildDate>
+    <item>
+      <title>Αθλητικές μεταδόσεις σήμερα: Το ΠΑΟ - ΟΦΗ, το Ολυμπιακός - Ηρακλής και οι αναμετρήσεις της GBL</title>
+      <link>https://www.gazzetta.gr/football/superleague/2588671/athlitikes-metadoseis-simera-pao-ofi-olympiakos-iraklis-kai-oi</link>
+      <guid isPermaLink="false">0cd78026e1316bc9f6a39d29</guid>
+      <pubDate>Sun, 22 Nov 2026 06:31:53 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/panathinaikos_proponisi_intime.jpg?itok=8HZtnpcl" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Gazzetta Football. Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με τα ματς της Super League και τα παιχνίδια της Basket League.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Το πρόγραμμα της Formula 1 στο grand prix του Κατάρ</title>
+      <link>https://www.athletiko.gr/to-programma-tis-formula-1-sto-grand-prix-toy-katar-117311</link>
+      <guid isPermaLink="false">7b35e92d53ac483459fecde0</guid>
+      <pubDate>Sun, 22 Nov 2026 06:04:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://cdn.athletiko.gr/portal-img/feedimage/27/gettyimages-2262673054.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Athletiko.     Ακόμα μια μεγάλη νίκη για τον Μαξ Φερστάπεν, ο οποίος συνεχίζει να δείχνει τον καλό του εαυτό και ελπίζει να τελειώσει τη σεζόν με θετικό πρόσημο. Στο... &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ολυμπιακός-Ηρακλής: Για την επιστροφή στα τρίποντα οι «ερυθρόλευκοι» κόντρα στον πάντα επικίνδυνο Γηραιό</title>
+      <link>http://www.sport-fm.gr/article/5162621</link>
+      <guid isPermaLink="false">f30eac62b341b443783b460b</guid>
+      <pubDate>Sun, 22 Nov 2026 06:02:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://resources.sport-fm.gr/supersportFM/images/news/26/11/21/7160117-(1)_234546.jpg?w=880&amp;amp;f=bicubic" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Sport-FM Football. Ο Ολυμπιακός υποδέχεται απόψε το βράδυ (19:00) τον Ηρακλή στο «Γ. Καραϊσκάκης» για την 11η αγωνιστική της Stoiximan Super League.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Που θα δείτε τη «μάχη» Τζολάκη - Κωστούλα, το ντέρμπι Λίβερπουλ - Γιουνάιτεντ και όλη την ευρωπαϊκή δράση</title>
+      <link>https://www.athletiko.gr/poy-tha-deite-ti-machi-tzolaki-kostoyla-to-ntermpi-liverpoyl-gioynaitent-kai-oli-tin-eyropaiki-drasi-117296</link>
+      <guid isPermaLink="false">bd7eef804e76919f846a22b2</guid>
+      <pubDate>Sun, 22 Nov 2026 05:40:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://cdn.athletiko.gr/portal-img/feedimage/38/imago1080791718.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Athletiko.     Σπουδαίες αναμετρήσεις στα μεγαλύτερα ευρωπαϊκά πρωταθλήματα περιλαμβάνει το πρόγραμμα της Κυριακής (22/11).Για την Premier League, το ενδιαφέρον ... &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Live: Το grand prix της Formula 1 στο Λας Βέγκας</title>
+      <link>https://www.athletiko.gr/live-to-grand-prix-tis-formula-1-sto-las-vegkas-117247</link>
+      <guid isPermaLink="false">b73aaba5c1c2f1a8cd245893</guid>
+      <pubDate>Sun, 22 Nov 2026 03:45:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;img src="https://cdn.athletiko.gr/portal-img/feedimage/27/f1l-live1.jpg" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Athletiko.     
+
+
+  window.renderSportWidgetFeed(&amp;#x27;sport-widget-feed&amp;#x27;, {
+    eventId: &amp;#x27;62febf8b-5bba-4927-b3b1-abfbfb814771&amp;#x27;,
+  });
+ &lt;/p&gt;</description>
+    </item>
     <item>
       <title>«Διπλό» Champions League για τη Λιόν, γκέλες για Μονακό και Λανς</title>
       <link>http://www.sport-fm.gr/article/5162628</link>
@@ -812,13 +853,6 @@
       <guid isPermaLink="false">2d3849fed9372a50f20382c7</guid>
       <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;img src="https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2026-11/portugal_world_cup_u-17.jpg?itok=pujS298e" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Gazzetta Football. Η Εθνική Παίδων προετοιμάζεται για το ιστορικό της ντεμπούτο στην τελική φάση του Παγκοσμίου Κυπέλλου U17 και το Gazzetta παρουσιάζει όλα όσα πρέπει να ξέρετε για το τουρνουά.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ονάνα πενταετίας στην Αστον Βίλα</title>
-      <link>http://www.sport-fm.gr/article/5161995</link>
-      <guid isPermaLink="false">0f1490f0ddaa6c8599dfe675</guid>
-      <pubDate>Thu, 19 Nov 2026 01:35:00 +0000</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://resources.sport-fm.gr/supersportFM/images/news/26/11/19/onana_033659.jpg?w=880&amp;amp;f=bicubic" alt="" /&gt;&lt;/p&gt;&lt;p&gt;Πηγές: Sport-FM Football. Στην Άστον Βίλα για ακόμα πέντε χρόνια θα συνεχίσει να αγωνίζεται ο Αμαντού Ονάνα, αφού ο διεθνής Βέλγος μέσος ανανέωσε τη συνεργασία του με τους «χωριάτες» μέχρι το 2031.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
