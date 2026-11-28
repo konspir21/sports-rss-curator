@@ -1,6 +1,123 @@
 {
   "selected": [
     {
+      "title": "Product(RED) HomePod mini 2 seemingly surfaces ahead of rumored announcement [U]",
+      "link": "https://9to5mac.com/2026/11/27/productred-homepod-mini-2-seemingly-surfaces-ahead-of-rumored-announcement/",
+      "date": "2026-11-28T03:07:04+00:00",
+      "summary": "    Earlier this week,   Bloomberg   reported that Apple was gearing up to launch Product(RED) versions of select products, including the HomePod mini 2. However, a retail store may have inadvertently put the new model on display ahead of its official announcement. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/product-red-render-homepod-mini.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "98cb1220faa01178384d2b21",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "A single AirTag 2 is so cheap right now, it’s better than buying a 4-pack",
+      "link": "https://www.macworld.com/article/3300567/a-single-airtag-2-is-so-cheap-right-now-its-better-than-buying-a-4-pack.html",
+      "date": "2026-11-28T01:13:40+00:00",
+      "summary": "  Macworld  \n  \n\t\t\t\t\t   \n\t\t\t\t\t\t \n    \n\n\n\n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t\t\n\t\t\t\t\t  AirTag 2 for $18 each  \n\t\t\t\t\t\n\t\t\t\t \n\t\t\t\t  View Deal  \n\t\t\t \n\t\t \n\t\t \n\t\t(function () {\n\t\t\tdocument.querySelector(\"#sticky-promo-block a\").addEventListener(\"click\", function(e) {\n\t\t\t\tconst debug = document.location.host.search(/lndo.site|go-vip.net/) !== -1;\n\t\t\t\tconst text = this.clos",
+      "sources": [
+        "Macworld - News, Tips & Reviews from the Apple Experts"
+      ],
+      "weight": 1.0,
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3300567-0-27019600-1795828426-Using-Find-My-on-iPhone-to-locate-AirTag.jpg?quality=50&strip=all",
+      "categories": [
+        "Mobile, Mobile Phone Accessories",
+        "Mobile, Mobile Phone Accessories"
+      ],
+      "id": "d9a44637bd5b32896d8a47aa",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "In My Cart: Here are the Amazon Black Friday deals we are buying for ourselves",
+      "link": "https://9to5toys.com/2026/11/27/we-buying-amazon-black-friday-deals/",
+      "date": "2026-11-27T23:58:36+00:00",
+      "summary": "    The  main event Amazon Black Friday sale is flying , and, much like some of you, we didn’t quite finish up our shopping during yesterday’s wild sale. For Black Friday edition of In My cart we are sharing with everyone the deals we are about to or have already checked out with today. From Amazon’s new  Echo Time  and Aulumu’s  G05 Pro  to a bric",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/In-My-Cart-Black-Friday-sale-we-are-buying-Amazon.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "Deals"
+      ],
+      "id": "76aeba43cc0e479aef70aea0",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "Your Mac can rename hundreds of files in seconds with this hidden Finder trick",
+      "link": "https://www.cultofmac.com/how-to/batch-rename-files",
+      "date": "2026-11-27T23:30:20+00:00",
+      "summary": "   \n If you have a bunch of pictures, videos, screenshots or documents, you can use this Mac feature to batch rename the files in a similar format and sequence. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
+      "sources": [
+        "Cult of Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://www.cultofmac.com/wp-content/uploads/2023/08/Bring-Method-to-Madness-e1795820194651.jpg",
+      "categories": [
+        "How-To",
+        "Top Stories",
+        "Finder",
+        "Mac",
+        "Mac How To"
+      ],
+      "id": "932ebe08ddb57d942e942a82",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "WhatsApp announces travel eSIMs, tests view-once texts and a cleaner interface",
+      "link": "https://9to5mac.com/2026/11/27/whatsapp-announces-travel-esims-tests-view-once-texts-and-a-cleaner-interface/",
+      "date": "2026-11-27T22:30:06+00:00",
+      "summary": "    In addition to officially announcing support for in-app travel eSIM purchases, WhatsApp is now reportedly testing two new features on iOS. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/whatsapp-ios27.jpg?quality=82&strip=all&w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "c60451fe77ccc5047c5aa7df",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "Apple claims six of China’s 10 bestselling smartphones during Singles’ Day",
+      "link": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day/",
+      "date": "2026-11-27T21:49:17+00:00",
+      "summary": "     Counterpoint Research  says Apple led smartphone sales in China during this year’s Double 11 shopping festival (also known as Singles’ Day), despite a broader slump in smartphone demand. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500",
+      "categories": [
+        "News"
+      ],
+      "id": "e507b20348abbae369548540",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
+      "title": "MacWhisper now remembers speakers’ voices across recordings",
+      "link": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings/",
+      "date": "2026-11-27T21:08:01+00:00",
+      "summary": "    Dutch developer Jordi Bruin rolled out an update to his excellent transcription app MacWhisper this week with a much-requested feature: the ability to automatically identify previously named speakers in new recordings. Here are the details. \n\n\n\n  more… ",
+      "sources": [
+        "9to5Mac"
+      ],
+      "weight": 1.0,
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600",
+      "categories": [
+        "News"
+      ],
+      "id": "f86958dc98a00e097a8a63cb",
+      "selected_at": "2026-11-28T03:15:32.270749+00:00"
+    },
+    {
       "title": "Here are the best Apple Watch deals for Black Friday",
       "link": "https://9to5mac.com/2026/11/27/here-are-the-best-apple-watch-deals-for-black-friday/",
       "date": "2026-11-27T20:40:35+00:00",
@@ -2647,194 +2764,6 @@
       ],
       "id": "6eb3c609bb359924f77b60b7",
       "selected_at": "2026-11-25T19:36:46.253626+00:00"
-    },
-    {
-      "title": "PrismML’s Bonsai 2.5 brings better coding and tool use to on-device AI",
-      "link": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai/",
-      "date": "2026-11-25T01:08:37+00:00",
-      "summary": "    Back in July, PrismML claimed its roughly 4 GB, 1-bit Bonsai 27B was the first AI model of its size to run on an iPhone. Now PrismML has released Ternary Bonsai 2.5 27B, an update to the model it introduced in September. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/PrismML.png?w=1508",
-      "categories": [
-        "News"
-      ],
-      "id": "e02c0f86d1b07b6b1810079f",
-      "selected_at": "2026-11-25T09:39:18.805845+00:00"
-    },
-    {
-      "title": "Apple Watch Series 12 hits record-low $299: Save $100 on Apple’s best yet",
-      "link": "https://www.cultofmac.com/deals/apple-watch-deal",
-      "date": "2026-11-25T00:26:34+00:00",
-      "summary": "   \n Fresh discounts slash 100 bucks off the price of Apple Watch Series 12, in both sizes and many strap options. \n (via  Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. ) ",
-      "sources": [
-        "Cult of Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://www.cultofmac.com/wp-content/uploads/2026/04/Apple-Watch-Series-12-deal.jpg",
-      "categories": [
-        "Deals",
-        "Apple deals",
-        "Apple Watch",
-        "Apple Watch Series 12"
-      ],
-      "id": "3232c6228cc6e4911a82d900",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "9to5Mac Daily: November 24, 2026 – Apple Product(RED) gear is coming soon",
-      "link": "https://9to5mac.com/2026/11/24/daily-november-24-2026/",
-      "date": "2026-11-24T23:58:47+00:00",
-      "summary": "     Listen to a recap of the top stories of the day from   9to5Mac  . 9to5Mac Daily is available   on iTunes and Apple’s Podcasts app  ,   Stitcher  ,   TuneIn  ,   Google Play  , or through our   dedicated RSS feed   for Overcast and other podcast players.  \n\n\n\n  Sponsored by LiberNovo : If you spend hours at your desk, LiberNovo’s dynamic ergono",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "e7cab869515951b97cfb42ed",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Apple Mail added four convenient new features in iOS 27",
-      "link": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27/",
-      "date": "2026-11-24T23:56:12+00:00",
-      "summary": "    iOS 27 brought new features to  Apple Wallet ,  Maps ,  Notes ,  Messages , and  more —and it includes key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "0239ccf94ec86c3c7ba7ee4d",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Tidal Bans AI Music, While Apple Music Sticks to Labels",
-      "link": "https://www.macrumors.com/2026/11/24/tidal-ai-music-ban/",
-      "date": "2026-11-24T23:44:43+00:00",
-      "summary": "Streaming music service Tidal  today said  it plans to start blocking AI music on December 9. Any track generated entirely with AI will be removed from the platform, with Tidal rejecting AI songs in the future.\n \n\n \n \n \nTidal lead Robert Andersen said 43 percent of tracks uploaded in the last 90 days have been flagged as AI-generated. Approximately",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/tidal-logo.jpg",
-      "categories": [
-        "Apple Music",
-        "Tidal"
-      ],
-      "id": "9ba86584beca52bfdbfcf894",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Add Holiday Lights and Snow to Your Mac With Festivitas",
-      "link": "https://www.macrumors.com/2026/11/24/festivitas-for-mac-2026-update/",
-      "date": "2026-11-24T23:04:43+00:00",
-      "summary": " Festivitas  is a fun little holiday-themed Mac app that developer Simon Støvring introduced two years ago and has been updating since. Its main purpose is to add lights to the Mac's Dock and menu bar, but there's also a version for the iPhone and  iPad .\n \n\n \n \n \nThe holiday 2026 Festivitas update adds new customizations. For the first time, you c",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/festivitas.jpg",
-      "categories": [
-        "Apple",
-        "Rumors",
-        "Mac",
-        "iOS",
-        "iPhone",
-        "iPad"
-      ],
-      "id": "b8721eaed3c65898375ec614",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Meta's Muse AI Agent Comes to Instagram DMs",
-      "link": "https://www.macrumors.com/2026/11/24/meta-muse-instagram-dms/",
-      "date": "2026-11-24T22:12:24+00:00",
-      "summary": "Meta  today expanded  what Muse can do in Instagram, making the personal AI agent more useful.\n \n\n \n \n \nMuse can organize the Instagram content you save into collections or travel itineraries, plus it can make grocery lists for recipes you find. Meta says you can also chat with Muse in DMs to learn more about a post or catch up on what you've misse",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2026/11/muse-instagram.jpg",
-      "categories": [
-        "Meta"
-      ],
-      "id": "d747571bc411c0a8883e0033",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Google Says Apple's iOS Browser Rules Offer 'Choice on Paper, Not in Practice'",
-      "link": "https://www.macrumors.com/2026/11/24/google-ios-eu-browser-rules/",
-      "date": "2026-11-24T22:07:06+00:00",
-      "summary": "Google's Chrome for Developers team today  supported Mozilla's complaint  about Apple's rules on non-WebKit browser engines in the European Union,  calling out restrictions  that make launching an alternative engine too difficult.\n \n\n \n \n \nMozilla recently joined a coalition of up to 55,000 businesses and organizations to ask the European Commissio",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2022/06/Chrome-Feature-22.jpg",
-      "categories": [
-        "Chrome",
-        "Google"
-      ],
-      "id": "7f5638e43af661234401a0b0",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "2026 tech gift guide for Apple users",
-      "link": "https://9to5mac.com/2026/11/24/2026-tech-gift-guide-for-apple-users-personally-tested-and-recommended/",
-      "date": "2026-11-24T22:07:04+00:00",
-      "summary": "    Black Friday week is here, so it’s officially time to start checking gifts off your list. For my 2026 tech gift guide, I’m recommending technology products that I’ve personally used all year. Each of these products has been especially useful this year, and they’ll make great gifts for the Apple users in your life. \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/2026-9to5mac-gift-guide.webp?w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "ca1b20c1fa3f9200c3355dba",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "Walmart App Rolls Back Apple Pay Support After Just Weeks",
-      "link": "https://www.macrumors.com/2026/11/24/walmart-app-drops-apple-pay/",
-      "date": "2026-11-24T21:37:10+00:00",
-      "summary": " Walmart recently added Apple Pay support to its iPhone app and website, but it removed the option just weeks later, according to   Appleosophy 's David Becker . The reason for this reversal is unknown. Walmart still accepts Apple Pay in its U.S. stores, after  finally deciding to roll out tap-to-pay support  earlier this year.\n \n\n \nWe can confirm ",
-      "sources": [
-        "MacRumors: Mac News and Rumors - All Stories"
-      ],
-      "weight": 1.0,
-      "image": "https://images.macrumors.com/article-new/2025/01/Apple-Pay-Walmart-Feature.jpg",
-      "categories": [
-        "Apple Pay",
-        "No Linkback",
-        "Walmart"
-      ],
-      "id": "19b1decb01ec43c5b9d8ee06",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
-    },
-    {
-      "title": "New Gemini setting lets you keep chat history, but turn off AI training [U]",
-      "link": "https://9to5google.com/2026/11/24/gemini-history-ai-training/",
-      "date": "2026-11-24T21:11:31+00:00",
-      "summary": "    Google is rolling out new privacy settings for the Gemini app that will let you “keep your history while independently controlling generative AI model training.” \n\n\n\n  more… ",
-      "sources": [
-        "9to5Mac"
-      ],
-      "weight": 1.0,
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/gemini-app-5.jpg?quality=82&strip=all&w=1600",
-      "categories": [
-        "News"
-      ],
-      "id": "1b60b7ab8cccc4c4d6cd2cf4",
-      "selected_at": "2026-11-25T00:56:34.228907+00:00"
     }
   ],
   "v02_initialized": true,
